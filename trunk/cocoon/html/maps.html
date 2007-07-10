@@ -1,0 +1,161 @@
+<html>
+<head>
+<title>Maps of Salem Village</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#999999" link="#FFFFFF" vlink="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onLoad="MM_preloadImages('../images/home1c.gif','../images/home1b.gif','../images/archive1c.gif','../images/archive1b.gif','../images/book1c.gif','../images/book1b.gif','../images/doc1c.gif','../images/doc1b.gif','../images/map1c.gif','../images/map1b.gif','../images/people1c.gif','../images/people1b.gif')">
+<div align="center"> 
+  <table width="632" border="1">
+    <tr>
+      <td><img src="../images/startmap2.jpg" width="621" height="90" border="1"><br>
+        <a href="home.html" onClick="MM_nbGroup('down','group1','home','../images/home1c.gif',1)" onMouseOver="MM_nbGroup('over','home','../images/home1b.gif','../images/home1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="home" src="../images/home1a.gif" border="0" onLoad="" width="100" height="20"></a><a href="archive2.html" onClick="MM_nbGroup('down','group1','archives','../images/archive1c.gif',1)" onMouseOver="MM_nbGroup('over','archives','../images/archive1b.gif','../images/archive1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="archives" src="../images/archive1a.gif" border="0" onLoad="" width="100" height="20"></a><a href="books.html" onClick="MM_nbGroup('down','group1','books','../images/book1c.gif',1)" onMouseOver="MM_nbGroup('over','books','../images/book1b.gif','../images/book1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="books" src="../images/book1a.gif" border="0" onLoad="" width="123" height="20"></a><a href="17docs.html" onClick="MM_nbGroup('down','group1','documents','../images/doc1c.gif',1)" onMouseOver="MM_nbGroup('over','documents','../images/doc1b.gif','../images/doc1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="documents" src="../images/doc1a.gif" border="0" onLoad="" width="100" height="20"></a><a href="maps.html" onClick="MM_nbGroup('down','group1','maps','../images/map1c.gif',1)" onMouseOver="MM_nbGroup('over','maps','../images/map1b.gif','../images/map1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="maps" src="../images/map1a.gif" border="0" onLoad="" width="100" height="20"></a><a href="people.html" onClick="MM_nbGroup('down','group1','people','../images/people1c.gif',1)" onMouseOver="MM_nbGroup('over','people','../images/people1b.gif','../images/people1b.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="people" src="../images/people1a.gif" border="0" onLoad="" width="100" height="20"></a>      </td>
+    </tr>
+  </table>
+  <font color="#000000"><br>
+  <font size="+2">Maps of Salem</font></font> <br>
+  <br>
+  <table width="600" bgcolor="864654" border="1" bordercolor="#000000">
+    <tr> 
+      <td width="200"> 
+        <div align="center"><a href="maps/index.html"><img src="../images/supham.jpg" width="200" height="139" border="0"></a></div>
+      </td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="maps/index.html" >Map 
+            of Salem Village, 1692, by W.P. Upham, 1866&nbsp; </a></h2>
+          <h2><a href="http://fisher.lib.virginia.edu/libsites/salem/" >The Salem 
+            Witchcraft GIS: A Visual Re-Creation of Salem in 1692&nbsp; </a></h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"> 
+        <div align="center"><a href="maps/andomap.html"><img src="../images/sandover.jpg" width="200" height="133" border="0"></a></div>
+      </td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="maps/andomap.html" ><br>
+            Map of Andover in 1692&nbsp; </a></h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"><a href="perley.html"><img src="../images/ssalem.jpg" width="200" height="165" border="0"></a></td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="perley.html">Map 
+            of Salem, 1700, by Sydney Perley&nbsp;</a> </h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"> 
+        <div align="center"><a href="maps/salem.html"><img src="../images/saccumap.jpg" width="200" height="133" border="0"></a></div>
+      </td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="maps/salem.html">Map 
+            of Witchcraft Accusations, February 29 - March 31, 1692&nbsp; </a></h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200" height="203"> 
+        <div align="center"><a href="maps/accusationMaps/index.html"><img src="../images/emass.jpg" width="166" height="200" border="0"></a></div>
+      </td>
+      <td width="404" height="203"> 
+        <div align="center"> 
+          <h2><a href="maps/accusationMaps/index.html">Province 
+            of Mass Bay 1692</a>&nbsp;</h2>
+          <h2>Regional Accusations Map</h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"> 
+        <div align="center"><a href="maps/accusationMaps/index.html"><img src="../images/scalcmap.jpg" width="173" height="155" border="0"></a></div>
+      </td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="maps/maps.html">Province 
+            of Mass Bay 1692&nbsp;</a> </h2>
+          <h2>Township Accusations Map</h2>
+          <h2>&nbsp;</h2>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200"> 
+        <div align="center"><a href="http://lewis.lib.virginia.edu/arcims4/Salem/"><img src="../images/arcims2.jpg" width="200" height="139" border="0"></a></div>
+      </td>
+      <td width="404"> 
+        <div align="center"> 
+          <h2><a href="http://lewis.lib.virginia.edu/arcims4/Salem/">Salem 1692</a></h2>
+          <i><font color="#FFFFFF" size="+1">This site not available to Macintosh 
+          Internet Explorer</font></i></div>
+      </td>
+    </tr>
+    <tr bgcolor="#999999"> 
+      <td colspan="2"> 
+        <div align="center"><font face="Verdana,Trebuchet MS" size="2" color="#000000">&copy;</font> 
+          <font face="Verdana,Trebuchet MS" size="1" color="#000000"><a href="http://www.virginia.edu/copyright.html" target="_blank">Copyright</a> 
+          2002 by Benjamin Ray and The Rector and Visitors of the<br>
+          <a href="http://www.virginia.edu/">University of Virginia</a></font><font color="#000000"><a href="http://www.virginia.edu/"><font face="Verdana,Trebuchet MS" size="2"> 
+          </font></a><font face="Verdana,Trebuchet MS" size="2"></font></font></div>
+      </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
