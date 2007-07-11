@@ -70,7 +70,7 @@
 
 <xsl:template name="heading">
 	<p align="center">
-		<img src="http://etext.lib.virginia.edu/salem/witchcraft/images/startdoc2.jpg" width="621" height="90" border="1"/>
+		<img src="../images/startdoc2.jpg" width="621" height="90" border="1"/>
 	</p> 
 	<div align="center">  
   		<div class="para">
@@ -179,8 +179,8 @@
 <xsl:template name="footer">
 	<div class="foot">
 		<div class="para">
-			<a href="http://etext.virginia.edu/salem/witchcraft/home.html">Salem Home</a> | 
-     			<a href="http://jefferson.village.virginia.edu/salem/17docs.html">17th Century Documents</a>
+			<a href="../html/home.html">Salem Home</a> | 
+     			<a href="../html/17docs.html">17th Century Documents</a>
 		</div>
 		<div class="parasmall">
 			<a href="http://www.virginia.edu/copyright.html">

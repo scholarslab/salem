@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<tei.2 id="salem">
+
+<div1 type="names">
+<div2 type="groups">
+<div3 type="group" id="G1">Persons Executed during the Salem Witch Trials</div3>
+<div3 type="group" id="G2">Died in Jail</div3>
+<div3 type="group" id="G3">Important Officials</div3>
+<div3 type="group" id="G4">Associate Magistrates</div3>
+<div3 type="group" id="G5">Critics of the Trials</div3>
+<div3 type="group" id="G6">Important Ministers</div3>
+<div3 type="group" id="G7">The "Afflicted" Girls</div3>
+<div3 type="group" id="G8">Other Important Accusers</div3>
+<div3 type="group" id="G9">Other Important Accused</div3>
+<div3 type="group" id="G10">Defenders of the Acused</div3>
+</div2>
+
+<div2 type="courts">
+<div3 type="court" id="C1">Court of Oyer and Terminer</div3>
+</div2>
+
+<div2 type="persons">
+<div3 type="person" residence="Salem" xrefs="G1">Bridget Bishop</div3>
+<div3 type="person" residence="Wells,Maine" xrefs="G1 G6">Rev. George Burrough</div3>
+<div3 type="person" residence="Andover" xrefs="G1">Martha Carrier</div3>
+<div3 type="person" residence="Salem Farms" xrefs="G1">Giles Cory</div3>
+<div3 type="person" residence="Salem Village" xrefs="G1">Martha Cory</div3>
+<div3 type="person" residence="Topsfield" xrefs="G1">Mary Esty</div3>
+<div3 type="person" residence="Salem Village" xrefs="G1">Sarah Good</div3> 
+<div3 type="person" residence="Topsfield" xrefs="G1">Elizabeth How</div3>
+<div3 type="person" residence="Salem" xrefs="G1">George Jacobs Sr.</div3>
+<div3 type="person" residence="Amesbury" xrefs="G1">Susannah Martin</div3>
+<div3 type="person" residence="Salem Village" xrefs="G1">Rebecca Nurse</div3>
+<div3 type="person" residence="Salem" xrefs="G1">Alice Parker</div3>
+<div3 type="person" residence="Andover" xrefs="G1">Mary Parker</div3>
+<div3 type="person" residence="Salem Farms" xrefs="G1">John Proctor,Sr.</div3> 
+<div3 type="person" residence="Salem" xrefs="G1">Ann Pudeator</div3>
+<div3 type="person" residence="Marblehead" xrefs="G1">Wilmot Redd</div3>         
+<div3 type="person" residence="Rowley" xrefs="G1">Margaret Scott</div3>               
+<div3 type="person" residence="Andover" xrefs="G1">Samuel Wardell</div3>   
+<div3 type="person" residence="Topsfield" xrefs="G1">Sarah Wilds</div3>
+<div3 type="person" residence="Salem Village" xrefs="G1">John Willard</div3>          
+<div3 type="person" residence="Reading" xrefs="G2">Lydia Dastin</div3>          
+<div3 type="person" residence="Andover" xrefs="G2">Ann Foster</div3>           
+<div3 type="person" residence="Salem Village" xrefs="G2">Infant Girl (daugther of Sarah Good)</div3>
+<div3 type="person" residence="Salem Village" xrefs="G2">Sarah Osburn</div3>            
+<div3 type="person" residence="Billerica" xrefs="G2">Roger Toothaker</div3> 
+<div3 type="person" residence="Boston" xrefs="G3">Gov. Sir William Phips</div3>
+<div3 type="person" residence="Boston" xrefs="G3 C1">Chief Magistrate William Stoughton</div3>                      
+<div3 type="person" residence="Salem" xrefs="G3 C1">Associate Magistrate Jonathan Corwin</div3>    
+<div3 type="person" residence="Boston" xrefs="G3 C1">Associate Magistrate Thomas Danforth</div3> 
+<div3 type="person" residence="Salem" xrefs="G3 C1">Associate Magistrate Bartholomew Gedney</div3>
+<div3 type="person" residence="Salem" xrefs="G3 C1">Associate Magistrate John Hathorne</div3> 
+<div3 type="person" residence="Salem" xrefs="G3 C1">Associate Magistrate John Richards</div3>           
+<div3 type="person" residence="Haverhill" xrefs="G3 C1">Associate Magistrate Nathaniel Saltonstall</div3>         
+<div3 type="person" residence="Boston" xrefs="G3 C1">Associate Magistrate Peter Sargent</div3>
+<div3 type="person" residence="Boston" xrefs="G3 C1">Associate Magistrate Samuel Sewall</div3>         
+<div3 type="person" residence="Salem" xrefs="G3 C1">Stephen Sewall, Clerk</div3>
+<div3 type="person" residence="Boston" xrefs="G3 C1">Associate Magistrate Wait Winthrop</div3>         
+<div3 type="person" residence="Boston" xrefs="G5">Thomas Brattle</div3>
+<div3 type="person" residence="Andover" xrefs="G6">Francis Dane</div3>
+<div3 type="person" residence="Scituate" xrefs="G6">Deodat Lawson</div3>
+<div3 type="person" residence="Boston" xrefs="G6">Cotton Mather</div3> 
+<div3 type="person" residence="Boston" xrefs="G6">Increase Mather</div3>
+<div3 type="person" residence="Salem Village" xrefs="G6 G8">Samuel Parris</div3>
+<div3 type="person" residence="Boston" xrefs="G6">Samuel Willard</div3>
+<div3 type="person" residence="Wenham" xrefs="G7">Sarah Bibber</div3>       
+<div3 type="person" residence="Salem Village" xrefs="G7">Elizabeth Booth</div3>             
+<div3 type="person" residence="Salem Village" xrefs="G7">Sarah Churchill</div3>
+<div3 type="person" residence="Salem Village" xrefs="G7">Elizabeth Hubbard</div3>           
+<div3 type="person" residence="Salem Village" xrefs="G7">Mercy Lewis</div3>           
+<div3 type="person" residence="Salem Village" xrefs="G7">Elizabeth Parris</div3>            
+<div3 type="person" residence="Salem Village" xrefs="G7">Ann Putnam Jr.</div3>              
+<div3 type="person" residence="Salem Village" xrefs="G7">Susanna Sheldon</div3>          
+<div3 type="person" residence="Salem Village" xrefs="G7">Mary Warren</div3>           
+<div3 type="person" residence="Salem Village" xrefs="G7">Mary Walcott</div3>           
+<div3 type="person" residence="Salem Village" xrefs="G7">Abigail Williams</div3>              
+<div3 type="person" residence="Salem Village" xrefs="G8">Tituba</div3>             
+<div3 type="person" xrefs="G9">Ann Dolliver</div3>                       
+<div3 type="person" xrefs="G9">Philip English</div3>         
+<div3 type="person" xrefs="G9">Abigail Faulkner</div3>            
+<div3 type="person" xrefs="G9">Mary Ireson</div3>             
+<div3 type="person" xrefs="G9">Margaret Jacobs</div3>           
+<div3 type="person" xrefs="G10">Israel Porter</div3>              
+<div3 type="person" xrefs="G10">Joseph Putnam</div3>           
+</div2>            
+</div1>                       
+</tei.2>            

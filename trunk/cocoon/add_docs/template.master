@@ -51,10 +51,10 @@ Volume I<br>
 <center>
 <table border="1" cellspacing="0" cellpadding="4" width="100%">
 <tr>
-<td width="20"><p><center><a href="../table/index.html">&lt;&lt;</a></center></td>
+<td width="20"><p><center><a href="../html/Essex/vol3/table/index.html"><<</a></center></td>
 <td><p></td>
-<td width="20"><p><center><a href="$lastfile.html">&lt;</a></center></td>
-<td width="20"><p><center><a href="$nextfile.html">&gt;</a></center></td>
+<td width="20"><p><center><a href="$lastfile.html"><</a></center></td>
+<td width="20"><p><center><a href="$nextfile.html">></a></center></td>
 </tr>
 </table>
 </center></p>
@@ -66,10 +66,10 @@ Volume I<br>
 <center>
 <table border="1" cellspacing="0" cellpadding="4" width="100%">
 <tr>
-<td width="20"><p><center><a href="../table/index.html">&lt;&lt;</a></center></td>
+<td width="20"><p><center><a href="../html/Essex/vol3/table/index.html"><<</a></center></td>
 <td><p></td>
-<td width="20"><p><center><a href="$lastfile.html">&lt;</a></center></td>
-<td width="20"><p><center><a href="$nextfile.html">&gt;</a></center></td>
+<td width="20"><p><center><a href="$lastfile.html"><</a></center></td>
+<td width="20"><p><center><a href="$nextfile.html">></a></center></td>
 </tr>
 </table>
 </center>

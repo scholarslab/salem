@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?> <tei.2 id="names">
+
+<div1 type="names">
+
+<div2 type="groups"> <name type="group" id="G01">Executed</name> <name
+type="group" id="G02">Died in Jail</name> <name type="group"
+id="G03">Officials</name> <name type="group" id="G04">Associate
+Magistrates</name> <name type="group" id="G05">Trial Critics</name>
+<name type="group" id="G06">Ministers</name> <name type="group"
+id="G07">"Afflicted" Girls</name> <name type="group" id="G08">Other
+Accusers</name> <name type="group" id="G09">Other Accused</name> <name
+type="group" id="G10">Defenders of the Accused</name> <!-- name
+type="group" id="G01">Executed during the Salem Witch Trials</name>
+<name type="group" id="G02">Died in Jail</name> <name type="group"
+id="G03">Important Officials</name> <name type="group"
+id="G04">Associate Magistrates</name> <name type="group"
+id="G05">Critics of the Trials</name> <name type="group"
+id="G06">Important Ministers</name> <name type="group" id="G07">The
+"Afflicted" Girls</name> <name type="group" id="G08">Other Important
+Accusers</name> <name type="group" id="G09">Other Important
+Accused</name> <name type="group" id="G10">Defenders of the
+Accused</name --> </div2>
+
+<!-- div2 type="courts"> <name type="court" id="C1">Court of Oyer and
+Terminer</name> </div2 -->
+
+<div2 type="persons"> <persname residence="Salem" cats="G01" mbio="mb1"
+bio="b1" pics="p1" crt="c1">Bridget Bishop</persname> <persname
+residence="Wells,Maine" cats="G01 G06" mbio="mb3" bio="b3"
+pics="p2">Rev. George Burroughs</persname> <!-- persname
+residence="Wells,Maine" cats="G01 G06" mbio="mb3" bio="b3"
+pics="p2">Rev. George Burroughs</persname --> <persname
+residence="Andover" cats="G01" mbio="mb4" bio="b4">Martha
+Carrier</persname> <persname residence="Salem Farms" cats="G01"
+mbio="mb6" bio="b11" pics="p3">Giles Cory</persname> <persname
+residence="Salem Village" cats="G01" mbio="mb35" bio="b35">Martha
+Cory</persname> <persname residence="Topsfield" cats="G01" mbio="mb9"
+bio="b8">Mary Easty</persname> <persname residence="Salem Village"
+cats="G01" mbio="mb12" bio="b12">Sarah Good</persname> <persname
+residence="Topsfield" cats="G01">Elizabeth How</persname> <persname
+residence="Salem" cats="G01" mbio="mb13" bio="b13" pics="p4">George
+Jacobs Sr.</persname> <persname residence="Amesbury" cats="G01"
+mbio="mb17" bio="b17" pics="p6">Susannah Martin</persname> <persname
+residence="Salem Village" cats="G01" mbio="mb21" crt="c2"
+pics="p7">Rebecca Nurse</persname> <persname residence="Salem"
+cats="G01">Alice Parker</persname> <persname residence="Andover"
+cats="G01" mbio="mb42" bio="b42">Mary Parker</persname> <persname residence="Salem Farms"
+cats="G01" mbio="mb31" bio="b31">John Proctor, Sr.</persname> <persname
+residence="Salem" cats="G01" mbio="mb24" bio="b23">Ann
+Pudeator</persname> <persname residence="Marblehead" cats="G01">Wilmot
+Redd</persname> <persname residence="Rowley" cats="G01" mbio="mb43" bio="b43">
+Margaret Scott</persname><persname residence="Andover" cats="G01" mbio="mb26"
+bio="b25">Samuel Wardwell</persname> <persname residence="Topsfield"
+cats="G01">Sarah Wilds</persname> <persname residence="Salem Village"
+cats="G01" mbio="mb34" bio="b34">John Willard</persname> <persname
+residence="Reading" cats="G02">Lydia Dastin</persname> <persname
+residence="Andover" cats="G02">Ann Foster</persname> <persname
+residence="Salem Village" cats="G02">Infant Girl (daughter of Sarah
+Good)</persname> <persname residence="Salem Village" cats="G02"
+mbio="mb22" bio="b21">Sarah Osborne</persname> <persname
+residence="Billerica" cats="G02">Roger Toothaker</persname> <!--
+persname residence="Boston" cats="G03" mbio="mb23" bio="b22"
+pics="p8">Gov. Sir William Phips</persname --> <persname
+residence="Boston" cats="G03" mbio="mb23" bio="b22" pics="p8">Sir
+William Phips</persname> <!-- persname residence="Boston" cats="G03"
+court="C1">Chief Magistrate William Stoughton</persname> <persname
+residence="Salem" cats="G03" court="C1">Associate Magistrate Jonathan
+Corwin</persname> <persname residence="Boston" cats="G03"
+court="C1">Associate Magistrate Thomas Danforth</persname> <persname
+residence="Salem" cats="G03" court="C1">Associate Magistrate Bartholomew
+Gedney</persname> <persname residence="Salem" cats="G03" court="C1"
+mbio="mb14" bio="b16" pics="p5">Associate Magistrate John
+Hathorne</persname> <persname residence="Salem" cats="G03"
+court="C1">Associate Magistrate John Richards</persname> <persname
+residence="Haverhill" cats="G03" court="C1">Associate Magistrate
+Nathaniel Saltonstall</persname> <persname residence="Boston" cats="G03"
+court="C1">Associate Magistrate Peter Sargent</persname> <persname
+residence="Boston" cats="G03" court="C1" mbio="mb25" bio="b24"
+pics="p9">Associate Magistrate Samuel Sewall</persname> <persname
+residence="Salem" cats="G03" court="C1">Stephen Sewall, Clerk</persname>
+<persname residence="Boston" cats="G03" court="C1">Associate Magistrate
+Wait Winthrop</persname --> <persname residence="Boston" cats="G03"
+court="C1" mbio="mb40" bio="b40">William Stoughton</persname> <persname
+residence="Salem" cats="G03" court="C1">Jonathan Corwin</persname>
+<persname residence="Boston" cats="G03" court="C1">Thomas
+Danforth</persname> <persname residence="Salem" cats="G03"
+court="C1">Bartholomew Gedney</persname> <persname residence="Salem"
+cats="G03 G04" court="C1" mbio="mb14" bio="b16" pics="p5">John
+Hathorne</persname> <persname residence="Salem" cats="G03"
+court="C1">John Richards</persname> <persname residence="Haverhill"
+cats="G03" court="C1">Nathaniel Saltonstall</persname> <persname
+residence="Boston" cats="G03" court="C1">Peter Sargent</persname>
+<persname residence="Boston" cats="G03" court="C1" mbio="mb25" bio="b24"
+pics="p9">Samuel Sewall</persname> <persname residence="Salem"
+cats="G03" court="C1">Stephen Sewall</persname> <persname
+residence="Boston" cats="G03" court="C1">Wait Winthrop</persname>
+<persname residence="Boston" cats="G05" mbio="mb2" bio="b2">Thomas
+Brattle</persname> <persname residence="Andover" cats="G06" mbio="mb7"
+bio="b6">Francis Dane</persname> <persname residence="Scituate"
+cats="G06">Deodat Lawson</persname> <persname residence="Boston"
+cats="G06" mbio="mb5" bio="b5">Cotton Mather</persname> <persname
+residence="Boston" cats="G06" mbio="mb16" bio="b15">Increase
+Mather</persname> <persname residence="Salem Village" cats="G06 G08"
+mbio="mb39" bio="b27" pics="p10">Samuel Parris</persname> <persname
+residence="Boston" cats="G06" mbio="mb27" bio="b26">Samuel
+Willard</persname> <persname residence="Wenham" cats="G07">Sarah
+Bibber</persname> <persname residence="Salem Village"
+cats="G07">Elizabeth Booth</persname> <persname residence="Salem
+Village" cats="G07" mbio="mb38" bio="b38">Sarah Churchill</persname>
+<persname residence="Salem Village" cats="G07" mbio="mb15"
+bio="b14">Elizabeth Hubbard</persname> <persname residence="Salem
+Village" cats="G07" mbio="mb37" bio="b19">Mercy Lewis</persname>
+<persname residence="Salem Village" cats="G07" mbio="mb11"
+bio="b10">Elizabeth Parris</persname> <persname residence="Salem
+Village" cats="G07" mbio="mb32" bio="b32">Ann Putnam Jr.</persname>
+<persname residence="Salem Village" cats="G07">Susanna
+Sheldon</persname> <persname residence="Salem Village" cats="G07"
+mbio="mb30" bio="b29">Mary Warren</persname> <persname residence="Salem
+Village" cats="G07" mbio="mb20" bio="b20">Mary Walcott</persname>
+<persname residence="Salem Village" cats="G07" mbio="mb33"
+bio="b33">Abigail Williams</persname> <persname residence="Salem
+Village" cats="G08" mbio="mb29" bio="b28" pics="p11">Tituba</persname>
+<persname cats="G09" mbio="mb8" bio="b7">Ann Dolliver</persname>
+<persname cats="G09" mbio="mb10" bio="b9">Philip English</persname>
+<persname cats="G09">Abigail Faulkner</persname> <persname cats="G09"
+mbio="mb36" bio="b36">Mary Ireson</persname> <persname cats="G09"
+mbio="mb18" bio="b18">Margaret Jacobs</persname> <persname
+cats="G10">Israel Porter</persname> <persname cats="G10">Joseph
+Putnam</persname> <persname cats="G09" mbio="mb41"
+bio="b41">Children</persname><persname residence="Gloucester" cats="G09" mbio="mb44" bio="b44">
+Gloucester Women</persname></div2> </div1> </tei.2>
