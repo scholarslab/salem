@@ -1,0 +1,4 @@
+<Context docBase="/usr/local/solr/solr" path="/modern-english">
+  <Valve className="org.apache.catalina.valves.RemoteAddrValve" allow="127.0.0.1,128.143.166.179,128.143.22.16,128.143.193.200"/>
+  <Environment name="solr/home" value="/usr/local/projects/ModernEnglish/solr-home" type="java.lang.String" override="false"/>
+</Context>
