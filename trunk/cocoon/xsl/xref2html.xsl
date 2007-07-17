@@ -70,7 +70,7 @@
 
 <xsl:template name="heading">
 	<p align="center">
-		<img src="../images/startdoc2.jpg" width="621" height="90" border="1"/>
+		<img src="../html/images/startdoc2.jpg" width="621" height="90" border="1"/>
 	</p> 
 	<div align="center">  
   		<div class="para">
