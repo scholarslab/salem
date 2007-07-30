@@ -131,8 +131,17 @@
 			
 			<map:match pattern="**.gif">			 	
 				<map:read  src="html/{1}.gif" mime-type="image/gif"/>
+			</map:match> 
+			
+			<!-- Pictures on the MHS -->
+			<map:match pattern="MHS/**.jpg">			 	
+				<map:read src="html/archives/MHS/{1}.jpg" mime-type="image/jpg"/>
 			</map:match>
-
+			
+			<map:match pattern="MHS/**.gif">			 	
+				<map:read  src="html/archives/MHS/{1}.gif" mime-type="image/gif"/>
+			</map:match>
+			
 			<!-- allow javascript to pass through for script tags //-->
 			<map:match pattern="javascript/**">
 				<map:read src="javascript/{1}"/>
@@ -144,6 +153,18 @@
 				<map:redirect-to uri="home.html"/>
 			</map:match>			
 			
+			<!-- ModestEnquiry pipelines -->
+			<!--<map:match pattern="archives/ModestEnquiry/images.0*">
+				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
+				<map:serialize type="xhtml"/>
+			</map:match>	-->	
+			
+			<map:match pattern="archives/ModestEnquiry/images.0*">
+				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
+				<map:serialize type="xhtml"/>
+			</map:match>	
+			
+			<!-- End -->
 			<map:match pattern="images/index.html">
 				<map:generate src="images/index.html"/>
 				<map:serialize type="xhtml"/>
