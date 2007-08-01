@@ -107,21 +107,15 @@
 				<map:read src="xsl/{1}.css" mime-type="text/css"/>
 			</map:match>
 			
-			<!-- Images displaying -->
+			<!-- Images displaying in "images" folder-->
 			 <map:match pattern="images/**.jpg">			 	
 			 	<map:read src="images/{1}.jpg" mime-type="image/jpg"/>
-			</map:match>
+			 </map:match>
+			<map:match pattern="images/**.JPG">			 	
+				<map:read src="images/{1}.JPG" mime-type="image/jpg"/>
+			</map:match> 
 			<map:match pattern="images/**.gif">			 	
 				<map:read  src="images/{1}.gif" mime-type="image/gif"/>
-			</map:match>
-			
-			<!-- Images in the folder 'images -->
-			<map:match pattern="*/images/*.jpg">			 
-				<map:read src="Salem/images/{1}.jpg" mime-type="image/jpg"/>
-			</map:match>
-			
-			<map:match pattern="*/images/*.gif">			 	
-				<map:read  src="Salem/images/{2}.gif" mime-type="image/gif"/>
 			</map:match>
 			
 			<!-- Images not in the folder 'images' -->
@@ -132,15 +126,6 @@
 			<map:match pattern="**.gif">			 	
 				<map:read  src="html/{1}.gif" mime-type="image/gif"/>
 			</map:match> 
-			
-			<!-- Pictures on the MHS -->
-			<map:match pattern="MHS/**.jpg">			 	
-				<map:read src="html/archives/MHS/{1}.jpg" mime-type="image/jpg"/>
-			</map:match>
-			
-			<map:match pattern="MHS/**.gif">			 	
-				<map:read  src="html/archives/MHS/{1}.gif" mime-type="image/gif"/>
-			</map:match>
 			
 			<!-- allow javascript to pass through for script tags //-->
 			<map:match pattern="javascript/**">
@@ -157,12 +142,12 @@
 			<!--<map:match pattern="archives/ModestEnquiry/images.0*">
 				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
 				<map:serialize type="xhtml"/>
-			</map:match>	-->	
+			</map:match>		
 			
 			<map:match pattern="archives/ModestEnquiry/images.0*">
 				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
 				<map:serialize type="xhtml"/>
-			</map:match>	
+			</map:match>	-->
 			
 			<!-- End -->
 			<map:match pattern="images/index.html">
