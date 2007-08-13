@@ -138,18 +138,11 @@
 				<map:redirect-to uri="home.html"/>
 			</map:match>			
 			
-			<!-- ModestEnquiry pipelines -->
-			<!--<map:match pattern="archives/ModestEnquiry/images.0*">
-				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
+			<map:match pattern="**.htm">
+				<map:generate src="html/{1}.htm"/>
 				<map:serialize type="xhtml"/>
-			</map:match>		
+			</map:match> 
 			
-			<map:match pattern="archives/ModestEnquiry/images.0*">
-				<map:generate src="html/archives/ModestEnquiry/images.0{1}/index.html"/>
-				<map:serialize type="xhtml"/>
-			</map:match>	-->
-			
-			<!-- End -->
 			<map:match pattern="images/index.html">
 				<map:generate src="images/index.html"/>
 				<map:serialize type="xhtml"/>
