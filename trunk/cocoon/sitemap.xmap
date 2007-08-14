@@ -158,29 +158,31 @@
 				<map:serialize type="xhtml"/>
 			</map:match> 
 			
+					<!-- PIPELINES FOR SEARCHING in the names -->
 			
+			<map:match pattern="names.xml">
+				<map:generate src="xml/names.xml"/>
+				<map:transform src="xsl/dynaxml.xsl"/>
+				<map:serialize type="html"/>						
+			</map:match>
 			
-			<!-- PIPELINES FOR SEARCHING -->
+			<!-- For groups of names 
+			
+			<map:match pattern="names.xml">
+				<map:generate src="xml/{1}.xml"/>
+				<map:transform src="xsl/dynaxml.xsl"/>
+				<map:serialize type="html"/>						
+			</map:match>-->
+			
+			<!-- for biographies 
+			
+			<map:match pattern="names.xml">
+				<map:generate src="xml/{1}.xml"/>
+				<map:transform src="xsl/dynaxml.xsl"/>
+				<map:serialize type="html"/>						
+			</map:match>-->
 
-			<map:match pattern="search">
-				<map:generate src="search/empty.xml" label="record"/>
-				<map:transform type="xslt" src="search/search.xsl" label="basiccontent">
-					<map:parameter name="use-request-parameters" value="true"/>
-				</map:transform>
-				<map:transform type="cinclude"/>
-				<map:serialize type="html"/>
-			</map:match>
-
-			<map:match pattern="search_results/">
-				<map:generate
-					src="http://aleph.lib.virginia.edu:8080/modern-english-solr/select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}"
-					label="record"/>
-				<map:transform type="xslt" src="search/search_results.xsl" label="basiccontent">
-					<map:parameter name="use-request-parameters" value="true"/>
-				</map:transform>
-				<map:transform type="cinclude"/>
-				<map:serialize type="html"/>
-			</map:match>
+			
 
 		</map:pipeline>
 	</map:pipelines>
