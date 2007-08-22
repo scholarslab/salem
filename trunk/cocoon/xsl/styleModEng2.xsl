@@ -4,6 +4,7 @@
 	<xsl:include href="layout.xsl"/>
 	<xsl:output method="html"/>
 	<xsl:param name="div_id"/>
+	<xsl:param name="section_id"/>
 	<xsl:param name="search_text"/>
 
 
@@ -61,6 +62,7 @@
 			</body>
 		</html>
 	</xsl:template>
+
 
 	<xsl:template name="volume_nav">
 		<table>
@@ -207,7 +209,7 @@
 			<xsl:when test="parent::div1">
 				<xsl:if test="@type='main' or not (@type)">
 					<center>
-						<h1>							
+						<h1>
 							<xsl:choose>
 								<xsl:when test="bibl">
 									<xsl:value-of select="bibl/title"/>

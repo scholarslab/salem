@@ -1,9 +1,10 @@
-<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd"[   
-<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;   
-<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;   
-<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;   
-<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;   
-<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;   
+<!DOCTYPE TEI.2 SYSTEM "http://etext.lib.virginia.edu/tei/teixlite.dtd"[ 
+
+<!ENTITY % ISOlat1 SYSTEM "http://etext.lib.virginia.edu/tei/ISOlat1.pen"> %ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM "http://etext.lib.virginia.edu/tei/ISOlat2.pen"> %ISOlat2;  
+<!ENTITY % ISOnum SYSTEM "http://etext.lib.virginia.edu/tei/ISOnum.pen"> %ISOnum;  
+<!ENTITY % ISOpub SYSTEM "http://etext.lib.virginia.edu/tei/ISOpub.pen"> %ISOpub;  
+<!ENTITY % ISOtech SYSTEM "http://etext.lib.virginia.edu/tei/ISOtech.pen"> %ISOtech;
 <!ENTITY longs "&#223;"> <!--=long s-->   
 <!NOTATION jpg SYSTEM "JPEG">   
 <!ENTITY Uphv1001 SYSTEM "Uphv1001.jpg" NDATA jpg>   

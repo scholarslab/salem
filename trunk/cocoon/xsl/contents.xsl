@@ -3,6 +3,7 @@
 	<xsl:include href="layout.xsl"/>
 	<xsl:param name="div_id"/>
 
+
 	<xsl:template match="/">
 		<html>
 			<head>
@@ -124,6 +125,7 @@
 			<a href="tei.{//TEI.2/@id}.xml?div_id={@id}">
 				<xsl:value-of select="@type"/>
 			</a>
+
 			<xsl:if test="not(normalize-space(head)='')">
 				<xsl:text> - </xsl:text>
 				<xsl:value-of select="head"/>
