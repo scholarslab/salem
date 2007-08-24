@@ -3,8 +3,7 @@
 	xmlns="http://www.w3.org/1999/xhtml" xmlns:cinclude="http://apache.org/cocoon/include/1.0">
 	<xsl:include href="layout.xsl"/>
 	<xsl:output method="html"/>
-	<xsl:param name="div_id"/>
-	<xsl:param name="section_id"/>
+	<xsl:param name="div_id"/>	
 	<xsl:param name="search_text"/>
 
 
@@ -361,6 +360,10 @@
 
 	</xsl:template>
 
+	<!--<xsl:template match="xref">
+		<br/><xsl:value-of select="."/>
+	</xsl:template> -->
+	
 	<xsl:template match="opener">
 
 		<xsl:apply-templates select="dateline"/>
