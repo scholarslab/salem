@@ -101,10 +101,19 @@
 	<!-- =========================== Pipelines ================================= -->
 
 	<map:pipelines>
+		
+		<map:component-configurations>
+			<global-variables>
+				<hostname> http://{request:serverName}:{request:serverPort} </hostname>
+				<!-- global variable: change this value to the proper path to solr -->
+				<solr-url>http://localhost:8983/solr/</solr-url>
+			</global-variables>
+		</map:component-configurations>
+		
 		<map:pipeline>
 
 			<map:match pattern="*.css">
-				<map:read src="xsl/{1}.css" mime-type="text/css"/>
+				<map:read src="css/{1}.css" mime-type="text/css"/>
 			</map:match>
 
 			<!-- Images displaying in "images" folder-->
@@ -137,6 +146,17 @@
 			<map:match pattern="">
 				<map:redirect-to uri="home.html"/>
 			</map:match>
+			
+			<map:match pattern="witchcraft/texts/names.html">
+				<map:generate
+					src="{global:solr-url}select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"
+					label="record"/>
+				<map:transform type="xslt" src="xsl/names_index.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:transform type="cinclude"/>
+				<map:serialize type="html"/>
+			</map:match>
 
 			<map:match pattern="**.htm">
 				<map:generate src="html/{1}.htm"/>
@@ -162,7 +182,7 @@
 			<!-- Viewing the table of contents for all BoySal files-->
 			<map:match pattern="B*.xml">
 				<map:generate src="xml/B{1}.xml"/>
-				<map:transform src="xsl/contents.xsl"/>
+				<map:transform src="xsl/tei_display.xsl"/>
 				<map:serialize type="html"/>
 			</map:match>
 
@@ -206,6 +226,20 @@
 				<map:transform src="xsl/dynaxml.xsl"/>
 				<map:serialize type="html"/>
 			</map:match>
+			
+			<!-- Salem Witchcraft Papers Names Index -->
+			<map:match pattern="search_results">
+				<map:generate
+					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}"
+					label="record"/>
+				<map:transform type="xslt" src="search/search_results.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:transform type="cinclude"/>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			
 
 		</map:pipeline>
 	</map:pipelines>
