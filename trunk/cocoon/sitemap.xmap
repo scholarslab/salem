@@ -147,7 +147,8 @@
 				<map:redirect-to uri="home.html"/>
 			</map:match>
 			
-			<map:match pattern="witchcraft/texts/names.html">
+			<!-- Salem Witchcraft Papers Names Index -->			
+			<map:match pattern="texts/names.html">
 				<map:generate
 					src="{global:solr-url}select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"
 					label="record"/>
@@ -157,6 +158,27 @@
 				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
+			
+			<!-- Salem Witchcraft Papers Search -->
+			<map:match pattern="texts/salemSearch.htm">
+				<map:generate src="xml/empty.xml"/>
+				<map:transform src="xsl/search_papers.xsl">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:transform type="cinclude"/>
+				<map:serialize type="html"/>
+			</map:match>
+			
+			<map:match pattern="search_results">
+				<map:generate
+					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}"
+					label="record"/>
+				<map:transform type="xslt" src="xsl/search_results.xsl" label="basiccontent">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
+				<map:transform type="cinclude"/>
+				<map:serialize type="html"/>
+			</map:match>	
 
 			<map:match pattern="**.htm">
 				<map:generate src="html/{1}.htm"/>
@@ -192,55 +214,12 @@
 				<map:serialize type="html"/>
 			</map:match>
 
-			<map:match pattern="contents.*.xml">
-				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/contents.xsl"/>
-				<map:serialize type="html"/>
-			</map:match>
-
-			<!-- Displaying only the headers of the xml files -->
-			<map:match pattern="header.*.xml">
-				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/teiHeader.xsl"/>
-				<map:serialize type="html"/>
-			</map:match>
-
-			<!-- Displaying only the text in the xml files -->
-			<map:match pattern="tei.*.xml">
-				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/styleModEng2.xsl"/>
-				<map:transform type="cinclude"/>
-				<map:serialize type="html"/>
-			</map:match>
-
-			<!-- Viewing the figure images -->
-			<map:match pattern="images.*.xml">
-				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/images.xsl"/>
-				<map:serialize type="html"/>
-			</map:match>
-
 			<!-- PIPELINES FOR DISPLAYING people.html page -->
 			<map:match pattern="*.xml">
 				<map:generate src="xml/{1}.xml"/>
 				<map:transform src="xsl/dynaxml.xsl"/>
 				<map:serialize type="html"/>
 			</map:match>
-			
-			<!-- Salem Witchcraft Papers Names Index -->
-			<map:match pattern="search_results">
-				<map:generate
-					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}"
-					label="record"/>
-				<map:transform type="xslt" src="search/search_results.xsl" label="basiccontent">
-					<map:parameter name="use-request-parameters" value="true"/>
-				</map:transform>
-				<map:transform type="cinclude"/>
-				<map:serialize type="html"/>
-			</map:match>
-			
-			
-
 		</map:pipeline>
 	</map:pipelines>
 </map:sitemap>

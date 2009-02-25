@@ -95,14 +95,14 @@ ul li {
 	border:2px solid black;
 	display:table;
 }
-.options{
+.options {
 	margin-top:10px;
 	text-align:right;
 	font:16px arial,helvetica,clean,sans-serif;
 	font-weight:bold;
 	padding-right:20px;
 }
-.options>a{
+.options>a {
 	color:white;
 }
 .toc {
@@ -140,11 +140,10 @@ ul li {
 	margin-top:5px;
 	margin-bottom:40px;
 }
-
 /* ---------------------------------------------------------------------------------------------------------------- */
 /* ---------->>> TEI Display <<<----------------------------------------------------------------------------- */
 /* ---------------------------------------------------------------------------------------------------------------- */
-.pb{
+.pb {
 	width:90%;
 	background-color:#cccccc;
 	border:1px dashed black;
@@ -154,9 +153,77 @@ ul li {
 	margin-top:10px;
 	margin-bottom:10px;
 }
-.titlepage{
+.titlepage {
 	padding:10px;
 	background-color:#eeeeee;
 	border-style:double;
 	text-align:center;
 }
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* ---------->>> Names Index <<<----------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.search_content {
+	margin-left:10px;
+	margin-right:10px;
+	background-color:white;
+	border-style:double;
+	border-color:silver;
+	margin-top:10px;
+	padding:10px;
+	margin-bottom:10px;
+	min-height:600px;
+}
+.letter_list {
+	display:table;
+}
+.letter {
+	float:left;
+	width:129px;
+	text-align:center;
+	background-color:#cccccc;
+	margin:2px;
+	border:1px solid black;
+	font:16px arial,helvetica,clean,sans-serif;
+	font-weight:bold;
+	color:black;
+}
+.letter_selected {
+	float:left;
+	width:129px;
+	text-align:center;
+	background-color:#ebebeb;
+	margin:2px;
+	border:1px solid black;
+	font:16px arial,helvetica,clean,sans-serif;
+	font-weight:bold;
+	color:black;
+}
+.letter>a, .letter_selected>a {
+	font:16px arial,helvetica,clean,sans-serif;
+	font-weight:bold;
+	color:black;
+}
+.letter:hover, .letter_selected:hover {
+	background-color:#aaaaaa;
+}
+.letter_header {
+	text-align:left;
+}
+.names {
+	width:100%;
+	display:table;
+}
+.names_list {
+	width:100%;
+	display:table;
+}
+.names_column {
+	float:left;
+	width:25%;
+}
+.name {
+	width:100%;
+}
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* ---------->>> Search <<<----------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------- */
