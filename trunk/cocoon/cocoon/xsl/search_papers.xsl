@@ -44,8 +44,8 @@
 			<div class="content_container">
 				<div class="search_content">
 					<h1>Search the Salem Witchcraft Papers</h1>
-					<form action="get" id="search_form">
-						<input type="hidden" name="rows" value="20"/>
+					<form id="search_form" method="GET">
+						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
 						<input type="text" name="q" value="{$q}"/>
 						<input type="submit" value="Submit"/>
@@ -53,7 +53,7 @@
 					</form>
 					<div id="search">
 						<xsl:if test="$q">
-							<cinclude:include src="cocoon:/search_results/?q={$q}"/>
+							<cinclude:include src="cocoon:/search_results?q={$q}"/>
 						</xsl:if>
 					</div>
 				</div>

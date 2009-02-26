@@ -226,14 +226,6 @@
 
 	<xsl:template match="lst[@name='name_facet']">
 		<li class="names_column">
-			<h3 style="text-align:left;">
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>a - </xsl:text>
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>g</xsl:text>
-			</h3>
 			<ul style="display:table;width:100%;">
 				<xsl:apply-templates
 					select="int[substring(@name, 1, 2) = concat($letter, 'a')] | int[substring(@name, 1, 2) = concat($letter, 'b')] | int[substring(@name, 1, 2) = concat($letter, 'c')] | int[substring(@name, 1, 2) = concat($letter, 'd')] | int[substring(@name, 1, 2) = concat($letter, 'e')] | int[substring(@name, 1, 2) = concat($letter, 'f')] | int[substring(@name, 1, 2) = concat($letter, 'g')]">
@@ -242,14 +234,6 @@
 			</ul>
 		</li>
 		<li class="names_column">
-			<h3 style="text-align:left;">
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>h - </xsl:text>
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>n</xsl:text>
-			</h3>
 			<ul style="display:table;width:100%;">
 				<xsl:apply-templates
 					select="int[substring(@name, 1, 2) = concat($letter, 'h')] | int[substring(@name, 1, 2) = concat($letter, 'i')] | int[substring(@name, 1, 2) = concat($letter, 'j')] | int[substring(@name, 1, 2) = concat($letter, 'k')] | int[substring(@name, 1, 2) = concat($letter, 'l')] | int[substring(@name, 1, 2) = concat($letter, 'm')] | int[substring(@name, 1, 2) = concat($letter, 'n')]">
@@ -258,14 +242,6 @@
 			</ul>
 		</li>
 		<li class="names_column">
-			<h3 style="text-align:left;">
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>o - </xsl:text>
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>t</xsl:text>
-			</h3>
 			<ul style="display:table;width:100%;">
 				<xsl:apply-templates
 					select="int[substring(@name, 1, 2) = concat($letter, 'o')] | int[substring(@name, 1, 2) = concat($letter, 'p')] | int[substring(@name, 1, 2) = concat($letter, 'q')] | int[substring(@name, 1, 2) = concat($letter, 'r')] | int[substring(@name, 1, 2) = concat($letter, 's')] | int[substring(@name, 1, 2) = concat($letter, 't')]">
@@ -274,14 +250,6 @@
 			</ul>
 		</li>
 		<li class="names_column">
-			<h3 style="text-align:left;">
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>u - </xsl:text>
-				<xsl:value-of
-					select="translate($letter, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
-				<xsl:text>z</xsl:text>
-			</h3>
 			<ul style="display:table;width:100%;">
 				<xsl:apply-templates
 					select="int[substring(@name, 1, 2) = concat($letter, 'u')] | int[substring(@name, 1, 2) = concat($letter, 'v')] | int[substring(@name, 1, 2) = concat($letter, 'w')] | int[substring(@name, 1, 2) = concat($letter, 'x')] | int[substring(@name, 1, 2) = concat($letter, 'y')] | int[substring(@name, 1, 2) = concat($letter, 'z')]">
@@ -294,7 +262,8 @@
 	<xsl:template match="int">
 		<xsl:if test="string(substring-after(@name, '|'))">
 			<li class="name">
-				<a href="search_results?q=name_text:{substring-before(@name, '|')}">
+				<a
+					href="salemSearch.htm?q=name_text:{substring-before(@name, '|')}&amp;rows=20&amp;start=0">
 					<xsl:value-of select="substring-after(@name, '|')"/>
 				</a>
 			</li>

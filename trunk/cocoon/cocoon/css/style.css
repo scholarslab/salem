@@ -227,3 +227,34 @@ ul li {
 /* ---------------------------------------------------------------------------------------------------------------- */
 /* ---------->>> Search <<<----------------------------------------------------------------------------- */
 /* ---------------------------------------------------------------------------------------------------------------- */
+#search {
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.paging_div {
+	width:100%;
+	display:table;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.pagingBtn, .pagingSep {
+	padding-left:8px;
+	padding-right:8px;
+	padding-top:2px;
+	padding-bottom:2px;
+	border-bottom:1px solid #696969;
+	border-top:1px solid #696969;
+	border-right:1px solid #696969;
+	background-color:#EBEBEB;
+	text-decoration:none;
+}
+.pagingBtn {
+	/*font-weight:bold;*/
+}
+.pagingBtn:hover {
+	background-color:#C8C8C8;
+	text-decoration:underline;
+}
+.doc {
+	margin:20px;
+}
