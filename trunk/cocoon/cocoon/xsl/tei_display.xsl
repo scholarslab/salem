@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+	xmlns:cinclude="http://apache.org/cocoon/include/1.0">
 	<xsl:output method="xhtml" encoding="UTF-8"/>
 	<xsl:param name="div_id"/>
 	<xsl:param name="print"/>
+	<xsl:param name="q"/>
+	<xsl:param name="doc_id" select="//TEI.2/@id"/>
+	<xsl:param name="name"/>
 
 	<xsl:template match="/">
 		<html>
@@ -11,6 +15,9 @@
 					<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']"/>
 				</title>
 				<link type="text/css" href="style.css" rel="stylesheet"/>
+				<script type="text/javascript" src="javascript/jquery-1.2.6.min.js"/>
+				<script type="text/javascript" src="javascript/jquery.lightbox-0.5.min.js"/>
+				<script type="text/javascript" src="javascript/salem-lightbox.js"/>
 			</head>
 		</html>
 		<body>
@@ -76,17 +83,8 @@
 										select="descendant::node()[generate-id(.) = $div_id]"/>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:choose>
-										<xsl:when test="descendant::titlePage">
-											<xsl:apply-templates select="descendant::titlePage"/>
-										</xsl:when>
-										<xsl:when test="descendant::front">
-											<xsl:apply-templates select="//TEI.2/text/front"/>
-										</xsl:when>
-										<xsl:otherwise>
-											<xsl:apply-templates select="//TEI.2/text/front"/>
-										</xsl:otherwise>
-									</xsl:choose>
+									<xsl:apply-templates
+										select="descendant::node()[@type='contents']"/>
 								</xsl:otherwise>
 							</xsl:choose>
 						</div>
@@ -100,9 +98,29 @@
 
 	<xsl:template name="toc">
 		<div class="toc">
-			<h3>
-				<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']"/>
-			</h3>
+			<xsl:variable name="volume">
+				<xsl:choose>
+					<xsl:when
+						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 1')">
+						<xsl:text>1</xsl:text>
+					</xsl:when>
+					<xsl:when
+						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 2')">
+						<xsl:text>2</xsl:text>
+					</xsl:when>
+					<xsl:when
+						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 3')">
+						<xsl:text>3</xsl:text>
+					</xsl:when>
+					<xsl:when
+						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 4')">
+						<xsl:text>4</xsl:text>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:variable>
+			<h3> The Salem witchcraft papers, Volume <xsl:value-of select="$volume"/>: edited by
+				Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
+				Benjamin C. Ray and Tara S. Wood (2010)</h3>
 			<xsl:apply-templates select="descendant::TEI.2/text/front" mode="toc"/>
 			<xsl:apply-templates select="descendant::TEI.2/text/body" mode="toc"/>
 		</div>
@@ -117,7 +135,14 @@
 				<li>
 					<xsl:choose>
 						<xsl:when test="name() = 'div1'">
-							<xsl:value-of select="@type"/>
+							<xsl:choose>
+								<xsl:when test="@type='case'">
+									<xsl:text>Case File</xsl:text>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="@type"/>
+								</xsl:otherwise>
+							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:text>Title Page</xsl:text>
@@ -166,7 +191,14 @@
 				<li>
 					<xsl:choose>
 						<xsl:when test="name() = 'div1'">
-							<xsl:value-of select="@type"/>
+							<xsl:choose>
+								<xsl:when test="@type='case'">
+									<xsl:text>Case File</xsl:text>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="@type"/>
+								</xsl:otherwise>
+							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:text>Title Page</xsl:text>
@@ -217,6 +249,119 @@
 
 	<xsl:template match="body">
 		<xsl:apply-templates/>
+	</xsl:template>
+
+	<xsl:template match="div1">
+		<xsl:choose>
+			<xsl:when test="@type='contents'">
+				<xsl:choose>
+					<xsl:when test="string($q)">
+						<h2>Results for <xsl:value-of select="$name"/></h2>
+						<cinclude:include
+							src="cocoon:/search_results?q={$q}&amp;mode=teidoc&amp;name={$name}"
+						/>
+					</xsl:when>
+					<xsl:otherwise>
+						<h1>List of Names</h1>
+						<ul class="names_list">
+							<li class="names_column">
+								<ul>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'a' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'b' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'c' ]"
+									/>
+								</ul>
+
+							</li>
+							<li class="names_column">
+								<ul>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'd' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'e' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'f' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'g' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'h' ]"
+									/>
+								</ul>
+							</li>
+							<li class="names_column">
+								<ul>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'i' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'j' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'k' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'l' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'm' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'n' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'o' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'p' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'q' ]"
+									/>
+								</ul>
+							</li>
+							<li class="names_column">
+								<ul>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'r' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 's' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 't' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'u' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'v' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'w' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'x' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'y' ]"/>
+									<xsl:apply-templates mode="contents_terms"
+										select="//keywords[@scheme='LCSH']/term[substring(@id, 1, 1)= 'z' ]"
+									/>
+								</ul>
+							</li>
+						</ul>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:apply-templates/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template match="term" mode="contents_terms">
+		<xsl:if test="position() = 1">
+			<li>
+				<h3 style="text-align:left;margin-left:20px;">
+					<xsl:value-of
+						select="translate(substring(@id, 1, 1), 'abcdefghijklmnopqrstuvwxy', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"
+					/>
+				</h3>
+			</li>
+		</xsl:if>
+		<li>
+			<a href="?q=name_text:{@id} AND doc_id:{$doc_id}&amp;name={.}">
+				<xsl:value-of select="."/>
+			</a>
+		</li>
 	</xsl:template>
 
 	<xsl:template match="titlePage">
@@ -671,49 +816,31 @@
 
 	</xsl:template>
 
-	<!--<xsl:template match="figure">
+	<xsl:template match="figure">
+		<xsl:if test="substring(@n, 1, 1) = 'H'">
+			<xsl:variable name="filename">
+				<xsl:choose>
+					<xsl:when test="contains(@n, 'r')">
+						<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
+					</xsl:when>
+					<xsl:when test="contains(@n, 'v')">
+						<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:variable>
 
-		<xsl:choose>
-			<xsl:when test="$div_id=//TEI.2/@id or $div_id=//body/@id">
-				<center>
-					<a href="images/{substring(@entity, 1, 1)}/{@entity}.jpg">
-						<img src="images/{substring(@entity, 1, 1)}/{@entity}.gif"/>
-					</a>
-				</center>
-			</xsl:when>
-			<xsl:otherwise>
-				<center>
-					<a class="thickbox" href="images/{substring(@entity, 1, 1)}/{@entity}.jpg">
-						<img src="images/{substring(@entity, 1, 1)}/{@entity}.gif"/>
-					</a>
-				</center>
-			</xsl:otherwise>
-		</xsl:choose>
-		<xsl:if test="head">
-			<center>
-				<h3>
-					<xsl:value-of select="head"/>
-				</h3>
-			</center>
+			<div class="figure">
+				<a href="archives/MassHist/small/{$filename}.jpg" class="jqueryLightbox">
+					<img src="archives/MassHist/gifs/{$filename}.gif"/>
+				</a><br/>
+				<a href="archives/MassHist/large/{$filename}.jpg" target="_blank">Large Image</a>
+			</div>
 		</xsl:if>
-
-	</xsl:template>-->
+	</xsl:template>
 
 	<xsl:template match="seg">
-		<xsl:choose>
-			<xsl:when test="@type='postscript'">
-				<p>
-					<xsl:value-of select="."/>
-				</p>
-			</xsl:when>
-			<xsl:when test="@type='note-symbol'">
-				<xsl:value-of select="."/>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:apply-templates/>
-				<br/>
-			</xsl:otherwise>
-		</xsl:choose>
+		<xsl:apply-templates/>
+		<br/>
 	</xsl:template>
 
 	<xsl:template match="ref">

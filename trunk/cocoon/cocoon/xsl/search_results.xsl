@@ -5,16 +5,35 @@
 	<xsl:param name="q"/>
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
+	<xsl:param name="mode"/>
 
 	<xsl:template match="/">
-		<xsl:call-template name="paging"/>
-		<xsl:apply-templates select="//doc"/>
-		<xsl:call-template name="paging"/>
-	</xsl:template>
+		<xsl:choose>
+			<xsl:when test="$mode = 'teidoc'">
+				<xsl:apply-templates select="//doc" mode="teidoc"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:call-template name="paging"/>
+				<xsl:apply-templates select="//doc" mode="normal"/>
+				<xsl:call-template name="paging"/>
+			</xsl:otherwise>
+		</xsl:choose>
 
-	<xsl:template match="doc">
+	</xsl:template>
+	
+	<xsl:template match="doc" mode="teidoc">
 		<xsl:variable name="id" select="str[@name='id']"/>
 		
+		<div class="doc">
+			<a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
+				<xsl:value-of select="str[@name='title']"/>
+			</a>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="doc" mode="normal">
+		<xsl:variable name="id" select="str[@name='id']"/>
+
 		<div class="doc">
 			<a href="../{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
@@ -23,7 +42,7 @@
 			<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 		</div>
 	</xsl:template>
-	
+
 	<xsl:template match="str">
 		<xsl:if test="position() &gt; 1">
 			<xsl:text> ... </xsl:text>

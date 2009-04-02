@@ -183,27 +183,76 @@
 									</li>
 								</xsl:otherwise>
 							</xsl:choose>
-							<li class="letter">
-								<a href="?letter=o">O</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=p">P</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=r">R</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=s">S</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=t">T</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=v">V</a>
-							</li>
-							<li class="letter">
-								<a href="?letter=w">W</a>
-							</li>
+							<xsl:choose>
+								<xsl:when test="$letter = 'o'">
+									<li class="letter_selected">O</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=o">O</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 'p'">
+									<li class="letter_selected">P</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=p">P</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 'r'">
+									<li class="letter_selected">R</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=r">R</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 's'">
+									<li class="letter_selected">S</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=s">S</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 't'">
+									<li class="letter_selected">T</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=t">T</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 'v'">
+									<li class="letter_selected">V</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=v">V</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="$letter = 'w'">
+									<li class="letter_selected">W</li>
+								</xsl:when>
+								<xsl:otherwise>
+									<li class="letter">
+										<a href="?letter=w">W</a>
+									</li>
+								</xsl:otherwise>
+							</xsl:choose>
 						</ul>
 					</div>
 					<xsl:if test="string($letter)">

@@ -3,7 +3,7 @@ java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal2R.xml -xsl:add_docs.xs
 java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal3R.xml -xsl:add_docs.xsl > index/add_BoySal3R.xml;
 
 FILE="index/add_*.xml"
-URL=http://127.0.0.1:8983/solr/salem/update
+URL=http://localhost:8080/solr/salem/update
 
 for f in $FILE; do
   echo Posting file $f to $URL

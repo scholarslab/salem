@@ -2807,8 +2807,7 @@ Wyman</term>
 <term id="abcdeg">Margaret Foster</term> <term id="abcdef">Mr.
 Burse</term> <term id="aaaaaa">Brown Major</term> <term
 id="vartho">Thomas Varney</term>
-
-<term>LCSH </term> </keywords> </textClass> </profileDesc>
+</keywords> </textClass> </profileDesc>
 <revisionDesc>
 
 <change> <date>2003</date> <respStmt> <resp>corrector </resp>
@@ -2864,7 +2863,7 @@ States of America </p> </div1>
 <p rend="center"> <hi rend="bold">WITCHCRAFT </hi> </p> <p
 rend="center"> <hi rend="bold">PAPERS </hi> </p> <p rend="center"> <hi
 rend="bold">VOLUME III </hi> </p> </div1> <pb n="vii"/> <div1 id="n112"
-type="content"> <head>Contents of Volume III </head>
+type="contents"> <head>Contents of Volume III </head>
 
 <!-- <ID>n112</ID> -->
 
@@ -7977,7 +7976,7 @@ Archives, Salem -- Witchcraft Vol. 1 Page 94 </hi>) </ref> </p> </div2>
 <div2 id="BoySal3-n3.121" type="section"> <head>( <name type="person"
 key="hergeo">George Herrick</name>  and Others v.  <name type="person"
 key="wiljoh4">John Willard</name>  and  <name type="person"
-key="bucsar">Sarah Buckley</name> ) </head><figure n="B08r"></figure><figure n="B08v"></figure> <opener> <dateline> <name
+key="bucsar">Sarah Buckley</name> ) <figure n="B08r"></figure><figure n="B08v"></figure></head> <opener> <dateline> <name
 type="recipient">To the Hon'ble  <name type="person" key="hawjoh">John
 Hathorne</name>  and <name type="person" key="corjoh">Jonathan
 Corwin</name>  Esq'rs att Boston Humbly Thees Dated Salem Village
@@ -8035,7 +8034,7 @@ rend="italics">Boston Public Library -- Dept. of Rare Books and
 Manuscripts [1939 acquisition] </hi>) </ref> </p> </div2> <pb n="822"/>
 <div2 id="BoySal3-n3.122" type="section"> <head>(Return of a Jury of
 Inquest on the Death of  <name type="person" key="wildan">Daniel
-Wilkins</name> ) </head><figure n="B07r"></figure> <p>We whose names are underwritten being warned
+Wilkins</name> ) </head> <p><figure n="B07r"></figure>We whose names are underwritten being warned
 by Constable <name type="person" key="putjoh2">John Putnam </name> of
 Salem this <date value="1692-05-17" certainty="confirmed">17 of may 1692
 </date> to view the body of <name type="person" key="wildan">daniell
@@ -8073,7 +8072,7 @@ us </seg> <seg> <name type="person" key="hawjoh">* John Hathorne</name>
 Manuscripts </hi> [ <hi rend="italics">1939 acquisition </hi>]) </ref>
 </seg> </closer> </div2> <pb n="823"/> <div2 id="BoySal3-n3.123"
 type="examination"> <head>(Examination of  <name type="person"
-key="wiljoh">John Willard</name> ) </head><figure n="B03r"></figure> <p>The Examination of <name
+key="wiljoh">John Willard</name> ) </head> <p><figure n="B03r"></figure>The Examination of <name
 type="person" key="wiljoh4">John Willard. </name> <date
 value="1692-05-18" certainty="confirmed">18 May <hi
 rend="underline">1692 </hi> </date> </p> <p>All the afflicted in most
@@ -8515,7 +8514,7 @@ ag't  <name type="person" key="wiljoh4">Jno Willard</name>  </p> <p>
 Vol. 1 Page 94 </hi>) </ref> </p> </div2> <div2 id="BoySal3-n3.131"
 type="summons"> <head>(Summons for Witnesses v.  <name type="person"
 key="wiljoh4">John Willard</name>  and  <name type="person"
-key="carmar1">Martha Carrier</name> ) </head><figure n="H19r"></figure><figure n="H19v"></figure> <p> William &amp; Mary By
+key="carmar1">Martha Carrier</name> ) </head> <p><figure n="H19r"></figure><figure n="H19v"></figure> William &amp; Mary By
 the Grace of god of England Scotland france &amp; Ireland King defenders
 of the faith &amp;c </p> <p>To  <name type="person" key="rogjoh">John
 Rogers</name>   <name type="person" key="tooall">Allen Toothaker</name> 
@@ -9359,7 +9358,7 @@ type="person" key="wilabi">Abigail Williams</name>  </head>
 
 <div2 id="BoySal3-n3.158" type="section"> <head>( <name type="person"
 key="hutjos">Joseph Hutchinson</name>  v.  <name type="person"
-key="wilabi">Abigail Williams</name> ) </head><figure n="H47r"></figure><p>The deposition of 
+key="wilabi">Abigail Williams</name> ) </head><p><figure n="H47r"></figure>The deposition of 
 <name type="person" key="hutjos">Joseph Hutchinson</name>  aged 59: year
 doe testifie as fourth </p> <p> <name type="person"
 key="wilabi">Abigaill Williams</name>  I have heard you spake often of a
