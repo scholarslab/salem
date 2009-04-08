@@ -830,7 +830,7 @@
 			</xsl:variable>
 
 			<div class="figure">
-				<a href="archives/MassHist/small/{$filename}.jpg" class="jqueryLightbox">
+				<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
 					<img src="archives/MassHist/gifs/{$filename}.gif"/>
 				</a><br/>
 				<a href="archives/MassHist/large/{$filename}.jpg" target="_blank">Large Image</a>

@@ -148,8 +148,7 @@ ul li {
 /* ---------------------------------------------------------------------------------------------------------------- */
 .pb {
 	width:90%;
-	background-color:#cccccc;
-	border:1px dashed black;
+	border-bottom:1px dashed black;
 	margin-left:auto;
 	margin-right:auto;
 	text-align:center;
