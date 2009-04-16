@@ -4,11 +4,11 @@
 
 	<xsl:template match="/">
 		<add>
-			<xsl:apply-templates select="//div2[@type='section']"/>
+			<xsl:apply-templates select="//div1[@type='case']/div2"/>
 		</add>
 	</xsl:template>
 
-	<xsl:template match="div2[@type='section']">
+	<xsl:template match="div2">
 		<doc>
 			<field name="id">
 				<xsl:value-of select="@id"/>

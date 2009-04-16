@@ -20,10 +20,10 @@
 		</xsl:choose>
 
 	</xsl:template>
-	
+
 	<xsl:template match="doc" mode="teidoc">
 		<xsl:variable name="id" select="str[@name='id']"/>
-		
+
 		<div class="doc">
 			<a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
@@ -34,8 +34,22 @@
 	<xsl:template match="doc" mode="normal">
 		<xsl:variable name="id" select="str[@name='id']"/>
 
+		<xsl:variable name="query">
+			<xsl:choose>
+				<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
+					<xsl:value-of select="substring-before($q, ' AND')"/>
+				</xsl:when>
+				<xsl:when test="contains($q, 'name_text')"/>
+				<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
+				<xsl:otherwise>
+					<xsl:value-of select="$q"/>
+				</xsl:otherwise>
+			</xsl:choose>
+		</xsl:variable>
+
 		<div class="doc">
-			<a href="../{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
+			<a
+				href="../{str[@name='doc_id']}.xml?q={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
 			<br/>
@@ -102,7 +116,7 @@
 				<xsl:choose>
 					<xsl:when test="$numFound &gt; $rows and $start &gt; $previous">
 						<a class="pagingBtn" style="border-left:1px solid #454545;"
-							href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$previous}&amp;ajax=true"
+							href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$previous}"
 							>«Previous</a>
 					</xsl:when>
 					<xsl:otherwise>
@@ -114,13 +128,13 @@
 				<!-- always display links to the first two pages -->
 				<xsl:if test="$start div $rows &gt;= 3">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start=0&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start=0">
 						<xsl:text>1</xsl:text>
 					</a>
 				</xsl:if>
 				<xsl:if test="$start div $rows &gt;= 4">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$rows}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$rows}">
 						<xsl:text>2</xsl:text>
 					</a>
 				</xsl:if>
@@ -133,13 +147,13 @@
 				<!-- always display links to the previous two pages -->
 				<xsl:if test="$start div $rows &gt;= 2">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start - ($rows * 2)}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start - ($rows * 2)}">
 						<xsl:value-of select="($start div $rows) -1"/>
 					</a>
 				</xsl:if>
 				<xsl:if test="$start div $rows &gt;= 1">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start - $rows}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start - $rows}">
 						<xsl:value-of select="$start div $rows"/>
 					</a>
 				</xsl:if>
@@ -153,13 +167,13 @@
 				<!-- next two pages -->
 				<xsl:if test="($start div $rows) + 1 &lt; $total">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start + $rows}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start + $rows}">
 						<xsl:value-of select="($start div $rows) +2"/>
 					</a>
 				</xsl:if>
 				<xsl:if test="($start div $rows) + 2 &lt; $total">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start + ($rows * 2)}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$start + ($rows * 2)}">
 						<xsl:value-of select="($start div $rows) +3"/>
 					</a>
 				</xsl:if>
@@ -170,13 +184,13 @@
 				<!-- last two pages -->
 				<xsl:if test="$start div $rows &lt;= $total - 5">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={($total * $rows) - ($rows * 2)}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={($total * $rows) - ($rows * 2)}">
 						<xsl:value-of select="$total - 1"/>
 					</a>
 				</xsl:if>
 				<xsl:if test="$start div $rows &lt;= $total - 4">
 					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={($total * $rows) - $rows}&amp;ajax=true">
+						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={($total * $rows) - $rows}">
 						<xsl:value-of select="$total"/>
 					</a>
 				</xsl:if>
@@ -184,7 +198,7 @@
 				<xsl:choose>
 					<xsl:when test="$numFound &gt; $rows and $next &lt; $numFound">
 						<a class="pagingBtn"
-							href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$next}&amp;ajax=true"
+							href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start={$next}"
 							>Next»</a>
 					</xsl:when>
 					<xsl:otherwise>

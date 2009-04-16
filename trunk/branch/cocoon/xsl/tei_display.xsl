@@ -18,9 +18,10 @@
 				<script type="text/javascript" src="javascript/jquery-1.2.6.min.js"/>
 				<script type="text/javascript" src="javascript/jquery.lightbox-0.5.min.js"/>
 				<script type="text/javascript" src="javascript/salem-lightbox.js"/>
+				<script type="text/javascript" src="javascript/searchhi.js"/>
 			</head>
 		</html>
-		<body>
+		<body onLoad="JavaScript:SearchHighlight();">
 			<xsl:choose>
 				<xsl:when test="$print='yes'">
 					<xsl:choose>
@@ -45,7 +46,7 @@
 					</xsl:choose>
 				</xsl:when>
 				<xsl:otherwise>
-					<div class="header">
+					<div class="header nosearchhi">
 						<img src="images/startdoc2.jpg" width="621" height="90" border="1"/>
 						<ul class="menu">
 							<li class="menu_item menu_home" style="width:13%;">
@@ -72,6 +73,8 @@
 					</div>
 					<div class="content_container">
 						<div class="options">
+							<a href="texts/transcripts.html">Return to The Salem Witchcraft Papers</a>
+							<xsl:text> | </xsl:text>
 							<a href="?div_id={$div_id}&amp;print=yes" target="_blank">Print</a>
 						</div>
 						<xsl:call-template name="toc"/>
@@ -97,23 +100,19 @@
 	</xsl:template>
 
 	<xsl:template name="toc">
-		<div class="toc">
+		<div class="toc nosearchhi">
 			<xsl:variable name="volume">
 				<xsl:choose>
-					<xsl:when
-						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 1')">
+					<xsl:when test="/TEI.2/@id = 'BoySal1R'">
 						<xsl:text>1</xsl:text>
 					</xsl:when>
-					<xsl:when
-						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 2')">
+					<xsl:when test="/TEI.2/@id = 'BoySal2R'">
 						<xsl:text>2</xsl:text>
 					</xsl:when>
-					<xsl:when
-						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 3')">
+					<xsl:when test="/TEI.2/@id = 'BoySal3R'">
 						<xsl:text>3</xsl:text>
 					</xsl:when>
-					<xsl:when
-						test="contains(/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245'], 'Volume 4')">
+					<xsl:when test="/TEI.2/@id = 'BoySal4R'">
 						<xsl:text>4</xsl:text>
 					</xsl:when>
 				</xsl:choose>
@@ -121,7 +120,10 @@
 			<h3> The Salem witchcraft papers, Volume <xsl:value-of select="$volume"/>: edited by
 				Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
 				Benjamin C. Ray and Tara S. Wood (2010)</h3>
-			<xsl:apply-templates select="descendant::TEI.2/text/front" mode="toc"/>
+			<ul>
+				<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
+							<xsl:value-of select="$volume"/></a></li>
+			</ul>
 			<xsl:apply-templates select="descendant::TEI.2/text/body" mode="toc"/>
 		</div>
 	</xsl:template>
@@ -183,10 +185,6 @@
 	</xsl:template>
 	<xsl:template match="body" mode="toc">
 		<ul>
-			<h4>
-				<a href="?div_id={generate-id(.)}">Body</a>
-			</h4>
-
 			<xsl:for-each select="div1">
 				<li>
 					<xsl:choose>
@@ -236,19 +234,6 @@
 				</li>
 			</xsl:for-each>
 		</ul>
-	</xsl:template>
-
-
-	<xsl:template match="text">
-		<xsl:apply-templates/>
-	</xsl:template>
-
-	<xsl:template match="front">
-		<xsl:apply-templates/>
-	</xsl:template>
-
-	<xsl:template match="body">
-		<xsl:apply-templates/>
 	</xsl:template>
 
 	<xsl:template match="div1">
@@ -347,6 +332,43 @@
 		</xsl:choose>
 	</xsl:template>
 
+	<xsl:template match="div2">
+		<div class="div2">
+			<xsl:choose>
+				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
+					<div class="figures">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']" mode="MassHistImages"/>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:apply-templates/>
+				</xsl:otherwise>
+			</xsl:choose>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="figure" mode="MassHistImages">		
+			<xsl:variable name="filename">
+				<xsl:choose>
+					<xsl:when test="contains(@n, 'r')">
+						<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
+					</xsl:when>
+					<xsl:when test="contains(@n, 'v')">
+						<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:variable>
+
+			<div class="figure">
+				<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
+					<img src="archives/MassHist/gifs/{$filename}.gif"/>
+				</a>
+				<br/>
+				<a href="archives/MassHist/large/{$filename}.jpg" target="_blank">Enlarge</a>
+			</div>		
+	</xsl:template>
+
 	<xsl:template match="term" mode="contents_terms">
 		<xsl:if test="position() = 1">
 			<li>
@@ -363,134 +385,6 @@
 			</a>
 		</li>
 	</xsl:template>
-
-	<xsl:template match="titlePage">
-		<div class="titlepage">
-			<xsl:apply-templates select="/TEI.2/text/front/titlePage/*" mode="titlepage"/>
-		</div>
-	</xsl:template>
-
-	<xsl:template match="titlePart" mode="titlepage">
-		<xsl:choose>
-			<xsl:when test="@type='subtitle'">
-				<h4>
-					<i>
-						<xsl:apply-templates/>
-					</i>
-				</h4>
-			</xsl:when>
-			<xsl:otherwise>
-				<h1>
-					<xsl:apply-templates/>
-				</h1>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-
-	<xsl:template match="docAuthor" mode="titlepage">
-		<xsl:choose>
-			<xsl:when test="name">
-				<xsl:apply-templates mode="titlepage"/>
-			</xsl:when>
-			<xsl:otherwise>
-				<h4>
-					<xsl:apply-templates/>
-				</h4>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-
-	<xsl:template match="docAuthor/name" mode="titlepage">
-		<h4>
-			<xsl:apply-templates/>
-		</h4>
-	</xsl:template>
-
-	<xsl:template match="docAuthor/address" mode="titlepage">
-		<xsl:apply-templates/>
-		<br/>
-	</xsl:template>
-
-	<xsl:template match="docImprint/publisher" mode="titlepage">
-		<xsl:apply-templates/>
-		<br/>
-	</xsl:template>
-
-	<xsl:template match="docImprint/pubPlace" mode="titlepage">
-		<i>
-			<xsl:apply-templates/>
-		</i>
-		<br/>
-	</xsl:template>
-
-	<xsl:template match="docImprint/docDate" mode="titlepage">
-		<xsl:text>&#169; </xsl:text>
-		<xsl:apply-templates/>
-		<br/>
-	</xsl:template>
-
-	<xsl:template match="div1[@type='dedication']" mode="titlepage">
-		<xsl:apply-templates/>
-	</xsl:template>
-
-	<xsl:template match="div1[@type='copyright']" mode="titlepage">
-		<xsl:apply-templates/>
-	</xsl:template>
-
-	<xsl:template match="div1[@type='epigraph']" mode="titlepage">
-		<xsl:apply-templates/>
-	</xsl:template>
-
-	<xsl:template match="seg" mode="titlepage">
-		<xsl:apply-templates/>
-		<br/>
-	</xsl:template>
-
-	<xsl:template match="pb" mode="display_titlepage">
-		<xsl:variable name="entity" select="@entity"/>
-		<!--  
-			<img src="{$figure.path}{$entity}.jpg" alt="cover"/>
-		-->
-	</xsl:template>
-
-	<xsl:template match="biblFull" mode="titlepage">
-		<table width="100%" cellpadding="5" cellspacing="5"
-			style="border-style: double; margin: 0px 0px 40px; text-align: center; background-color: rgb(255, 248, 220);">
-			<tr>
-				<td>
-					<h2
-						style="margin-top: 40px; margin-bottom: 0px; font-family: 'Times New Roman',Times,Georgia,serif; font-size: 2em; color: rgb(39, 64, 139); line-height: 46px;">
-						<xsl:value-of select="titleStmt/title[@type='main']"/>
-					</h2>
-					<h4>
-						<i>
-							<xsl:value-of select="titleStmt/title[@type='sub']"/>
-						</i>
-					</h4>
-					<h4>
-						<xsl:value-of select="titleStmt/author/name[@type='first']"/>
-						<xsl:text> </xsl:text>
-						<xsl:value-of select="titleStmt/author/name[@type='last']"/>
-					</h4>
-					<xsl:value-of select="titleStmt/author/dateRange"/>
-
-					<h6>
-						<xsl:value-of select="publicationStmt/publisher"/>
-					</h6>
-					<h6>
-						<i>
-							<xsl:value-of select="publicationStmt/pubPlace"/>
-						</i>
-					</h6>
-					<h6>
-						<xsl:value-of select="publicationStmt/date"/>
-					</h6>
-				</td>
-			</tr>
-		</table>
-		<hr/>
-	</xsl:template>
-
 
 	<xsl:template match="lb">
 		<br/>
@@ -515,7 +409,6 @@
 				</tr>
 			</xsl:for-each>
 		</table>
-
 	</xsl:template>
 
 	<xsl:template match="p">
@@ -542,8 +435,6 @@
 					<b>[No page number]</b>
 				</xsl:otherwise>
 			</xsl:choose>
-
-			<xsl:apply-templates select="fw"/>
 		</div>
 	</xsl:template>
 
@@ -816,28 +707,6 @@
 
 	</xsl:template>
 
-	<xsl:template match="figure">
-		<xsl:if test="substring(@n, 1, 1) = 'H'">
-			<xsl:variable name="filename">
-				<xsl:choose>
-					<xsl:when test="contains(@n, 'r')">
-						<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
-					</xsl:when>
-					<xsl:when test="contains(@n, 'v')">
-						<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
-					</xsl:when>
-				</xsl:choose>
-			</xsl:variable>
-
-			<div class="figure">
-				<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
-					<img src="archives/MassHist/gifs/{$filename}.gif"/>
-				</a><br/>
-				<a href="archives/MassHist/large/{$filename}.jpg" target="_blank">Large Image</a>
-			</div>
-		</xsl:if>
-	</xsl:template>
-
 	<xsl:template match="seg">
 		<xsl:apply-templates/>
 		<br/>
@@ -1037,6 +906,12 @@ margin-right: 0px;">
 				</a>
 			</xsl:otherwise>
 		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template match="name">
+		<a href="texts/salemSearch.htm?q=name_text:{@key}&amp;rows=20&amp;start=0">
+			<xsl:value-of select="."/>
+		</a>
 	</xsl:template>
 
 </xsl:stylesheet>
