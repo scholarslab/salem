@@ -4,6 +4,6 @@ $(function () {
 		imageLoading: 'images/loading.gif',
 		imageBtnClose: 'images/close.gif',
 		imageBtnPrev: 'images/prev.gif',
-		imageBtnNext: 'images/next.gif',
+		imageBtnNext: 'images/next.gif'
 	});
 });
