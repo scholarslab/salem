@@ -63,14 +63,19 @@
 						(1692/1693, excluding some undated items):</xsl:text>
 						<br/>
 						<xsl:text>year: </xsl:text>
+						<select id="range">
+							<option value="select">Select...</option>
+							<option value="exactly">Exactly</option>
+							<option value="after">After</option>
+							<option value="before">Before</option>
+							<option value="from">From...</option>
+						</select>
 						<select id="year">
-							<option value="any">any</option>
 							<option>1692</option>
 							<option>1693</option>
 						</select>
 						<xsl:text>month: </xsl:text>
 						<select id="month">
-							<option value="any" selected="">any </option>
 							<option value="01">Jan. </option>
 							<option value="02">Feb. </option>
 							<option value="03">Mar. </option>
@@ -86,7 +91,6 @@
 						</select>
 						<xsl:text>day: </xsl:text>
 						<select id="day">
-							<option value="any" selected="">any </option>
 							<option>01 </option>
 							<option>02 </option>
 							<option>03 </option>
@@ -119,6 +123,62 @@
 							<option>30 </option>
 							<option>31 </option>
 						</select>
+						<div class="toDate_hidden">
+							<select id="year2">
+								<option>1692</option>
+								<option>1693</option>
+							</select>
+							<xsl:text>month: </xsl:text>
+							<select id="month2">
+								<option value="01">Jan. </option>
+								<option value="02">Feb. </option>
+								<option value="03">Mar. </option>
+								<option value="04">Apr. </option>
+								<option value="05">May </option>
+								<option value="06">Jun. </option>
+								<option value="07">Jul. </option>
+								<option value="08">Aug. </option>
+								<option value="09">Sep. </option>
+								<option value="10">Oct. </option>
+								<option value="11">Nov. </option>
+								<option value="12">Dec. </option>
+							</select>
+							<xsl:text>day: </xsl:text>
+							<select id="day2">
+								<option>01 </option>
+								<option>02 </option>
+								<option>03 </option>
+								<option>04 </option>
+								<option>05 </option>
+								<option>06 </option>
+								<option>07 </option>
+								<option>08 </option>
+								<option>09 </option>
+								<option>10 </option>
+								<option>11 </option>
+								<option>12 </option>
+								<option>13 </option>
+								<option>14 </option>
+								<option>15 </option>
+								<option>16 </option>
+								<option>17 </option>
+								<option>18 </option>
+								<option>19 </option>
+								<option>20 </option>
+								<option>21 </option>
+								<option>22 </option>
+								<option>23 </option>
+								<option>24 </option>
+								<option>25 </option>
+								<option>26 </option>
+								<option>27 </option>
+								<option>28 </option>
+								<option>29 </option>
+								<option>30 </option>
+								<option>31 </option>
+							</select>
+						</div>
+						<br/>
 						<br/>
 						<input type="submit" value="Submit" id="search_button"/>
 						<input type="reset" value="Clear"/>

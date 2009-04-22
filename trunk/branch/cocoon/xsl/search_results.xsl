@@ -6,6 +6,7 @@
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
 	<xsl:param name="mode"/>
+	<xsl:param name="numFound" select="//result[@name='response']/@numFound"/>
 
 	<xsl:template match="/">
 		<xsl:choose>
@@ -13,9 +14,17 @@
 				<xsl:apply-templates select="//doc" mode="teidoc"/>
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:call-template name="paging"/>
-				<xsl:apply-templates select="//doc" mode="normal"/>
-				<xsl:call-template name="paging"/>
+				<xsl:choose>
+					<xsl:when test="$numFound = '0'">
+						<p>No results found. Please broaden query to find applicable terms and/or
+							dates.</p>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:call-template name="paging"/>
+						<xsl:apply-templates select="//doc" mode="normal"/>
+						<xsl:call-template name="paging"/>
+					</xsl:otherwise>
+				</xsl:choose>
 			</xsl:otherwise>
 		</xsl:choose>
 
@@ -49,7 +58,7 @@
 
 		<div class="doc">
 			<a
-				href="../{str[@name='doc_id']}.xml?q={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
+				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
 			<br/>
@@ -65,9 +74,6 @@
 	</xsl:template>
 
 	<xsl:template name="paging">
-		<xsl:variable name="numFound">
-			<xsl:value-of select="//result[@name='response']/@numFound"/>
-		</xsl:variable>
 
 		<xsl:variable name="next">
 			<xsl:value-of select="$start+$rows"/>

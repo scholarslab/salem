@@ -299,6 +299,14 @@ ul li {
 .doc {
 	margin:20px;
 }
+.toDate_visible{
+	margin-left:20px;
+	display:inline;
+}
+.toDate_hidden{
+	margin-left:20px;
+	display:none;
+}
 /*
   *
   * jQuery lightBox plugin

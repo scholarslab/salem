@@ -106,47 +106,6 @@ function unhighlight(node) {
 	}
 }
 
-function googleSearchHighlight() {
-	if (!document.createElement) return;
-	ref = document.referrer;
-        ref = ref.replace(/\/search\/web\//,'?search&q='); // Most WebCrawler searches
-	if (ref.indexOf('?') == -1) return;
-	qs = ref.substr(ref.indexOf('?')+1);
-        qsa = qs.split('#');
-        qs = qsa[0];
-        qs = qs.replace(/(^|&)p=Q&ts=e&/,'&'); // Most Eurekster searches
-        qs = qs.replace(/(^|&)query=/,'&q='); // Most Lycos searches
-        qs = qs.replace(/(^|&)key=/,'&q='); // Most Walhello searches
-        qs = qs.replace(/(^|&)keywords=/i,'&q='); // Most Overture searches
-        qs = qs.replace(/(^|&)searchfor=/,'&q='); // Most Mysearch.com searches
-        qs = qs.replace(/(^|&)qt=/,'&q='); // Most Acoona.com searches
-        qs = qs.replace(/(^|&)s=/,'&q='); // Most Technirati GET searches
-	qsa = qs.split('&');
-	for (i=0;i<qsa.length;i++) {
-		qsip = qsa[i].split('=');
-	        if (qsip.length == 1) continue;
-        	if (qsip[0] == 'q' || qsip[0] == 'p' || qsip[0] == 'w') { // q= for Google, p= for Yahoo, w= for Eurekster
-			// Trim leading and trailing spaces after unescaping
-			qsip[1] = unescape(qsip[1]).replace(/^\s+|\s+$/g, "");
-			if( qsip[1] == '' ) continue;
-                        phrases = qsip[1].replace(/\+/g,' ').split(/\"/);
-			for(p=0;p<phrases.length;p++) {
-			        phrases[p] = unescape(phrases[p]).replace(/^\s+|\s+$/g, "");
-				if( phrases[p] == '' ) continue;
-				if( p % 2 == 0 ) words = phrases[p].replace(/([+,()]|%(29|28)|\W+(AND|OR)\W+)/g,' ').split(/\s+/);
-				else { words=Array(1); words[0] = phrases[p]; }
-	                	for (w=0;w<words.length;w++) {
-					if( words[w] == '' ) continue;
-					highlightWord(document.getElementsByTagName("body")[0],words[w]);
-					if( p % 2 == 0 ) searchhi_string = searchhi_string + ' ' + words[w];
-					else searchhi_string = searchhi_string + ' "' + words[w] + '"';
-                		}
-			}
-
-	        }
-	}
-}
-
 // Everything form this point on is modified to allow for highlighting
 // of terms found in the REQUEST URI
 function localSearchHighlight(searchStr, tryQ) {
@@ -158,7 +117,7 @@ function localSearchHighlight(searchStr, tryQ) {
 	for (i=0;i<qsa.length;i++) {
 		qsip = qsa[i].split('=');
 	        if (qsip.length == 1) continue;
-        	if (qsip[0] == 'h' || ( tryQ && ( qsip[0] == 'q' || qsip[0] == 'p' ) ) ) { // be careful about ghost highlights
+        	if (qsip[0] == 'h' || ( tryQ && ( qsip[0] == 'term' || qsip[0] == 'p' ) ) ) { // be careful about ghost highlights
 			// Trim leading and trailing spaces after unescaping
 			qsip[1] = unescape(qsip[1]).replace(/^\s+|\s+$/g, "");
 			if( qsip[1] == '' ) continue;
@@ -208,7 +167,7 @@ function SearchHighlight() {
           //   ignore the referrer.
           if( ( docrefpage[0].toUpperCase() != locrefpage[0].toUpperCase() )
               &&
-              ( ( docrefpage[1] && docrefpage[1].match(/(^|&)(p=Q&ts=e&|query=|key=|keywords=|searchfor=|qt=|q=)/) )
+              ( ( docrefpage[1] && docrefpage[1].match(/(^|&)(term=)/) )
                 || document.referrer.match(/\/search\/web\//) ) ) 
           {
                // Look to location (via "h" field) *AND* referrer
