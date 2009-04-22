@@ -124,6 +124,7 @@
 							<option>31 </option>
 						</select>
 						<div class="toDate_hidden">
+							<xsl:text>To: </xsl:text>
 							<select id="year2">
 								<option>1692</option>
 								<option>1693</option>
