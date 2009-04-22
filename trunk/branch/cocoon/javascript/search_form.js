@@ -35,7 +35,6 @@ $(function () {
 			date = '[' + year + month + day + ' TO ' + year2 + month2 + day2 + ']';
 		}
 		else{ date = 'none';};
-		alert (date);
 		
 		if (date != 'none'){
 			if (search_text == ''){
