@@ -3897,67 +3897,18 @@
 			<pb/>
 			<titlePage>
 				<docTitle>
-					<titlePart type="main"> THE SALEM <lb/> WITCHCRAFT <lb/> PAPERS </titlePart>
-					<titlePart type="sub"> Verbatim Transcripts of the Legal Documents <lb/> of the
-						Salem Witchcraft Outbreak of 1692 <lb/> IN THREE VOLUMES </titlePart>
+					<titlePart type="main">The Salem Witchcraft Papers</titlePart>
+					<titlePart type="sub">Verbatim Transcriptions of the Court Records <lb/> In
+						three volumes.<lb/> Edited by Paul Boyer and Stephen Nissenbaum <lb/> Da
+						Capo Press: New York, 1977. </titlePart>
 				</docTitle>
-				<docImprint> Compiled and Transcribed in 1938 by the <lb/> Works Progress
-					Administration <lb/> Under the Supervision of <lb/>
-					<hi rend="bold">Archie N. Frost </hi>
-					<lb/>
-					<hi rend="italics">Clerk of Courts, Essex County, Massachusetts </hi>
+				<docImprint>Digital Edition<lb/> With Permission of <publisher>Da Capo
+					Press</publisher>
 				</docImprint>
-				<byline> Edited and with an Introduction and Index by <lb/>
-					<docAuthor rend="bold">PAUL BOYER and STEPHEN NISSENBAUM </docAuthor>
-					<lb/> VOLUME I </byline>
-				<docImprint>
-					<publisher rend="bold">DA CAPO PRESS </publisher> • <pubPlace rend="bold">NEW
-						YORK </pubPlace> • <docDate rend="bold">1977 </docDate>
-					<lb/>
-					<seg part="N">KFM <lb/> 2478 <lb/> -8 <lb/> -W5S24 <lb/> V. 1 </seg>
-					<seg part="N">Library of Congress Cataloging in Publication Data </seg>
-					<seg part="N">Main entry under title: </seg>
-					<seg part="N">The Salem witchcraft papers. </seg>
-					<seg part="N">Bibliography: v. 1, p. </seg>
-					<seg part="N">Includes index. </seg>
-					<seg part="N">1. Trials (Witchcraft) -- Massachusetts. 2. Massachusetts --
-						History -- Colonial period, ca. <lb/> 1600-1775. I. Boyer, Paul. II.
-						Nissenbaum, Stephen. III. United States. Work Projects <orig
-							reg="Administration">Ad- <lb/> ministration </orig>. </seg>
-					<seg part="N">KFM2478.8.W5S24 345'.744'0288 77-7530 </seg>
-					<seg part="N">ISBN 0-306-70755-5 (v. 1) </seg>
-					<seg part="N">Grateful acknowledgment is made to Harvard University Press,
-						Cambridge, Massachusetts, <lb/> for permission to reprint documents from
-						Volume II of Thomas Hutchinson: <hi rend="italics">The History <lb/> of the
-							Colony and Province of Massachusetts-Bay, </hi> Lawrence Shaw Mayo, Ed.
-						(London, <lb/> 1768; reprint edition Cambridge, Mass., 1936), pp. 24-25, 26,
-						30-31, 31-32, 32-33, 34, 35, <lb/> and 40 (Copyright 1936 by the President
-						and Fellows of Harvard College). </seg>
-					<seg part="N">Grateful acknowledgment is made to Barnes and Noble Import
-						Division, Harper &amp; Row, <lb/> Publishers, Inc., for permission to
-						reprint documents from <hi rend="italics">Narratives of the Witchcraft <lb/>
-							Cases, 1648-1706, </hi> George L. Burr, Ed. (New York, 1914; reprint
-						edition New York, 1968), <lb/> pp. 196-202, 250, 347-48, 350-52, 353-55,
-						359, 362-64, 365-66, and 419-20 (Copyright <lb/> 1914 by Charles Scribner's
-						Sons; All Rights Assigned to Barnes &amp; Noble, Inc., 1946; <orig
-							reg="Reprinted">Re- <lb/> printed </orig> 1968). </seg>
-					<seg part="N">
-						<hi rend="italics">The Salem Witchcraft Papers </hi> is the first edition
-						ever published of all the legal documents <lb/> concerning the 1692 outbreak
-						of witchcraft in Salem, as compiled and transcribed in 1938 <lb/> by the
-						Works Progress Administration under the supervision of Archie N. Frost,
-						Clerk of <lb/> Courts, Essex County, Massachusetts. The work contains all of
-						the WPA transcripts, <orig reg="rearranged">re- <lb/> arranged </orig> in a
-						few instances to facilitate their use, and augmented by copies of several
-						<lb/> documents that are no longer extant in the Essex County Archives in
-						Salem. </seg>
-					<seg part="N">Copyright © 1977 by Da Capo Press, Inc. <lb/> Introduction
-						Copyright © 1977 by Paul Boyer and Stephen Nissenbaum </seg>
-					<seg part="N">Published by Da Capo Press, Inc. <lb/> A Subsidiary of Plenum
-						Publishing Corporation <lb/> 227 West 17th Street, New York, N.Y. 10011 </seg>
-					<seg part="N">All Rights Reserved </seg>
-					<seg part="N">Manufactured in the United States of America </seg>
-				</docImprint>
+				<byline>Revised, corrected, and augmented <lb/> by Benjamin C. Ray and Tara S. Wood. </byline>
+				<docImprint>Digital Format, Scholars Lab., University of Virginia,
+					<docDate>2010</docDate><lb/> ©<docDate>2003</docDate>, Benjamin C. Ray and The
+					Rector and Visitors of the University of Virginia </docImprint>
 			</titlePage>
 			<pb n="vi"/>
 			<div1 id="n3" type="halftitle" org="uniform" sample="complete" part="N" TEIform="div1">

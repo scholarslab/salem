@@ -7,6 +7,18 @@
 	<xsl:param name="start"/>
 	<xsl:param name="mode"/>
 	<xsl:param name="numFound" select="//result[@name='response']/@numFound"/>
+	<xsl:param name="query">
+		<xsl:choose>
+			<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
+				<xsl:value-of select="substring-before($q, ' AND')"/>
+			</xsl:when>
+			<xsl:when test="contains($q, 'name_text')"/>
+			<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
+			<xsl:otherwise>
+				<xsl:value-of select="$q"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:param>
 
 	<xsl:template match="/">
 		<xsl:choose>
@@ -34,7 +46,11 @@
 		<xsl:variable name="id" select="str[@name='id']"/>
 
 		<div class="doc">
-			<a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
+			<!-- old -->
+			<!-- <a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
+				<xsl:value-of select="str[@name='title']"/>
+				</a> -->
+			<a href="{str[@name='doc_id']}.xml?div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
 		</div>
@@ -43,22 +59,14 @@
 	<xsl:template match="doc" mode="normal">
 		<xsl:variable name="id" select="str[@name='id']"/>
 
-		<xsl:variable name="query">
-			<xsl:choose>
-				<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
-					<xsl:value-of select="substring-before($q, ' AND')"/>
-				</xsl:when>
-				<xsl:when test="contains($q, 'name_text')"/>
-				<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
-				<xsl:otherwise>
-					<xsl:value-of select="$q"/>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
-
 		<div class="doc">
-			<a
+			<!-- old -->
+			<!-- <a
 				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
+				<xsl:value-of select="str[@name='title']"/>
+				</a>-->
+			<a
+				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
 			<br/>

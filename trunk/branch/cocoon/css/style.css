@@ -8,7 +8,7 @@
 body {
 	background-color:#ffffff;
 	color:#2b2b2b;
-	font:14px times,serif;
+	font:16px times,serif;
 }
 a:link {
 	color:#000000;
@@ -118,6 +118,7 @@ ul li {
 	padding:5px;
 	border:1px solid black;
 	margin-bottom:10px;
+	font-size:14px;
 }
 .toc_header {
 	margin-left:10px;
@@ -149,7 +150,6 @@ ul li {
 /* ---------------------------------------------------------------------------------------------------------------- */
 .pb {
 	width:90%;
-	border-bottom:1px dashed black;
 	margin-left:auto;
 	margin-right:auto;
 	text-align:center;
@@ -178,6 +178,7 @@ ul li {
 	background-color:#cccccc;
 	border:1px solid black;
 	text-align:center;
+	font-size:14px;
 }
 .jqueryLightbox>img {
 	max-width:60px;
@@ -262,10 +263,15 @@ ul li {
 /* ---------------------------------------------------------------------------------------------------------------- */
 /* ---------->>> Search <<<----------------------------------------------------------------------------- */
 /* ---------------------------------------------------------------------------------------------------------------- */
+#search_form {
+	margin-bottom:10px;
+	padding:20px;
+	border-bottom:1px solid #696969;
+}
 #search_form>select {
 	margin-right:20px;
 }
-#search_button{
+#search_button {
 	margin-right:20px;
 }
 #search {
@@ -299,11 +305,11 @@ ul li {
 .doc {
 	margin:20px;
 }
-.toDate_visible{
+.toDate_visible {
 	margin-left:20px;
 	display:inline;
 }
-.toDate_hidden{
+.toDate_hidden {
 	margin-left:20px;
 	display:none;
 }

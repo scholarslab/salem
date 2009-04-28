@@ -7,6 +7,7 @@
 	<xsl:param name="q"/>
 	<xsl:param name="doc_id" select="//TEI.2/@id"/>
 	<xsl:param name="name"/>
+	<xsl:param name="chapter_id"/>
 
 	<xsl:template match="/">
 		<html>
@@ -86,8 +87,7 @@
 										select="descendant::node()[generate-id(.) = $div_id]"/>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:apply-templates
-										select="descendant::node()[@type='contents']"/>
+									<xsl:apply-templates select="descendant::titlePage"/>
 								</xsl:otherwise>
 							</xsl:choose>
 						</div>
@@ -121,14 +121,16 @@
 				Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
 				Benjamin C. Ray and Tara S. Wood (2010)</h3>
 			<ul>
-				<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
-							<xsl:value-of select="$volume"/></a></li>
+				<!--<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
+				<xsl:value-of select="$volume"/></a></li>-->
+				<li>Title Page: <a href="{/TEI.2/@id}.xml">Volume <xsl:value-of select="$volume"
+					/></a></li>
 			</ul>
 			<xsl:apply-templates select="descendant::TEI.2/text/body" mode="toc"/>
 		</div>
 	</xsl:template>
 
-	<xsl:template match="front" mode="toc">
+	<!--<xsl:template match="front" mode="toc">
 		<ul>
 			<h4>
 				<a href="?div_id={generate-id(.)}">Front Matter</a>
@@ -182,7 +184,8 @@
 				</li>
 			</xsl:for-each>
 		</ul>
-	</xsl:template>
+		</xsl:template>-->
+
 	<xsl:template match="body" mode="toc">
 		<ul>
 			<xsl:for-each select="div1">
@@ -190,16 +193,23 @@
 					<xsl:choose>
 						<xsl:when test="name() = 'div1'">
 							<xsl:choose>
-								<xsl:when test="@type='case'">
-									<xsl:text>Case File</xsl:text>
+								<xsl:when test="@id = $div_id or @id = $chapter_id">
+									<b>Case File: </b>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:value-of select="@type"/>
+									<xsl:text>Case File: </xsl:text>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
-							<xsl:text>Title Page</xsl:text>
+							<xsl:choose>
+								<xsl:when test="@id = $div_id or @id = $chapter_id">
+									<b>Title Page: </b>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:text>Title Page: </xsl:text>
+								</xsl:otherwise>
+							</xsl:choose>
 						</xsl:otherwise>
 					</xsl:choose>
 
@@ -207,26 +217,61 @@
 						<xsl:when test="@id">
 							<xsl:choose>
 								<xsl:when test="head">
-									<xsl:text>: </xsl:text>
-									<a href="?div_id={@id}">
-										<xsl:value-of select="normalize-space(head)"/>
-									</a>
+									<xsl:choose>
+										<xsl:when test="@id = $div_id or @id = $chapter_id">
+											<b>
+												<xsl:value-of select="normalize-space(head)"/>
+											</b>
+										</xsl:when>
+										<xsl:otherwise>
+											<a href="?div_id={@id}">
+												<xsl:value-of select="normalize-space(head)"/>
+											</a>
+										</xsl:otherwise>
+									</xsl:choose>
 								</xsl:when>
 								<xsl:otherwise>
-									<a href="?div_id={@id}"> [No title] </a>
+									<xsl:choose>
+										<xsl:when test="@id = $div_id or @id = $chapter_id">
+											<b>
+												<xsl:value-of select="normalize-space(head)"/>
+											</b>
+										</xsl:when>
+										<xsl:otherwise>
+											<a href="?div_id={@id}"> [No title] </a>
+										</xsl:otherwise>
+									</xsl:choose>
+
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:choose>
 								<xsl:when test="head">
-									<xsl:text>: </xsl:text>
-									<a href="?div_id={generate-id(.)}">
-										<xsl:value-of select="normalize-space(head)"/>
-									</a>
+									<xsl:choose>
+										<xsl:when test="@id = $div_id or @id = $chapter_id">
+											<b>
+												<xsl:value-of select="normalize-space(head)"/>
+											</b>
+										</xsl:when>
+										<xsl:otherwise>
+											<a href="?div_id={generate-id(.)}">
+												<xsl:value-of select="normalize-space(head)"/>
+											</a>
+										</xsl:otherwise>
+									</xsl:choose>
 								</xsl:when>
 								<xsl:otherwise>
-									<a href="?div_id={generate-id(.)}"> [No title] </a>
+									<xsl:choose>
+										<xsl:when test="@id = $div_id or @id = $chapter_id">
+											<b>
+												<xsl:value-of select="normalize-space(head)"/>
+											</b>
+										</xsl:when>
+										<xsl:otherwise>
+											<a href="?div_id={generate-id(.)}"> [No title] </a>
+										</xsl:otherwise>
+									</xsl:choose>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:otherwise>
@@ -234,6 +279,43 @@
 				</li>
 			</xsl:for-each>
 		</ul>
+	</xsl:template>
+
+	<xsl:template match="titlePage">
+		<xsl:apply-templates/>
+	</xsl:template>
+
+	<xsl:template match="docTitle">
+		<xsl:apply-templates/>
+	</xsl:template>
+
+	<xsl:template match="docImprint">
+		<h4>
+			<xsl:apply-templates/>
+		</h4>
+	</xsl:template>
+
+	<xsl:template match="byline">
+		<h4>
+			<i>
+				<xsl:apply-templates/>
+			</i>
+		</h4>
+	</xsl:template>
+
+	<xsl:template match="titlePart">
+		<xsl:choose>
+			<xsl:when test="@type='main'">
+				<h1 style="padding-bottom:20px;">
+					<xsl:apply-templates/>
+				</h1>
+			</xsl:when>
+			<xsl:when test="@type='sub'">
+				<h2 style="padding-bottom:20px;">
+					<xsl:apply-templates/>
+				</h2>
+			</xsl:when>
+		</xsl:choose>
 	</xsl:template>
 
 	<xsl:template match="div1">
@@ -246,7 +328,8 @@
 							src="cocoon:/search_results?q={$q}&amp;mode=teidoc&amp;name={$name}"
 						/>
 					</xsl:when>
-					<xsl:otherwise>
+					<!-- names list-->
+					<!--<xsl:otherwise>
 						<h1>List of Names</h1>
 						<ul class="names_list">
 							<li class="names_column">
@@ -323,7 +406,7 @@
 								</ul>
 							</li>
 						</ul>
-					</xsl:otherwise>
+					</xsl:otherwise>-->
 				</xsl:choose>
 			</xsl:when>
 			<xsl:otherwise>
@@ -337,7 +420,8 @@
 			<xsl:choose>
 				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
 					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']" mode="MassHistImages"/>
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
+							mode="MassHistImages"/>
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
@@ -345,28 +429,30 @@
 					<xsl:apply-templates/>
 				</xsl:otherwise>
 			</xsl:choose>
+			<hr style="width:80%;margin-left:auto;margin-right:auto;margin-top:20px;"/>
 		</div>
 	</xsl:template>
 
-	<xsl:template match="figure" mode="MassHistImages">		
-			<xsl:variable name="filename">
-				<xsl:choose>
-					<xsl:when test="contains(@n, 'r')">
-						<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
-					</xsl:when>
-					<xsl:when test="contains(@n, 'v')">
-						<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
-					</xsl:when>
-				</xsl:choose>
-			</xsl:variable>
+	<xsl:template match="figure" mode="MassHistImages">
+		<xsl:variable name="filename">
+			<xsl:choose>
+				<xsl:when test="contains(@n, 'r')">
+					<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
+				</xsl:when>
+				<xsl:when test="contains(@n, 'v')">
+					<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
+				</xsl:when>
+			</xsl:choose>
+		</xsl:variable>
 
-			<div class="figure">
-				<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
-					<img src="archives/MassHist/gifs/{$filename}.gif"/>
-				</a>
-				<br/>
-				<a href="archives/MassHist/large/{$filename}.jpg" target="_blank">Enlarge</a>
-			</div>		
+		<div class="figure">
+			<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
+				<img src="archives/MassHist/gifs/{$filename}.gif"/>
+			</a>
+			<br/>
+			<a href="archives/MassHist/large/{$filename}.jpg" target="_blank"
+			>Enlarge<br/>Manuscript</a>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="term" mode="contents_terms">
@@ -421,7 +507,9 @@
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
-	<xsl:template match="pb">
+
+	<!-- removed pb milestones, no longer necessary since content has been changed versus printed edition -->
+	<!--<xsl:template match="pb">
 		<div class="pb">
 			<xsl:choose>
 				<xsl:when test="@n">
@@ -436,7 +524,7 @@
 				</xsl:otherwise>
 			</xsl:choose>
 		</div>
-	</xsl:template>
+	</xsl:template>-->
 
 	<xsl:template match="cb">
 		<xsl:if test="not(preceding-sibling::pb)">
@@ -495,6 +583,12 @@
 							</xsl:otherwise>
 						</xsl:choose>
 					</h2>
+					<!-- for salem: view entire case if viewing a div2 from a search result -->
+					<xsl:if test="string($chapter_id)">
+						<div style="width:100%;text-align:center;margin-bottom:20px;">
+							<a href="?div_id={$chapter_id}">View Entire Case File</a>
+						</div>
+					</xsl:if>
 				</xsl:if>
 				<xsl:if test="@type='sub'">
 					<xsl:if test="string(parent::node()/@id)">
@@ -908,10 +1002,11 @@ margin-right: 0px;">
 		</xsl:choose>
 	</xsl:template>
 
-	<xsl:template match="name">
+	<!-- link to names -->
+	<!--<xsl:template match="name">
 		<a href="texts/salemSearch.htm?q=name_text:{@key}&amp;rows=20&amp;start=0">
 			<xsl:value-of select="."/>
 		</a>
-	</xsl:template>
+	</xsl:template>-->
 
 </xsl:stylesheet>

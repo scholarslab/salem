@@ -5,6 +5,18 @@
 	<xsl:param name="q"/>
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
+	<xsl:param name="query">
+		<xsl:choose>
+			<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
+				<xsl:value-of select="substring-before($q, ' AND')"/>
+			</xsl:when>
+			<xsl:when test="contains($q, 'name_text')"/>
+			<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
+			<xsl:otherwise>
+				<xsl:value-of select="$q"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:param>
 
 	<xsl:template match="/">
 		<html>
@@ -51,11 +63,11 @@
 						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
 						<xsl:choose>
-							<xsl:when test="contains($q, name_text)">
+							<xsl:when test="contains($q, 'name_text')">
 								<input type="text" name="q" id="q"/>
 							</xsl:when>
 							<xsl:otherwise>
-								<input type="text" name="q" value="{$q}" id="q"/>
+								<input type="text" name="q" value="{$query}" id="q"/>
 							</xsl:otherwise>
 						</xsl:choose>
 						<br/>
@@ -181,11 +193,11 @@
 						</div>
 						<br/>
 						<br/>
-						<input type="submit" value="Submit" id="search_button"/>
-						<input type="reset" value="Clear"/>
+						<input type="submit" value="Search" id="search_button"/>
+						<input type="button" value="Clear Results" onclick="window.location.href='salemSearch.htm'"/>
 					</form>
 					<div id="search">
-						<xsl:if test="$q">
+						<xsl:if test="$q">							
 							<cinclude:include src="cocoon:/search_results?q={$q}"/>
 						</xsl:if>
 					</div>
