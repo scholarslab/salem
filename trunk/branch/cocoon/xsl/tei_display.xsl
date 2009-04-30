@@ -713,32 +713,32 @@
 	</xsl:template>
 
 	<xsl:template match="closer">
-		<xsl:apply-templates select="signed"/>
-		<xsl:apply-templates select="dateline"/>
-
+		<div class="closer">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="opener">
-		<xsl:apply-templates select="dateline"/>
-		<xsl:apply-templates select="salute"/>
+		<div class="opener">
+			<xsl:apply-templates/>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="salute">
-		<p>
-			<xsl:value-of select="."/>
-		</p>
+		<xsl:apply-templates/>
+		<br/>
 	</xsl:template>
 
 	<xsl:template match="signed">
-		<p>
-			<xsl:value-of select="."/>
-		</p>
+		<i>
+			<xsl:apply-templates/>
+		</i>
+		<br/>
 	</xsl:template>
 
 	<xsl:template match="dateline">
-		<p>
-			<xsl:apply-templates/>
-		</p>
+		<xsl:apply-templates/>
+		<br/>
 	</xsl:template>
 
 	<xsl:template match="list">
@@ -806,13 +806,13 @@
 		<br/>
 	</xsl:template>
 
-	<xsl:template match="ref">
+	<!--<xsl:template match="ref">
 
 		<a href="#{@target}">
 			<xsl:value-of select="."/>
 		</a>
 
-	</xsl:template>
+	</xsl:template>-->
 
 	<xsl:template match="note">
 
@@ -881,19 +881,15 @@ margin-right: 0px;">
 	</xsl:template>
 
 	<xsl:template match="fw">
-
 		<p>
 			<font color="gray">
 				<xsl:value-of select="."/>
 			</font>
 		</p>
-
 	</xsl:template>
 
 	<xsl:template match="sp">
-
 		<xsl:apply-templates/>
-
 	</xsl:template>
 
 	<xsl:template match="speaker">
@@ -909,7 +905,6 @@ margin-right: 0px;">
 	</xsl:template>
 
 	<xsl:template match="stage">
-
 		<p>
 			<xsl:if test="@rend='left' or @rend='right' or @rend='center'">
 				<xsl:attribute name="align">
@@ -918,11 +913,9 @@ margin-right: 0px;">
 			</xsl:if>
 			<xsl:apply-templates/>
 		</p>
-
 	</xsl:template>
 
 	<xsl:template match="ab">
-
 		<p>
 			<xsl:if test="@rend='left' or @rend='right' or @rend='center'">
 				<xsl:attribute name="align">
@@ -931,14 +924,11 @@ margin-right: 0px;">
 			</xsl:if>
 			<xsl:apply-templates/>
 		</p>
-
 		<xsl:if test="@type='epigraph'">
 			<font size="-1">
 				<xsl:apply-templates/>
 			</font>
 		</xsl:if>
-
-
 	</xsl:template>
 
 	<xsl:template match="hi">
@@ -986,7 +976,7 @@ margin-right: 0px;">
 		</xsl:choose>
 	</xsl:template>
 
-	<xsl:template match="xref">
+	<!--<xsl:template match="xref">
 		<xsl:choose>
 			<xsl:when test="parent::item">
 				<a href="{@doc}">
@@ -1000,13 +990,26 @@ margin-right: 0px;">
 				</a>
 			</xsl:otherwise>
 		</xsl:choose>
-	</xsl:template>
+	</xsl:template>-->
 
 	<!-- link to names -->
 	<!--<xsl:template match="name">
 		<a href="texts/salemSearch.htm?q=name_text:{@key}&amp;rows=20&amp;start=0">
 			<xsl:value-of select="."/>
 		</a>
-	</xsl:template>-->
+		</xsl:template>-->
+
+	<xsl:template match="name">
+		<xsl:choose>
+			<xsl:when test="@key = $name">
+				<span class="searchword">
+					<xsl:value-of select="."/>
+				</span>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="."/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
 
 </xsl:stylesheet>

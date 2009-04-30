@@ -6,6 +6,7 @@
 	<xsl:param name="rows"/>
 	<xsl:param name="start"/>
 	<xsl:param name="mode"/>
+	<xsl:param name="name"/>
 	<xsl:param name="numFound" select="//result[@name='response']/@numFound"/>
 	<xsl:param name="query">
 		<xsl:choose>
@@ -18,6 +19,11 @@
 				<xsl:value-of select="$q"/>
 			</xsl:otherwise>
 		</xsl:choose>
+	</xsl:param>
+	<xsl:param name="nameid">
+		<xsl:if test="contains($q, 'name_text')">
+			<xsl:value-of select="substring-after($q, ':')"/>
+		</xsl:if>
 	</xsl:param>
 
 	<xsl:template match="/">
@@ -50,7 +56,8 @@
 			<!-- <a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
 				</a> -->
-			<a href="{str[@name='doc_id']}.xml?div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
+			<a
+				href="{str[@name='doc_id']}.xml?div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
 		</div>
@@ -65,10 +72,21 @@
 				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
 				<xsl:value-of select="str[@name='title']"/>
 				</a>-->
-			<a
-				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
-				<xsl:value-of select="str[@name='title']"/>
-			</a>
+			<xsl:choose>
+				<xsl:when test="string($nameid)">
+					<a
+						href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
+						<xsl:value-of select="str[@name='title']"/>
+					</a>
+				</xsl:when>
+				<xsl:otherwise>
+					<a
+						href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
+						<xsl:value-of select="str[@name='title']"/>
+					</a>
+				</xsl:otherwise>
+			</xsl:choose>
+
 			<br/>
 			<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 		</div>
@@ -82,7 +100,6 @@
 	</xsl:template>
 
 	<xsl:template name="paging">
-
 		<xsl:variable name="next">
 			<xsl:value-of select="$start+$rows"/>
 		</xsl:variable>
@@ -101,28 +118,45 @@
 
 		<div class="paging_div">
 			<div style="float:left;">
-				<xsl:text>Displaying records </xsl:text>
-				<b>
-					<xsl:value-of select="$start + 1"/>
-				</b>
-				<xsl:text> to </xsl:text>
 				<xsl:choose>
-					<xsl:when test="$numFound &gt; ($start + $rows)">
-						<b>
-							<xsl:value-of select="$start + $rows"/>
-						</b>
+					<xsl:when test="$numFound= '1'">
+						<xsl:text>Displaying 1 result</xsl:text>
+						<xsl:if test="string($name)"> for <b>
+								<xsl:value-of select="$name"/>
+							</b>
+						</xsl:if>
+						<xsl:text>.</xsl:text>
 					</xsl:when>
 					<xsl:otherwise>
+						<xsl:text>Displaying records </xsl:text>
+						<b>
+							<xsl:value-of select="$start + 1"/>
+						</b>
+						<xsl:text> to </xsl:text>
+						<xsl:choose>
+							<xsl:when test="$numFound &gt; ($start + $rows)">
+								<b>
+									<xsl:value-of select="$start + $rows"/>
+								</b>
+							</xsl:when>
+							<xsl:otherwise>
+								<b>
+									<xsl:value-of select="$numFound"/>
+								</b>
+							</xsl:otherwise>
+						</xsl:choose>
+						<xsl:text> of </xsl:text>
 						<b>
 							<xsl:value-of select="$numFound"/>
 						</b>
+						<xsl:text> total results</xsl:text>
+						<xsl:if test="string($name)"> for <b>
+								<xsl:value-of select="$name"/>
+							</b>
+						</xsl:if>
+						<xsl:text>.</xsl:text>
 					</xsl:otherwise>
 				</xsl:choose>
-				<xsl:text> of </xsl:text>
-				<b>
-					<xsl:value-of select="$numFound"/>
-				</b>
-				<xsl:text> total results.</xsl:text>
 			</div>
 
 			<!-- paging functionality -->

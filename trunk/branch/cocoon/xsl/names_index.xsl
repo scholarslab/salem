@@ -312,7 +312,7 @@
 		<xsl:if test="string(substring-after(@name, '|'))">
 			<li class="name">
 				<a
-					href="salemSearch.htm?q=name_text:{substring-before(@name, '|')}&amp;rows=20&amp;start=0">
+					href="salemSearch.htm?q=name_text:{substring-before(@name, '|')}&amp;rows=20&amp;start=0&amp;name={substring-after(@name, '|')}">
 					<xsl:value-of select="substring-after(@name, '|')"/>
 				</a>
 			</li>
