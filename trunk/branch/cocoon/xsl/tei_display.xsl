@@ -422,7 +422,22 @@
 				<xsl:when test="descendant::figure[substring(@id, 1, 1) = 'H']">
 					<div class="figures">
 						<xsl:apply-templates select="descendant::figure[substring(@id, 1, 1) = 'H']"
-							mode="MassHistImages"/>
+							mode="MH_BPL">
+							<xsl:with-param name="source">
+								<xsl:text>mh</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@id, 1, 1) = 'B']">
+					<div class="figures">
+						<xsl:apply-templates select="descendant::figure[substring(@id, 1, 1) = 'B']"
+							mode="MH_BPL">
+							<xsl:with-param name="source">
+								<xsl:text>bpl</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
@@ -434,7 +449,8 @@
 		</div>
 	</xsl:template>
 
-	<xsl:template match="figure" mode="MassHistImages">
+	<xsl:template match="figure" mode="MH_BPL">
+		<xsl:param name="source"/>
 		<xsl:variable name="filename">
 			<xsl:choose>
 				<xsl:when test="contains(@id, 'r')">
@@ -447,13 +463,29 @@
 		</xsl:variable>
 
 		<div class="figure">
-			<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
-				<img src="archives/MassHist/gifs/{$filename}.gif"/>
-			</a>
-			<br/>
-			<a href="archives/MassHist/large/{$filename}.jpg" target="_blank"
-			>Enlarge<br/>Manuscript</a>
+			<xsl:choose>
+				<xsl:when test="$source='mh'">
+					<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
+						<img src="archives/MassHist/gifs/{$filename}.gif"/>
+					</a>
+					<br/>
+					<a href="archives/MassHist/large/{$filename}.jpg" target="_blank"
+						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+				<xsl:when test="$source='bpl'">
+					<a href="archives/BPL/SMALL/{$filename}.jpg" class="jqueryLightbox">
+						<img src="archives/BPL/gifs/{$filename}.gif"/>
+					</a>
+					<br/>
+					<a href="archives/BPL/LARGE/{$filename}.jpg" target="_blank"
+						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+			</xsl:choose>
+
 		</div>
+
+
+
 	</xsl:template>
 
 	<xsl:template match="term" mode="contents_terms">
@@ -587,7 +619,9 @@
 					<!-- for salem: view entire case if viewing a div2 from a search result -->
 					<xsl:if test="string($chapter_id)">
 						<div style="width:100%;text-align:center;margin-bottom:20px;">
-							<a href="?div_id={$chapter_id}&amp;term={$term}&amp;name={$name}">View Entire Case File</a>
+							<a
+								href="?div_id={$chapter_id}&amp;term={$term}&amp;name={$name}"
+								>View Entire Case File</a>
 						</div>
 					</xsl:if>
 				</xsl:if>
