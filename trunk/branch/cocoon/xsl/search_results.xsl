@@ -18,11 +18,11 @@
 	</xsl:param>
 	<xsl:param name="query">
 		<xsl:choose>
-			<xsl:when test="contains(substring-before($q, 'date:'), 'AND') or contains(substring-before($q, 'case_title:'), 'AND')">
+			<xsl:when test="(contains(substring-before($q, 'date:'), 'AND') or contains(substring-before($q, 'case_title:'), 'AND')) and not(substring($q, 1, 5) = 'date:')">
 				<xsl:value-of select="substring-before($q, ' AND')"/>
 			</xsl:when>
 			<xsl:when test="contains($q, 'name_text')"/>
-			<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
+			<xsl:when test="substring($q, 1, 5) = 'date:'"/>
 			<xsl:otherwise>
 				<xsl:value-of select="$q"/>
 			</xsl:otherwise>
