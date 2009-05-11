@@ -3449,7 +3449,20 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 						<hi rend="bold">THE SALEM WITCHCRAFT PAPERS </hi> VOLUME II </title>
 				</p>
 			</div1>
-
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">The Salem Witchcraft Papers</titlePart>
+					<titlePart type="sub">Verbatim Transcriptions of the Court Records <lb/> In
+						three volumes.<lb/> Edited by Paul Boyer and Stephen Nissenbaum <lb/> Da
+						Capo Press: New York, 1977.</titlePart>
+				</docTitle>
+				<docImprint>Digital Edition<lb/> With Permission of <publisher>Da Capo
+					Press</publisher></docImprint>
+				<byline>Revised, corrected, and augmented <lb/> by Benjamin C. Ray and Tara S. Wood. </byline>
+				<docImprint>Digital Format, Scholars Lab., University of
+					Virginia,<docDate>2010</docDate><lb/> ©<docDate>2003</docDate>, Benjamin C. Ray
+					and The Rector and Visitors of the University of Virginia </docImprint>
+			</titlePage>
 			<div1 id="n54" type="copyright">
 				<head>[copyright]</head>
 

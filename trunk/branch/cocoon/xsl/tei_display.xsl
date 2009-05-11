@@ -419,9 +419,9 @@
 	<xsl:template match="div2">
 		<div class="div2">
 			<xsl:choose>
-				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
+				<xsl:when test="descendant::figure[substring(@id, 1, 1) = 'H']">
 					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
+						<xsl:apply-templates select="descendant::figure[substring(@id, 1, 1) = 'H']"
 							mode="MassHistImages"/>
 					</div>
 					<xsl:apply-templates/>
@@ -437,11 +437,11 @@
 	<xsl:template match="figure" mode="MassHistImages">
 		<xsl:variable name="filename">
 			<xsl:choose>
-				<xsl:when test="contains(@n, 'r')">
-					<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
+				<xsl:when test="contains(@id, 'r')">
+					<xsl:value-of select="concat(substring-before(@id, 'r'), 'A')"/>
 				</xsl:when>
-				<xsl:when test="contains(@n, 'v')">
-					<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
+				<xsl:when test="contains(@id, 'v')">
+					<xsl:value-of select="concat(substring-before(@id, 'v'), 'B')"/>
 				</xsl:when>
 			</xsl:choose>
 		</xsl:variable>
