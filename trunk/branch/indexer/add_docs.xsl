@@ -20,7 +20,10 @@
 				<xsl:value-of select="ancestor::TEI.2/@id"/>
 			</field>
 			<field name="title">
-				<xsl:value-of select="head"/>
+				<xsl:value-of select="normalize-space(head)"/>
+			</field>
+			<field name="case_title">
+				<xsl:value-of select="normalize-space(parent::div1[@type='case']/head)"/>
 			</field>
 			<xsl:if test="descendant::date[1]">
 				<xsl:apply-templates select="descendant::date[1]"/>

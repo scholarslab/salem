@@ -101,7 +101,7 @@
 	<!-- =========================== Pipelines ================================= -->
 
 	<map:pipelines>
-		
+
 		<map:component-configurations>
 			<global-variables>
 				<hostname> http://{request:serverName}:{request:serverPort} </hostname>
@@ -109,7 +109,7 @@
 				<solr-url>http://localhost:8080/solr/salem/</solr-url>
 			</global-variables>
 		</map:component-configurations>
-		
+
 		<map:pipeline>
 
 			<map:match pattern="*.css">
@@ -146,8 +146,8 @@
 			<map:match pattern="">
 				<map:redirect-to uri="home.html"/>
 			</map:match>
-			
-			<!-- Salem Witchcraft Papers Names Index -->			
+
+			<!-- Salem Witchcraft Papers Names Index -->
 			<map:match pattern="texts/names.html">
 				<map:generate
 					src="{global:solr-url}select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"
@@ -158,7 +158,7 @@
 				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
-			
+
 			<!-- Salem Witchcraft Papers Search -->
 			<map:match pattern="texts/salemSearch.htm">
 				<map:generate src="xml/empty.xml"/>
@@ -168,10 +168,10 @@
 				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
-			
+
 			<map:match pattern="search_results">
 				<map:generate
-					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E"
+					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
 					label="record"/>
 				<map:transform type="xslt" src="xsl/search_results.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>

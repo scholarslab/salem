@@ -8,6 +8,7 @@
 	<xsl:param name="doc_id" select="//TEI.2/@id"/>
 	<xsl:param name="name"/>
 	<xsl:param name="chapter_id"/>
+	<xsl:param name="term"/>
 
 	<xsl:template match="/">
 		<html>
@@ -586,7 +587,7 @@
 					<!-- for salem: view entire case if viewing a div2 from a search result -->
 					<xsl:if test="string($chapter_id)">
 						<div style="width:100%;text-align:center;margin-bottom:20px;">
-							<a href="?div_id={$chapter_id}">View Entire Case File</a>
+							<a href="?div_id={$chapter_id}&amp;term={$term}&amp;name={$name}">View Entire Case File</a>
 						</div>
 					</xsl:if>
 				</xsl:if>

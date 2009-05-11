@@ -56,6 +56,9 @@
 				</ul>
 			</div>
 			<div class="content_container">
+				<div class="options">
+					<a href="transcripts.html">Return to The Salem Witchcraft Papers</a>
+				</div>
 				<div class="search_content">
 					<h1>Search the Salem Witchcraft Papers</h1>
 					<form id="search_form" method="GET">

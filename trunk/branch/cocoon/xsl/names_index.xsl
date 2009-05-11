@@ -39,6 +39,9 @@
 				</ul>
 			</div>
 			<div class="content_container">
+				<div class="options">
+					<a href="transcripts.html">Return to The Salem Witchcraft Papers</a>
+				</div>
 				<div class="search_content">
 					<h1>Browse the Salem Witchcraft Papers Names Index</h1>
 					<div style="width:100%;text-align:center;">

@@ -8,9 +8,17 @@
 	<xsl:param name="mode"/>
 	<xsl:param name="name"/>
 	<xsl:param name="numFound" select="//result[@name='response']/@numFound"/>
+	<xsl:param name="expand"/>
+	<xsl:param name="case_title">
+		<xsl:if test="contains($q, 'case_title:')">
+			<xsl:value-of
+				select="substring-before(substring-after($q, 'case_title:&#x0022;'), '&#x0022;')"
+			/>
+		</xsl:if>
+	</xsl:param>
 	<xsl:param name="query">
 		<xsl:choose>
-			<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
+			<xsl:when test="contains(substring-before($q, 'date:'), 'AND') or contains(substring-before($q, 'case_title:'), 'AND')">
 				<xsl:value-of select="substring-before($q, ' AND')"/>
 			</xsl:when>
 			<xsl:when test="contains($q, 'name_text')"/>
@@ -25,6 +33,8 @@
 			<xsl:value-of select="substring-after($q, ':')"/>
 		</xsl:if>
 	</xsl:param>
+	
+
 
 	<xsl:template match="/">
 		<xsl:choose>
@@ -39,7 +49,12 @@
 					</xsl:when>
 					<xsl:otherwise>
 						<xsl:call-template name="paging"/>
-						<xsl:apply-templates select="//doc" mode="normal"/>
+						<div class="docs">
+							<xsl:apply-templates select="//doc" mode="normal"/>
+						</div>
+						<div class="facets">
+							<xsl:apply-templates select="//lst[@name='facet_fields']"/>
+						</div>
 						<xsl:call-template name="paging"/>
 					</xsl:otherwise>
 				</xsl:choose>
@@ -60,6 +75,9 @@
 				href="{str[@name='doc_id']}.xml?div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 				<xsl:value-of select="str[@name='title']"/>
 			</a>
+			<br/>
+			<xsl:text>Case: </xsl:text>
+			<xsl:value-of select="str[@name='case_title']"/>
 		</div>
 	</xsl:template>
 
@@ -86,7 +104,8 @@
 					</a>
 				</xsl:otherwise>
 			</xsl:choose>
-
+			<br/>
+			<span class="case">Case: <xsl:value-of select="str[@name='case_title']"/></span>
 			<br/>
 			<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 		</div>
@@ -97,6 +116,89 @@
 			<xsl:text> ... </xsl:text>
 		</xsl:if>
 		<xsl:value-of select="." disable-output-escaping="yes"/>
+	</xsl:template>
+
+	<xsl:template match="lst[@name='facet_fields']">
+		<xsl:for-each select="lst">
+			<div class="facet">
+				<ul>
+					<li class="facet_head">
+						<xsl:value-of select="translate(@name, '_', ' ')"/>
+					</li>
+
+					<xsl:choose>
+						<xsl:when test="$expand = 'true'">
+							<xsl:for-each select="int">
+								<xsl:call-template name="display_facet"/>								
+							</xsl:for-each>
+							<li>
+								<i>
+									<a style="margin-left:20px"
+										href="?q={$q}&amp;rows={$rows}&amp;start={$start}"
+										>Collapse List</a>
+								</i>
+							</li>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:for-each select="int[position() &lt; 6]">
+								<xsl:call-template name="display_facet"/>
+							</xsl:for-each>
+							<li>
+								<i>
+									<a style="margin-left:20px"
+										href="?q={$q}&amp;rows={$rows}&amp;start={$start}&amp;expand=true"
+										>Expand List</a>
+								</i>
+							</li>
+						</xsl:otherwise>
+					</xsl:choose>
+				</ul>
+			</div>
+		</xsl:for-each>
+	</xsl:template>
+
+	<xsl:template name="display_facet">
+		<li>
+			<xsl:choose>
+				<xsl:when test="$case_title = @name">
+					<div class="facet_text">
+						<xsl:value-of select="@name"/>
+					</div>
+				</xsl:when>
+				<xsl:otherwise>
+					<div class="facet_text">
+						<a
+							href="?q={$q} AND case_title:&#x0022;{@name}&#x0022;&amp;start=0&amp;rows=10">
+							<xsl:value-of select="@name"/>
+						</a>
+					</div>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:choose>
+				<xsl:when test="$case_title = @name">
+					<xsl:variable name="removeStr">
+						<xsl:value-of
+							select="concat(' AND case_title:&#x0022;', $case_title, '&#x0022;')"
+						/>
+					</xsl:variable>
+					<xsl:variable name="finalStr">
+						<xsl:value-of
+							select="concat(substring-before($q, $removeStr), substring-after($q, $removeStr))"
+						/>
+					</xsl:variable>
+					<div class="facet_num">[<a href="?q={$finalStr}&amp;start=0&amp;rows=10"
+							>X</a>]</div>
+				</xsl:when>
+				<xsl:otherwise>
+					<div class="facet_num">
+						<xsl:text> (</xsl:text>
+						<xsl:value-of select="."/>
+						<xsl:text>)</xsl:text>
+					</div>
+				</xsl:otherwise>
+			</xsl:choose>
+
+		</li>
 	</xsl:template>
 
 	<xsl:template name="paging">

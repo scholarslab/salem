@@ -280,12 +280,15 @@ ul li {
 #search {
 	padding-top:20px;
 	padding-bottom:20px;
+	padding-left:10px;
+	padding-right:10px;
 }
 .paging_div {
 	width:100%;
 	display:table;
 	padding-top:10px;
 	padding-bottom:10px;
+	font-size:14px;
 }
 .pagingBtn, .pagingSep {
 	padding-left:8px;
@@ -305,8 +308,51 @@ ul li {
 	background-color:#C8C8C8;
 	text-decoration:underline;
 }
+.docs {
+	float:left;
+	width:650px;
+}
+.facets {
+	float:right;
+	width:250px;
+	margin-right:10px;
+}
 .doc {
-	margin:20px;
+	margin-left:20px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+	border-bottom:1px silver dotted;
+}
+.facet {
+	width:100%;
+	display:table;
+	margin-bottom:20px;
+	font-size:14px;
+	padding:5px;
+	border:1px solid #838d75;
+	background-color:#D9DCD9;
+}
+.facet_head{
+	font-weight:bold;
+	font-size:16px;
+	text-transform:capitalize;
+	text-align:center;
+}
+.facet>ul>li {
+	padding-bottom:2px;
+	margin-bottom:2px;
+	border-bottom:1px dotted gray;
+		display:table;
+	width:100%;
+}
+.facet_text {
+	width:220px;
+	float:left;
+}
+.facet_num {
+	width:20px;
+	float:right;
+
 }
 .toDate_visible {
 	margin-left:20px;
@@ -315,6 +361,9 @@ ul li {
 .toDate_hidden {
 	margin-left:20px;
 	display:none;
+}
+.case {
+	font-size:14px;
 }
 /*
   *

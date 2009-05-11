@@ -198,6 +198,7 @@
 		<field name="fulltext" type="text" indexed="true" stored="true"/>
 		<field name="name_text" type="text" indexed="true" stored="true" multiValued="true"/>
 		<field name="title" type="text" indexed="true" stored="true"/>
+		<field name="case_title" type="string" indexed="true" stored="true"/>
 		
 		<!-- facets -->
 		<field name="name_facet" type="string" indexed="true" stored="true" multiValued="true"/>
