@@ -419,10 +419,10 @@
 	<xsl:template match="div2">
 		<div class="div2">
 			<xsl:choose>
-				<xsl:when test="descendant::figure[substring(@id, 1, 1) = 'H']">
+				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
 					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@id, 1, 1) = 'H']"
-							mode="MH_BPL">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
+							mode="mss">
 							<xsl:with-param name="source">
 								<xsl:text>mh</xsl:text>
 							</xsl:with-param>
@@ -430,12 +430,23 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@id, 1, 1) = 'B']">
+				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'B']">
 					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@id, 1, 1) = 'B']"
-							mode="MH_BPL">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'B']"
+							mode="mss">
 							<xsl:with-param name="source">
 								<xsl:text>bpl</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'eia']">
+					<div class="figures">
+						<xsl:apply-templates
+							select="descendant::figure[substring(@n, 1, 3) = 'eia']" mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>eia</xsl:text>
 							</xsl:with-param>
 						</xsl:apply-templates>
 					</div>
@@ -449,16 +460,19 @@
 		</div>
 	</xsl:template>
 
-	<xsl:template match="figure" mode="MH_BPL">
+	<xsl:template match="figure" mode="mss">
 		<xsl:param name="source"/>
 		<xsl:variable name="filename">
 			<xsl:choose>
-				<xsl:when test="contains(@id, 'r')">
-					<xsl:value-of select="concat(substring-before(@id, 'r'), 'A')"/>
+				<xsl:when test=" not($source = 'eia') and contains(@n, 'r')">
+					<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
 				</xsl:when>
-				<xsl:when test="contains(@id, 'v')">
-					<xsl:value-of select="concat(substring-before(@id, 'v'), 'B')"/>
+				<xsl:when test="not($source = 'eia') and contains(@n, 'v')">
+					<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
 				</xsl:when>
+				<xsl:otherwise>
+					<xsl:value-of select="@n"/>
+				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
 
@@ -478,6 +492,14 @@
 					</a>
 					<br/>
 					<a href="archives/BPL/LARGE/{$filename}.jpg" target="_blank"
+						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+				<xsl:when test="$source='eia'">
+					<a href="archives/EIA/small/{$filename}.jpg" class="jqueryLightbox">
+						<img src="archives/EIA/gifs/{$filename}.gif"/>
+					</a>
+					<br/>
+					<a href="archives/EIA/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 			</xsl:choose>

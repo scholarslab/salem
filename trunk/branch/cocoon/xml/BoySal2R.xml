@@ -4188,7 +4188,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				<div2 id="BoySal2-n2.7" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="fosann">Ann Foster</name> ) </head>
-					<p><figure id="B10r"/>
+					<p><figure n="B10r"/>
 						<name type="person" key="walmar">Mary Walcot</name> affirmed to the Jury of
 						Inquest: that <name type="person" key="fosann">Ann Foster:</name> of
 						Andover: has afflicted her: both: before her examination: and at her
@@ -4216,7 +4216,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				<div2 id="BoySal2-n2.8" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
 							type="person" key="fosann">Ann Foster</name> ) </head>
-					<p><figure id="B10r"/>
+					<p><figure n="B10r"/>
 						<name type="person" key="hubeli">Eliz Hubbert. </name> Affirmed to the Jury
 						of Inquest: th't <name type="person" key="fosann">Ann Foster:</name> both
 						before: and at her examination &amp; after hath afflicted her: she also
@@ -4240,7 +4240,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="fosann">Ann Foster</name>)</head>
 					<p>
-						<figure id="B10r"/><name type="person" key="warmar">Mary Warin</name>
+						<figure n="B10r"/><name type="person" key="warmar">Mary Warin</name>
 						affirmed to the Jury of Inquest: that she saw <name type="person"
 							key="fosann">Ann Foster</name> or her <orig reg="Apparition"
 						>Apperition</orig>: afflict: <name type="person" key="walmar">Mary
@@ -4396,7 +4396,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				<div2 id="BoySal2-n2.11b" type="indictment">
 					<head> (<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="fosann">Ann Foster</name></head>
-					<p><figure id="B09r"/><figure id="B09v"/>Essex in the Province of the
+					<p><figure n="B09r"/><figure n="B09v"/>Essex in the Province of the
 						Massachusetts Bay in New England<lb/>Anno R Rs &amp; Reginae Gulielmi
 						&amp; Mariae Angliae &amp;tc. Quarto Annoq Domini 1692<lb/> The
 						Juriors for our Soueraigne Lord and Lady the King<lb/> and Queen doe present
@@ -4436,7 +4436,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 
 				<div2 id="BoySal2-n2.12" type="complaint">
 					<head>(Complaint v. <name type="person" key="fronic">Nicholas Frost</name> ) </head>
-					<p><figure id="B16r"/>
+					<p><figure n="B16r"/>
 						<name type="person" key="dodtho">Thomas Dod</name> of marble head
 						complaineth to their Majesties Justices of the peace in Salem against <name
 							type="person" key="fronic">Nicholas frost</name> of pascataque for that
@@ -6076,9 +6076,9 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 					</closer>
 				</div2>
 				<div2 id="BoySal2-n2.48" type="section">
-					<head><figure id="eia30r"/><figure id="eia30v"/>( <name type="person"
-							key="sibsam">Samuel Sibley</name> v. <name type="person" key="goosar"
-							>Sarah Good</name> ) </head>
+					<head><figure n="eia30r"/><figure n="eia30v"/>( <name type="person" key="sibsam"
+							>Samuel Sibley</name> v. <name type="person" key="goosar">Sarah
+						Good</name> ) </head>
 					<p>
 						<name type="person" key="sibsam">Samuell Sibly</name> aged about:34: years
 						Testefieth and saith that I being at the house of <orig reg="doctor"
@@ -6107,7 +6107,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 							<name type="person" key="nurreb">Rebecca Nurse</name>, <name
 							type="person" key="marsus">Susannah Martin</name> , <name type="person"
 							key="howeli">Elizabeth How</name> , and <name type="person" key="wilsar"
-							>Sarah Wilds</name> ) <figure id="B05r"/><figure id="B05v"/></head>
+							>Sarah Wilds</name> ) <figure n="B05r"/><figure n="B05v"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To <name type="person" key="corgeo">Georg:
@@ -6418,7 +6418,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				</div2>
 				<div2 id="BoySal2-n2.55" type="indictment">
 					<head>(Indictment v. <name type="person" key="hareli">Elizabeth Hart</name> ) </head>
-					<p><figure id="S006r"/><figure id="S006v"/>Province of the Massachusetts Bay In
+					<p><figure n="S006r"/><figure n="S006v"/>Province of the Massachusetts Bay In
 						New England Essex &rsqb; Anno RR's &amp; Reginae Gulielmi &amp;
 						Mariae Angliae quarto Anno'qe Dom'i 1692 </p>
 					<p>The Jurors for our Sov'r lord and lady the King &amp; Queen pr'sent That
@@ -6511,7 +6511,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				<div2 id="BoySal2-n2.57" type="complaint">
 					<head>(Complaint v. <name type="person" key="hawmar">Margaret Hawkes</name> and
 							<name type="person" key="candy">Candy</name> ) </head>
-					<p><figure id="B13r"/> Essex <name type="person" key="putjoh2">John Putnam
+					<p><figure n="B13r"/> Essex <name type="person" key="putjoh2">John Putnam
 						Ju:</name> &amp; <name type="person" key="puttho">Thomas Putnam</name>
 						of Salem Complaines o [torn] <name type="person" key="hawmar">Margret
 						Hawkes</name> Late of Barbados now of Salem and her Negro Woman upon
@@ -6550,7 +6550,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 
 				<div2 id="BoySal2-n2.58" type="examination">
 					<head>(Examination of <name type="person" key="hawsar">Sarah Hawkes</name> ) </head>
-					<p><figure id="eia24-9v"/>
+					<p><figure n="eia24-9v"/>
 						<date value="1692-09-01" certainty="confirmed">1 Se&pbar;.. 1692/
 						</date> Before <name type="person" key="gidbar">Maj'r Gidney</name>
 						<name type="person" key="hawjoh">Mr Hathorne</name>
@@ -7542,7 +7542,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it-->
 				<div2 id="BoySal2-n2.78" type="examination">
 					<head>(Examination of <name type="person" key="hobabi">Abigail Hobbs</name> ,
 							<date value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head>
-					<p><figure id="H54r"/><figure id="H54v"/>The Examination of <name type="person"
+					<p><figure n="H54r"/><figure n="H54v"/>The Examination of <name type="person"
 							key="hobabi">Abigail Hobbs</name>, at Salem Village, <date
 							value="1692-04-19" certainty="confirmed">19 April, 1692, </date> by
 							<name type="person" key="hawjoh">John Hawthorn</name> and <name
@@ -7916,7 +7916,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.82" type="section">
 					<head>( <name type="person" key="niclyd">Lydia Nichols</name> v. <name
 							type="person" key="hobabi">Abigail Hobbs</name> ) </head>
-					<p><figure id="eia0r"/>
+					<p><figure n="eia0r"/>
 						<name type="person" key="niclyd">lidea Nickals</name> aged about 17 years
 						testifieth &amp; saith that a boute a yeare &amp; halfe agoe I asked
 							<name type="person" key="hobabi">abigaill hobs</name> how She darst lie
@@ -7949,7 +7949,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.83" type="indictment">
 					<head>(Indictment v. <name type="person" key="hobabi">Abigail Hobbs</name> , No.
 						1) </head>
-					<p><figure id="eia02r"/><figure id="eia02v"/>Essex in the Province of the
+					<p><figure n="eia02r"/><figure n="eia02v"/>Essex in the Province of the
 						Massachusetts Bay in New England &rsqb; Anno RRs &amp; Reginae
 						Gulielmi &amp; Mariae Angliae &amp;c Quarto Anno'qe Domini 1692 </p>
 					<p>ss </p>
@@ -7994,7 +7994,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.84" type="indictment">
 					<head>(Indictment v. <name type="person" key="hobabi">Abigail Hobbs</name> , No.
 						2) </head>
-					<p><figure id="eia23r"/>Essex in the Province of the Massachusetts Bay in New
+					<p><figure n="eia23r"/>Essex in the Province of the Massachusetts Bay in New
 						England Ss </p>
 					<p>Anno RRs &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq 3 Domini 1692 </p>
@@ -8935,7 +8935,7 @@ Comment: --> of Cascoe, and of those
 				<pb n="436"/>
 				<div2 id="BoySal2-n2.101" type="indictment">
 					<head>(Indictment v. <name type="person" key="howeli">Elizabeth How</name> ) </head>
-					<p><figure id="eia28r"/>Anno Regis et <name>Reginae Willm et Mariae: </name>
+					<p><figure n="eia28r"/>Anno Regis et <name>Reginae Willm et Mariae: </name>
 					</p>
 					<p>nunc Angliae &amp;c: Quarto </p>
 					<p>Essex ss The Jurors for our Sovereigne Lord and Lady the King &amp; Queen
@@ -9922,8 +9922,8 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.123" type="section">
 					<head>( <name type="person" key="andsar2">Sarah Andrews</name> v. <name
 							type="person" key="howeli">Elizabeth How</name> ) </head>
-					<p><figure id="H30r"/><figure id="H30v"/>The
-						deposi&ibar;&obar;&nbar; of <name>
+					<p><figure n="H30r"/><figure n="H30v"/>The deposi&ibar;&obar;&nbar;
+						of <name>
 							<name type="person" key="andsar2">Sarah Andrew</name>
 						</name> of Boston aged 27. years about seven yeares since going to see my
 						sister <name type="person" key="perhan">Hanah Pearly</name> of Ipswich
@@ -9950,7 +9950,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.124" type="section">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name
 							type="person" key="howeli">Elizabeth How</name> ) </head>
-					<p><figure id="H29r"/><figure id="H29v"/>the depozition of <name type="person"
+					<p><figure n="H29r"/><figure n="H29v"/>the depozition of <name type="person"
 							key="bibsar">sarah biber </name> aged 36 year testifieths and saith the
 						day that <name type="person" key="howeli">elizabeth how</name> was
 						exam&nbar;d I saw her hurt <name>elizabeth hubbort </name> and <name
@@ -9976,22 +9976,22 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.125" type="section">
 					<head>( <name type="person" key="abbneh1">Nehemiah Abbott</name> v. <name
 							type="person" key="howeli">Elizabeth How</name> ) </head>
-					<p><figure id="eia05r"/><figure id="eia05v"/>The testimony of <name
-							type="person" key="abbneh1">Nehamiah Abot</name> Aged about 60 yers:
-						saith that after any difrencis with <name type="person" key="howjam">James
-							Hows</name> wif <name type="person" key="howeli">elizabeth how</name>
-						ofen <orig reg="Evil">Evill</orig> a curents did falow som straing loses I
-						met withall amongst our Catill: <pb n="455"/> I had one ox gat into thair
-						fild and <name type="person" key="howjam">James Hows</name> wife was very
-						aingry and wished he was choked and some short time after his falow was
-						choked with a turnop: and goodwif hows dauter came to borow my hors but I
-						could not spare him: and the day after my hors was Cast in the barne with
-						his head under him as my Sarvants tould me and I want and saw the plac whair
-						he lay and I had a kow was so wake and lame that she could not go with out
-						the halp of thre or fouer men to hold hur up and I put hur in my barne and
-						put the Raills to kep hur from other Catill and about one ouer after the kow
-						was gone the Raills being up and was in the mier a bout forty Rods of and I
-						was forst to gat the same halpe to get hur thathir againe </p>
+					<p><figure n="eia05r"/><figure n="eia05v"/>The testimony of <name type="person"
+							key="abbneh1">Nehamiah Abot</name> Aged about 60 yers: saith that after
+						any difrencis with <name type="person" key="howjam">James Hows</name> wif
+							<name type="person" key="howeli">elizabeth how</name> ofen <orig
+							reg="Evil">Evill</orig> a curents did falow som straing loses I met
+						withall amongst our Catill: <pb n="455"/> I had one ox gat into thair fild
+						and <name type="person" key="howjam">James Hows</name> wife was very aingry
+						and wished he was choked and some short time after his falow was choked with
+						a turnop: and goodwif hows dauter came to borow my hors but I could not
+						spare him: and the day after my hors was Cast in the barne with his head
+						under him as my Sarvants tould me and I want and saw the plac whair he lay
+						and I had a kow was so wake and lame that she could not go with out the halp
+						of thre or fouer men to hold hur up and I put hur in my barne and put the
+						Raills to kep hur from other Catill and about one ouer after the kow was
+						gone the Raills being up and was in the mier a bout forty Rods of and I was
+						forst to gat the same halpe to get hur thathir againe </p>
 					<p>
 						<name type="person" key="abbneh1">Nehamiah Abbot:</name> declared: to: the
 						Jury of inquest: the above written to: </p>
@@ -10080,7 +10080,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.128" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="hutfra">Frances
 						Hutchins</name> and <name type="person" key="wilrut">Ruth Wilford</name> ) </head>
-					<p><figure id="B25r"/><figure id="B25v"/>Essex/ To the Constable of Haverhill </p>
+					<p><figure n="B25r"/><figure n="B25v"/>Essex/ To the Constable of Haverhill </p>
 					<p>Complaint being made to me this day, by <name type="person" key="swatim"
 							>Timothy Swan</name> of Andover: &amp; <name type="person"
 							key="walmar">Mary Wallcott</name> &amp; <name type="person"
@@ -10291,7 +10291,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.131b" type="examination">
 					<head>(Examination of <name type="person" key="iremar">Mary Ireson</name>, <date
 							value="1692-06-06" certainty="confirmed">6 June 1692</date></head>
-					<p><figure id="B20r"/><name type="person" key="iremar">Mary Ireson</name> was
+					<p><figure n="B20r"/><name type="person" key="iremar">Mary Ireson</name> was
 						examined: before <name type="person" key="gidbar">Majr Gedney</name>:
 						&amp; other their Majestis justices June: 6th 1692</p>
 					<p>before sd <name type="person" key="iremar">Ireson</name> was brought: into ye
@@ -10352,15 +10352,14 @@ Comment: --> of Cascoe, and of those
 					<head>(Warrant for Arrest of <name type="person" key="jacjoh1">John Jackson,
 						Sr.</name> ; <name type="person" key="jacjoh2">John Jackson, Jr.</name> ;
 						and <name type="person" key="howjoh1">John Howard</name> ) </head>
-					<p><figure id="B32r"/>Essex/ To the Sheriff of the County of Essex or his
-						Deputy/ Complaint being made this day to us by <name type="person"
-							key="foseph">Ephraim foster</name> of Andivor &amp; <name
-							type="person" key="tyljos">Joseph Tyler</name> of Boxford against <name
-							type="person" key="jacjoh1">John Jackson sen'r</name> &amp; his son
-							<name type="person" key="johjac2">John Jackson Jun'r</name> &amp;
-							<name type="person" key="howjoh1">John Howard</name> all of Rowley
-						Labourers that they the Said <name type="person" key="johjac1">John Jackson
-							Sen'r</name>
+					<p><figure n="B32r"/>Essex/ To the Sheriff of the County of Essex or his Deputy/
+						Complaint being made this day to us by <name type="person" key="foseph"
+							>Ephraim foster</name> of Andivor &amp; <name type="person"
+							key="tyljos">Joseph Tyler</name> of Boxford against <name type="person"
+							key="jacjoh1">John Jackson sen'r</name> &amp; his son <name
+							type="person" key="johjac2">John Jackson Jun'r</name> &amp; <name
+							type="person" key="howjoh1">John Howard</name> all of Rowley Labourers
+						that they the Said <name type="person" key="johjac1">John Jackson Sen'r</name>
 						<name type="person" key="johjac2">John Jackson Jun'r.</name> &amp; <name
 							type="person" key="howjoh1">John Howard</name> have Sorely, afflicted
 							<name type="person" key="sprmar">Martha Sprage</name> of Boxford
@@ -10414,7 +10413,7 @@ Comment: --> of Cascoe, and of those
 					<head>(Recognizance of Complaint against <name type="person" key="johjac1">John
 							Jackson, Sr.</name> ; <name type="person" key="johjac2">John Jackson,
 							Jr.</name> ; and <name type="person" key="howjoh1">John Howard</name> ) </head>
-					<p><figure id="B40r"/>
+					<p><figure n="B40r"/>
 						<name type="person" key="foseph">Ephriam foster</name> , of Andivor.
 						&amp; <name type="person" key="tyljos">Joseph Tyler</name> of Boxford
 						Complaine to their Majesties Justices of the Peace in Salem against <name
@@ -10450,7 +10449,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.134" type="examination">
 					<head>(Examination of <name type="person" key="jacjoh1">John Jackson, Sr.</name>
 						) </head>
-					<p><figure id="S032r"/>
+					<p><figure n="S032r"/>
 						<name type="person" key="jacjoh1">Jno Jaxon sen'r</name> examined Before
 						their Majest's Justices In salem <date value="1692-08-27"
 							certainty="unconfirmed">August 27th 1692 </date>
@@ -10535,7 +10534,7 @@ Comment: --> of Cascoe, and of those
 					<head>(Indictment v. <name type="person" key="johjac1">John Jackson, Sr.</name>
 						) </head>
 
-					<p><figure id="S030r"/><figure id="S030v"/>Province of Massathuchetts Bay in New
+					<p><figure n="S030r"/><figure n="S030v"/>Province of Massathuchetts Bay in New
 						England Essex &rsqb; Anno RRs &amp; Reginae Gulielmi &amp;
 						Mariae Angliae &amp;c Quarto Anno'qe. Do&mbar; 1692 </p>
 					<p>The Jurors [for] our sovereigne Lord &amp; Lady the King &amp; Queen
@@ -10586,7 +10585,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.136" type="examination">
 					<head>(Examination of <name type="person" key="johjac2">John Jackson, Jr.</name>
 						) </head>
-					<p><figure id="B22r"/>
+					<p><figure n="B22r"/>
 						<name type="person" key="johjac2">Jno Jaxon</name> was brought into the room
 						the Afflicted persons fell down: &amp; he was asked: Can you tell why:
 						these fall down: he s'd he was bewitched by his Ant How: <!--
@@ -10652,7 +10651,7 @@ Comment: -->
 					<head>(Indictment v. <name type="person" key="johjac2">John Jackson, Jr.</name>
 						) </head>
 
-					<p><figure id="S031r"/><figure id="S031v"/>Province of the Massatuthetts Bay in
+					<p><figure n="S031r"/><figure n="S031v"/>Province of the Massatuthetts Bay in
 						New England Essex &rsqb; Anno RR &amp;: Reginae Gulielmi &amp;
 						Mariae Angliae &amp;c Quarto: Anno'qe Do&mbar;: 1692 </p>
 
@@ -10744,7 +10743,7 @@ Comment: -->
 							>Sarah Wilds</name> , <name type="person" key="blamar">Mary Black</name>
 						, <name type="person" key="engmar">Mary English</name> , <name type="person"
 							key="parali">Alice Parker</name> , and <name type="person" key="pudann"
-							>Ann Pudeator</name> .) <figure id="H33r"/></head>
+							>Ann Pudeator</name> .) <figure n="H33r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Keeper of theire (TORN) </name>
@@ -10969,7 +10968,7 @@ Comment: -->
 				</div2>
 				<div2 id="BoySal2-n2.142" type="indictment">
 					<head>(Indictment v. <name type="person" key="jacgeo1">George Jacobs, Sr.</name>
-						) <figure id="H32r"/><figure id="H32v"/></head>
+						) <figure n="H32r"/><figure n="H32v"/></head>
 					<p>Anno Regis et Reginae Willim et </p>
 					<p>Mariae nunc Angliae &amp;c Quarto </p>
 					<p>Essex ss The Jurors for our Soverigne Lord and Lady the King and Queen
@@ -11366,7 +11365,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.155" type="section">
 					<head>( <name type="person" key="wilabi">Abigail Williams</name> v. <name
 							type="person" key="jacgeo1">George Jacobs, Sr.</name> ) </head>
-					<p><figure id="H31r"/><figure id="H31v"/>
+					<p><figure n="H31r"/><figure n="H31v"/>
 						<name type="person" key="wilabi">Abigail Williams</name> Testifyeth
 						&amp; saith that an old man that goes with two sticks hath appeared to
 						&amp; hurt her many times by pinching <pb n="485"/> &amp; bringing
@@ -11402,7 +11401,7 @@ Comment: --> did kill her: and Likewise Core
 					<head>( <name type="person" key="puttho">Thomas Putnam</name> and <name
 							type="person" key="putjoh2">John Putnam, Jr.</name> v. <name
 							type="person" key="jacgeo1">George Jacobs, Sr.</name> ) </head>
-					<p><figure id="H34r"/><figure id="H34v"/>The Deposistion of <name type="person"
+					<p><figure n="H34r"/><figure n="H34v"/>The Deposistion of <name type="person"
 							key="puttho">Thomas putnam</name> agged 40 years and <name type="person"
 							key="putjoh2">Jno putnam</name> aged 36 years who testifie and saith
 						that we haveing been converssant with divers of the <orig reg="afflicted"
@@ -11440,7 +11439,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.157" type="section">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="jacgeo1">George Jacobs, Sr.</name> ) </head>
-					<p><figure id="H35r"/><figure id="H35v"/>The deposistion of <name type="person"
+					<p><figure n="H35r"/><figure n="H35v"/>The deposistion of <name type="person"
 							key="putann2">Ann putnam</name> who testifieth and saith that I had ben
 						most greviously <orig reg="afflicted">afflected</orig> by <name
 							type="person" key="jacgeo1">George Jacobs sen'r</name> but most
@@ -11469,7 +11468,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.158" type="section">
 					<head>( <name type="person" key="derjoh">John DeRich</name> v. <name
 							type="person" key="jacgeo1">George Jacobs, Sr.</name> ) </head>
-					<p><figure id="H36r"/><figure id="H36v"/>The testimoney of <name type="person"
+					<p><figure n="H36r"/><figure n="H36v"/>The testimoney of <name type="person"
 							key="derjoh">John derich</name> Agged bout 16 yeares testifieth and
 						saith that somtim in May last paste: <name type="person" key="jacgeo1">Gorge
 							Jacobs</name> sin'r Cam to me and bid me goe to my wife and tell her
@@ -11563,7 +11562,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.160" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="anddan">Daniel
 						Andrew</name> and <name type="person" key="jacgeo2">George Jacobs,
-						Jr.</name> ) <figure id="B37r"/></head>
+						Jr.</name> ) <figure n="B37r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Marshall Generall or Lawfull dept of
@@ -11983,7 +11982,7 @@ Comment: --> did kill her: and Likewise Core
 				</div2>
 				<div2 id="BoySal2-n2.170" type="section">
 					<head>(Petition of <name type="person" key="foxreb">Rebecca Fox</name> ) <figure
-							id="H37r"/><figure id="H37v"/></head>
+							id="H37r"/><figure n="H37v"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Hon'ble: <name type="person" key="stough"
@@ -12031,7 +12030,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.171" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="joheli1">Elizabeth
 							Johnson, Sr.</name> and <name type="person" key="johabi">Abigail
-						Johnson</name> ) <figure id="B34r"/></head>
+						Johnson</name> ) <figure n="B34r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">Essex:/ To the Constable </name>
@@ -12093,7 +12092,7 @@ Comment: --> did kill her: and Likewise Core
 				<pb n="500"/>
 				<div2 id="BoySal2-n2.172" type="examination">
 					<head>(Examination of <name type="person" key="joheli1">Elizabeth Johnson</name>
-						) <figure id="eia24-8r"/><figure id="eia8v"/></head>
+						) <figure n="eia24-8r"/><figure n="eia8v"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">1692 <name type="person" key="joheli1">Eliz'th
@@ -12222,7 +12221,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.173" type="examination">
 					<head>(Examination of <name type="person" key="joheli2">Elizabeth Johnson,
 						Jr.</name> ) </head>
-					<p><figure id="eia24-5v"/>The Examination of <name type="person" key="joheli2"
+					<p><figure n="eia24-5v"/>The Examination of <name type="person" key="joheli2"
 							>Elizabeth Jonson Jun'r</name> Taken Before <name type="person"
 							key="bradud">Dudley Broads</name> [torn] the <date value="1692-08-10"
 							certainty="unconfirmed">10 August 1692. </date> She confesseth as
@@ -12400,10 +12399,10 @@ Comment: --> did kill her: and Likewise Core
 
 				<div2 id="BoySal2-n2.175" type="examination">
 					<head>(Examination of <name type="person" key="johreb">Rebecca Johnson</name> ) </head>
-					<p><figure id="S039r"/><figure id="S039v"/>The Examination of <name
-							type="person" key="johreb">Rebecka Johnson</name> , widow, Taken before
-							<name type="person" key="hawjoh">Jno Hauthorn</name> Esq'd &amp;
-						other their Majesties Justices. </p>
+					<p><figure n="S039r"/><figure n="S039v"/>The Examination of <name type="person"
+							key="johreb">Rebecka Johnson</name> , widow, Taken before <name
+							type="person" key="hawjoh">Jno Hauthorn</name> Esq'd &amp; other
+						their Majesties Justices. </p>
 					<p>she denyed what she was acused of, But she acknowledged the turneing of the
 						sieve, in her house by hir daughter, whom she Desyred to no if her brother
 							<name type="person" key="hagmos">Moses Haggat</name> was alive or dead.
@@ -12466,7 +12465,7 @@ Comment: --> did kill her: and Likewise Core
 				</div2>
 				<div2 id="BoySal2-n2.176" type="indictment">
 					<head>(Indictment v. <name type="person" key="johreb">Rebecca Johnson</name> ) </head>
-					<p><figure id="S038r"/><figure id="S038v"/>Essex in the Province of the
+					<p><figure n="S038r"/><figure n="S038v"/>Essex in the Province of the
 						Massachusets Bay in New England &rsqb; Anno RRs. Reginae Gulielmi
 						&amp; Mariae Angliae &amp;c Quarto Anno'qe Domini 1692 </p>
 					<p>The Juriors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -12511,7 +12510,7 @@ Comment: --> did kill her: and Likewise Core
 
 				<div2 id="BoySal2-n2.177" type="examination">
 					<head>(Examination of <name type="person" key="stejoh">Stephen Johnson</name> ) </head>
-					<p><figure id="eia24-10r"/>
+					<p><figure n="eia24-10r"/>
 						<date value="1692-09-01" certainty="confirmed">1st Se&pbar;: 92 </date>
 						Before <name type="person" key="gidbar">Maj'r: Gidney</name>
 						<name type="person" key="hawjoh">Mr: Hathorne</name>
@@ -12737,7 +12736,7 @@ book">Devills
 				<div2 id="BoySal2-n2.181" type="complaint">
 					<head>(Complaint v. <name type="person" key="lacmar1">Mary Lacey Sr.</name> ,
 						and <name type="person" key="lacmar2">Mary Lacey, Jr.</name> ) </head>
-					<p><figure id="B44r"/>
+					<p><figure n="B44r"/>
 						<name type="person" key="baljos">Joseph Ballard</name> of Andover husbandman
 						Complaineth of <name type="person" key="lacmar1">Mary Lacy</name> wife of
 							<name type="person" key="laclaw">Lawrence Lacy</name> of Andover and of
@@ -12932,7 +12931,7 @@ book">Devills
 				</div2>
 				<div2 id="BoySal2-n2.187" type="indictment">
 					<head>(Indictment v. <name type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
-					<p><figure id="eia31r"/><figure id="eia31v"/>Essex in the Province of the
+					<p><figure n="eia31r"/><figure n="eia31v"/>Essex in the Province of the
 						Massachusetts Bay in New England &rsqb; Anno RRs &amp; Reginae
 						Gulielmi &amp; Mariae Angliae &amp;ca Quarto Anno'qe Domini 1692// </p>
 					<p>The Jurors for our Sov'r Lord and Lady the King and Queen doe &Pbar;rsent
@@ -12979,7 +12978,7 @@ book">Devills
 
 				<div2 id="BoySal2-n2.188" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="lacmar2">Mary Lacey,
-						Jr.</name> ) <figure id="B35r"/></head>
+						Jr.</name> ) <figure n="B35r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To: The Sherriffe of the County of Essex or
@@ -13036,9 +13035,9 @@ book">Devills
 							type="person" key="fosann">Ann Foster</name> , <name type="person"
 							key="carric2">Richard Carrier</name> , and <name type="person"
 							key="carand">Andrew Carrier</name> ) </head>
-					<p><figure id="eia24-1r"/><figure id="eia24-1v"/><figure id="eia24-2r"/><figure
-							id="eia24-2v"/><figure id="eia24-3r"/><figure id="eia24-3v"/><figure
-							id="eia24-4r"/><figure id="eia24-4v"/>Severall Examinations Before <name
+					<p><figure n="eia24-1r"/><figure n="eia24-1v"/><figure n="eia24-2r"/><figure
+							id="eia24-2v"/><figure n="eia24-3r"/><figure n="eia24-3v"/><figure
+							id="eia24-4r"/><figure n="eia24-4v"/>Severall Examinations Before <name
 							type="person" key="gidbar">Bartho Gidny</name> . <name type="person"
 							key="hawjoh">John Hathorne</name>
 						<name type="person" key="corjoh">Jonat Corwin</name> &amp; <name
@@ -13491,9 +13490,9 @@ book">Devills
 				</div2>
 				<div2 id="BoySal2-n2.190" type="examination">
 					<head>(Examination of <name type="person" key="carric2">Richard Carrier</name> ) </head>
-					<p><figure id="eia24-4r"/> Q. <name type="person" key="carric2">Rich'd</name>
-						can you name any that ware at the mettings A. <name type="person"
-							key="wiljoh4">Jno. Willard</name>
+					<p><figure n="eia24-4r"/> Q. <name type="person" key="carric2">Rich'd</name> can
+						you name any that ware at the mettings A. <name type="person" key="wiljoh4"
+							>Jno. Willard</name>
 						<name type="person" key="projoh">Jno. Procter</name> &amp; his Wife
 							<name type="person" key="nurreb">Goody Nurse</name> . Good&mbar;
 						Gory<!--
@@ -13530,8 +13529,8 @@ Comment: --> &amp; his wife. <name type="person" key="howeli"
 				</div2>
 				<div2 id="BoySal2-n2.191" type="section">
 					<head>(Testimony of <name type="person" key="carand">Andrew Carrier</name> ) </head>
-					<p><figure id="eia24-4r"/>
-						<figure id="eia24-4v"/>
+					<p><figure n="eia24-4r"/>
+						<figure n="eia24-4v"/>
 						<name type="person" key="carand">Andrew Carrier</name> brought In &amp;
 						his brother told him that he had acknowledged all: </p>
 					<p>Court -- tell us plainly &amp;c -- Unto many questions asked he Returned
@@ -13796,7 +13795,7 @@ Comment: --> shape told her, that <name type="person"
 				<div2 id="BoySal2-n2.194" type="section">
 					<head>( <name type="person" key="fuleli">Elizabeth Fuller</name> v. <name
 							type="person" key="leejoh">John Lee</name> ) </head>
-					<p><figure id="eia19r"/>The deposition of <name type="person" key="fuleli"
+					<p><figure n="eia19r"/>The deposition of <name type="person" key="fuleli"
 							>Elizabeth fuller</name> abought. 34 yeres testifieth that I herd <name
 							type="person" key="leejoh">John Lee</name> say in my herain in my house
 						in a bosting way that hee had laid one of Mr Clairke<!-- Comment: --> hogs
@@ -13818,7 +13817,7 @@ Comment: --> shape told her, that <name type="person"
 					<head>(Testimony of <name type="person" key="brawil">William Bradford</name> ,
 							<name type="person" key="brarac">Rachel Bradford</name> , and <name
 							type="person" key="raywil2">William Rayment, Jr.</name> ) </head>
-					<p><figure id="H38r"/>(TORN) <name type="person" key="brawil1">william
+					<p><figure n="H38r"/>(TORN) <name type="person" key="brawil1">william
 						Bradford</name> &amp; <name type="person" key="brarac">Rachell his wife
 						</name>
 					</p>
@@ -13851,7 +13850,7 @@ Comment: --> shape told her, that <name type="person"
 				<div2 id="BoySal2-n2.196" type="examination">
 					<head>(Examination of <name type="person" key="liljan">Jane Lilly</name> and
 						Mary Colson) </head>
-					<p><figure id="S057r"/><figure id="S057v"/>
+					<p><figure n="S057r"/><figure n="S057v"/>
 						<name type="person" key="liljan">Jane Lilly</name> examined before their
 						Majests Justices: att salem <date value="1692-09-05" certainty="confirmed"
 							>sept'r. 5th 1692 </date>
@@ -13992,7 +13991,7 @@ Comment: --> shape told her, that <name type="person"
 				</div2>
 				<div2 id="BoySal2-n2.197" type="recognizance">
 					<head>(Recognizance for <name type="person" key="liljan">Jane Lilly</name> ) </head>
-					<p><figure id="S056r"/><figure id="S056v"/>Memorand&ubar;: </p>
+					<p><figure n="S056r"/><figure n="S056v"/>Memorand&ubar;: </p>
 					<p>That on the <date value="1692-12-08" certainty="confirmed">Eighth Day of
 							December 1692</date> in the fourth Year of the Reign of our Sovereign
 						Lord &amp; Lady William &amp; Mary by the Grace of God of England:
@@ -14035,7 +14034,7 @@ Comment: --> shape told her, that <name type="person"
 				</div2>
 				<div2 id="BoySal2-n2.198" type="indictment">
 					<head>(Indictment v. <name type="person" key="liljan">Jane Lilly</name> ) </head>
-					<p><figure id="S055r"/><figure id="S055v"/>(Case of <name type="person"
+					<p><figure n="S055r"/><figure n="S055v"/>(Case of <name type="person"
 							key="liljan">Jane Lilly</name> -- Witchcraft -- Feb. 1692-3) </p>
 					<p>Province of the Massachusetts Bay in New England ss// &rsqb; Att A
 						Superior Court of Judicature held at Charlston for the County of Midlesex
@@ -14213,7 +14212,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.199b" type="examination">
 					<head>(Examination of <name type="person" key="marmar1">Mary Marston</name>)</head>
-					<p><figure id="eia27r"/><figure id="eia27v"/>August 29th 1692 Before <name
+					<p><figure n="eia27r"/><figure n="eia27v"/>August 29th 1692 Before <name
 							type="person" key="gidbar">Majr Gedney</name>
 						<name type="person" key="harjoh">Mr Hathorne</name>
 						<name type="person" key="corjoh">Mr Corwin</name> &amp; <name
@@ -15787,7 +15786,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.230" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
-					<p><figure id="B01r"/><figure id="B01v"/>The Deposistion of <name type="person"
+					<p><figure n="B01r"/><figure n="B01v"/>The Deposistion of <name type="person"
 							key="walmar">Mary Wolcott</name> agged about 17 years who testifieth
 						&amp; saith that in the latter end of April 1692 there Appered to <pb
 							n="577"/> me the <orig reg="apparition">apperishtion</orig> of a short
@@ -16486,7 +16485,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.243" type="section">
 					<head>(Petition for <name type="person" key="nurreb">Rebecca Nurse</name> ) </head>
-					<p><figure id="H40r"/>We whose nams Are heareunto subscribed being desired by
+					<p><figure n="H40r"/>We whose nams Are heareunto subscribed being desired by
 							<name type="person" key="nurfra">goodman Nurse</name> to declare what we
 						knewe concerning his wives conversation for time past: we cane testyfie to
 						all whom it may concerne that we have knowne her for: many years and
@@ -16618,7 +16617,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.244" type="section">
 					<head>( <name type="person" key="putnat">Nathaniel Putnam, Sr.</name> for <name
 							type="person" key="nurreb">Rebecca Nurse</name> ) </head>
-					<p><figure id="H39r"/>
+					<p><figure n="H39r"/>
 						<name type="person" key="putnat">Nathaniell putnam Senor </name> being
 						desired [TORN] by <name type="person" key="nurfra">francis nurse
 						sen'or</name> to give &amp; informa [TORN] of what i could say
@@ -16640,7 +16639,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							key="anddan">Daniel Andrew</name> and <name type="person" key="clopet"
 							>Peter Cloyce</name> for <name type="person" key="nurreb">Rebecca
 						Nurse</name> ) </head>
-					<p><figure id="eia16r"/>We whos nams Are under writen being desiered to goe to
+					<p><figure n="eia16r"/>We whos nams Are under writen being desiered to goe to
 							<name type="person" key="nurfra">goodman nurs</name> his hous to speeke
 						with his wife and to tell her that several of the <orig reg="Afflicted"
 							>Aflicted</orig> persons mentioned her: and Acordingly we went and we
@@ -17248,7 +17247,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="putann1">Ann Putnam Sr.</name> , v. <name
 							type="person" key="cormar">Martha Corey</name> and <name type="person"
 							key="nurreb">Rebecca Nurse</name> ) </head>
-					<p><figure id="eia22r"/><figure id="eia22v"/>The Deposistion of <name
+					<p><figure n="eia22r"/><figure n="eia22v"/>The Deposistion of <name
 							type="person" key="putann2">Ann putnam</name> the wife of <name
 							type="person" key="puttho">Thomas putnam </name> agged about 30 years
 						Who testifieth and saith that on the: 18'th march <pb n="604"/>
@@ -17337,7 +17336,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							type="person" key="nurreb">Rebecca Nurse</name> , <name type="person"
 							key="cormar">Martha Corey</name>, and <name type="person" key="closar"
 							>Sarah Cloyce</name> ) </head>
-					<p><figure id="eia22v"/>The testimony of <name type="person" key="putann2">Ann
+					<p><figure n="eia22v"/>The testimony of <name type="person" key="putann2">Ann
 							Putman jun'r </name> witnesseth &amp; saith that being in the Room
 						when her mother was afflicted she saw <name type="person" key="cormar"
 							>Martha Kory</name>
@@ -17369,7 +17368,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							type="person" key="pasmar">Margery Pasque</name> v. Rebecca Nurse, <name
 							type="person" key="closar">Sarah Cloyce</name> , and <name type="person"
 							key="blamar">Mary Black</name> ) </head>
-					<p><figure id="B21r"/>The Deposition of <name type="person" key="stesar">Sarah
+					<p><figure n="B21r"/>The Deposition of <name type="person" key="stesar">Sarah
 							Stephens </name> aged [] &amp; <name type="person" key="pasmar"
 							>Margery Pasque </name> aged [] testify that the 21 June Last past being
 						improved in the holding of <name type="person" key="reajem">Jemima
@@ -18214,7 +18213,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 
 				<div2 id="BoySal2-n2.279" type="examination">
 					<head>(Examination of <name type="person" key="parali">Alice Parker</name> ) </head>
-					<p><figure id="H41r"/><figure id="H41v"/>The Examination of <name type="person"
+					<p><figure n="H41r"/><figure n="H41v"/>The Examination of <name type="person"
 							key="parali">Alice Parker </name>
 						<date value="1692-05-12" certainty="confirmed">12 May. 1692. </date>
 					</p>
@@ -18280,7 +18279,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.280" type="indictment">
 					<head>(Indictment v. <name type="person" key="parali">Alice Parker</name> , No.
 						1) </head>
-					<p><figure id="H43r"/><figure id="H43v"/>Essex in the Province of the
+					<p><figure n="H43r"/><figure n="H43v"/>Essex in the Province of the
 						Massachusetts Bay New England rsqb; Anno RR's &amp; Reginae Gulielmi
 						&amp; Mariae &amp;c Quarto, Annoq'e Domini 1692/ </p>
 					<p>ss/ </p>
@@ -18325,7 +18324,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.281" type="indictment">
 					<head>(Indictment v. <name type="person" key="parali">Alice Parker</name> , No.
 						2) </head>
-					<p><figure id="H42r"/><figure id="H42v"/>Essex in the Province of the
+					<p><figure n="H42r"/><figure n="H42v"/>Essex in the Province of the
 						Massachusetts Bay in New Engl'd ss &rsqb; Anno RR's and Reginae Gulielmi
 						&amp; Mariae &amp;c Quarto Annoq'e Domini 1692. </p>
 					<p>The Juriors for our Sov'r Lord and Lady the King and Queen doe &Pbar;sent
@@ -18382,7 +18381,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.283" type="section">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name
 							type="person" key="parali">Alice Parker</name> ) </head>
-					<p><figure id="H44r"/><figure id="H44v"/>
+					<p><figure n="H44r"/><figure n="H44v"/>
 						<name type="person" key="bibsar">Sarah Vibber</name>: upon oath: affirmeth:
 						to the #[grand] Jury of inquest: that she hath seen <name type="person"
 							key="parali">Alice Parker: </name> afflict: <name type="person"
@@ -18407,7 +18406,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.284" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="parali">Alice Parker</name> ) </head>
-					<p><figure id="H44r"/><figure id="H44v"/>
+					<p><figure n="H44r"/><figure n="H44v"/>
 						<name type="person" key="walmar">Mary Walcot </name>: upon oath: affirmeth:
 						to the Jury of inquest: that she hath: seen: <name type="person"
 							key="parali">Alice Parker: </name> afflict: <name type="person"
@@ -18433,7 +18432,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> and <name
 							type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="parali">Alice Parker</name> ) </head>
-					<p><figure id="H44r"/><figure id="H44v"/>
+					<p><figure n="H44r"/><figure n="H44v"/>
 						<name type="person" key="hubeli">Eliz Hubard </name>: on oath affirmd to the
 						Jury of inquest: that <name type="person" key="parali">Alice Parker: </name>
 						hath once afflicted her: &amp; that was last night; Sept'r 7: 1692 <name
@@ -18454,9 +18453,9 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.286" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="parali">Alice Parker</name> ) </head>
-					<figure id="H44r"/>
-					<figure id="H44v"/>
-					<p>
+
+					<p><figure n="H44r"/>
+						<figure n="H44v"/>
 						<name type="person" key="warmar">Mary: Warin</name> : upon oath: affirms to
 						the Jury of Inquest: that: she hath seen <name type="person" key="parali"
 							>Alice Parker </name> afflict: <name type="person" key="walmar">Mary
@@ -18492,7 +18491,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.287" type="section">
 					<head>( <name type="person" key="hobabi">Abigail Hobbs</name> v. <name
 							type="person" key="parali">Alice Parker</name> ) </head>
-					<p><figure id="H44r"/><figure id="H44v"/>
+					<p><figure n="H44r"/><figure n="H44v"/>
 						<name type="person" key="hobabi">Abigail: Hobbs</name>: afirms: she has
 						seen: <name>Alice Parker: </name> afflict: <name type="person" key="warmar"
 							>Mary: Warin:</name> when s'd <name type="person" key="warmar"
@@ -18548,7 +18547,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 
 				<div2 id="BoySal2-n2.288" type="indictment">
 					<head>(Indictment v. <name type="person" key="parmar">Mary Parker</name> ) </head>
-					<p><figure id="H45r"/><figure id="H45v"/>Essex in the Province of the
+					<p><figure n="H45r"/><figure n="H45v"/>Essex in the Province of the
 						Massachusetts Bay in New England ss &rsqb; Anno RR's &amp; Reginae
 						Gulielmi &amp; Mariae Angliae &amp;ca Quarto Annoq'e Domini 1692 The
 						Jurors for our Sov'r Lord and Lady the King and Queen &pbar;rsent That
@@ -18578,7 +18577,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.289" type="indictment">
 
 					<head>(Indictment v. <name type="person" key="parmar">Mary Parker</name> ) </head>
-					<p><figure id="eia04r"/><figure id="eia04v"/>Essex in the Province of the
+					<p><figure n="eia04r"/><figure n="eia04v"/>Essex in the Province of the
 						Massachusetts Bay in New England. &rsqb; Anno RR's Reginae Gulielmi
 						&amp; Mariae Angliae &amp; Quarto. Annoq'e Domini 1692 </p>
 					<p>The Jurors for o'r Sov'r Lord and Lady the King and Queen do present That.
@@ -19013,7 +19012,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 
 				<div2 id="BoySal2-n2.299" type="complaint">
 					<head>(Complaint v. <name type="person" key="penjoa">Joan Peney</name> ) </head>
-					<p><figure id="B29r"/><name type="person" key="hilzeb">Zebulon Hill</name>
+					<p><figure n="B29r"/><name type="person" key="hilzeb">Zebulon Hill</name>
 						Complaineth in the behalfe of Our Sovereigne Lord and Lady William and Mary
 						King and Queen Unto this Honorable Court now Assembled and Sitting in Salem
 						this <date value="1692-09-13" certainty="confirmed">13 day of September
@@ -19056,7 +19055,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<pb n="642"/>
 				<div2 id="BoySal2-n2.301" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="penjoa">Joan Peney</name>
-						) <figure id="B42r"/></head>
+						) <figure n="B42r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the sherife of the County of Essex his Deputy
@@ -19133,7 +19132,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.302" type="examination">
 					<head>(Examination of <name type="person" key="poshan">Hannah Post</name> ) </head>
 					<p>
-						<figure id="eia24-6r"/>
+						<figure n="eia24-6r"/>
 						<date value="1692-08-25" certainty="unconfirmed">August the 25'th 1692.
 						</date>
 					</p>
@@ -19201,7 +19200,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 
 				<div2 id="BoySal2-n2.303" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="posmar">Mary Post</name> )
-							<figure id="B30r"/></head>
+							<figure n="B30r"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Constable </name>
@@ -19266,7 +19265,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.304" type="examination">
 					<head>(Examination of <name type="person" key="possus">Susannah Post</name> ) </head>
 					<p>
-						<figure id="S035r"/><figure id="S035v"/>
+						<figure n="S035r"/><figure n="S035v"/>
 						<name type="person" key="possus">Susanah Post</name> was examined before
 							<name type="person" key="gidbar">Maj'r. Gedney: </name> &amp; other
 						their Majest's Justices <date value="1692-08-25" certainty="unconfirmed"
@@ -19340,7 +19339,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.305" type="indictment">
 					<head>(Indictment v. <name type="person" key="possus">Susannah Post</name> ) </head>
-					<p><figure id="S034r"/><figure id="S034v"/>Province of the Massathutetts Bay in
+					<p><figure n="S034r"/><figure n="S034v"/>Province of the Massathutetts Bay in
 						New England Essex &rsqb; Anno R R's &amp; Reginae Gulielmi &amp;
 						Mariae Angliae &amp;c Quarto Annoq'e Do&mbar; 1692 </p>
 					<p>The Jurrors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -19376,7 +19375,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.306" type="indictment">
 					<head>(Indictment v. <name type="person" key="possus">Susannah Post</name> ) </head>
-					<p><figure id="S033r"/><figure id="S033v"/>Province of the Massachusetts Bay in
+					<p><figure n="S033r"/><figure n="S033v"/>Province of the Massachusetts Bay in
 						New England Essex ss &rsqb; Anno RR &amp; Reginae Gulielmi &amp;
 						Mariae Angliae &amp;c Quarto Annoq'e Do&mbar; 1692 </p>
 					<p>The Jurors for o'r Sov'r Lord &amp; Lady the King &amp; Queen pr'sent </p>
@@ -19418,7 +19417,7 @@ Book">Devills Booke</orig> &amp; was
 				<div2 id="BoySal2-n2.307" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="diceli">Elizabeth
 						Dicer</name> and <name type="person" key="primar">Margaret Prince</name> )
-							<figure id="B24r"/><figure id="B24v"/></head>
+							<figure n="B24r"/><figure n="B24v"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Constable </name>
@@ -19475,8 +19474,8 @@ Book">Devills Booke</orig> &amp; was
 				<pb n="652"/>
 				<div2 id="BoySal2-n2.308" type="indictment">
 					<head>(Indictment v. <name type="person" key="primar">Margaret Prince</name> ) </head>
-					<p><figure id="S010r"/><figure id="S010v"/>Province of the Massachusets Bay in
-						New England &rsqb; Anno RR's &amp; Reginae &amp; Mariae Angliae
+					<p><figure n="S010r"/><figure n="S010v"/>Province of the Massachusets Bay in New
+						England &rsqb; Anno RR's &amp; Reginae &amp; Mariae Angliae
 						&amp;c Quarto Annoq'e Domini 1692 </p>
 					<p>Essex ss The Juriors for our Soveraigne Lord &amp; Lady the King
 						&amp; Queen doe present that <name type="person" key="primar">Margreet
@@ -20515,18 +20514,18 @@ where a john is mentioned without firther reference in this document-->
 				<div2 id="BoySal2-n2.332" type="section">
 					<head>( <name type="person" key="raywil2">William Rayment</name> v. "Some of the
 						Afflicted Persons") </head>
-					<p><figure id="eia26r"/><figure id="eia26v"/>The testimony of <name
-							type="person" key="raywil2">william Rayment</name> aged 26 years or
-						there abouts testifieth &amp; saith that I being at the house of
-							<name>leftint Ingesone </name>. some <pb n="671"/> time in the later end
-						of march: there discoursing conserning. the examying of severall person
-						suspected for witches: I was saying that I hard that goody procter was to be
-						examyned to morrow to which <name type="person" key="inghan">goody
-						ingersone</name> replyed she did not beleve it for she heard nothing of it;
-						some of The afflicted persons being present one of them or more cryed out
-						there is <name type="person" key="proeli">goody procter </name> there is
-							<name type="person" key="proeli">goody procter </name> and old wich Ile
-						have har hung <name type="person" key="inghan">goody ingerson</name> Sharply
+					<p><figure n="eia26r"/><figure n="eia26v"/>The testimony of <name type="person"
+							key="raywil2">william Rayment</name> aged 26 years or there abouts
+						testifieth &amp; saith that I being at the house of <name>leftint
+							Ingesone </name>. some <pb n="671"/> time in the later end of march:
+						there discoursing conserning. the examying of severall person suspected for
+						witches: I was saying that I hard that goody procter was to be examyned to
+						morrow to which <name type="person" key="inghan">goody ingersone</name>
+						replyed she did not beleve it for she heard nothing of it; some of The
+						afflicted persons being present one of them or more cryed out there is <name
+							type="person" key="proeli">goody procter </name> there is <name
+							type="person" key="proeli">goody procter </name> and old wich Ile have
+						har hung <name type="person" key="inghan">goody ingerson</name> Sharply
 						reproved them: then they semed to make. a Jest of it </p>
 					<p>(On reverse side of paper) <name type="person" key="raywil2">Wm.
 						Rayment.</name>
@@ -20789,7 +20788,7 @@ where a john is mentioned without firther reference in this document-->
 							type="person" key="ingnat">Nathaniel Ingersoll</name> and <name
 							type="person" key="puttho">Thomas Putnam</name> v. <name type="person"
 							key="proeli">Elizabeth Proctor</name> ) </head>
-					<p><figure id="B36r"/>The Deposition of <name type="person" key="parsam">Sam:
+					<p><figure n="B36r"/>The Deposition of <name type="person" key="parsam">Sam:
 							Parris </name> aged about.39.years, &amp; <name type="person"
 							key="ingnat">Nathanael Ingersol</name> aged about fifty &amp; eight
 						year, &amp; <name type="person" key="puttho">Thomas Putnam </name> aged
@@ -21233,8 +21232,8 @@ where a john is mentioned without firther reference in this document-->
 				<div2 id="BoySal2-n2.347" type="section">
 					<head>(Testimony of <name type="person" key="popjos">Joseph Pope</name> ) </head>
 					<p>
-						<figure id="eia20r"/>
-						<figure id="eia20v"/>
+						<figure n="eia20r"/>
+						<figure n="eia20v"/>
 						<date value="1692-04-11" certainty="confirmed">Aprill 11 -- 1692 </date>
 					</p>
 					<p>aged forty one years or thereabouts <name type="person" key="popjos">Joseph
@@ -22047,7 +22046,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal2-n2.372" type="indictment">
 					<head>(Indictment v. <name type="person" key="prowil">William Proctor</name> ,
 						No. 3) </head>
-					<p><figure id="S037r"/><figure id="S037v"/>Province of the Massathusetts Bay in
+					<p><figure n="S037r"/><figure n="S037v"/>Province of the Massathusetts Bay in
 						New England, Essex &rsqb; Anno RRs &amp; Reginae Gulielmi &amp;
 						Mariae Angliae &amp;c Quarto Annoq'e Do&mbar; 1692 </p>
 					<p>The Jurors for our sovereigne Lord &amp; Lady the King &amp; Queen
@@ -22125,7 +22124,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal2-n2.374" type="examination">
 					<head>(Examination of <name type="person" key="prowil">William Proctor</name> ) </head>
-					<p><figure id="S036r"/><figure id="S036v"/><date value="1692-09-17"
+					<p><figure n="S036r"/><figure n="S036v"/><date value="1692-09-17"
 							certainty="confirmed">17 Sept</date>: </p>
 					<p>The Examination of <name type="person" key="prowil">William Procter</name>
 						taken before <name type="person" key="hawjoh">Jno hauthorn</name> Esq'r and

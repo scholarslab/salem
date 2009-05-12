@@ -4068,8 +4068,8 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<div2 id="BoySal3-n3.10" type="section">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name
 							type="person" key="pudann">Ann Pudeator</name> ) </head>
-					<p><figure id="H44r"/>
-						<figure id="H44v"/>
+					<p><figure n="H44r"/>
+						<figure n="H44v"/>
 						<name type="person" key="bibsar">Sarah Vibber</name>: upon: her: oath
 						affirmed to the Jury of inquest that shee: hath seen: <name type="person"
 							key="pudann">An Puddeater </name> afflict: <name type="person"
@@ -4957,10 +4957,10 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 
 				<div2 id="BoySal3-n3.33" type="examination">
 					<head>(Examination of <name type="person" key="salhen">Henry Salter</name> ) </head>
-					<p><figure id="S000r"/><figure id="S000v"/>The Examination of <name
-							type="person" key="salhen">Henry Salters. </name> Taken before <name
-							type="person" key="hawjoh">Jno Hauthorn </name> Esq'r &amp; other
-						their Majesties Justices. </p>
+					<p><figure n="S000r"/><figure n="S000v"/>The Examination of <name type="person"
+							key="salhen">Henry Salters. </name> Taken before <name type="person"
+							key="hawjoh">Jno Hauthorn </name> Esq'r &amp; other their Majesties
+						Justices. </p>
 					<p>In the tyme of his Examination He struck down with his eye <name
 							type="person" key="warmar"> Warrin</name>
 						<name type="person" key="walmar">Mary Walcot</name>
@@ -5037,7 +5037,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.34" type="indictment">
 					<head>(Indictment v. <name type="person" key="salhen">Henry Salter</name> ) </head>
-					<p><figure id="S025r"/><figure id="S025v"/>Essex in the Province of the
+					<p><figure n="S025r"/><figure n="S025v"/>Essex in the Province of the
 						Massachusett Bay in New England &rsqb; </p>
 					<p>Anno RR &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c Quarto
 						Annoq'e Domini 1692 </p>
@@ -5564,7 +5564,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<pb n="730"/>
 				<div2 id="BoySal3-n3.39" type="recognizance">
 					<head>(Recognizance for <name type="person" key="seaann">Ann Sears</name> ) </head>
-					<p><figure id="S020r"/><figure id="S020v"/>Memorand'm </p>
+					<p><figure n="S020r"/><figure n="S020v"/>Memorand'm </p>
 					<p>That on the <date value="1692-12-03" certainty="confirmed">Third day of
 							December 1692</date> &amp; in the fowerth year of Reign of our
 						Soveraign Lord &amp; Lady William &amp; Mary by the Grace of God of
@@ -5698,7 +5698,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					<head>(Examination of <name type="person" key="somabi">Abigail Somes</name> ,
 							<date value="1692-05-13" certainty="confirmed">May 13, 1692</date>, at
 						Salem) </head>
-					<p><figure id="S029r"/><figure id="S029v"/>Upon the glance of her Eye she struck
+					<p><figure n="S029r"/><figure n="S029v"/>Upon the glance of her Eye she struck
 							<name type="person" key="warmar">Mary Warren</name> into a dreadful fit
 						at her first appearance, and s'd <name type="person" key="warmar"
 						>Warren</name> continually Crying out that it was this very Woman tho She
@@ -5833,7 +5833,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<div2 id="BoySal3-n3.43" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="somabi">Abigail Somes</name> ) </head>
-					<p><figure id="S028r"/>The Deposition of <name type="person" key="warmar">Mary
+					<p><figure n="S028r"/>The Deposition of <name type="person" key="warmar">Mary
 							Warren</name> who Testifieth &amp; saith that <name type="person"
 							key="somabi">Abigaill Somes </name> of Gloster hath often <orig
 							reg="afflicted">aflickted</orig> mee by bitting pricking &amp;
@@ -5857,7 +5857,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.44" type="indictment">
 					<head>(Indictment v. <name type="person" key="somabi">Abigail Somes</name> ) </head>
-					<p><figure id="S027r"/><figure id="S027v"/>Essex in the Province of the
+					<p><figure n="S027r"/><figure n="S027v"/>Essex in the Province of the
 						Massathusetts Bay in New Eng'd// </p>
 					<p>Anno R R's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Do&mbar;i: 1692 </p>
@@ -5909,7 +5909,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 
 				<div2 id="BoySal3-n3.45" type="recognizance">
 					<head>(Recognizance for <name type="person" key="spamar">Martha Sparks</name> ) </head>
-					<p><figure id="S021r"/><figure id="S021v"/>Memorand'm </p>
+					<p><figure n="S021r"/><figure n="S021v"/>Memorand'm </p>
 					<p>That on the<date value="1692-12-06" certainty="confirmed"> Sixth day of
 							Decemb'r 1692</date> in the fowerth year of the Reign of our Soveraign
 						Lord &amp; Lady William &amp; Mary by the grace of God of England
@@ -6006,7 +6006,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 
 				<div2 id="BoySal3-n3.47" type="examination">
 					<head>(Examination of <name type="person" key="taymar">Mary Taylor</name> ) </head>
-					<p><figure id="S044r"/><figure id="S044v"/>
+					<p><figure n="S044r"/><figure n="S044v"/>
 						<name type="person" key="taymar">Mary Tayler </name> examined before their
 						Majest's Justies at Salem <date value="1692-09-05" certainty="confirmed"
 							>Sept'r 5'th 1692 </date>
@@ -6141,7 +6141,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					<head>(<name type="person" key="parjoh">John Parker</name> and <name
 							type="person" key="eatjos2">Josiah Eaton</name> v. <name type="person"
 							key="taymar">Mary Taylor</name> ) </head>
-					<p><figure id="S043r"/>Sworne in Court &lsqb; </p>
+					<p><figure n="S043r"/>Sworne in Court &lsqb; </p>
 					<p>
 						<name type="person" key="parjoh">Jno Parker</name>
 						<lb/>
@@ -6171,7 +6171,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<pb n="744"/>
 				<div2 id="BoySal3-n3.49" type="indictment">
 					<head>(Indictment v. <name type="person" key="taymar">Mary Taylor</name> ) </head>
-					<p><figure id="S042r"/><figure id="S042v"/>Province of the Massachusetts Bay in
+					<p><figure n="S042r"/><figure n="S042v"/>Province of the Massachusetts Bay in
 						New England ss &rsqb;</p>
 					<p>Att a superior Court of Judicature held at Charleson <date value="1692-01-31"
 							certainty="unconfirmed">Jan'ry 31'th 1692</date> Annoq RR's &amp;
@@ -6706,7 +6706,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.56" type="indictment">
 					<head>(Indictment v. <name type="person" key="tituba">Tituba</name> ) </head>
-					<p><figure id="S061r"/><figure id="S061v"/>Province of the Massachusetts Bay in
+					<p><figure n="S061r"/><figure n="S061v"/>Province of the Massachusetts Bay in
 						New England Essex ss &rsqb; </p>
 					<p>At a Court of Asisise &amp; Generall Goale Delivery held in Ipswich for
 						the County of Essex aforesaid the <date value="1692-05-09"
@@ -7101,7 +7101,7 @@ book">Devills Booke</orig> with a
 				<pb n="763"/>
 				<div2 id="BoySal3-n3.67" type="indictment">
 					<head>(Indictment v. <name type="person" key="toojob">Job Tookey</name> , No. 1) </head>
-					<p><figure id="S007r"/><figure id="S007v"/>Essex in the Province of the
+					<p><figure n="S007r"/><figure n="S007v"/>Essex in the Province of the
 						Massachusetts Bay in New England &rsqb; </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Do&mbar;: 1692/ </p>
@@ -7129,7 +7129,7 @@ book">Devills Booke</orig> with a
 				</div2>
 				<div2 id="BoySal3-n3.68" type="indictment">
 					<head>(Indictment v. <name type="person" key="toojob">Job Tookey</name> , No. 2) </head>
-					<p><figure id="S008r"/><figure id="S008v"/>Essex in the Province of the
+					<p><figure n="S008r"/><figure n="S008v"/>Essex in the Province of the
 						Massachusetts Bay in New England &rsqb; </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Domini 1692 </p>
@@ -7239,7 +7239,7 @@ book">Devills Booke</orig> with a
 
 				<div2 id="BoySal3-n3.71" type="examination">
 					<head>(Examination of <name type="person" key="toomar">Mary Toothaker</name>) </head>
-					<p><figure id="S054r"/><figure id="S054v"/>
+					<p><figure n="S054r"/><figure n="S054v"/>
 						<date value="1692-07-30" certainty="unconfirmed">30 July 92 </date> The
 						Examination and confession of <name type="person" key="toomar">widow
 							Toothaker</name> Taken before <name type="person" key="gidbar">Major
@@ -7397,7 +7397,7 @@ book">Devills Booke</orig> with a
 				</div2>
 				<div2 id="BoySal3-n3.72" type="indictment">
 					<head>(Indictment v. <name type="person" key="toomar">Mary Toothaker</name> ) </head>
-					<p><figure id="S053r"/><figure id="S053v"/>Province of the Massachusetts Bay in
+					<p><figure n="S053r"/><figure n="S053v"/>Province of the Massachusetts Bay in
 						New England ss &rsqb; </p>
 					<p>At A Superior Court of Judicature held in Charlston for the County of
 						Midlesex the <date value="1692-01-31" certainty="unconfirmed">31: Jan'ry:
@@ -7427,7 +7427,7 @@ book">Devills Booke</orig> with a
 				<pb n="771" id="p929-080"/>
 				<div2 id="BoySal3-n3.72b" type="examination">
 					<head>(Examination of <name type="person" key="toomar">Mary Toothaker</name>)</head>
-					<p><figure id="eia24-4v"/><figure id="eia24-5r"/><date value="1692-07-30"
+					<p><figure n="eia24-4v"/><figure n="eia24-5r"/><date value="1692-07-30"
 							certainty="confirmed">30th July 1692</date> / The Examination &amp;
 						Confession of <name type="person" key="toomar">Widow Toothaker</name>
 						Taken<lb/> Before <name type="person" key="gidbar">Majr Gidney</name>
@@ -7703,7 +7703,7 @@ lacmar2">Mary Laceys</name>
 				</div2>
 				<div2 id="BoySal3-n3.76" type="warrant">
 					<head>(Coroner's Warrant) </head>
-					<p><figure id="S019r"/>Suffolk To the Constables of Boston, or either of them By
+					<p><figure n="S019r"/>Suffolk To the Constables of Boston, or either of them By
 						Vertue of mine office, These are in the names of our Sovereigne Lord and
 						Lady, King William and Queen Mary of England &amp;c. -- </p>
 					<p>to will and Require to Immediately, upon the Receipt and sight hereof, to
@@ -7725,7 +7725,7 @@ lacmar2">Mary Laceys</name>
 				<div2 id="BoySal3-n3.77" type="section">
 					<head>(Return of the Coroner's Jury on the Death of <name type="person"
 							key="toorog">Roger Toothaker</name> ) </head>
-					<p><figure id="S019v"/>We whose names are underwritten being summoned by vertue
+					<p><figure n="S019v"/>We whose names are underwritten being summoned by vertue
 						of a Warrant from <name type="person" key="wyledw">Mr. Edward Willis </name>
 						one of their Maj'sts Coroners of the County of Suffolk to view the body of
 							<name type="person" key="toorog">Roger Toothacker </name> who dyed in
@@ -7800,8 +7800,8 @@ lacmar2">Mary Laceys</name>
 
 				<div2 id="BoySal3-n3.78" type="examination">
 					<head>(Examination of <name type="person" key="tyljoh">Johanna Tyler</name> ) </head>
-					<p><figure id="eia24-10v"/>The Exa&mbar; of <name type="person" key=""
-							>Joanna Tyler </name> taken Before <name type="person" key="higjoh">Jno
+					<p><figure n="eia24-10v"/>The Exa&mbar; of <name type="person" key="">Joanna
+							Tyler </name> taken Before <name type="person" key="higjoh">Jno
 							Higginson</name> &amp; <name type="person" key="wadcap">Capt
 						Wade</name> their Majesties Justices of the Peace for the County of Essex
 							<date value="1692-09-16" certainty="confirmed">16th Se&pbar; 1692
@@ -7982,7 +7982,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 
 				<div2 id="BoySal3-n3.82" type="examination">
 					<head>(Examination of <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
-					<p><figure id="eia24-9r"/>
+					<p><figure n="eia24-9r"/>
 						<date value="1692-09-01" certainty="confirmed">1st Sept 1692 </date>. Before
 							<name type="person" key="gidbar">Maj'r Gidney</name>
 						<name type="person" key="hawjoh">Mr Hathorne</name>
@@ -8446,7 +8446,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 
 				<div2 id="BoySal3-n3.95" type="section">
 					<head>(Confession of Sarah Wardwell) </head>
-					<p><figure id="eia24-8v"/><figure id="eia24-9r"/>The <date value="1692-09-01"
+					<p><figure n="eia24-8v"/><figure n="eia24-9r"/>The <date value="1692-09-01"
 							certainty="confirmed">1st Septemb'r 1692. </date>
 					</p>
 					<p>Before <name type="person" key="gidbar">Maj'r Gidney</name>
@@ -9194,8 +9194,8 @@ book">Devills book</orig> that my <name type="person"
 				</div2>
 				<div2 id="BoySal3-n3.106" type="indictment">
 					<head>(Indictment v. <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia14r"/><figure id="eia14v"/>Anno Regis et Reginae Willm et
-						Mariae nunc Angliae &amp;c Quarto </p>
+					<p><figure n="eia14r"/><figure n="eia14v"/>Anno Regis et Reginae Willm et Mariae
+						nunc Angliae &amp;c Quarto </p>
 					<p>Essex ss The Jurors for our Sovereigne Lord and Lady the King and Queen
 						pr'sents That <name type="person" key="wilsar">Sarah Willes</name> wife of
 							<name type="person" key="wiljoh1">John Willes</name> of Topsfield
@@ -9317,7 +9317,7 @@ book">Devills book</orig> that my <name type="person"
 				<div2 id="BoySal3-n3.110" type="section">
 					<head>( <name type="person" key="haljoh">Rev. John Hale</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia21r"/><figure id="eia21v"/>I <name type="person" key="haljoh"
+					<p><figure n="eia21r"/><figure n="eia21v"/>I <name type="person" key="haljoh"
 							>John Hale </name> of Beverly aged 56 years beeing su&mbar;oned to
 						appeare &amp; give evidence against <name type="person" key="wilsar"
 							>Sarah Wiles</name> of Topsfeild <date value="1692-07-02"
@@ -9360,7 +9360,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 				<div2 id="BoySal3-n3.111" type="section">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> vs. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia10r"/><figure id="eia10v"/>The Deposistion of <name
+					<p><figure n="eia10r"/><figure n="eia10v"/>The Deposistion of <name
 							type="person" key="putann2">Ann putnam</name> Jun'r who testifieth and
 						saith I have been <orig reg="afflicted">afflected</orig> ever sence the
 						begi[n]ing of march with a woman that tould me hir name was willds and that
@@ -9396,7 +9396,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 				<div2 id="BoySal3-n3.112" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia11r"/><figure id="eia11v"/>The Deposistion of <name>
+					<p><figure n="eia11r"/><figure n="eia11v"/>The Deposistion of <name>
 							<name type="person" key="walmar">mary walcott</name>
 						</name> aged about 17 years who testifieth and saith that in the begining of
 						Appril 1692 there came to me a woman which I did not know and she did most
@@ -9442,7 +9442,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 				<div2 id="BoySal3-n3.113" type="section">
 					<head>( <name type="person" key="ingnat">Nathaniel Ingersoll</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia09r"/><figure id="eia09v"/>The Deposistion of <name
+					<p><figure n="eia09r"/><figure n="eia09v"/>The Deposistion of <name
 							type="person" key="ingnat">Nathaniell Ingersoll</name> agged about 58
 						years and <name type="person" key="puttho">Thomas putnam </name> aged about
 						40 years who testifieth and saith that wee haveing been conversant with
@@ -9484,7 +9484,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 				<div2 id="BoySal3-n3.114" type="section">
 					<head>( <name type="person" key="symeli">Elizabeth Symonds</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia13r"/><figure id="eia13v"/>The Depotion of <name type="person"
+					<p><figure n="eia13r"/><figure n="eia13v"/>The Depotion of <name type="person"
 							key="symeli">Elizabath Symons</name> aged about 50 yeares Whoe
 						testifieth and saith that about twelve or thirteene yeares sence theire
 						abouts being in Company With my <name type="person" key="xxxxxx">Mother
@@ -9561,7 +9561,7 @@ who this is?-->
 					<head>( <name type="person" key="goujoh">John Gould</name> and <name
 							type="person" key="perzac">Zacheus Perkins</name> v. <name type="person"
 							key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia12r"/><figure id="eia12v"/>The Depotion of <name type="person"
+					<p><figure n="eia12r"/><figure n="eia12v"/>The Depotion of <name type="person"
 							key="goujoh">John Gould</name> aged about 56 yeares or theire about
 						Testifeth and saith that some time sence whether it be fivfteen or sixteene
 						yeares agoe I am not sarting but I take it to be theire abouts sister <name
@@ -9624,13 +9624,12 @@ who this is?-->
 				<div2 id="BoySal3-n3.116" type="section">
 					<head>( <name type="person" key="clahum">Humphrey Clark</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia08r"/><figure id="eia08v"/>the deposition of <name
-							type="person" key="clahum">humpry Clark</name> aged about 21 yere saith
-						that about a yere agoo I was asleep and about midnight the bed Shook
-						&amp; I awaked and saw a woman stand by the bed side which when I well
-						Looked semed to me to be <name type="person" key="wilsar">goodwif
-						wills</name> which jumpid to the tother corner of the house &amp; then I
-						saw hir no more. </p>
+					<p><figure n="eia08r"/><figure n="eia08v"/>the deposition of <name type="person"
+							key="clahum">humpry Clark</name> aged about 21 yere saith that about a
+						yere agoo I was asleep and about midnight the bed Shook &amp; I awaked
+						and saw a woman stand by the bed side which when I well Looked semed to me
+						to be <name type="person" key="wilsar">goodwif wills</name> which jumpid to
+						the tother corner of the house &amp; then I saw hir no more. </p>
 					<closer>
 						<dateline>
 							<name type="place">Jurat in Curia </name>
@@ -9646,12 +9645,12 @@ who this is?-->
 				<div2 id="BoySal3-n3.117" type="section">
 					<head>( <name type="person" key="dortho">Thomas Dorman</name> v. <name
 							type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure id="eia07r"/><figure id="eia07v"/>the deposition of <name
-							type="person" key="dortho">Thomas Dorman</name> aged 53 yers saith goody
-						wils was arnest with me to by one hive of beese and sins goodwife wils had
-						thes beese I lost many Creturs and she Came to my hous one day <pb n="816"/>
-						and said She how doth your geese thrive and she went to the pen whare thay
-						were fatting, and thay were very fat and we we cept them a grat while longer
+					<p><figure n="eia07r"/><figure n="eia07v"/>the deposition of <name type="person"
+							key="dortho">Thomas Dorman</name> aged 53 yers saith goody wils was
+						arnest with me to by one hive of beese and sins goodwife wils had thes beese
+						I lost many Creturs and she Came to my hous one day <pb n="816"/> and said
+						She how doth your geese thrive and she went to the pen whare thay were
+						fatting, and thay were very fat and we we cept them a grat while longer
 						feding them with Corne and thay pind away so as thay were good for litle and
 						I lost six brave Cattle Six yere agoe which was frozen to death in the
 						midell of Jenewary; now sum time this summer my wif went to Salem vilidg and
@@ -9673,7 +9672,7 @@ who this is?-->
 					<head>( <name type="person" key="andjoh1">John Andrew</name> and <name
 							type="person" key="andjos">Joseph Andrew</name> v. <name type="person"
 							key="wilsar">Sarah Wilds</name>) </head>
-					<p><figure id="eia06r"/><figure id="eia06v"/>The deposistion of <name
+					<p><figure n="eia06r"/><figure n="eia06v"/>The deposistion of <name
 							type="person" key="andjoh1">John Andrew</name> aged about 37 years and
 							<name type="person" key="andjos">Joseph Andrew</name> agged about 33
 						years: both of Boxford who testifieth and saith that in the year 1674: we
@@ -9879,8 +9878,8 @@ who this is?-->
 				<div2 id="BoySal3-n3.121" type="section">
 					<head>( <name type="person" key="hergeo">George Herrick</name> and Others v.
 							<name type="person" key="wiljoh4">John Willard</name> and <name
-							type="person" key="bucsar">Sarah Buckley</name> ) <figure id="B08r"
-							/><figure id="B08v"/></head>
+							type="person" key="bucsar">Sarah Buckley</name> ) <figure n="B08r"
+							/><figure n="B08v"/></head>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Hon'ble <name type="person" key="hawjoh"
@@ -9960,7 +9959,7 @@ who this is?-->
 				<div2 id="BoySal3-n3.122" type="section">
 					<head>(Return of a Jury of Inquest on the Death of <name type="person"
 							key="wildan">Daniel Wilkins</name> ) </head>
-					<p><figure id="B07r"/><figure id="B07v"/>We whose names are underwritten being
+					<p><figure n="B07r"/><figure n="B07v"/>We whose names are underwritten being
 						warned by Constable <name type="person" key="putjoh2">John Putnam </name> of
 						Salem this <date value="1692-05-17" certainty="confirmed">17 of may 1692
 						</date> to view the body of <name type="person" key="wildan">daniell
@@ -10033,7 +10032,7 @@ who this is?-->
 				<pb n="823"/>
 				<div2 id="BoySal3-n3.123" type="examination">
 					<head>(Examination of <name type="person" key="wiljoh">John Willard</name> ) </head>
-					<p><figure id="B02r"/>The Examination of <name type="person" key="wiljoh4">John
+					<p><figure n="B02r"/>The Examination of <name type="person" key="wiljoh4">John
 							Willard. </name>
 						<date value="1692-05-18" certainty="confirmed">18 May <hi rend="underline"
 								>1692 </hi>
@@ -10177,7 +10176,7 @@ who this is?-->
 				<div2 id="BoySal3-n3.124" type="examination">
 					<head>(Examination of <name type="person" key="wiljoh4">John Willard</name> --
 						Second Version) </head>
-					<p><figure id="B00r"/><figure id="B00v"/>The Examination of <name type="person"
+					<p><figure n="B00r"/><figure n="B00v"/>The Examination of <name type="person"
 							key="wiljoh4">John Willard </name>
 						<date value="1692-05-18" certainty="confirmed">18. May <hi rend="underline"
 								>1692 </hi>
@@ -10677,7 +10676,7 @@ separately?-->
 					<head>(Summons for Witnesses v. <name type="person" key="wiljoh4">John
 						Willard</name> and <name type="person" key="carmar1">Martha Carrier</name> ) </head>
 					<p>
-						<figure id="H19r"/><figure id="H19v"/>William &amp; Mary By the Grace of
+						<figure n="H19r"/><figure n="H19v"/>William &amp; Mary By the Grace of
 						god of England Scotland france &amp; Ireland King defenders of the faith
 						&amp;c </p>
 					<p>To <name type="person" key="rogjoh">John Rogers</name>
@@ -11553,7 +11552,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				<div2 id="BoySal3-n3.155" type="section">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="wiljoh3">John Willard</name> ) </head>
-					<p><figure id="B04r"/><figure id="B04v"/>The Deposition of <name type="person"
+					<p><figure n="B04r"/><figure n="B04v"/>The Deposition of <name type="person"
 							key="putann2">Ann Putnam</name> who testifieth and saith that on the 23
 						of April 1692 att evening I saw the <orig reg="Apparition"
 						>Aperishtion</orig> of <name type="person" key="wiljoh3">John
@@ -11616,7 +11615,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				<div2 id="BoySal3-n3.156" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="wiljoh3">John Willard</name> ) </head>
-					<p><figure id="B06r"/><figure id="B06v"/>The Deposishion of <name type="person"
+					<p><figure n="B06r"/><figure n="B06v"/>The Deposishion of <name type="person"
 							key="walmar">mary walcott</name> agged above 17 years who testifieth
 						&amp; saith that on the 15'th of may 1692 I saw the apperishtion of <pb
 							n="852"/>
@@ -11662,7 +11661,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				<div2 id="BoySal3-n3.157" type="section">
 					<head>( <name type="person" key="wilabi">Abigail Williams</name> v. <name
 							type="person" key="wiljoh3">John Willard</name> ) </head>
-					<p><figure id="B12r"/><figure id="B12v"/>The Testimony of <name type="person"
+					<p><figure n="B12r"/><figure n="B12v"/>The Testimony of <name type="person"
 							key="wilabi">Abigail Williams </name> witnesseth &amp; saith that
 						sundry times she hath seen &amp; been almost killed by the <orig
 							reg="Apparition">Appartion</orig> of <name type="person" key="wiljoh3"
@@ -11694,7 +11693,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				<div2 id="BoySal3-n3.158" type="section">
 					<head>( <name type="person" key="hutjos">Joseph Hutchinson</name> v. <name
 							type="person" key="wilabi">Abigail Williams</name> ) </head>
-					<p><figure id="H47r"/>The deposition of <name type="person" key="hutjos">Joseph
+					<p><figure n="H47r"/>The deposition of <name type="person" key="hutjos">Joseph
 							Hutchinson</name> aged 59: year doe testifie as fourth </p>
 					<p>
 						<name type="person" key="wilabi">Abigaill Williams</name> I have heard you
@@ -12256,7 +12255,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<head>List of Eleven Accused Persons and Their Accusers, May 1692 </head>
 					<div3 type="list">
 						<head>(List of Eleven Accused Persons and Their Accusers, May 1692) </head>
-						<p><figure id="B45r"/><figure id="B45v"/>Complaint of Severall <date
+						<p><figure n="B45r"/><figure n="B45v"/>Complaint of Severall <date
 								value="1692-05-28" certainty="confirmed">May 28'th 1692</date>
 						</p>
 						<p>
@@ -17736,8 +17735,8 @@ book"
 					<div3 type="section">
 						<head>(<name type="person" key="arnjoh">John Arnold</name> Account for
 							Restitution)</head>
-						<p><figure id="H50r"/>
-							<figure id="H50v"/>&lsqb;<hi rend="italics">In pencil, upper left
+						<p><figure n="H50r"/>
+							<figure n="H50v"/>&lsqb;<hi rend="italics">In pencil, upper left
 								corner:</hi> 1693?&rsqb; &lsqb;In pencil, upper right
 							corner, Misc. Bd.&rsqb;</p>
 						<p> to the &lsqb;<hi rend="italics">anour?</hi>&rsqb; court now
@@ -18210,7 +18209,7 @@ book"
 					</div3>
 					<div3 type="section">
 						<head>( <name type="person" key="dowwil">William Dounton's</name> Account) </head>
-						<p><figure id="eia15r"/><figure id="eia15v"/>Salem The County of Essex is Dr
+						<p><figure n="eia15r"/><figure n="eia15v"/>Salem The County of Essex is Dr
 							to <name type="person" key="dowwil">William Dounton</name> Goale 1692
 							Keeper in Salem Decemb'r The.. 1693 </p>
 						<p>
