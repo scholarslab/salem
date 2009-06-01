@@ -7,6 +7,9 @@
 			<xsl:when test="$institution = 'BPL'">
 				<xsl:text>archives/BPL/gifs</xsl:text>
 			</xsl:when>
+			<xsl:when test="$institution = 'MassHist'">
+				<xsl:text>archives/MassHist/gifs</xsl:text>
+			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>
 
@@ -15,6 +18,9 @@
 			<xsl:when test="$institution = 'BPL'">
 				<xsl:text>archives/BPL/SMALL</xsl:text>
 			</xsl:when>
+			<xsl:when test="$institution = 'MassHist'">
+				<xsl:text>archives/MassHist/medium</xsl:text>
+			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>
 	
@@ -22,6 +28,9 @@
 		<xsl:choose>
 			<xsl:when test="$institution = 'BPL'">
 				<xsl:text>archives/BPL/LARGE</xsl:text>
+			</xsl:when>
+			<xsl:when test="$institution = 'MassHist'">
+				<xsl:text>archives/MassHist/large</xsl:text>
 			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>

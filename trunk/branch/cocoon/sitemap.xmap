@@ -147,8 +147,8 @@
 				<map:redirect-to uri="home.html"/>
 			</map:match>
 			
-			<map:match pattern="archives/BPL/index.html">
-				<map:generate src="html/archives/ead/BPL.xml" label="record"/>
+			<map:match pattern="archives/*/index.html">
+				<map:generate src="html/archives/ead/{1}.xml" label="record"/>
 				<map:transform type="xslt" src="xsl/archives_gallery.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>
