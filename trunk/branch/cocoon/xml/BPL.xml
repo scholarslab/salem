@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+	<eadheader>
+		<eadid mainagencycode="BPL">Boston Public Library</eadid>
+	</eadheader>
+	<archdesc level="collection">
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Boston Public Library Witchcraft Documents</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm45</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Susannah Martin Reverse
+							side</unittitle>
+						<daogrp>
+							<daoloc id="B01A"/>
+							<daoloc id="B01B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm46</unitid>
+						<unitdate/>
+						<unittitle><persname>Willard, John</persname> Examination,version 1 18 May
+							1692 multiple pages</unittitle>
+						<daogrp>
+							<daoloc id="B02A"/>
+							<daoloc id="B02B"/>
+							<daoloc id="B02C"/>
+							<daoloc id="B02D"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm46</unitid>
+						<unitdate/>
+						<unittitle><persname>Willard, John</persname> Examination, version 2 18 May
+							1692 mutiple pages</unittitle>
+						<daogrp>
+							<daoloc id="B03A"/>
+							<daoloc id="B03B"/>
+							<daoloc id="B03C"/>
+							<daoloc id="B03D"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm47</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Ann</persname> v. John Willard Reverse side</unittitle>
+						<daogrp>
+							<daoloc id="B04A"/>
+							<daoloc id="B04B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm48</unitid>
+						<unitdate/>
+						<unittitle><persname>Nurse, Rebecca et al</persname> Death Warrant Reverse
+							side</unittitle>
+						<daogrp>
+							<daoloc id="B05A"/>
+							<daoloc id="B05B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm49</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. John Willard Reverse side</unittitle>
+						<daogrp>
+							<daoloc id="B06A"/>
+							<daoloc id="B06B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm50</unitid>
+						<unitdate/>
+						<unittitle><persname>Wilkins, Daniel</persname> Inquest Reverse side</unittitle>
+						<daogrp>
+							<daoloc id="B07A"/>
+							<daoloc id="B07B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm51</unitid>
+						<unitdate/>
+						<unittitle><persname>Complaint</persname> v. John Willard Bottom portion
+							Reverse side</unittitle>
+						<daogrp>
+							<daoloc id="B08A"/>
+							<daoloc id="B08B"/>
+							<daoloc id="B08C"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm52</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Ann Foster 15 July 1692
+							Reverse side</unittitle>
+						<daogrp>
+							<daoloc id="B09A"/>
+							<daoloc id="B09B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm1147.1</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary Hubbard, Eliz</persname> v. Ann Foster</unittitle>
+						<daogrp>
+							<daoloc id="B10"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm1147.2</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Rebecca Eames</unittitle>
+						<daogrp>
+							<daoloc id="B11"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm1147.3</unitid>
+						<unitdate/>
+						<unittitle><persname>Williams, Abigail</persname> v. John Willard</unittitle>
+						<daogrp>
+							<daoloc id="B12A"/>
+							<daoloc id="B12B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh1.154</unitid>
+						<unitdate/>
+						<unittitle><persname>Complaint</persname> v. Margaret Hawkes</unittitle>
+						<daogrp>
+							<daoloc id="B13"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh1.88</unitid>
+						<unitdate/>
+						<unittitle><persname>Cole, Sarah</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B14"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.12/13</unitid>
+						<unitdate/>
+						<unittitle><persname>Carrell &amp; Coal</persname> Warrant &amp;
+							Return</unittitle>
+						<daogrp>
+							<daoloc id="B15A"/>
+							<daoloc id="B15B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.44</unitid>
+						<unitdate/>
+						<unittitle><persname>Dod, Thomas Kesor, Elizer</persname> Recognizance</unittitle>
+						<daogrp>
+							<daoloc id="B16A"/>
+							<daoloc id="B16B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.60</unitid>
+						<unitdate/>
+						<unittitle><persname>Edwards, Mary</persname> v. Rachel Clenton</unittitle>
+						<daogrp>
+							<daoloc id="B17"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.68</unitid>
+						<unitdate/>
+						<unittitle><persname>Fuller, James, Jr</persname> v. Rachel Clenton</unittitle>
+						<daogrp>
+							<daoloc id="B18"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.194</unitid>
+						<unitdate/>
+						<unittitle><persname>Dolliver, Ann</persname> Examination Multiple images</unittitle>
+						<daogrp>
+							<daoloc id="B19"/>
+							<daoloc id="B19A"/>
+							<daoloc id="B19B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.194</unitid>
+						<unitdate/>
+						<unittitle><persname>Ireson, Mary</persname> Examination Multiple images</unittitle>
+						<daogrp>
+							<daoloc id="B20"/>
+							<daoloc id="B20A"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.110</unitid>
+						<unitdate/>
+						<unittitle><persname>Stephens, Sarah Pasque, Margaret</persname> v. Rebecca
+							Nurse et al</unittitle>
+						<daogrp>
+							<daoloc id="B21"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.448</unitid>
+						<unitdate/>
+						<unittitle><persname>Jackson, John</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="B22"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.28</unitid>
+						<unitdate/>
+						<unittitle><persname>Emerson, Martha</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B23"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.50</unitid>
+						<unitdate/>
+						<unittitle><persname>Dier, Eliz. Prince, Margaret</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B24A"/>
+							<daoloc id="B24B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.92</unitid>
+						<unitdate/>
+						<unittitle><persname>Hutchins, Wilford</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B25A"/>
+							<daoloc id="B25B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAmCh.2.108</unitid>
+						<unitdate/>
+						<unittitle><persname>Barker, Mary &amp; Wm Marstone</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B26A"/>
+							<daoloc id="B26B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.156</unitid>
+						<unitdate/>
+						<unittitle><persname>Complaint</persname> v. Mary Clark</unittitle>
+						<daogrp>
+							<daoloc id="B27"/>
+							<daoloc id="B27A"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.187</unitid>
+						<unitdate/>
+						<unittitle><persname>Marshall, Mary</persname> v. Colson</unittitle>
+						<daogrp>
+							<daoloc id="B28"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.198 </unitid>
+						<unitdate/>
+						<unittitle><persname>Hill, Zebulon</persname> v. Peney</unittitle>
+						<daogrp>
+							<daoloc id="B29A"/>
+							<daoloc id="B29B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.204</unitid>
+						<unitdate/>
+						<unittitle><persname>Post, Mary</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B30"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.208</unitid>
+						<unitdate/>
+						<unittitle><persname>Carrier, Richard &amp; Andrew</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B31"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.222</unitid>
+						<unitdate/>
+						<unittitle><persname>Jackson, Sr., Jr.</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B32"/>
+							<daoloc id="B23A"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.266</unitid>
+						<unitdate/>
+						<unittitle><persname>Bishop, Bridget</persname> Warrant (photo copy)</unittitle>
+						<daogrp>
+							<daoloc id="B33"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh..2.350</unitid>
+						<unitdate/>
+						<unittitle><persname>Johnson, Abigail &amp; Eliz</persname> Complaint</unittitle>
+						<daogrp>
+							<daoloc id="B34"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.400</unitid>
+						<unitdate/>
+						<unittitle><persname>Lacey, Mary, Jr.</persname> Warrant - Ballard</unittitle>
+						<daogrp>
+							<daoloc id="B35"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.2.500</unitid>
+						<unitdate/>
+						<unittitle><persname>Parris, Ingersoll Putnam</persname> v. Eliz. Procter</unittitle>
+						<daogrp>
+							<daoloc id="B36"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh.A.K.48</unitid>
+						<unitdate/>
+						<unittitle><persname>Jacobs, Geo Andrew, Daniel</persname> Warrant 17May
+							1692</unittitle>
+						<daogrp>
+							<daoloc id="B37"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>F. 10.47</unitid>
+						<unitdate/>
+						<unittitle><persname>Alden, John, et al</persname> Bond, 31 Dec 1692</unittitle>
+						<daogrp>
+							<daoloc id="B38"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsF.1.7</unitid>
+						<unitdate/>
+						<unittitle><persname>Browne, John</persname> v. Goodwife Cole 3 Oct 1692</unittitle>
+						<daogrp>
+							<daoloc id="B39"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.196</unitid>
+						<unitdate/>
+						<unittitle><persname>Foster &amp; Tyler</persname> v. John Jackson, Jr.</unittitle>
+						<daogrp>
+							<daoloc id="B40"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.245</unitid>
+						<unitdate/>
+						<unittitle><persname>Swan, Robert</persname> v. Mary Clark</unittitle>
+						<daogrp>
+							<daoloc id="B41A"/>
+							<daoloc id="B41B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.249</unitid>
+						<unitdate/>
+						<unittitle><persname>Peney, Joan</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B42"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.349</unitid>
+						<unitdate/>
+						<unittitle><persname>Bridges, Mary</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="B43"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsCh2.401</unitid>
+						<unitdate/>
+						<unittitle><persname>Ballard, Joseph</persname> v. Mary Lacey 19 July 1692</unittitle>
+						<daogrp>
+							<daoloc id="B44"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>MsAm44</unitid>
+						<unitdate/>
+						<unittitle><persname>Complaint of Several</persname> 28 May 1692 Reverse</unittitle>
+						<daogrp>
+							<daoloc id="B45A"/>
+							<daoloc id="B45B"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -148,7 +148,7 @@
 			</map:match>
 			
 			<map:match pattern="archives/*/index.html">
-				<map:generate src="html/archives/ead/{1}.xml" label="record"/>
+				<map:generate src="xml/{1}.xml" label="record"/>
 				<map:transform type="xslt" src="xsl/archives_gallery.xsl" label="basiccontent"/>
 				<map:serialize type="html"/>
 			</map:match>

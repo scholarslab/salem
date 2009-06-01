@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+	<eadheader>
+		<eadid mainagencycode="MassHist">Massachusetts Historical Society</eadid>
+	</eadheader>
+	<archdesc level="collection">
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Documents In The Salem Witchcraft Papers</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unitdate/>
+						<unittitle><persname>Boroughs, G</persname> Warrant</unittitle>
+						<daogrp>
+							<daoloc id="H01A"/>
+							<daoloc id="H01B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unitdate/>
+						<unittitle><persname>Hutchinson, Elisha</persname> Letter 2 may 1692</unittitle>
+						<daogrp>
+							<daoloc id="H02A"/>
+							<daoloc id="H02B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unitdate/>
+						<unittitle><persname>Hubbard, Wolcott, Putnam,</persname> v G. Boroughs</unittitle>
+						<daogrp>
+							<daoloc id="H03A"/>
+							<daoloc id="H03B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Vibber, Lewis, Putnam, Hubbard</persname> v G.
+							Boroughs 9, May, 1692</unittitle>
+						<daogrp>
+							<daoloc id="H04A"/>
+							<daoloc id="H04B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unitdate/>
+						<unittitle><persname>Lewis, Walcott, Hubbard, Putnam.</persname> v. G.
+							Boroughs 9, May, 1692</unittitle>
+						<daogrp>
+							<daoloc id="H05A"/>
+							<daoloc id="H05B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6a</unitid>
+						<unitdate/>
+						<unittitle><persname>Hobbs, A.</persname> v. G. Boroughs 1 June 1692</unittitle>
+						<daogrp>
+							<daoloc id="H06A"/>
+							<daoloc id="H06B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7a</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Boroughs 3 August</unittitle>
+						<daogrp>
+							<daoloc id="H07"/>
+							<daoloc id="H07"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7b</unitid>
+						<unitdate/>
+						<unittitle><persname>John Pierce &amp; John Lane</persname> G. Boroughs,
+							summons 4 August, v 1692.</unittitle>
+						<daogrp>
+							<daoloc id="H08A"/>
+							<daoloc id="H08B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unitdate/>
+						<unittitle><persname>Warren, Mary</persname> v. G. Boroughs 3 August</unittitle>
+						<daogrp>
+							<daoloc id="H09A"/>
+							<daoloc id="H09B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unitdate/>
+						<unittitle><persname>Webber, Mary</persname> v. G. Boroughs 2 August 1692</unittitle>
+						<daogrp>
+							<daoloc id="H10A"/>
+							<daoloc id="H10B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unitdate/>
+						<unittitle><persname>Greinslitt, Thomas</persname> 15 Sept. 1692</unittitle>
+						<daogrp>
+							<daoloc id="H11A"/>
+							<daoloc id="H11B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11a</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Thomas Putnam, Edward</persname> v. G. Boroughs</unittitle>
+						<daogrp>
+							<daoloc id="H12A"/>
+							<daoloc id="H12B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11b</unitid>
+						<unitdate/>
+						<unittitle><persname>Hubbard, Eliz</persname> v. Mary Bradbury 9 Sept. 1692</unittitle>
+						<daogrp>
+							<daoloc id="H13"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12a</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Ann</persname> v. Mary Bradbury 9 Sept. 1692</unittitle>
+						<daogrp>
+							<daoloc id="H14A"/>
+							<daoloc id="H14B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12b</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Mary Bradbury</unittitle>
+						<daogrp>
+							<daoloc id="H15"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unitdate/>
+						<unittitle><persname>Vibber, Sarah</persname> v. Mary Bradbury</unittitle>
+						<daogrp>
+							<daoloc id="H16A"/>
+							<daoloc id="H16B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unitdate/>
+						<unittitle><persname>Lewis, Mercy</persname> v.Martha Cory 4 March 1692</unittitle>
+						<daogrp>
+							<daoloc id="H17A"/>
+							<daoloc id="H17B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary Hubbard, Eliz., Putnam, Ann</persname> v.
+							Martha Carrier</unittitle>
+						<daogrp>
+							<daoloc id="H18A"/>
+							<daoloc id="H18B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16a</unitid>
+						<unitdate/>
+						<unittitle><persname>Rogers, John, et al</persname> Summons 29 June</unittitle>
+						<daogrp>
+							<daoloc id="H19A"/>
+							<daoloc id="H19B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16b</unitid>
+						<unitdate/>
+						<unittitle><persname>Williams, Abigail</persname> v. Martha Kory, 31 May
+							1692</unittitle>
+						<daogrp>
+							<daoloc id="H20A"/>
+							<daoloc id="H20B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17a</unitid>
+						<unitdate/>
+						<unittitle><persname>Hubbard, Eliz.</persname> v. Martha Carrier, 1 July
+							1692</unittitle>
+						<daogrp>
+							<daoloc id="H21A"/>
+							<daoloc id="H21B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17b</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Martha Carrier, 1 July 1692</unittitle>
+						<daogrp>
+							<daoloc id="H22A"/>
+							<daoloc id="H22B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unitdate/>
+						<unittitle><persname>Capt. Danforth Rogers, John</persname> Summons</unittitle>
+						<daogrp>
+							<daoloc id="H23A"/>
+							<daoloc id="H23B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unitdate/>
+						<unittitle><persname>Hubbard, Eliz.</persname> v. Martha Cory, 4 August 1692</unittitle>
+						<daogrp>
+							<daoloc id="H24A"/>
+							<daoloc id="H24B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Edward</persname> v. Martha Cory 14 march 1692</unittitle>
+						<daogrp>
+							<daoloc id="H25A"/>
+							<daoloc id="H25B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21a</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Thos Putnam, John</persname> v. Martha Carrier</unittitle>
+						<daogrp>
+							<daoloc id="H26A"/>
+							<daoloc id="H26B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21b</unitid>
+						<unitdate/>
+						<unittitle><persname>Horton, Andrew</persname> v. Carrier &amp;
+							Toothacker</unittitle>
+						<daogrp>
+							<daoloc id="H27"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22a</unitid>
+						<unitdate/>
+						<unittitle><persname>Lewis. Mercy Hubbard, Eliz.</persname> v. Goody Cory</unittitle>
+						<daogrp>
+							<daoloc id="H28A"/>
+							<daoloc id="H28B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22b</unitid>
+						<unitdate/>
+						<unittitle><persname>Vibber, Sarah</persname> 30 June, 1692</unittitle>
+						<daogrp>
+							<daoloc id="H29A"/>
+							<daoloc id="H29B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23a</unitid>
+						<unitdate/>
+						<unittitle><persname>Andrew, Sarah</persname> v. Elizabeth How, 2 June 1692</unittitle>
+						<daogrp>
+							<daoloc id="H30A"/>
+							<daoloc id="H30B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23b</unitid>
+						<unitdate/>
+						<unittitle><persname>Williams, Abigail</persname> v. Geo Jacobs, Sr. 10 May
+							1692</unittitle>
+						<daogrp>
+							<daoloc id="H31A"/>
+							<daoloc id="H31B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unitdate/>
+						<unittitle><persname>Lewis, Walcott, Hubbard, Putnam, Churchill</persname>
+							v. Geo. Jacobs, 4 August 1692</unittitle>
+						<daogrp>
+							<daoloc id="H32A"/>
+							<daoloc id="H32B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unitdate/>
+						<unittitle><persname>Hobs, William Bishop, Ed., Wild, Sarah</persname>
+							Summons</unittitle>
+						<daogrp>
+							<daoloc id="H33"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26a</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Thos., Putnam,John</persname> V. George Jacobs</unittitle>
+						<daogrp>
+							<daoloc id="H34A"/>
+							<daoloc id="H34B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>26b</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Ann</persname> v. George Jacobs</unittitle>
+						<daogrp>
+							<daoloc id="H35A"/>
+							<daoloc id="H35B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>27</unitid>
+						<unitdate/>
+						<unittitle><persname>Derich, John</persname> v. George Jacobs</unittitle>
+						<daogrp>
+							<daoloc id="H36A"/>
+							<daoloc id="H36B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>28</unitid>
+						<unitdate/>
+						<unittitle><persname>Fox, Rebecka</persname> For Rebecka Jacobs</unittitle>
+						<daogrp>
+							<daoloc id="H37A"/>
+							<daoloc id="H37B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29a</unitid>
+						<unitdate/>
+						<unittitle><persname>Bradford, Wm &amp; Rachell</persname> v. Mercy
+							Lewis</unittitle>
+						<daogrp>
+							<daoloc id="H38"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>29b</unitid>
+						<unitdate/>
+						<unittitle><persname>Putnam, Nathaniel</persname> For Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="H39"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>30</unitid>
+						<unitdate/>
+						<unittitle><persname>Porter, Israel et al</persname> For Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="H40"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>31</unitid>
+						<unitdate/>
+						<unittitle><persname>Parker, Alice</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="H41A"/>
+							<daoloc id="H41B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>32</unitid>
+						<unitdate/>
+						<unittitle><persname>Warren, Mary</persname> v. Alice Parker 6 Sept. 1692</unittitle>
+						<daogrp>
+							<daoloc id="H42A"/>
+							<daoloc id="H42B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>33</unitid>
+						<unitdate/>
+						<unittitle><persname>Walcott, Mary</persname> v. Alice parker</unittitle>
+						<daogrp>
+							<daoloc id="H43A"/>
+							<daoloc id="H43B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>34</unitid>
+						<unitdate/>
+						<unittitle><persname>Vibber, Walcott, Hubbard</persname> v. Alice Parker 7
+							Sept 1692</unittitle>
+						<daogrp>
+							<daoloc id="H44A"/>
+							<daoloc id="H44B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>35</unitid>
+						<unitdate/>
+						<unittitle><persname>Philips, Sarah</persname> v. Mary Parker 31 August 1692</unittitle>
+						<daogrp>
+							<daoloc id="H45A"/>
+							<daoloc id="H45B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>36</unitid>
+						<unitdate/>
+						<unittitle><persname>Towne Family</persname> Summons 6 Sept. 1692</unittitle>
+						<daogrp>
+							<daoloc id="H46A"/>
+							<daoloc id="H46B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37a</unitid>
+						<unitdate/>
+						<unittitle><persname>Huchinson, Josiah</persname> Re: Abigail Williams</unittitle>
+						<daogrp>
+							<daoloc id="H47"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>37b</unitid>
+						<unitdate/>
+						<unittitle><persname>Nurse, Sarah</persname> v. Sarah Vibber 29 June 1692</unittitle>
+						<daogrp>
+							<daoloc id="H48A"/>
+							<daoloc id="H48B"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unittitle>Documents in Miscellaneous Manuscripts</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitdate normal="1692-11-08">Nov. 8, 1692</unitdate>
+
+						<unittitle><persname>Hubbard, Eliz.</persname> v. Abigail Row, Esther
+							Elwell, Rebecca. Diks</unittitle>
+						<daogrp>
+							<daoloc id="H49A"/>
+							<daoloc id="H49B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>
+							<persname>Restitution Document</persname>
+						</unittitle>
+						<daogrp>
+							<daoloc id="H50A"/>
+							<daoloc id="H50B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+
+						<unitdate normal="1692-08-13">Aug. 13, 1692</unitdate>
+						<unittitle><persname>Eames, Daniel</persname> Examination 13 August 1692</unittitle>
+						<daogrp>
+							<daoloc id="H51A"/>
+							<daoloc id="H51B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+
+						<unitdate normal="1692-05-09">May 9, 1692</unitdate>
+						<unittitle><persname>Burroughs, George</persname> Examination 9 May 1692</unittitle>
+						<daogrp>
+							<daoloc id="H52A"/>
+							<daoloc id="H52B"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+
+						<unitdate normal="1693-01">Jan. 1693</unitdate>
+						<unittitle><persname>Warren, Mary</persname> v. Daniel Ames, January 1693</unittitle>
+						<daogrp>
+							<daoloc id="H53A"/>
+							<daoloc id="H53B"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
