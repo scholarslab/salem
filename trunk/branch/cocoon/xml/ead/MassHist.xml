@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead>
+<ead id="MassHist">
 	<eadheader>
-		<eadid mainagencycode="MassHist">Massachusetts Historical Society</eadid>
+		<eadid>Massachusetts Historical Society</eadid>
 	</eadheader>
 	<archdesc level="collection">
 		<dsc type="combined">

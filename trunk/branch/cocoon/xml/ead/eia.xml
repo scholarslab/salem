@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead id="eia">
+	<eadheader>
+		<eadid>Essex Institute</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Salem Witchcraft Papers from the Essex Institute <date
+						normal="1692/1713">1692-1713</date></titleproper>
+				<author>Processed and Indexed by: Donald Gleason, 1981.</author>
+				<creation>EAD Finding Aid created May 2009 by Ethan Gruber from source XHTML
+					documents. Verified by Ben Ray.</creation>
+			</titlestmt>
+		</filedesc>
+	</eadheader>
+	<archdesc level="collection">
+		<scopecontent>
+			<head>Introduction</head>
+			<p>The SALEM WITCHCRAFT PAPERS at the Essex Institute contain two separate collections:
+				The <ref href="../archives/ecca">Essex County Court Archives </ref>and the <ref href="../archives/eia">Essex Institute Collection</ref>. The Essex County
+				Archives Collection, under the jurisdiction of the Supreme Judicial Court, was
+				deposited at the Essex Institute by the Supreme Court in December, 1980. The Essex
+				Institute Collection is comprised of witchcraft documents found in several of the
+				Institute's collections of family papers.</p>
+			<p>Both collections contain legal documents of the Salem Witchcraft Trials of 1692. They
+				have been indexed by name for both plaintiffs and defendants. Transcriptions of
+				these documents, as well as additional witchcraft documents held in other archives,
+				were published in Paul Boyer and Stephen Nissenbaum's <ref
+					href="../texts/transcripts.html">The Salem Witchcraft Papers</ref> (New York,
+				DaCapo Press, 1971).</p>
+		</scopecontent>
+		<userestrict>
+			<p>No portion of these documents may be reproduced without permission of the Director of
+				the Essex Institute.</p>
+		</userestrict>
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Essex Institute Collection</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>5</unitid>
+						<unittitle><persname>Abbot, Nehemiah Sr.</persname> v. Elizabeth Howe</unittitle>
+						<daogrp>
+							<daoloc id="eia05r"/>
+							<daoloc id="eia05v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle><persname>Andrew, Daniel</persname> for Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="eia16r"/>
+							<daoloc id="eia16v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>6</unitid>
+						<unittitle><persname>Andrew, John</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia06r"/>
+							<daoloc id="eia06v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.7</unitid>
+						<unittitle><persname>Barker, Mary</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-7r"/>
+							<daoloc id="eia24-7v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.10</unitid>
+						<unittitle><persname>Barker, William Jr.</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="eia24-10r"/>
+							<daoloc id="eia24-10v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.6</unitid>
+						<unittitle><persname>Bridges, Sarah</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-6r"/>
+							<daoloc id="eia24-6v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle><persname>Burroughs, George</persname> Complaint v.</unittitle>
+						<daogrp>
+							<daoloc id="eia03r"/>
+							<daoloc id="eia03v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Burroughs, George</persname> Complaint v.</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>3</unitid>
+						<unittitle><persname>Burroughs, George</persname> Indictment #3</unittitle>
+						<daogrp>
+							<daoloc id="eia03r"/>
+							<daoloc id="eia03v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.3</unitid>
+						<unittitle><persname>Carrier, Andrew</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-3r"/>
+							<daoloc id="eia24-3v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.2</unitid>
+						<unittitle><persname>Carrier, Richard</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="eia24-2r"/>
+							<daoloc id="eia24-2v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.5</unitid>
+						<unittitle><persname>Carrier, Sarah</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-5r"/>
+							<daoloc id="eia24-5v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.5</unitid>
+						<unittitle><persname>Carrier, Thomas Jr.</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-5r"/>
+							<daoloc id="eia24-5v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>8</unitid>
+						<unittitle><persname>Clark, Humphrey</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia08r"/>
+							<daoloc id="eia08v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle><persname>Cloyse, Peter</persname> for Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="eia16r"/>
+							<daoloc id="eia16v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>1</unitid>
+						<unittitle><persname>Corey, Martha</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia01-1"/>
+							<daoloc id="eia01-2"/>
+							<daoloc id="eia01-3"/>
+							<daoloc id="eia01-4"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>7</unitid>
+						<unittitle><persname>Dorman, Thomas</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia07r"/>
+							<daoloc id="eia07v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>15</unitid>
+						<unittitle><persname>Dounlon, William</persname> Account of Jail Keeper</unittitle>
+						<daogrp>
+							<daoloc id="eia15r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24</unitid>
+						<unittitle><persname>Foster, Ann</persname> Examination of</unittitle>
+						<daogrp/>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>19</unitid>
+						<unittitle><persname>Fuller, Elizabeth</persname> v. John Lee</unittitle>
+						<daogrp>
+							<daoloc id="eia19r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle><persname>Gould, John .</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia12r"/>
+							<daoloc id="eia12v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>21</unitid>
+						<unittitle><persname>Hale, John</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia21v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.9</unitid>
+						<unittitle><persname>Hawks, Sarah</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-9r"/>
+							<daoloc id="eia24-9v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>2</unitid>
+						<unittitle><persname>Hobbs, Abigail</persname> Indictment #1</unittitle>
+						<daogrp>
+							<daoloc id="eia02r"/>
+							<daoloc id="eia02v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>23</unitid>
+						<unittitle><persname>Hobbs, Abigail</persname> Indictment #2</unittitle>
+						<daogrp>
+							<daoloc id="eia23r"/>
+							<daoloc id="eia23v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Hubert, Elizabeth</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle><persname>Ingersoll, Nathaniel</persname> v. Elizabeth Proctor</unittitle>
+						<!--<daogrp>
+							<daoloc id="eia18r"/>
+							<daoloc id="eia18v"/>
+						</daogrp>-->
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>9</unitid>
+						<unittitle><persname>Ingersoll, Nathaniel</persname> v . Sarah Wilds</unittitle>
+						<!--<daogrp>
+							<daoloc id="eia09r"/>
+							<daoloc id="eia09v"/>
+						</daogrp>-->
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 8</unitid>
+						<unittitle><persname>Johnson, Elizabeth</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-8r"/>
+							<daoloc id="eia24-8v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.10</unitid>
+						<unittitle><persname>Johnson, Stephen</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="eia24-10r"/>
+							<daoloc id="eia24-10v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 1</unitid>
+						<unittitle><persname>Lacey, Mary Sr.</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-1r"/>
+							<daoloc id="eia24-1v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 1</unitid>
+						<unittitle><persname>Lacey, Mary Jr.</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-1r"/>
+							<daoloc id="eia24-1v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Lewis, Mercy</persname> v. George-Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 7</unitid>
+						<unittitle><persname>Marston, Mary</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-7r"/>
+							<daoloc id="eia24-7v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>4</unitid>
+						<unittitle><persname>Parker, Mary</persname> Indictment v.</unittitle>
+						<daogrp>
+							<daoloc id="eia04r"/>
+							<daoloc id="eia04v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle><persname>Parris, Samuel</persname> v. Elizabeth Proctor</unittitle>
+						<!--<daogrp>
+							<daoloc id="eia18r"/>
+							<daoloc id="eia18v"/>
+						</daogrp>-->
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>12</unitid>
+						<unittitle><persname>Perkins, Zacheus</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia12r"/>
+							<daoloc id="eia12v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>20</unitid>
+						<unittitle><persname>Pope, Joseph</persname> v. John Proctor</unittitle>
+						<daogrp>
+							<daoloc id="eia20r"/>
+							<daoloc id="eia20v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle><persname>Porter, Elizabeth</persname> for Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="eia16r"/>
+							<daoloc id="eia16v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>16</unitid>
+						<unittitle><persname>Porter, Israel</persname> for Rebecca Nurse</unittitle>
+						<daogrp>
+							<daoloc id="eia16r"/>
+							<daoloc id="eia16v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 6</unitid>
+						<unittitle><persname>Post, Hannah</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-6r"/>
+							<daoloc id="eia24-6v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Putnam, Ann</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>22</unitid>
+						<unittitle><persname>Putnam, Ann Sr.</persname> v. Martha Corey and Rebecca
+							Nurse</unittitle>
+						<daogrp>
+							<daoloc id="eia22r"/>
+							<daoloc id="eia22v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>10</unitid>
+						<unittitle><persname>Putnam, Ann Jr.</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia10r"/>
+							<daoloc id="eia10v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle><persname>Putnam, John Sr.</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia25r"/>
+							<daoloc id="eia25v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>25</unitid>
+						<unittitle><persname>Putnam, Rebecca</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia25r"/>
+							<daoloc id="eia25v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>18</unitid>
+						<unittitle><persname>Putnam, Thomas</persname> v. Elizabeth Proctor</unittitle>
+						<!--<daogrp>
+							<daoloc id="eia18r"/>
+							<daoloc id="eia18v"/>
+						</daogrp>-->
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Sheldon, Susannah</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>13</unitid>
+						<unittitle><persname>Symonds, Elizabeth</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia13r"/>
+							<daoloc id="eia13v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.4</unitid>
+						<unittitle><persname>Toothaker, Mary</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-4r"/>
+							<daoloc id="eia24-4v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p. 10</unitid>
+						<unittitle><persname>Tyler, Johanna</persname> Examination</unittitle>
+						<daogrp>
+							<daoloc id="eia24-10r"/>
+							<daoloc id="eia24-10v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Walcott, Mary</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>11</unitid>
+						<unittitle><persname>Walcott, Mary</persname> v. Sarah Wilds</unittitle>
+						<daogrp>
+							<daoloc id="eia11r"/>
+							<daoloc id="eia11v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.9</unitid>
+						<unittitle><persname>Wardwell, Mary</persname> Examination of</unittitle>
+						<daogrp>
+							<daoloc id="eia24-9r"/>
+							<daoloc id="eia24-9v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>24 - p.8</unitid>
+						<unittitle><persname>Wardwell, Sarah</persname> Confession</unittitle>
+						<daogrp>
+							<daoloc id="eia24-8r"/>
+							<daoloc id="eia24-8v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>14</unitid>
+						<unittitle><persname>Wildes, Sarah</persname> Indictment of</unittitle>
+						<daogrp>
+							<daoloc id="eia14r"/>
+							<daoloc id="eia14v"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>17</unitid>
+						<unittitle><persname>Williams, Abigail</persname> v. George Burroughs</unittitle>
+						<daogrp>
+							<daoloc id="eia17r"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead>
+<ead id="BPL">
 	<eadheader>
-		<eadid mainagencycode="BPL">Boston Public Library</eadid>
+		<eadid>Boston Public Library</eadid>
 	</eadheader>
 	<archdesc level="collection">
 		<dsc type="combined">

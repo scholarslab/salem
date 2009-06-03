@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead id="JudVol">
+	<eadheader>
+		<eadid>Massachusetts Archives</eadid>
+	</eadheader>
+	<archdesc level="collection">
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Judicial 1683 - 1724 Volume 40</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>J01</unitid>
+						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
+						<daogrp>
+							<daoloc id="J01"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 621</bibref>
+					</bibliography>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>J02</unitid>
+						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
+						<daogrp>
+							<daoloc id="J02"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 622</bibref>
+					</bibliography>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>J03</unitid>
+						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
+						<daogrp>
+							<daoloc id="J03"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 623</bibref>
+					</bibliography>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>J04</unitid>
+						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
+						<daogrp>
+							<daoloc id="J04"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 624</bibref>
+					</bibliography>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>J05</unitid>
+						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
+						<daogrp>
+							<daoloc id="J05"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 625</bibref>
+					</bibliography>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>J06</unitid>
+						<unittitle><persname>William Phips</persname> Appoint A. Checkley</unittitle>
+						<daogrp>
+							<daoloc id="J06"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Page 264</bibref>
+					</bibliography>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead id="MidSex">
+	<eadheader>
+		<eadid>Judicial Archives Middlesex County Court</eadid>
+	</eadheader>
+	<archdesc level="collection">
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Folio Collection 1698-164-4</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>M01A</unitid>
+						<unittitle>Israel Cheever's Account</unittitle>
+						<daogrp>
+							<daoloc id="m01a"/>
+							<daoloc id="m01an" label="Notation"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>M02</unitid>
+						<unittitle>The Account of the Sherrif of Middlesex County</unittitle>
+						<daogrp>
+							<daoloc id="m02"/>
+							<daoloc id="m04n" label="Notation"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>M03</unitid>
+						<unittitle>Response of the General Court to Timothy Phillips' Petition</unittitle>
+						<daogrp>
+							<daoloc id="m03"/>
+							<daoloc id="m03n" label="Notation"/>
+						</daogrp>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unitid>M04</unitid>
+						<unittitle>An Account of Charges of Timothy Phillips</unittitle>
+						<daogrp>
+							<daoloc id="m04"/>
+							<daoloc id="m04n" label="Notation"/>
+						</daogrp>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead id="MEHS">
+	<eadheader>
+		<eadid>Maine Historical Society</eadid>
+	</eadheader>
+	<archdesc level="collection">
+		<dsc type="combined">
+			<c01 level="series">
+				<did>
+					<unittitle>Collection 77</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>MEHS01</unitid>
+						<container type="box-folder">1-19</container>
+						<unittitle>
+							<persname>Thomas Burnam</persname>
+						</unittitle>
+						<daogrp>
+							<daoloc id="mehs_1"/>
+						</daogrp>
+					</did>
+				</c02></c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Fogg Collection 420</unittitle>
+				</did>
+				<c02 level="item">
+					<did>
+						<unitid>MEHS02</unitid>						
+						<unittitle>
+							<persname>Mary Watkins</persname>
+						</unittitle>
+						<daogrp>
+							<daoloc id="mehs_2"/>
+						</daogrp>
+					</did>
+					<bibliography>
+						<bibref>Volume 8</bibref>
+					</bibliography>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>
