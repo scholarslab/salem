@@ -495,11 +495,11 @@
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 				<xsl:when test="$source='eia'">
-					<a href="archives/EIA/small/{$filename}.jpg" class="jqueryLightbox">
-						<img src="archives/EIA/gifs/{$filename}.gif"/>
+					<a href="archives/essex/eia/small/{$filename}.jpg" class="jqueryLightbox">
+						<img src="archives/essex/eia/gifs/{$filename}.gif"/>
 					</a>
 					<br/>
-					<a href="archives/EIA/large/{$filename}.jpg" target="_blank"
+					<a href="archives/essex/eia/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 			</xsl:choose>

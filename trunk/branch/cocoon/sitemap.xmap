@@ -188,7 +188,6 @@
 				<map:transform type="xslt" src="xsl/search_results.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
-				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
 
@@ -216,21 +215,26 @@
 			<!-- Viewing the table of contents for all BoySal files-->
 			<map:match pattern="B*.xml">
 				<map:generate src="xml/B{1}.xml"/>
-				<map:transform src="xsl/tei_display.xsl"/>
-				<map:transform type="cinclude"/>
+				<map:transform src="xsl/tei_display.xsl" type="xslt-saxon">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
 
 			<map:match pattern="U*.xml">
 				<map:generate src="xml/U{1}.xml"/>
-				<map:transform src="xsl/contents.xsl"/>
+				<map:transform src="xsl/contents.xsl" type="xslt-saxon">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
 
 			<!-- PIPELINES FOR DISPLAYING people.html page -->
 			<map:match pattern="*.xml">
 				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/dynaxml.xsl"/>
+				<map:transform src="xsl/dynaxml.xsl" type="xslt-saxon">
+					<map:parameter name="use-request-parameters" value="true"/>
+				</map:transform>
 				<map:serialize type="html"/>
 			</map:match>
 		</map:pipeline>
