@@ -83,9 +83,9 @@
 						<div class="content">
 							<xsl:choose>
 								<xsl:when test="string($div_id)">
-									<xsl:apply-templates select="descendant::node()[@id = $div_id]"/>
-									<xsl:apply-templates
-										select="descendant::node()[generate-id(.) = $div_id]"/>
+									<xsl:apply-templates select="descendant::div1[@id = $div_id] | descendant::div2[@id = $div_id]"/>
+									<!--<xsl:apply-templates
+										select="descendant::node()[generate-id(.) = $div_id]"/>-->
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:apply-templates select="descendant::titlePage"/>

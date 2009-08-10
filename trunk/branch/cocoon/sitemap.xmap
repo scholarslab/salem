@@ -218,6 +218,7 @@
 				<map:transform src="xsl/tei_display.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
+				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
 
@@ -226,6 +227,7 @@
 				<map:transform src="xsl/contents.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
+				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
 
@@ -235,6 +237,7 @@
 				<map:transform src="xsl/dynaxml.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
+				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
 		</map:pipeline>
