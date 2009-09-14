@@ -164,7 +164,44 @@
 							<a href="?filter=S-W">S - W</a>
 						</div>
 						<xsl:if test="string($filter)">
-							<xsl:apply-templates select="//c01"/>
+							<xsl:choose>
+								<xsl:when test="$institution = 'ecca' and $filter = 'A-B'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'A'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'B']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+								<xsl:when test="$institution = 'ecca' and $filter = 'C-E'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'C'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'D'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'E']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+								<xsl:when test="$institution = 'ecca' and $filter = 'F-H'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'F'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'G'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'H']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+								<xsl:when test="$institution = 'ecca' and $filter = 'I-O'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'I'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'J'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'K'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'L'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'M'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'N'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'O']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+								<xsl:when test="$institution = 'ecca' and $filter = 'P-R'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'P'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'Q'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'R']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+								<xsl:when test="$institution = 'ecca' and $filter = 'S-W'">
+									<xsl:apply-templates
+										select="//c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'S'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'T'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'U'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'V'] | //c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'W']">
+										<xsl:sort select="did/unittitle/persname"/>
+									</xsl:apply-templates>
+								</xsl:when>
+							</xsl:choose>
 						</xsl:if>
 					</xsl:when>
 					<xsl:otherwise>
@@ -195,46 +232,13 @@
 		</body>
 	</xsl:template>
 
+
+
 	<xsl:template match="c01">
 		<h2>
 			<xsl:value-of select="did/unittitle"/>
 		</h2>
-		<xsl:choose>
-			<xsl:when test="$institution = 'ecca' and $filter = 'A-B'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'A'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'B']"
-				/>
-			</xsl:when>
-			<xsl:when test="$institution = 'ecca' and $filter = 'C-E'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'C'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'D'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'E']"
-				/>
-			</xsl:when>
-			<xsl:when test="$institution = 'ecca' and $filter = 'F-H'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'F'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'G'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'H']"
-				/>
-			</xsl:when>
-			<xsl:when test="$institution = 'ecca' and $filter = 'I-O'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'I'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'J'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'K'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'L'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'M'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'N'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'O']"
-				/>
-			</xsl:when>
-			<xsl:when test="$institution = 'ecca' and $filter = 'P-R'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'P'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'Q'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'R']"
-				/>
-			</xsl:when>
-			<xsl:when test="$institution = 'ecca' and $filter = 'S-W'">
-				<xsl:apply-templates
-					select="c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'S'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'T'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'U'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'V'] | c02[@level='item'][substring(did/unittitle/persname, 1, 1) = 'W']"
-				/>
-			</xsl:when>
-			<xsl:when test="not($institution = 'ecca')">
-				<xsl:apply-templates select="c02[@level='item']"/>
-			</xsl:when>
-		</xsl:choose>
-
+		<xsl:apply-templates select="//c02"/>
 	</xsl:template>
 
 	<xsl:template match="c02[@level='item']">
@@ -338,6 +342,17 @@
 				<xsl:if test="bibliography">
 					<xsl:apply-templates select="bibliography/bibref"/>
 					<br/>
+				</xsl:if>
+				<xsl:if test="$institution = 'ecca'">
+					<b>Volume: </b>
+					<xsl:choose>
+						<xsl:when test="contains(parent::c01/did/unittitle, 'Volume 1')">
+							<xsl:text>1</xsl:text>
+						</xsl:when>
+						<xsl:when test="contains(parent::c01/did/unittitle, 'Volume 2')">
+							<xsl:text>2</xsl:text>
+						</xsl:when>
+					</xsl:choose>
 				</xsl:if>
 			</div>
 		</div>
