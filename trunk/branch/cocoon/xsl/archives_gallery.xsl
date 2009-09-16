@@ -155,7 +155,7 @@
 							<xsl:text> | </xsl:text>
 							<a href="?filter=C-E">C - E</a>
 							<xsl:text> | </xsl:text>
-							<a href="?filter=C-E">F - H</a>
+							<a href="?filter=F-H">F - H</a>
 							<xsl:text> | </xsl:text>
 							<a href="?filter=I-O">I - O</a>
 							<xsl:text> | </xsl:text>
@@ -324,7 +324,12 @@
 
 				<xsl:if test="string(did/unitid)">
 					<b>ID Number: </b>
-					<xsl:value-of select="did/unitid"/>
+					<xsl:for-each select="did/unitid">
+						<xsl:value-of select="."/>
+						<xsl:if test="not(position()=last())">
+							<xsl:text>, </xsl:text>
+						</xsl:if>
+					</xsl:for-each>					
 					<br/>
 				</xsl:if>
 
