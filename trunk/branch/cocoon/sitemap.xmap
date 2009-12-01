@@ -144,7 +144,8 @@
 
 			<!-- For the home page -->
 			<map:match pattern="">
-				<map:redirect-to uri="home.html"/>
+				<map:generate src="html/index.html"/>
+				<map:serialize type="xhtml"/>
 			</map:match>
 
 			<map:match pattern="archives/essex/*">
