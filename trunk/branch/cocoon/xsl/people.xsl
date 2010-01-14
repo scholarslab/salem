@@ -149,6 +149,7 @@
 								</ul>
 							</td>
 							<td style="width:65%;vertical-align:top">
+								<a name="top"/>
 								<xsl:if test="string($mbio.num)">
 									<xsl:apply-templates
 										select="descendant::persname[@mbio = $mbio.num]"/>
@@ -177,6 +178,7 @@
 						<xsl:apply-templates
 							select="document('../xml/pics.xml')//div2[@id=$pics]/figure"/>
 					</table>
+					<div style="text-align:right;"><a href="#top">top</a></div>
 				</div>
 			</div>
 		</xsl:if>
@@ -186,6 +188,7 @@
 				<span class="expand" id="expand_bio" title="expand">+</span>
 				<div id="bio" style="display:none">
 					<xsl:apply-templates select="document('../xml/bios.xml')//div2[@id=$bio]"/>
+					<div style="text-align:right;"><a href="#top">top</a></div>
 				</div>
 			</div>
 		</xsl:if>
@@ -196,6 +199,7 @@
 				<div id="crt" style="display:none">
 					<xsl:apply-templates select="document('../xml/courtexams.xml')//div2[@id=$crt]"
 					/>
+					<div style="text-align:right;"><a href="#top">top</a></div>
 				</div>
 			</div>
 		</xsl:if>
