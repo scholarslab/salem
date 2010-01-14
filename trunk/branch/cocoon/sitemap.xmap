@@ -237,12 +237,11 @@
 			</map:match>
 
 			<!-- PIPELINES FOR DISPLAYING people.html page -->
-			<map:match pattern="*.xml">
-				<map:generate src="xml/{1}.xml"/>
-				<map:transform src="xsl/dynaxml.xsl" type="xslt-saxon">
+			<map:match pattern="people">
+				<map:generate src="xml/names.xml"/>
+				<map:transform src="xsl/people.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>
-				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
 			</map:match>
 		</map:pipeline>

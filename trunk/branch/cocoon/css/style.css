@@ -398,7 +398,25 @@ ul li {
 .description{
 	margin-left:375px;
 }
-
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* ---------->>> Notable People <<<----------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.people_content{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.section{
+	margin-top:20px;
+}
+.expand{
+	margin-left:10px;
+	text-decoration:underline;
+}
+.expand:hover{
+	font-weight:bold;
+	cursor:pointer;
+}
 /*
   *
   * jQuery lightBox plugin

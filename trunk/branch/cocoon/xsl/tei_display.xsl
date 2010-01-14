@@ -68,7 +68,7 @@
 							</li>
 							<li class="menu_item menu_people" style="width:15%;">
 								<a
-									href="/saxon-salem/servlet/SaxonServlet?source=salem/texts/names.xml&amp;style=salem/xsl/dynaxml.xsl&amp;group.num=all&amp;clear-stylesheet-cache=yes"
+									href="people?group.num=all"
 									>People</a>
 							</li>
 						</ul>
