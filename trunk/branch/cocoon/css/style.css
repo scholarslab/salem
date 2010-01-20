@@ -332,7 +332,7 @@ ul li {
 	border:1px solid #838d75;
 	background-color:#D9DCD9;
 }
-.facet_head{
+.facet_head {
 	font-weight:bold;
 	font-size:16px;
 	text-transform:capitalize;
@@ -342,7 +342,7 @@ ul li {
 	padding-bottom:2px;
 	margin-bottom:2px;
 	border-bottom:1px dotted gray;
-		display:table;
+	display:table;
 	width:100%;
 }
 .facet_text {
@@ -352,7 +352,6 @@ ul li {
 .facet_num {
 	width:20px;
 	float:right;
-
 }
 .toDate_visible {
 	margin-left:20px;
@@ -375,18 +374,18 @@ ul li {
 	margin-top:40px;
 	display:table;
 }
-.document{
+.document {
 	margin-bottom:25px;
 	display:table;
 	width:100%;
 	padding-bottom:10px;
 	border-bottom:1px dotted gray;
 }
-.thumbnail_container{
+.thumbnail_container {
 	width:350px;
 	float:left;
 }
-.thumb{
+.thumb {
 	padding:2px;
 	font-size:14px;
 	float:left;
@@ -395,27 +394,36 @@ ul li {
 	margin:0 5px 0 5px;
 	text-align:center;
 }
-.description{
+.description {
 	margin-left:375px;
 }
 /* ---------------------------------------------------------------------------------------------------------------- */
 /* ---------->>> Notable People <<<----------------------------------------------------------------------------- */
 /* ---------------------------------------------------------------------------------------------------------------- */
-.people_content{
-	width:80%;
+.people_content {
 	margin-left:auto;
 	margin-right:auto;
+	width:996px;
+	margin-top:40px;
 }
-.section{
+.section {
 	margin-top:20px;
 }
-.expand{
+.expand {
 	margin-left:10px;
 	text-decoration:underline;
 }
-.expand:hover{
+.expand:hover {
 	font-weight:bold;
 	cursor:pointer;
+}
+.people_menu_item {
+	float:left;
+	width:20%;
+}
+.categories{
+	padding:10px 2px 10px 2px;
+	margin:10px 0 10px 0;
 }
 /*
   *

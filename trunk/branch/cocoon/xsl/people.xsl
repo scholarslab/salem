@@ -43,39 +43,40 @@
 				</div>
 				<div class="people_content">
 					<h2>Important Persons in the Salem Court Records</h2>
+					<div class="categories">
+						<b>Categories:</b>
+						<ul class="menu">
+							<xsl:for-each select="//div2[@type='groups']/name">
+								<xsl:choose>
+									<xsl:when test="@id = $group.num">
+										<li style="background-color:#ffffcc"
+											class="people_menu_item">
+											<a href="?group.num={@id}">
+												<xsl:value-of select="."/>
+											</a>
+										</li>
+									</xsl:when>
+									<xsl:otherwise>
+										<li>
+											<a href="?group.num={@id}" class="people_menu_item">
+												<xsl:value-of select="."/>
+											</a>
+										</li>
+									</xsl:otherwise>
+								</xsl:choose>
+
+							</xsl:for-each>
+							<li class="people_menu_item">
+								<a href="?group.num=all">All</a>
+							</li>
+						</ul>
+					</div>
 					<table style="width:100%">
 						<tr>
-							<th style="width:25%;background-color:#CC9966">Categories</th>
 							<th style="width:25%;background-color:#CC9966">People and Topics</th>
 							<th style="width:50%;background-color:#CC9966">Biographical Data</th>
 						</tr>
 						<tr>
-							<td style="width:15%;vertical-align:top">
-								<ul>
-									<xsl:for-each select="//div2[@type='groups']/name">
-										<xsl:choose>
-											<xsl:when test="@id = $group.num">
-												<li style="background-color:#ffffcc">
-												<a href="?group.num={@id}">
-												<xsl:value-of select="."/>
-												</a>
-												</li>
-											</xsl:when>
-											<xsl:otherwise>
-												<li>
-												<a href="?group.num={@id}">
-												<xsl:value-of select="."/>
-												</a>
-												</li>
-											</xsl:otherwise>
-										</xsl:choose>
-
-									</xsl:for-each>
-									<li>
-										<a href="?group.num=all">All</a>
-									</li>
-								</ul>
-							</td>
 							<td style="width:20%;vertical-align:top">
 								<ul>
 									<xsl:choose>
@@ -148,7 +149,7 @@
 									</xsl:choose>
 								</ul>
 							</td>
-							<td style="width:65%;vertical-align:top">
+							<td style="width:80%;vertical-align:top">
 								<a name="top"/>
 								<xsl:if test="string($mbio.num)">
 									<xsl:apply-templates
@@ -178,7 +179,9 @@
 						<xsl:apply-templates
 							select="document('../xml/pics.xml')//div2[@id=$pics]/figure"/>
 					</table>
-					<div style="text-align:right;"><a href="#top">top</a></div>
+					<div style="text-align:right;">
+						<a href="#top">top</a>
+					</div>
 				</div>
 			</div>
 		</xsl:if>
@@ -188,7 +191,9 @@
 				<span class="expand" id="expand_bio" title="expand">+</span>
 				<div id="bio" style="display:none">
 					<xsl:apply-templates select="document('../xml/bios.xml')//div2[@id=$bio]"/>
-					<div style="text-align:right;"><a href="#top">top</a></div>
+					<div style="text-align:right;">
+						<a href="#top">top</a>
+					</div>
 				</div>
 			</div>
 		</xsl:if>
@@ -197,9 +202,10 @@
 				<b>Courtroom Exam</b>
 				<span class="expand" id="expand_crt" title="expand">+</span>
 				<div id="crt" style="display:none">
-					<xsl:apply-templates select="document('../xml/courtexams.xml')//div2[@id=$crt]"
-					/>
-					<div style="text-align:right;"><a href="#top">top</a></div>
+					<xsl:apply-templates select="document('../xml/courtexams.xml')//div2[@id=$crt]"/>
+					<div style="text-align:right;">
+						<a href="#top">top</a>
+					</div>
 				</div>
 			</div>
 		</xsl:if>
