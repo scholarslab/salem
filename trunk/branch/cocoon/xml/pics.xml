@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <div1 id="pics" type="pics">
 	<head>Images</head>
 	<!-- bishopics.html -->
 	<div2 id="p1">
 		<head><name>Bridget Bishop</name> Images</head>
-		<figure entity="/people/btrial2.jpg" thumb="/people/btrial1.jpg" twidth="176" theight="150">
+		<figure entity="people/btrial2.jpg" thumb="people/btrial1.jpg" twidth="176" theight="150">
 
 			<figdesc>A scene from the play &quot;Cry Innocent,&quot; performed by the acting
 				company History Alive in the Old Town Hall, Salem, Mass., June, 1999. In this scene,
@@ -17,7 +17,7 @@
 			<text><emph rend="bold">Source</emph> Photo by Benjamin C. Ray, 1999</text>
 		</figure>
 
-		<figure entity="people/cbishop2.jpg" thumb="/people/cbishop.jpg" twidth="126" theight="160">
+		<figure entity="people/cbishop2.jpg" thumb="people/cbishop.jpg" twidth="126" theight="160">
 
 			<figdesc>The cover of a tourist brochure that depicts several features of local
 				tradition concerning Bridget Bishop. Behind her stands the first church of Salem,
@@ -35,7 +35,7 @@
 				August, 2001. Artist, Stephen K. Swift </text>
 		</figure>
 
-		<figure entity="people/bishop6b.jpg" thumb="/people/bishop6a.jpg" twidth="191" theight="160">
+		<figure entity="people/bishop6b.jpg" thumb="people/bishop6a.jpg" twidth="191" theight="160">
 			<!-- xref doc="../images/people/bishop6b"><figure entity="people/../images/people/bishop6a"/></xref -->
 			<head>&quot;Lusty Bridget Bishop is arrested. She was the first to hang.&quot; </head>
 
@@ -52,7 +52,7 @@
 
 		<head><name>George Burroughs</name> Images</head>
 
-		<figure entity="people/burroughs2.jpg" thumb="/people/burroughs.jpg" twidth="175"
+		<figure entity="people/burroughs2.jpg" thumb="people/burroughs.jpg" twidth="175"
 			theight="131">
 
 			<head>&quot;Witchcraft Victims on the Way to the Gallows&quot;</head>
@@ -76,7 +76,7 @@
 
 		<head><name>Giles Corey</name> Images</head>
 
-		<figure entity="people/cw1.jpg" thumb="/people/cw2.jpg" twidth="134" theight="195">
+		<figure entity="people/cw1.jpg" thumb="people/cw2.jpg" twidth="134" theight="195">
 
 			<head>&quot;Father! Father!&quot;</head>
 
@@ -94,7 +94,7 @@
 
 
 
-		<figure entity="people/gileslong1.jpg" thumb="/people/gileslong2.jpg" twidth="183"
+		<figure entity="people/gileslong1.jpg" thumb="people/gileslong2.jpg" twidth="183"
 			theight="144">
 
 			<head>&quot;Look! Look! It is the ghost of Robert Goodell.&quot;</head>
@@ -117,7 +117,7 @@
 		</figure>
 
 
-		<figure entity="people/tgc1.jpg" thumb="/people/tgc2.jpg" twidth="134" theight="132">
+		<figure entity="people/tgc1.jpg" thumb="people/tgc2.jpg" twidth="134" theight="132">
 
 			<head>&quot;Trial of Giles Corey&quot;</head>
 
@@ -130,7 +130,7 @@
 				Artist: C. S. Reinhardt.</text>
 		</figure>
 
-		<figure entity="people/gcdungeon1.jpg" thumb="/people/gcdungeon2.jpg" twidth="131"
+		<figure entity="people/gcdungeon1.jpg" thumb="people/gcdungeon2.jpg" twidth="131"
 			theight="180">
 
 			<figdesc> Diorama showing Giles Corey being crushed with stones.</figdesc>
@@ -145,7 +145,7 @@
 	<div2 id="p4">
 
 		<head><name>George Jacobs</name> Images</head>
-		<figure entity="people/mjacobs2.jpg" thumb="/people/mjacobs3.jpg" twidth="180" theight="133">
+		<figure entity="people/mjacobs2.jpg" thumb="people/mjacobs3.jpg" twidth="180" theight="133">
 
 			<head>&quot;Trial of George Jacobs, August 5, 1692.&quot;</head>
 
@@ -156,7 +156,7 @@
 			<!-- xref doc="gjacobspics2.html"></xref -->
 		</figure>
 
-		<figure entity="people/mjacobs1.jpg" thumb="/people/mjacobs1.jpg" twidth="180" theight="133">
+		<figure entity="people/mjacobs1.jpg" thumb="people/mjacobs1.jpg" twidth="180" theight="133">
 
 			<head>&quot;Trial of George Jacobs, August 5, 1692.&quot; </head>
 
@@ -201,7 +201,7 @@
 
 		</figure>
 
-		<figure entity="people/gjacobsgrave2.jpg" thumb="/people/gjacobsgrave.jpg" twidth="134"
+		<figure entity="people/gjacobsgrave2.jpg" thumb="people/gjacobsgrave.jpg" twidth="134"
 			theight="194">
 
 			<figdesc> Gravestone of George Jacobs, Sr. placed in the cemetery of the Rebecca Nurse
@@ -221,7 +221,7 @@
 
 		<head><name>John Hathorne</name> Images</head>
 
-		<figure entity="people/jhathorngrv.jpg" thumb="/people/jhathorngrv2.jpg" twidth="180"
+		<figure entity="people/jhathorngrv.jpg" thumb="people/jhathorngrv2.jpg" twidth="180"
 			theight="145">
 
 			<figdesc> Gravestone of Col. John Hathorne, located in the Old Burial Ground, Salem,
@@ -235,7 +235,7 @@
 
 		</figure>
 
-		<figure entity="people/jhathlong1.jpg" thumb="/people/jhathlong2.jpg" twidth="200"
+		<figure entity="people/jhathlong1.jpg" thumb="people/jhathlong2.jpg" twidth="200"
 			theight="158">
 
 			<head>&quot;Oh, give me leave to pray!&quot;</head>
@@ -252,7 +252,7 @@
 
 		</figure>
 
-		<figure entity="people/jhathwax1.jpg" twidth="168" theight="160">
+		<figure entity="people/jhathwax2.jpg" thumb="people/jhathwax1.jpg" twidth="168" theight="160">
 
 			<figdesc> Wax figure of magistrate John Hathorne outside the Salem Wax Museum of Witches
 				and Seafarers. </figdesc>
@@ -260,7 +260,7 @@
 			<text><emph rend="bold">Source</emph> Photograph by Benjamin C. Ray, 1999</text>
 		</figure>
 
-		<figure entity="people/jhathwax3.jpg" thumb="/people/jhathwax4.jpg" twidth="200"
+		<figure entity="people/jhathwax3.jpg" thumb="people/jhathwax4.jpg" twidth="200"
 			theight="150">
 
 			<figdesc> Wax figure of magistrate John Hathorne appears to beckon to tourists as they
@@ -276,7 +276,7 @@
 	<div2 id="p6">
 
 		<head><name>Susannah Martin</name> Images</head>
-		<figure entity="people/smartin2whit.jpg" twidth="621" theight="90">
+		<figure entity="people/smartin2whit.jpg"  thumb="people/smartin2whit.gif" twidth="621" theight="90">
 
 			<head>&quot;Who turned, in Salem's dreary jail,/Her worn old bible o'er and
 				o'er.&quot;</head>
@@ -290,7 +290,7 @@
 
 		</figure>
 
-		<figure entity="people/smartinwhit.jpg" thumb="/people/smartin2whit.gif" twidth="161"
+		<figure entity="people/smartinwhit.jpg" thumb="people/smartin2whit.gif" twidth="161"
 			theight="180">
 
 			<head>&quot;Curious thousands thronged to see/Her mother at the
@@ -303,7 +303,7 @@
 
 		</figure>
 
-		<figure entity="people/martinrck.jpg" thumb="/people/martinrck.gif" twidth="191"
+		<figure entity="people/martinrck.jpg" thumb="people/martinrck.gif" twidth="191"
 			theight="180">
 
 			<figdesc> Marker stone at location of Susannah Martin's house in Amesbury,
@@ -319,7 +319,7 @@
 	<div2 id="p7">
 
 		<head><name>Rebecca Nurse</name> Images</head>
-		<figure entity="people/nursecourt1.jpg" thumb="/people/nursecourt1.gif" twidth="116"
+		<figure entity="people/nursecourt1.jpg" thumb="people/nursecourt1.gif" twidth="116"
 			theight="150">
 
 			<head>&quot;The sheriff brought the witch up the broad aisle, her chains clanking as
@@ -335,7 +335,7 @@
 
 		</figure>
 
-		<figure entity="people/nursetrial.jpg" thumb="/people/nursetrial.gif" twidth="160"
+		<figure entity="people/nursetrial.jpg" thumb="people/nursetrial.gif" twidth="160"
 			theight="134">
 
 			<head>&quot;Trial of Rebecca Nurse&quot;</head>
@@ -349,7 +349,7 @@
 
 		</figure>
 
-		<figure entity="people/townesister1.jpg" thumb="/people/townesister1.gif" twidth="141"
+		<figure entity="people/townesister1.jpg" thumb="people/townesister1.gif" twidth="141"
 			theight="150">
 
 			<head>&quot;The Towne Sisters&quot;</head>
@@ -362,7 +362,7 @@
 
 		</figure>
 
-		<figure entity="people/threesov.jpg" thumb="/people/threesov.gif" twidth="108" theight="150">
+		<figure entity="people/threesov.jpg" thumb="people/threesov.gif" twidth="108" theight="150">
 
 			<figdesc> Photograph of Vanessa Redgrave (center), as Sarah Cloyce; Phyllis Thaxter
 				(right), as Rebecca Nurse; and Kim Hunter (left), as Mary Easty.</figdesc>
@@ -373,7 +373,7 @@
 
 		</figure>
 
-		<figure entity="people/nursehse2.jpg" thumb="/people/nursehse1.jpg" twidth="170"
+		<figure entity="people/nursehse2.jpg" thumb="people/nursehse1.jpg" twidth="170"
 			theight="149">
 
 			<figdesc> Rebecca Nurse Homestead, Danvers, Massachusetts.</figdesc>
@@ -382,7 +382,7 @@
 
 		</figure>
 
-		<figure entity="people/nursemem2.jpg" thumb="/people/nursemem2.gif" twidth="135"
+		<figure entity="people/nursemem2.jpg" thumb="people/nursemem2.gif" twidth="135"
 			theight="180">
 
 			<figdesc> Rebecca Nurse Memorial, erected 1885. Located in the Rebecca Nurse Homestead
@@ -397,7 +397,7 @@
 
 		</figure>
 
-		<figure entity="people/nurse1885.jpg" thumb="/people/nurse1885.gif" twidth="170"
+		<figure entity="people/nurse1885.jpg" thumb="people/nurse1885.gif" twidth="170"
 			theight="135">
 
 			<figdesc> Nurse Family Association, dedication of the Rebecca Nurse Memorial, erected
@@ -416,7 +416,7 @@
 
 		<head><name>William Phips</name> Images</head>
 
-		<figure entity="people/phips2.jpg" twidth="130" theight="175">
+		<figure entity="people/phips2.jpg" twidth="130" theight="175" thumb="people/phips2.gif">
 
 			<figdesc> Portrait of Sir William Phips. Oil painting by Thomas Child, Boston, ca.
 				1687-94.</figdesc>
@@ -434,7 +434,7 @@
 
 		<head><name>Samuel Sewall</name> Images</head>
 
-		<figure entity="people/sewallportr.gif" thumb="/people/sewallportr.gif" twidth="138"
+		<figure entity="people/sewallportr.gif" thumb="people/sewallportr.gif" twidth="138"
 			theight="150">
 
 			<figdesc> Digital image from an oil painting by Smibert, Museum of Fine Arts,
@@ -442,7 +442,7 @@
 
 		</figure>
 
-		<figure entity="people/sewallmural.jpg" thumb="/people/sewallmural.gif" twidth="182"
+		<figure entity="people/sewallmural.jpg" thumb="people/sewallmural.gif" twidth="182"
 			theight="150">
 
 			<head>&quot;Dawn of Tolerance in Massachusetts. Public Repentance of Judge Samuel
@@ -462,7 +462,7 @@
 
 		</figure>
 
-		<figure entity="people/hserep.jpg" thumb="/people/hserep.gif" twidth="182" theight="150">
+		<figure entity="people/hserep.jpg" thumb="people/hserep.gif" twidth="182" theight="150">
 
 			<figdesc> Five murals in the House of Representatives, State House, Boston, illustrating
 				the theme &quot;Milestones on the Road to Freedom in
@@ -481,7 +481,7 @@
 
 		<head><name>Rev. Samuel Parris</name> Images</head>
 
-		<figure entity="people/parris.jpg" thumb="/people/parris.jpg" twidth="336" theight="499">
+		<figure entity="people/parris.jpg" thumb="people/parris.jpg" twidth="336" theight="499">
 			<figdesc>A detailed view of the miniature portrait of the Rev. Samuel Parris.</figdesc>
 			<text>Massachusetts Historical Society.</text>
 
@@ -495,7 +495,7 @@
 	<div2 id="p11">
 
 		<head><name>Tituba</name> Images</head>
-		<figure entity="people/tituba.jpg" thumb="/people/tituba.gif" twidth="203" theight="130">
+		<figure entity="people/tituba.jpg" thumb="people/tituba.gif" twidth="203" theight="130">
 
 			<head>&quot;Tituba Teaching the First Act of Witchcraft.&quot;</head>
 
@@ -507,7 +507,7 @@
 
 		</figure>
 
-		<figure entity="people/tituba1.jpg" thumb="/people/tituba1.gif" twidth="183" theight="160">
+		<figure entity="people/tituba1.jpg" thumb="people/tituba1.gif" twidth="183" theight="160">
 
 			<head>&quot;I am Tituba the Witch.&quot;</head>
 
@@ -522,7 +522,7 @@
 
 		</figure>
 
-		<figure entity="people/tituba2.jpg" thumb="/people/tituba2.gif" twidth="200" theight="147">
+		<figure entity="people/tituba2.jpg" thumb="people/tituba2.gif" twidth="200" theight="147">
 
 			<head>&quot;Look into this Glass.&quot;</head>
 
@@ -539,7 +539,7 @@
 
 		</figure>
 
-		<figure entity="people/titubabryant.jpg" thumb="/people/titubabryant.gif" twidth="196"
+		<figure entity="people/titubabryant.jpg" thumb="people/titubabryant.gif" twidth="196"
 			theight="179">
 
 			<head>&quot;Tituba and the Children.&quot;</head>
@@ -554,7 +554,7 @@
 
 		</figure>
 
-		<figure entity="people/titubaswmus1.jpg" thumb="/people/titubaswmus1.gif" twidth="225"
+		<figure entity="people/titubaswmus1.jpg" thumb="people/titubaswmus1.gif" twidth="225"
 			theight="141">
 
 			<head>&quot;Tituba, the accused witch, telling the children of Salem Village
@@ -569,7 +569,7 @@
 
 		</figure>
 
-		<figure entity="people/titubawxmus.jpg" thumb="/people/titubawxmus.gif" twidth="200"
+		<figure entity="people/titubawxmus.jpg" thumb="people/titubawxmus.gif" twidth="200"
 			theight="150">
 
 			<head>&quot;Tituba, the Witch! Tituba, accused of witchcraft, waits outside while
@@ -582,7 +582,7 @@
 
 		</figure>
 
-		<figure entity="people/titubatrial3.jpg" thumb="/people/titubatrial3.gif" twidth="162"
+		<figure entity="people/titubatrial3.jpg" thumb="people/titubatrial3.gif" twidth="162"
 			theight="180">
 
 			<figdesc> Diorama in which Tituba is on trial at The Witch History Museum, Salem. Tituba
@@ -594,7 +594,7 @@
 
 		</figure>
 
-		<figure entity="people/titubawtchhist2.jpg" thumb="/people/titubawtchhist2.gif" twidth="185"
+		<figure entity="people/titubawtchhist2.jpg" thumb="people/titubawtchhist2.gif" twidth="185"
 			theight="179">
 
 			<figdesc> Diorama in The Witch History Museum, Salem. Tituba is shown with her husband,
