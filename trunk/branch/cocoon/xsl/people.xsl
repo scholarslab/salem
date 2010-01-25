@@ -45,31 +45,25 @@
 					<h2>Important Persons in the Salem Court Records</h2>
 					<div class="categories">
 						<b>Categories:</b>
-						<ul class="menu">
+						<div class="menu">
 							<xsl:for-each select="//div2[@type='groups']/name">
 								<xsl:choose>
 									<xsl:when test="@id = $group.num">
-										<li style="background-color:#ffffcc"
-											class="people_menu_item">
-											<a href="?group.num={@id}">
-												<xsl:value-of select="."/>
-											</a>
-										</li>
+										<span style="background-color:#ffffcc"
+											class="people_menu_item_selected">
+											<xsl:value-of select="."/>
+										</span>
 									</xsl:when>
 									<xsl:otherwise>
-										<li>
 											<a href="?group.num={@id}" class="people_menu_item">
 												<xsl:value-of select="."/>
 											</a>
-										</li>
 									</xsl:otherwise>
 								</xsl:choose>
 
-							</xsl:for-each>
-							<li class="people_menu_item">
-								<a href="?group.num=all">All</a>
-							</li>
-						</ul>
+							</xsl:for-each>							
+							<a href="?group.num=all" class="people_menu_item">All</a>
+						</div>
 					</div>
 					<table style="width:100%">
 						<tr>
@@ -77,7 +71,7 @@
 							<th style="width:50%;background-color:#CC9966">Biographical Data</th>
 						</tr>
 						<tr>
-							<td style="width:20%;vertical-align:top">
+							<td style="width:20%;vertical-align:top;padding:5px;">
 								<ul>
 									<xsl:choose>
 										<xsl:when
@@ -149,7 +143,7 @@
 									</xsl:choose>
 								</ul>
 							</td>
-							<td style="width:80%;vertical-align:top">
+							<td style="width:80%;vertical-align:top;padding:5px;">
 								<a name="top"/>
 								<xsl:if test="string($mbio.num)">
 									<xsl:apply-templates
@@ -158,6 +152,10 @@
 							</td>
 						</tr>
 					</table>
+					<div class="footer"><a href="http://www.virginia.edu/%7Epolproc/pol/xve1.html"
+							target="_blank" shape="rect">Copyright</a> 2002 by Benjamin Ray and <a
+							href="http://www.virginia.edu/" target="_blank" shape="rect">The
+							University of Virginia</a></div>
 				</div>
 			</body>
 		</html>

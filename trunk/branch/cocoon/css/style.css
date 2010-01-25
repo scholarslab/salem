@@ -8,7 +8,7 @@
 body {
 	background-color:#ffffff;
 	color:#2b2b2b;
-	font:16px times,serif;
+	font:16px roman, 'times new roman', times, serif;
 }
 a:link {
 	color:#000000;
@@ -405,6 +405,7 @@ ul li {
 	margin-right:auto;
 	width:996px;
 	margin-top:40px;
+	margin-bottom:40px;
 }
 .section {
 	margin-top:20px;
@@ -417,14 +418,28 @@ ul li {
 	font-weight:bold;
 	cursor:pointer;
 }
-.people_menu_item {
+.people_menu_item, .people_menu_item_selected {
 	float:left;
-	width:20%;
+	width:23%;
+	font-family:arial, helvetica, sans-serif;
+	font-size:13px;
+	padding:2px 0 2px 0;
+	border-top:1px solid #ebebeb;
+	border-left:1px solid #ebebeb;
+	border-bottom:1px solid silver;
+	border-right:1px solid silver;
+	margin:2px 5px 2px 0;
+}
+.people_menu_item:hover{
+	background-color:#efefef;
+	color:gray;
 }
 .categories{
-	padding:10px 2px 10px 2px;
-	margin:10px 0 10px 0;
+	padding:10px 2px 10px 2px;;
+	margin-left:auto;
+	margin-right:auto;
 }
+
 /*
   *
   * jQuery lightBox plugin
