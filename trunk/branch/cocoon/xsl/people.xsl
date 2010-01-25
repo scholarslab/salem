@@ -71,7 +71,7 @@
 							<th style="width:50%;background-color:#CC9966">Biographical Data</th>
 						</tr>
 						<tr>
-							<td style="width:20%;vertical-align:top;padding:5px;">
+							<td style="width:20%;vertical-align:top;padding:12px;">
 								<ul>
 									<xsl:choose>
 										<xsl:when
@@ -143,7 +143,7 @@
 									</xsl:choose>
 								</ul>
 							</td>
-							<td style="width:80%;vertical-align:top;padding:5px;">
+							<td style="width:80%;vertical-align:top;padding:12px;">
 								<a name="top"/>
 								<xsl:if test="string($mbio.num)">
 									<xsl:apply-templates
