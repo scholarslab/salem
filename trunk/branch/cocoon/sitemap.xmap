@@ -139,10 +139,6 @@
 			<map:match pattern="**.swf">
 				<map:read src="html/{1}.swf" mime-type="application/x-shockwave-flash"/>
 			</map:match>
-			
-			<map:match pattern="**.xml">
-				<map:read src="html/{1}.xml" mime-type="text/xml"/>
-			</map:match>
 
 			<!-- allow javascript to pass through for script tags //-->
 			<map:match pattern="javascript/**">
@@ -242,6 +238,10 @@
 				</map:transform>
 				<map:transform type="cinclude"/>
 				<map:serialize type="html"/>
+			</map:match>
+
+			<map:match pattern="**.xml">
+				<map:read src="html/{1}.xml" mime-type="text/xml"/>
 			</map:match>
 
 			<!-- PIPELINES FOR DISPLAYING people.html page -->
