@@ -3751,7 +3751,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 
 				<div2 id="BoySal3-n3.1" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="pudann">Ann
-						Pudeator</name> and <name type="person" key="parali">Alice Parker</name> ) </head>
+						Pudeator</name> and <name type="person" key="parali">Alice Parker</name> ) </head><figure n="ecca1261r"/><figure n="ecca1261v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Marshall of Essex or Constable </name>
@@ -3786,7 +3786,8 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					<head>(<name type="person" key="chusar">Sarah Churchill</name> v. <name
 							type="person" key="pudann">Ann Pudeator</name> , <name type="person"
 							key="bisbri">Bridget Bishop</name> , and <name type="person"
-							key="jacgeo1">George Jacobs, Sr.</name> ) </head>
+							key="jacgeo1">George Jacobs, Sr.</name> )</head><figure n="ecca1262r"/>
+
 					<p>
 						<name type="person" key="chusar">Sarah Churchwell </name> confesseth that
 							<name type="person" key="pudann">Goody pudeater </name> brought the book
@@ -3899,7 +3900,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.4" type="summons">
 					<head>(Summons for Witnesses v. <name type="person" key="pudann">Ann
-						Pudeator</name> and <name type="person" key="parali">Alice Parker</name> ) </head>
+						Pudeator</name> and <name type="person" key="parali">Alice Parker</name> ) </head><figure n="ecca1263r-detail"/><figure n="ecca1263r"/><figure n="ecca1263v"/>
 					<p> Wm &amp; Mary by the Grace of God of England Scotland France &amp;
 						Ireland King &amp; Queen defend' <hi rend="underline">s </hi>
 						&amp;c. </p>
@@ -4251,7 +4252,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					</closer>
 				</div2>
 				<div2 id="BoySal3-n3.16" type="section">
-					<head>(Petition of <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<head>(Petition of <name type="person" key="pudann">Ann Pudeator</name> ) </head><figure n="ecca1267r"/><figure n="ecca1267v  "/>
 					<p>The humble Petition of <name type="person" key="pudann">Ann Poodeater </name>
 						unto the honoured Judge and Bench now Setting in Judicature in Salem humbly
 						Sheweth: </p>
@@ -4920,7 +4921,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.32" type="section">
 					<head>( <name type="person" key="elland">Andrew Elliott</name> v. <name
-							type="person" key="roosus">Susannah Roots</name> ) </head>
+							type="person" key="roosus">Susannah Roots</name> ) </head><figure n="ecca1306r"/>
 					<p>An information if it might be any help in the examination of the person
 						before you <name type="person" key="roosus">goode Roots </name> I being in
 						the house of <name type="person" key="danlaw">Mr Laurence Denni's </name>
@@ -6295,7 +6296,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<div2 id="BoySal3-n3.52" type="examination">
 					<head>(Summary of Examinations of <name type="person" key="tituba">Tituba</name>
 						, <name type="person" key="goosar">Sarah Good</name> , and <name
-							type="person" key="osbsar">Sarah Osborne</name> ) </head>
+							type="person" key="osbsar">Sarah Osborne</name> ) </head><figure n="ecca1014r"/><figure n="ecca1014v"/>
 					<p>Salem Village <date value="1691-03-01" certainty="questionable">March 1'st
 							1691 </date>
 					</p>
@@ -7619,7 +7620,7 @@ lacmar2">Mary Laceys</name>
 					<head>(Mittimus for <name type="person" key="toorog">Roger Toothaker</name> ,
 							<name type="person" key="wiljoh">John Willard</name> , <name
 							type="person" key="fartho">Thomas Farrar</name> , and <name
-							type="person" key="hareli">Elizabeth Hart</name> ) </head>
+							type="person" key="hareli">Elizabeth Hart</name> ) </head><figure n="ecca1274v  "/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Keeper of Theire Majest's Goale </name>
@@ -7663,7 +7664,7 @@ lacmar2">Mary Laceys</name>
 				</div2>
 				<div2 id="BoySal3-n3.75" type="section">
 					<head>( <name type="person" key="gadtho">Thomas Gage</name> and [] Pickworth v.
-							<name type="person" key="toorog">Roger Toothaker</name> ) </head>
+							<name type="person" key="toorog">Roger Toothaker</name> ) </head><figure n="ecca1275r"/><figure n="ecca1275v"/>
 					<p>The Deposition of <name type="person" key="gadtho">Thomas Gage </name> Aged
 						aboute #[six &amp;] thirty six years #[of age] </p>
 					<p>this Deponant saith &amp; doth testifie that sometime this Last spring of
@@ -8539,7 +8540,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 
 				<div2 id="BoySal3-n3.96" type="examination">
 					<head>(Examination of <name type="person" key="warmar">Mary Warren</name>, <date
-							value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head>
+							value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head><figure n="ecca1111v"/>
 					<p>The Examination of <name type="person" key="warmar">Mary Warren </name> At a
 						Court held at Salem Village by </p>
 					<p>
@@ -8647,7 +8648,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.97" type="examination">
 					<head>(Examination of <name type="person" key="warmar">Mary Warren</name> in
-						Prison) </head>
+						Prison) </head><figure n="ecca1115r"/><figure n="ecca1115v"/>
 					<p>
 						<name type="person" key="warmar">Mary Warrens</name> Examination in Salem
 						Prison </p>
@@ -8692,7 +8693,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.98" type="examination">
 					<head>(Examination of <name type="person" key="warmar">Mary Warren</name>, April
-						21, 1692) </head>
+						21, 1692) </head><figure n="ecca1113-1"/><figure n="ecca1113-2"/>
 					<p>
 						<name type="person" key="warmar">Mary Warins</name> examination of <date
 							value="1692-04-21" certainty="confirmed">April 21: 1692 </date>
@@ -8819,7 +8820,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.99" type="examination">
 					<head>(Examination of <name type="person" key="warmar">Mary Warren</name>, <date
-							value="1692-05-12" certainty="confirmed">May 12, 1692</date>) </head>
+							value="1692-05-12" certainty="confirmed">May 12, 1692</date>) </head><figure n="ecca1116r"/><figure n="ecca1116v"/>
 					<p>
 						<name type="person" key="warmar">Mary Warrens</name> Examination <date
 							value="1692-05-12" certainty="confirmed">May 12'th 1692 </date>
@@ -8830,8 +8831,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 							reg="Devil's book">Devills<lb/> book</orig>, in the first place to be
 						sure I did sett my hand to the <orig reg="Devil's book">Devills book</orig>;
 						I have considered of itt, since you were here last &amp; itt was the
-							<orig reg="Devil's
-book">Devills book</orig> that my <name type="person"
+							<orig reg="Devil'sbook">Devills book</orig> that my <name type="person"
 							key="projoh">Master procter</name> brought to me, &amp; he tould me
 						if I would sett my hand to that book I should be well; &amp; I did sett
 						my hand to itt, butt that w'ch I did itt was done w'th my finger, he brought
@@ -9034,7 +9034,7 @@ book">Devills book</orig> that my <name type="person"
 				<div2 id="BoySal3-n3.102" type="section">
 					<head>(<name type="person" key="booeli">Elizabeth Booth</name> v. <name
 							type="person" key="warmar">Mary Warren</name> and <name type="person"
-							key="anddan">Daniel Andrew</name> ) </head>
+							key="anddan">Daniel Andrew</name> )</head><figure n="ecca1118v"/>
 					<p>Salem <date value="1692-05-18" certainty="confirmed">May the 18'th 1692
 						</date>
 					</p>
@@ -9063,7 +9063,7 @@ book">Devills book</orig> that my <name type="person"
 				</div2>
 				<div2 id="BoySal3-n3.103" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
-							type="person" key="warmar">Mary Warren</name>) </head>
+							type="person" key="warmar">Mary Warren</name>) </head><figure n="ecca1117r"/><figure n="ecca1117v"/>
 					<p>mary waring brought the book to <name type="person" key="hubeli">eliSibath
 							houbard </name>and would have Sat hur hand to the book which She brought
 						unto hur and She said i wont i wont i wont a if you Sat your hand to the
@@ -9101,7 +9101,7 @@ book">Devills book</orig> that my <name type="person"
 							key="bisedw2">Edward Bishop, Jr.</name> , <name type="person"
 							key="bissar">Sarah Bishop</name> , <name type="person" key="blamar">Mary
 							Black</name> , and <name type="person" key="engmar">Mary English</name>
-						) </head>
+						) </head><figure n="ecca1163r"/>
 					<p>Salem <date value="1692-04-21" certainty="confirmed">Aprill the 21'th 1692
 						</date>
 					</p>
@@ -9239,7 +9239,7 @@ book">Devills book</orig> that my <name type="person"
 				</div2>
 				<div2 id="BoySal3-n3.107" type="section">
 					<head>( <name type="person" key="wiljoh1">John Wilds</name> for <name
-							type="person" key="wilsar">Sarah Wilds</name> ) </head>
+							type="person" key="wilsar">Sarah Wilds</name> ) </head><figure n="ecca1166r_top"/>
 					<p>
 						<name type="person" key="wiljoh1">John Wiells</name> testifieth that he did
 						hear that <name type="person" key="redmay">Mary </name> the wife of <name
@@ -9264,7 +9264,7 @@ book">Devills book</orig> that my <name type="person"
 				</div2>
 				<div2 id="BoySal3-n3.108" type="section">
 					<head>( <name type="person" key="wileph">Ephraim Wilds</name> for <name
-							type="person" key="wilsar">Sarah Wilds</name> ) </head>
+							type="person" key="wilsar">Sarah Wilds</name> ) </head><figure n="ecca1166r_bottom"/><figure n="ecca1166v"/>
 					<p>The testimonny of <name type="person" key="wileph">Ephraim Willdes</name>
 						Eged about 27 or theabouts testifieth and saith that a bout fouer yers a gow
 						there. was som likly hode of my haveng one of <name type="person"
@@ -9408,7 +9408,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 						Appril 1692 there came to me a woman which I did not know and she did most
 						greviously torment me by pricking and pinching me and she tould me that hir
 						name was <name type="person" key="wilsar">wilds</name> and that she lived at
-						Topsfeil and she continewed hurting me most greviously by times tell the day
+						Topsfeil and   hurting me most greviously by times tell the day
 						of hir Examination which was the 22 day of Appril 1692: and then I saw that
 							<name type="person" key="wilsar">Sarah wildes </name> was that very same
 						woman that tould me hir name was <name type="person" key="wilsar"
@@ -10433,7 +10433,7 @@ who this is?-->
 				<pb n="831"/>
 				<div2 id="BoySal3-n3.126" type="indictment">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						2) </head>
+						2) </head><figure n="ecca1233r"/>
 					<p>Anno Regni Regis et Reginae Wellim et [] nunc Angliae &amp;c Quarto </p>
 					<p>Essex ss. </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King [] pr'sents That
@@ -10485,7 +10485,7 @@ who this is?-->
 				<pb n="832"/>
 				<div2 id="BoySal3-n3.127" type="indictment">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						3) </head>
+						3) </head><figure n="ecca1232r"/>
 					<p>Anno Regni Regis et Reginae Willim et Mariae nunc Angliae &amp;c Quarto: </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -10541,7 +10541,7 @@ separately?-->
 				<pb n="833"/>
 				<div2 id="BoySal3-n3.128" type="indictment">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						4) </head>
+						4) </head><figure n="ecca1236r"/>
 					<p>Anno Regni Regis et Reginae Willim et Mariae nunc Angliae et Quarto: </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -10594,7 +10594,7 @@ separately?-->
 				<pb n="834"/>
 				<div2 id="BoySal3-n3.129" type="indictment">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						7) </head>
+						7) </head><figure n="ecca1235r-1"/>
 					<p>Anno Regni Regis et Reginae [Willm] et Mariae nunc. Angliae &amp;c Quarto </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -10720,7 +10720,7 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.132" type="section">
 					<head>(List of Evidence v. <name type="person" key="wiljoh4">John Willard</name>
-						.) </head>
+						.) </head><figure n="ecca1239v"/>
 					<p>Evidences ag't <name type="person" key="wiljoh4">John Willard. </name>
 					</p>
 					<p>Exa&ibar;&ibar;on vide. </p>
@@ -10760,7 +10760,7 @@ separately?-->
 				<pb n="837"/>
 				<div2 id="BoySal3-n3.133" type="section">
 					<head>(<name type="person" key="shesus">Susannah Sheldon</name> v. w <name
-							type="person" key="iljoh2"/> ) </head>
+							type="person" key="iljoh2"/> ) </head><figure n="ecca1243r"/>
 					<p>The <date value="1692-05-09" certainty="confirmed">9'th of may 1692 </date>
 						this #[this] Is the first to bee Read the testimony of <name type="person"
 							key="shesus">Susanah Shelton</name> Aged 18'ten yers or there About
@@ -10846,7 +10846,7 @@ separately?-->
 							key="coleli">Elizabeth Colson</name> , <name type="person" key="jacgeo2"
 							>George Jacobs, Jr.</name> , <name type="person" key="jacreb">Rebecca
 							Jacobs</name> , <name type="person" key="projoh">John Proctor</name> ,
-						and <name type="person" key="proeli">Elizabeth Proctor</name> ) </head>
+						and <name type="person" key="proeli">Elizabeth Proctor</name> ) </head><figure n="ecca1241r"/><figure n="ecca1241v"/>
 					<p>
 						<date value="1692-05-17" certainty="confirmed">May 17'th In the yeare 92
 						</date> the com plainte of <name type="person" key="shesus">Sewzanah
@@ -10887,7 +10887,7 @@ separately?-->
 					<head>( <name type="person" key="putann1">Ann Putnam, Sr</name> . v. <name
 							type="person" key="johwil2">John Willard</name> , <name type="person"
 							key="hobwil">William Hobbs</name> , and <name type="person" key="cormar"
-							>Martha Corey</name>) </head>
+							>Martha Corey</name>) </head><figure n="ecca1240r"/>
 					<p>
 						<name type="person" key="puthan">Hanah Putnam </name> aged 30 years Saith
 						that the shape of <name type="person" key="fulsam">Sam'll Fuller</name>
@@ -11188,7 +11188,7 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.144" type="section">
 					<head>( <name type="person" key="baieli">Elizabeth Bailey</name> v. <name
-							type="person" key="wiljoh4">John Willard</name> ) </head>
+							type="person" key="wiljoh4">John Willard</name> ) </head><figure n="ecca1251r"/><figure n="ecca1251v"/>
 					<p>The Testimonie of <name type="person" key="baieli">Elizabth Bayly</name> aged
 						twenty seaven years or there a boutes testifyeth and saith that <name
 							type="person" key="wiljoh4">John Willard</name> lookeing his oxen met
@@ -11290,7 +11290,7 @@ separately?-->
 				<pb n="846"/>
 				<div2 id="BoySal3-n3.147" type="section">
 					<head>( <name type="person" key="wilhen">Henry Wilkins, Sr.</name> v. <name
-							type="person" key="wiljoh3">John Willard</name> ) </head>
+							type="person" key="wiljoh3">John Willard</name> ) </head><figure n="ecca1254 r"/>
 					<p>Thwe Deposition of <name type="person" key="wilhen">Henery Wilkins sen</name>
 						aged 41 yeares who testifieth and sayth that upon the third of may last
 							<name type="person" key="wiljoh4">John Willard </name> came to my house:
@@ -12900,7 +12900,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="section">
 						<head>(Statement by the <name type="person" key="danfra1">Rev. Francis
-							Dane</name> on the Andover Outbreak -- January 1693) </head>
+							Dane</name> on the Andover Outbreak -- January 1693) </head><figure n="ecca1319r"/><figure n="ecca1319r-detail                                                                                                                                                                                                                                                                                                     0"/>
 						<p>R'nd Sr; Whereas there have been divers reports raysed, how, and, by what
 							hands I know not, of the Towne of Andover, and the Inhabitants, I
 							thought it my bounden duty to give an account to others, so farr as I
