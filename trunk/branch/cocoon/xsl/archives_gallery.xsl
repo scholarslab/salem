@@ -316,7 +316,7 @@
 					<br/>
 				</xsl:if>
 
-				<xsl:if test="string(normalize-space(did/unittitle/text()))">
+				<xsl:if test="string(did/unittitle/text())">
 					<b>Document: </b>
 					<xsl:value-of select="did/unittitle/text()"/>
 					<br/>
