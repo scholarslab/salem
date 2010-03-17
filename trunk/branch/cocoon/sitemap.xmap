@@ -145,7 +145,6 @@
 				<map:read src="javascript/{1}"/>
 			</map:match>
 
-
 			<!-- For the home page -->
 			<map:match pattern="">
 				<map:generate src="html/index.html"/>
