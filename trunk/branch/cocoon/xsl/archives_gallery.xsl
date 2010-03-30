@@ -32,6 +32,9 @@
 			<xsl:when test="$institution = 'eia'">
 				<xsl:text>archives/essex/eia/gifs</xsl:text>
 			</xsl:when>
+			<xsl:when test="$institution = 'ecca'">
+				<xsl:text>archives/ecca/thumb</xsl:text>
+			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>
 
@@ -64,6 +67,9 @@
 			<xsl:when test="$institution = 'eia'">
 				<xsl:text>archives/essex/eia/small</xsl:text>
 			</xsl:when>
+			<xsl:when test="$institution = 'ecca'">
+				<xsl:text>archives/ecca/medium</xsl:text>
+			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>
 
@@ -95,6 +101,9 @@
 			</xsl:when>
 			<xsl:when test="$institution = 'eia'">
 				<xsl:text>archives/essex/eia/large</xsl:text>
+			</xsl:when>
+			<xsl:when test="$institution = 'ecca'">
+				<xsl:text>archives/ecca/large</xsl:text>
 			</xsl:when>
 		</xsl:choose>
 	</xsl:variable>
@@ -132,9 +141,7 @@
 						<a href="../maps.html">Maps</a>
 					</li>
 					<li class="menu_item menu_people" style="width:15%;">
-						<a
-							href="../people?group.num=all"
-							>People</a>
+						<a href="../people?group.num=all">People</a>
 					</li>
 				</ul>
 			</div>
@@ -149,6 +156,7 @@
 					<xsl:value-of select="//author"/>
 				</p>
 				<xsl:choose>
+
 					<xsl:when test="$institution = 'ecca'">
 						<div style="text-align:center">
 							<a href="?filter=A-B">A - B</a>
@@ -209,6 +217,7 @@
 					</xsl:otherwise>
 				</xsl:choose>
 
+				<xsl:apply-templates select="//c01"/>
 
 				<hr style="width:50%;margin:auto;"/>
 				<center>
@@ -255,28 +264,6 @@
 				<xsl:for-each select="did/daogrp/daoloc">
 					<div class="thumb">
 						<xsl:choose>
-							<xsl:when test="$institution = 'ecca'">
-								<xsl:variable name="volume">
-									<xsl:choose>
-										<xsl:when
-											test="contains(ancestor::c01/did/unittitle, 'Volume 1')">
-											<xsl:text>vol1</xsl:text>
-										</xsl:when>
-										<xsl:when
-											test="contains(ancestor::c01/did/unittitle, 'Volume 2')">
-											<xsl:text>vol2</xsl:text>
-										</xsl:when>
-									</xsl:choose>
-								</xsl:variable>
-								<a href="../archives/essex/ecca/{$volume}/small/{@id}.jpg"
-									class="jqueryLightbox" title="{$caption}">
-									<img src="../archives/essex/ecca/{$volume}/gifs/{@id}.gif"
-										title="{$caption}"/>
-								</a>
-								<br/>
-								<a href="../archives/essex/ecca/{$volume}/large/{@id}.jpg"
-									target="_blank">Enlarge<br/>Manuscript</a>
-							</xsl:when>
 							<xsl:when test="not($institution = 'MA135')">
 								<a href="../{$medium_url}/{@id}.jpg" class="jqueryLightbox"
 									title="{$caption}">
@@ -289,11 +276,9 @@
 							</xsl:otherwise>
 						</xsl:choose>
 						<br/>
-						<xsl:if test="not($institution = 'ecca')">
-							<xsl:if test="@label">(<xsl:value-of select="@label"/>)<br/></xsl:if>
-							<a href="../{$large_url}/{@id}.jpg" target="_blank"
-								>Enlarge<br/>Manuscript</a>
-						</xsl:if>
+						<xsl:if test="@label">(<xsl:value-of select="@label"/>)<br/></xsl:if>
+						<a href="../{$large_url}/{@id}.jpg" target="_blank"
+							>Enlarge<br/>Manuscript</a>
 					</div>
 				</xsl:for-each>
 			</div>
@@ -329,7 +314,7 @@
 						<xsl:if test="not(position()=last())">
 							<xsl:text>, </xsl:text>
 						</xsl:if>
-					</xsl:for-each>					
+					</xsl:for-each>
 					<br/>
 				</xsl:if>
 
