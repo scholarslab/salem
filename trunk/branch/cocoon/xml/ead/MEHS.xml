@@ -1,35 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead id="MEHS">
 	<eadheader>
-		<eadid>Maine Historical Society</eadid>
-	</eadheader>
+		<eadid>MEHS</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Salem Witchcraft Papers from the Maine Historical Society</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Virginia Library</publisher>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>EAD Finding Aid created May 2009 by Ethan Gruber.</creation>
+		</profiledesc>
+	</eadheader>	
 	<archdesc level="collection">
+		<did>
+			<unittitle>Salem Witchcraft Papers from the Maine Historical Society</unittitle>
+			<repository>Maine Historical Society</repository>
+		</did>
 		<dsc type="combined">
-			<c01 level="series">
+			<c level="series">
 				<did>
 					<unittitle>Collection 77</unittitle>
 				</did>
-				<c02 level="item">
+				<c level="item" id="d1e51">
 					<did>
 						<unitid>MEHS01</unitid>
 						<container type="box-folder">1-19</container>
 						<unittitle>
-							<persname>Thomas Burnam</persname>
+							<persname id="burtho">Thomas Burnam</persname>
 						</unittitle>
 						<daogrp>
 							<daoloc id="mehs_1"/>
 						</daogrp>
 					</did>
-				</c02></c01>
-			<c01 level="series">
+				</c></c>
+			<c level="series">
 				<did>
 					<unittitle>Fogg Collection 420</unittitle>
 				</did>
-				<c02 level="item">
+				<c level="item" id="d1e82">
 					<did>
 						<unitid>MEHS02</unitid>						
 						<unittitle>
-							<persname>Mary Watkins</persname>
+							<persname id="watmar">Mary Watkins</persname>
 						</unittitle>
 						<daogrp>
 							<daoloc id="mehs_2"/>
@@ -38,8 +53,8 @@
 					<bibliography>
 						<bibref>Volume 8</bibref>
 					</bibliography>
-				</c02>
-			</c01>
+				</c>
+			</c>
 		</dsc>
 	</archdesc>
 </ead>

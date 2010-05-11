@@ -1,498 +1,509 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead id="SCJ">
 	<eadheader>
-		<eadid>Massachusetts Archives</eadid>
+		<eadid>SCJ</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Massachusetts Archives: Superior Court of Judicature Witchcraft Trials
+					(January - May 1693), Cases Heard</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Virginia Library</publisher>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>EAD Finding Aid created May 2009 by Ethan Gruber.</creation>
+		</profiledesc>
 	</eadheader>
 	<archdesc level="collection">
+		<did>
+			<unittitle>Superior Court of Judicature Witchcraft Trials (January - May 1693), Cases
+				Heard</unittitle>
+			<repository>Massachusetts Archives</repository>
+		</did>
 		<dsc type="combined">
-			<c01 level="series">
+			<c level="item" id="d1e43">
 				<did>
-					<unittitle>Superior Court of Judicature Witchcraft Trials (January - May
-					1693), Cases Heard</unittitle>
+
+					<unittitle>
+						<persname id="jacreb">Rebecca Jacobs</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="01D" label="Dark"/>
+						<daoloc id="01L" label="Light"/>
+					</daogrp>
 				</did>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Rebecca Jacobs</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="01D" label="Dark"/>
-							<daoloc id="01L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 1</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Margaret Jacobs</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="02D" label="Dark"/>
-							<daoloc id="02L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 2</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Buckley</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="03D" label="Dark"/>
-							<daoloc id="03L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 2-3</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Witheridge</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="04"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 4-5</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Job Tookey</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="05"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 5</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Johanna Tyler</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="06"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 6</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Candy</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="07"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 7-8</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Marston</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="08"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 8</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Elizabeth Johnston, Sr.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="09"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 9-10</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Abigail Barker</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="10"/>
-							<daoloc id="11"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 10-11</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Tyler</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="12"/>
-							<daoloc id="13"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 12-14</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Wardwell</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="14"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 14-15</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Hawkes</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="15"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 15-16</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mercy Wardwell</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="16"/>
-							<daoloc id="17D" label="Dark"/>
-							<daoloc id="17L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 16-18</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Elizabeth Johnston, Jr.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="18"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 18-19</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Bridges, Sr.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="19"/>
-							<daoloc id="20"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 19-21</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Post</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="21"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 21-22</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Hannah Post</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="22D" label="Dark"/>
-							<daoloc id="22L" label="Light"/>
-							<daoloc id="23D" label="Dark"/>
-							<daoloc id="23L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 22-24</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Bridges</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="24D" label="Dark"/>
-							<daoloc id="24L" label="Light"/>
-							<daoloc id="25"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 24-25</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Osgood</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="26"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 26-27</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Lacey, Jr.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="27"/>
-							<daoloc id="28D" label="Dark"/>
-							<daoloc id="28L" label="Light"/>
-							<daoloc id="29"/>
-							<daoloc id="31"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 27-29</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Toothaker</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="32"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 32-33</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Taylor</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="33"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 33-34</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Cole (of Lynn)</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="34"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 34-35</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Lydia Dustin</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="35"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 35</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Sarah Dustin</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="36"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 36</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>John Alden</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="37D" label="Dark"/>
-							<daoloc id="37L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 52</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Watkins</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="38D" label="Dark"/>
-							<daoloc id="38L" label="Light"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 52-53</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Susannah Post</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="39"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 56-57</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Eunice Fry</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="40"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 57-58</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Bridges, J.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="41"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 58-59</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>Mary Barker</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="42"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 59-60</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						
-						<unittitle>
-							<persname>William Barker, Jr.</persname>
-						</unittitle>
-						<daogrp>
-							<daoloc id="43"/>
-							<daoloc id="44"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 60-61</bibref>
-					</bibliography>
-				</c02>
-			</c01>
+				<bibliography>
+					<bibref>Page 1</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e68">
+				<did>
+
+					<unittitle>
+						<persname id="">Margaret Jacobs</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="02D" label="Dark"/>
+						<daoloc id="02L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 2</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e93">
+				<did>
+
+					<unittitle>
+						<persname id="bucsar">Sarah Buckley</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="03D" label="Dark"/>
+						<daoloc id="03L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 2-3</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e118">
+				<did>
+
+					<unittitle>
+						<persname id="witmar">Mary Witheridge</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="04"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 4-5</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e141">
+				<did>
+
+					<unittitle>
+						<persname id="toojob">Job Tookey</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="05"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 5</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e165">
+				<did>
+
+					<unittitle>
+						<persname id="tyljoh">Johanna Tyler</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="06"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 6</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e188">
+				<did>
+
+					<unittitle>
+						<persname id="candy">Candy</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="07"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 7-8</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e211">
+				<did>
+
+					<unittitle>
+						<persname id="marmar1">Mary Marston</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="08"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 8</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e234">
+				<did>
+
+					<unittitle>
+						<persname id="">Elizabeth Johnston, Sr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="09"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 9-10</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e257">
+				<did>
+
+					<unittitle>
+						<persname id="barabi">Abigail Barker</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="10"/>
+						<daoloc id="11"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 10-11</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e282">
+				<did>
+
+					<unittitle>
+						<persname id="">Mary Tyler</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="12"/>
+						<daoloc id="13"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 12-14</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e308">
+				<did>
+
+					<unittitle>
+						<persname id="warsar1">Sarah Wardwell</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="14"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 14-15</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e331">
+				<did>
+
+					<unittitle>
+						<persname id="hawsar">Sarah Hawkes</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="15"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 15-16</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e354">
+				<did>
+
+					<unittitle>
+						<persname id="wrimarwarmer">Mercy Wardwell</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="16"/>
+						<daoloc id="17D" label="Dark"/>
+						<daoloc id="17L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 16-18</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e381">
+				<did>
+
+					<unittitle>
+						<persname id="">Elizabeth Johnston, Jr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="18"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 18-19</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e404">
+				<did>
+
+					<unittitle>
+						<persname id="brimar1">Mary Bridges Sr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="19"/>
+						<daoloc id="20"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 19-21</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e429">
+				<did>
+
+					<unittitle>
+						<persname id="posmar">Mary Post</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="21"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 21-22</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e453">
+				<did>
+
+					<unittitle>
+						<persname id="poshan">Hannah Post</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="22D" label="Dark"/>
+						<daoloc id="22L" label="Light"/>
+						<daoloc id="23D" label="Dark"/>
+						<daoloc id="23L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 22-24</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e482">
+				<did>
+
+					<unittitle>
+						<persname id="brisar">Sarah Bridges</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="24D" label="Dark"/>
+						<daoloc id="24L" label="Light"/>
+						<daoloc id="25"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 24-25</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e509">
+				<did>
+
+					<unittitle>
+						<persname id="osgmar">Mary Osgood</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="26"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 26-27</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e532">
+				<did>
+
+					<unittitle>
+						<persname id="lacmar2">Mary Lacey Jr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="27"/>
+						<daoloc id="28D" label="Dark"/>
+						<daoloc id="28L" label="Light"/>
+						<daoloc id="29"/>
+						<daoloc id="31"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 27-29</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e563">
+				<did>
+
+					<unittitle>
+						<persname id="toomar">Mary Toothaker</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="32"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 32-33</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e586">
+				<did>
+
+					<unittitle>
+						<persname id="taymar">Mary Taylor</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="33"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 33-34</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e610">
+				<did>
+
+					<unittitle>
+						<persname id="">Sarah Cole</persname> (of Lynn)
+					</unittitle>
+					<daogrp>
+						<daoloc id="34"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 34-35</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e633">
+				<did>
+
+					<unittitle>
+						<persname id="duslyd">Lydia Dustin</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="35"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 35</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e656">
+				<did>
+
+					<unittitle>
+						<persname id="dussar">Sarah Dustin</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="36"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 36</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e679">
+				<did>
+
+					<unittitle>
+						<persname id="aldjoh">John Alden</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="37D" label="Dark"/>
+						<daoloc id="37L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 52</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e704">
+				<did>
+
+					<unittitle>
+						<persname id="watmar">Mary Watkins</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="38D" label="Dark"/>
+						<daoloc id="38L" label="Light"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 52-53</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e729">
+				<did>
+
+					<unittitle>
+						<persname id="possus">Susannah Post</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="39"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 56-57</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e753">
+				<did>
+
+					<unittitle>
+						<persname id="fryeun">Eunice Fry</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="40"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 57-58</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e776">
+				<did>
+
+					<unittitle>
+						<persname id="brimar2">Mary Bridges Jr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="41"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 58-59</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e799">
+				<did>
+
+					<unittitle>
+						<persname id="barmar">Mary Barker</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="42"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 59-60</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e822">
+				<did>
+
+					<unittitle>
+						<persname id="barwil2">William Barker Jr.</persname>
+					</unittitle>
+					<daogrp>
+						<daoloc id="43"/>
+						<daoloc id="44"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 60-61</bibref>
+				</bibliography>
+			</c>
 		</dsc>
 	</archdesc>
 </ead>

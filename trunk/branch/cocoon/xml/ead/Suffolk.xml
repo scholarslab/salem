@@ -1,937 +1,1025 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead id="Suffolk">
 	<eadheader>
-		<eadid>Massachusetts Supreme Judicial Court Archives,
-		Boston</eadid>
+		<eadid>Suffolk</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Massachusetts Supreme Judicial Court Archives: Suffolk Files Collection
+					Volumes 31 &amp; 32</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Virginia Library</publisher>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>EAD Finding Aid created May 2009 by Ethan Gruber.</creation>
+		</profiledesc>
+	</eadheader>
+	<eadheader>
+		<eadid/>
 	</eadheader>
 	<archdesc level="collection">
+		<did>
+			<unittitle>Suffolk Files Collection Volumes 31 &amp; 32</unittitle>
+			<repository>Massachusetts Supreme Judicial Court Archives, Boston</repository>
+		</did>
 		<dsc type="combined">
-			<c01 level="series">
+			<c level="item" id="d1e48">
 				<did>
-					<unittitle>Suffolk Files Collection Volumes 31 &amp; 32</unittitle>
+					<unitdate/>
+					<unittitle><persname id="">Foster, Mary</persname> &amp; others v. <persname
+							id="">Rachel Clinton</persname></unittitle>
+					<materialspec label="Docket">2660</materialspec>
+					<daogrp>
+						<daoloc id="S001A"/>
+						<daoloc id="S001B"/>
+					</daogrp>
 				</did>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Mary &amp; others</persname> v. Rachel
-							Clinton</unittitle>
-						<materialspec label="Docket">2660</materialspec>
-						<daogrp>
-							<daoloc id="S001A"/>
-							<daoloc id="S001B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 140</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Boarman, Thomas</persname> v. Rachel Clinton</unittitle>
-						<materialspec label="Docket">2660</materialspec>
-						<daogrp>
-							<daoloc id="S002"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 140</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Mary</persname> v. Rachel Clinton</unittitle>
-						<materialspec label="Docket">2660</materialspec>
-						<daogrp>
-							<daoloc id="S003"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 140</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Baker, William</persname> v. Rachel Clinton</unittitle>
-						<materialspec label="Docket">2660</materialspec>
-						<daogrp>
-							<daoloc id="S004"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 140</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Putnam, Ann</persname> v. Thomas Farrer</unittitle>
-						<materialspec label="Docket">2667</materialspec>
-						<daogrp>
-							<daoloc id="S005A"/>
-							<daoloc id="S005B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 149</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Putnam, Ann Warren, Mary</persname> v. Elizabeth Hart</unittitle>
-						<materialspec label="Docket">2668</materialspec>
-						<daogrp>
-							<daoloc id="S006A"/>
-							<daoloc id="S006B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 31 Page 149</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Booth, Elizabeth</persname> v. Job Tookey</unittitle>
-						<materialspec label="Docket">2670</materialspec>
-						<daogrp>
-							<daoloc id="S007A"/>
-							<daoloc id="S007B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 2</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Sheldon, Susannah</persname> v. Job Tookey</unittitle>
-						<materialspec label="Docket">2670</materialspec>
-						<daogrp>
-							<daoloc id="S008A"/>
-							<daoloc id="S008B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 3</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Hannah Bromage</unittitle>
-						<materialspec label="Docket">2670</materialspec>
-						<daogrp>
-							<daoloc id="S009A"/>
-							<daoloc id="S009B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 3</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Booth, Elizabeth</persname> v. Margaret Prince</unittitle>
-						<materialspec label="Docket">2676</materialspec>
-						<daogrp>
-							<daoloc id="S010A"/>
-							<daoloc id="S010B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 7</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Walcott, Mary</persname> v. Sarah Cloyce</unittitle>
-						<materialspec label="Docket">2677a</materialspec>
-						<daogrp>
-							<daoloc id="S011A"/>
-							<daoloc id="S011B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 7</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Williams, Abigail</persname> v. Sarah Cloyce</unittitle>
-						<materialspec label="Docket">2677b</materialspec>
-						<daogrp>
-							<daoloc id="S012A"/>
-							<daoloc id="S012B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 8</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Towne, Rebecca</persname> v. Sarah Cloyce</unittitle>
-						<materialspec label="Docket">2677</materialspec>
-						<daogrp>
-							<daoloc id="S013A"/>
-							<daoloc id="S013B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 8</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination, Confession of Mary Barker</unittitle>
-						<materialspec label="Docket">2678</materialspec>
-						<daogrp>
-							<daoloc id="S014A"/>
-							<daoloc id="S014B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 10</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Rose</persname> v. Mary Barker</unittitle>
-						<materialspec label="Docket">2678</materialspec>
-						<daogrp>
-							<daoloc id="S015A"/>
-							<daoloc id="S015B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 9</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Martin, Abigail</persname> v. Mary Barker</unittitle>
-						<materialspec label="Docket">2678</materialspec>
-						<daogrp>
-							<daoloc id="S016A"/>
-							<daoloc id="S016B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 10</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warrant</persname> Esther Elwell, Abigail Rowe Rebecca
-							Dike</unittitle>
-						<materialspec label="Docket">2689a</materialspec>
-						<daogrp>
-							<daoloc id="S017A"/>
-							<daoloc id="S017B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 17</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Testimony</persname> James Stevens</unittitle>
-						<materialspec label="Docket">2689</materialspec>
-						<daogrp>
-							<daoloc id="S018"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 17</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Inquest</persname> Roger Toothaker</unittitle>
-						<materialspec label="Docket">2690</materialspec>
-						<daogrp>
-							<daoloc id="S019A"/>
-							<daoloc id="S019B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 18</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Recognizance</persname> Ann Sears</unittitle>
-						<materialspec label="Docket">2694</materialspec>
-						<daogrp>
-							<daoloc id="S020A"/>
-							<daoloc id="S020B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 20</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Russell, James</persname> v. Martha Sparks, Samuel
-							Hayman</unittitle>
-						<materialspec label="Docket">2696</materialspec>
-						<daogrp>
-							<daoloc id="S021A"/>
-							<daoloc id="S021B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 21</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Recognizance</persname> Bethia Carter</unittitle>
-						<materialspec label="Docket">2697</materialspec>
-						<daogrp>
-							<daoloc id="S022A"/>
-							<daoloc id="S022B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 22</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warrant</persname> Lydia Dustin, Sarah Dustin, Mary
-							Colson, Eliz. Colson. Sarah Cole</unittitle>
-						<materialspec label="Docket">2700</materialspec>
-						<daogrp>
-							<daoloc id="S023A"/>
-							<daoloc id="S023B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 23</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment of Sarah Bassett</unittitle>
-						<materialspec label="Docket">2701</materialspec>
-						<daogrp>
-							<daoloc id="S024A"/>
-							<daoloc id="S024B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 24</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Rose</persname> v. Henry Salter</unittitle>
-						<materialspec label="Docket">2702</materialspec>
-						<daogrp>
-							<daoloc id="S025A"/>
-							<daoloc id="S025B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 24</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Henry Salter</unittitle>
-						<materialspec label="Docket">2702</materialspec>
-						<daogrp>
-							<daoloc id="S026A"/>
-							<daoloc id="S026B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 24</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warren, Mary</persname> Indictment of Abigail Somes</unittitle>
-						<materialspec label="Docket">2703</materialspec>
-						<daogrp>
-							<daoloc id="S027A"/>
-							<daoloc id="S027B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 25</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warren, Mary</persname> v. Abigail Somes</unittitle>
-						<materialspec label="Docket">2703</materialspec>
-						<daogrp>
-							<daoloc id="S028"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 25</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Abigail Somes</unittitle>
-						<materialspec label="Docket">2703</materialspec>
-						<daogrp>
-							<daoloc id="S029A"/>
-							<daoloc id="S029B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 26</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warren, Mary</persname> Indictment of John Jackson, Jr</unittitle>
-						<materialspec label="Docket">2704</materialspec>
-						<daogrp>
-							<daoloc id="S030A"/>
-							<daoloc id="S030B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 26</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warren, Mary</persname> John Jackson, Jr</unittitle>
-						<materialspec label="Docket">2704</materialspec>
-						<daogrp>
-							<daoloc id="S031A"/>
-							<daoloc id="S031B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 27</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of John Jackson, Sr</unittitle>
-						<materialspec label="Docket">2704</materialspec>
-						<daogrp>
-							<daoloc id="S032"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 27</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment &amp; Confession of Susannah Post</unittitle>
-						<materialspec label="Docket">2705</materialspec>
-						<daogrp>
-							<daoloc id="S033A"/>
-							<daoloc id="S033B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 28</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Rose</persname> v. Susannah Post</unittitle>
-						<materialspec label="Docket">2705</materialspec>
-						<daogrp>
-							<daoloc id="S034A"/>
-							<daoloc id="S034B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 28</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Susannah Post</unittitle>
-						<materialspec label="Docket">2705</materialspec>
-						<daogrp>
-							<daoloc id="S035A"/>
-							<daoloc id="S035B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 28</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of William Proctor</unittitle>
-						<materialspec label="Docket">2706</materialspec>
-						<daogrp>
-							<daoloc id="S036A"/>
-							<daoloc id="S036B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 29</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Walcott, Mary</persname> Indictment of William Proctor</unittitle>
-						<materialspec label="Docket">2706</materialspec>
-						<daogrp>
-							<daoloc id="S037A"/>
-							<daoloc id="S037B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 29</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Booth, Alice</persname> Indictment of Rebecca Johnson</unittitle>
-						<materialspec label="Docket">2707</materialspec>
-						<daogrp>
-							<daoloc id="S038A"/>
-							<daoloc id="S038B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 30</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Rebecca Johnson</unittitle>
-						<materialspec label="Docket">2707</materialspec>
-						<daogrp>
-							<daoloc id="S039A"/>
-							<daoloc id="S039B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 30</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Warren, Mary</persname> Indictment of Martha Emerson</unittitle>
-						<materialspec label="Docket">2708</materialspec>
-						<daogrp>
-							<daoloc id="S040A"/>
-							<daoloc id="S040B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 31</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Martha Emerson</unittitle>
-						<materialspec label="Docket">2708</materialspec>
-						<daogrp>
-							<daoloc id="S041A"/>
-							<daoloc id="S041B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 32</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment of Mary Taylor</unittitle>
-						<materialspec label="Docket">2710</materialspec>
-						<daogrp>
-							<daoloc id="S042A"/>
-							<daoloc id="S042B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 43</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Parker, John Eaton, Josiah</persname> v. Mary Taylor</unittitle>
-						<materialspec label="Docket">2710</materialspec>
-						<daogrp>
-							<daoloc id="S043"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 43</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Mary Taylor</unittitle>
-						<materialspec label="Docket">2710</materialspec>
-						<daogrp>
-							<daoloc id="S044A"/>
-							<daoloc id="S044B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 43</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Browne, Mary</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S045A"/>
-							<daoloc id="S045B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 48</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Eaton, Mary</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S046A"/>
-							<daoloc id="S046B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 48</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Wellman, Elizabeth</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S047A"/>
-							<daoloc id="S047B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 48</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Browne, Mary</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S048A"/>
-							<daoloc id="S048B"/>
-							<daoloc id="S048C"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Wellman, Isaac</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S049A"/>
-							<daoloc id="S049B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Brown, John</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S050A"/>
-							<daoloc id="S050B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Wellman, Abraham</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S050A"/>
-							<daoloc id="S050B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Cole, John</persname> v. Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S051"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Sarah Cole</unittitle>
-						<materialspec label="Docket">2712</materialspec>
-						<daogrp>
-							<daoloc id="S052A"/>
-							<daoloc id="S052B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 49</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment of Mary Toothaker</unittitle>
-						<materialspec label="Docket">2713</materialspec>
-						<daogrp>
-							<daoloc id="S053A"/>
-							<daoloc id="S053B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 50</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Mary Toothaker</unittitle>
-						<materialspec label="Docket">2713</materialspec>
-						<daogrp>
-							<daoloc id="S054A"/>
-							<daoloc id="S054B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 50</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Marshall, Mary</persname> Indictment of Jane Lilly</unittitle>
-						<materialspec label="Docket">2714</materialspec>
-						<daogrp>
-							<daoloc id="S055A"/>
-							<daoloc id="S055B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 52</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Recognizance of Jane Lilly</unittitle>
-						<materialspec label="Docket">2714</materialspec>
-						<daogrp>
-							<daoloc id="S056A"/>
-							<daoloc id="S056B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 52</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Jane Lilly</unittitle>
-						<materialspec label="Docket">2714</materialspec>
-						<daogrp>
-							<daoloc id="S057A"/>
-							<daoloc id="S057B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 52</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Foster, Rose</persname> Indictment of Mary Bridges</unittitle>
-						<materialspec label="Docket">2729</materialspec>
-						<daogrp>
-							<daoloc id="S058A"/>
-							<daoloc id="S058B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 72</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Confession of mary Bridges</unittitle>
-						<materialspec label="Docket">2729</materialspec>
-						<daogrp>
-							<daoloc id="S059A"/>
-							<daoloc id="S059B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 72</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of Mary Bridges</unittitle>
-						<materialspec label="Docket">2729</materialspec>
-						<daogrp>
-							<daoloc id="S060A"/>
-							<daoloc id="S060B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 73</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment of Tituba</unittitle>
-						<materialspec label="Docket">2760</materialspec>
-						<daogrp>
-							<daoloc id="S061A"/>
-							<daoloc id="S061B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 102</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Indictment of William Barker, Jr</unittitle>
-						<materialspec label="Docket">2761</materialspec>
-						<daogrp>
-							<daoloc id="S062A"/>
-							<daoloc id="S062B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 102</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle>Examination of William Barker, Jr</unittitle>
-						<materialspec label="Docket">2761</materialspec>
-						<daogrp>
-							<daoloc id="S063A"/>
-							<daoloc id="S063B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 103</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Sprague, Martha</persname> Indictment of William
-							Barker, Jr</unittitle>
-						<materialspec label="Docket">2761</materialspec>
-						<daogrp>
-							<daoloc id="S064A"/>
-							<daoloc id="S064B"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 32 Page 103</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitdate/>
-						<unittitle><persname>Coleson, Elizabeth</persname> Report of Wm Arnold</unittitle>
-						<materialspec label="Docket">162281</materialspec>
-						<daogrp>
-							<daoloc id="S065"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Volume 1212 Page 82</bibref>
-					</bibliography>
-				</c02>
-			</c01>
+				<bibliography>
+					<bibref>Volume 31 Page 140</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e79">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="boatho">Boarman, Thomas</persname> v. <persname id=""
+							>Rachel Clinton</persname></unittitle>
+					<materialspec label="Docket">2660</materialspec>
+					<daogrp>
+						<daoloc id="S002"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 31 Page 140</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e108">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Foster, Mary</persname> v. <persname id="">Rachel
+							Clinton</persname></unittitle>
+					<materialspec label="Docket">2660</materialspec>
+					<daogrp>
+						<daoloc id="S003"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 31 Page 140</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e137">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="bakwil">Baker, William</persname> v. <persname id=""
+							>Rachel Clinton</persname></unittitle>
+					<materialspec label="Docket">2660</materialspec>
+					<daogrp>
+						<daoloc id="S004"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 31 Page 140</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e166">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Putnam, Ann</persname> v. <persname id="fartho"
+							>Thomas Farrer</persname></unittitle>
+					<materialspec label="Docket">2667</materialspec>
+					<daogrp>
+						<daoloc id="S005A"/>
+						<daoloc id="S005B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 31 Page 149</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e198">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Putnam, Ann</persname>
+						<persname id="warmar">Warren, Mary</persname> v. <persname id="hareli"
+							>Elizabeth Hart</persname></unittitle>
+					<materialspec label="Docket">2668</materialspec>
+					<daogrp>
+						<daoloc id="S006A"/>
+						<daoloc id="S006B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 31 Page 149</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e232">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="booeli">Booth, Elizabeth</persname> v. <persname
+							id="toojob">Job Tookey</persname></unittitle>
+					<materialspec label="Docket">2670</materialspec>
+					<daogrp>
+						<daoloc id="S007A"/>
+						<daoloc id="S007B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 2</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e263">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="shesus">Sheldon, Susannah</persname> v. <persname
+							id="toojob">Job Tookey</persname></unittitle>
+					<materialspec label="Docket">2670</materialspec>
+					<daogrp>
+						<daoloc id="S008A"/>
+						<daoloc id="S008B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 3</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e294">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="brohan1">Hannah
+						Bromage</persname></unittitle>
+					<materialspec label="Docket">2670</materialspec>
+					<daogrp>
+						<daoloc id="S009A"/>
+						<daoloc id="S009B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 3</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e323">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="booeli">Booth, Elizabeth</persname> v. <persname
+							id="primar">Margaret Prince</persname></unittitle>
+					<materialspec label="Docket">2676</materialspec>
+					<daogrp>
+						<daoloc id="S010A"/>
+						<daoloc id="S010B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 7</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e354">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="walmar">Walcott, Mary</persname> v. <persname
+							id="closar">Sarah Cloyce</persname></unittitle>
+					<materialspec label="Docket">2677a</materialspec>
+					<daogrp>
+						<daoloc id="S011A"/>
+						<daoloc id="S011B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 7</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e386">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="wilabi">Williams, Abigail</persname> v. <persname
+							id="closar">Sarah Cloyce</persname></unittitle>
+					<materialspec label="Docket">2677b</materialspec>
+					<daogrp>
+						<daoloc id="S012A"/>
+						<daoloc id="S012B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 8</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e417">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="towreb">Towne, Rebecca</persname> v. <persname
+							id="closar">Sarah Cloyce</persname></unittitle>
+					<materialspec label="Docket">2677</materialspec>
+					<daogrp>
+						<daoloc id="S013A"/>
+						<daoloc id="S013B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 8</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e448">
+				<did>
+					<unitdate/>
+					<unittitle>Examination, Confession of <persname id="barmar">Mary
+							Barker</persname></unittitle>
+					<materialspec label="Docket">2678</materialspec>
+					<daogrp>
+						<daoloc id="S014A"/>
+						<daoloc id="S014B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 10</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e477">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="fosros">Foster, Rose</persname> v. <persname
+							id="barmar">Mary Barker</persname></unittitle>
+					<materialspec label="Docket">2678</materialspec>
+					<daogrp>
+						<daoloc id="S015A"/>
+						<daoloc id="S015B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 9</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e508">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="marabi">Martin, Abigail</persname> v. <persname
+							id="barmar">Mary Barker</persname></unittitle>
+					<materialspec label="Docket">2678</materialspec>
+					<daogrp>
+						<daoloc id="S016A"/>
+						<daoloc id="S016B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 10</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e539">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Warrant</persname>
+						<persname id="elwest">Esther Elwell</persname>, <persname id="">Abigail
+							Rowe</persname>
+						<persname id="dikreb">Rebecca Dike</persname></unittitle>
+					<materialspec label="Docket">2689a</materialspec>
+					<daogrp>
+						<daoloc id="S017A"/>
+						<daoloc id="S017B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 17</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e577">
+				<did>
+					<unitdate/>
+					<unittitle>
+						<persname id="">Testimony</persname>
+						<persname id="stejam">James Stevens</persname>
+					</unittitle>
+					<materialspec label="Docket">2689</materialspec>
+					<daogrp>
+						<daoloc id="S018"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 17</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e606">
+				<did>
+					<unitdate/>
+					<unittitle>
+						<persname id="">Inquest</persname>
+						<persname id="toorog">Roger Toothaker</persname>
+					</unittitle>
+					<materialspec label="Docket">2690</materialspec>
+					<daogrp>
+						<daoloc id="S019A"/>
+						<daoloc id="S019B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 18</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e637">
+				<did>
+					<unitdate/>
+					<unittitle>
+						<persname id="">Recognizance</persname>
+						<persname id="seaann">Ann Sears</persname>
+					</unittitle>
+					<materialspec label="Docket">2694</materialspec>
+					<daogrp>
+						<daoloc id="S020A"/>
+						<daoloc id="S020B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 20</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e668">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="rusjam">Russell, James</persname> v. <persname
+							id="spamar">Martha Sparks</persname>, <persname id="haysam">Samuel
+							Hayman</persname></unittitle>
+					<materialspec label="Docket">2696</materialspec>
+					<daogrp>
+						<daoloc id="S021A"/>
+						<daoloc id="S021B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 21</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e702">
+				<did>
+					<unitdate/>
+					<unittitle>
+						<persname id="">Recognizance</persname>
+						<persname id="">Bethia Carter</persname>
+					</unittitle>
+					<materialspec label="Docket">2697</materialspec>
+					<daogrp>
+						<daoloc id="S022A"/>
+						<daoloc id="S022B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 22</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e733">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Warrant</persname>
+						<persname id="duslyd">Lydia Dustin</persname>, <persname id="dussar">Sarah
+							Dustin</persname>, <persname id="colmar">Mary Colson</persname>,
+							<persname id="coleli">Elizabeth Colson</persname>, <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2700</materialspec>
+					<daogrp>
+						<daoloc id="S023A"/>
+						<daoloc id="S023B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 23</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e777">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment of <persname id="bassar">Sarah
+						Bassett</persname></unittitle>
+					<materialspec label="Docket">2701</materialspec>
+					<daogrp>
+						<daoloc id="S024A"/>
+						<daoloc id="S024B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 24</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e806">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="fosros">Foster, Rose</persname> v. <persname
+							id="salhen">Henry Salter</persname></unittitle>
+					<materialspec label="Docket">2702</materialspec>
+					<daogrp>
+						<daoloc id="S025A"/>
+						<daoloc id="S025B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 24</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e837">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="salhen">Henry
+						Salter</persname></unittitle>
+					<materialspec label="Docket">2702</materialspec>
+					<daogrp>
+						<daoloc id="S026A"/>
+						<daoloc id="S026B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 24</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e866">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="warmar">Warren, Mary</persname> Indictment of <persname
+							id="somabi">Abigail Somes</persname></unittitle>
+					<materialspec label="Docket">2703</materialspec>
+					<daogrp>
+						<daoloc id="S027A"/>
+						<daoloc id="S027B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 25</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e897">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="warmar">Warren, Mary</persname> v. <persname
+							id="somabi">Abigail Somes</persname></unittitle>
+					<materialspec label="Docket">2703</materialspec>
+					<daogrp>
+						<daoloc id="S028"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 25</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e926">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="somabi">Abigail
+						Somes</persname></unittitle>
+					<materialspec label="Docket">2703</materialspec>
+					<daogrp>
+						<daoloc id="S029A"/>
+						<daoloc id="S029B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 26</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e956">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="warmar">Warren, Mary</persname> Indictment of <persname
+							id="jacjoh2">John Jackson Jr.</persname></unittitle>
+					<materialspec label="Docket">2704</materialspec>
+					<daogrp>
+						<daoloc id="S030A"/>
+						<daoloc id="S030B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 26</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e987">
+				<did>
+					<unitdate/>
+					<unittitle>
+						<persname id="warmar">Warren, Mary</persname>
+						<persname id="jacjoh2">John Jackson Jr.</persname>
+					</unittitle>
+					<materialspec label="Docket">2704</materialspec>
+					<daogrp>
+						<daoloc id="S031A"/>
+						<daoloc id="S031B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 27</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1018">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="jacjoh1">John Jackson
+						Sr.</persname></unittitle>
+					<materialspec label="Docket">2704</materialspec>
+					<daogrp>
+						<daoloc id="S032"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 27</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1045">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment &amp; Confession of <persname id="possus">Susannah
+							Post</persname></unittitle>
+					<materialspec label="Docket">2705</materialspec>
+					<daogrp>
+						<daoloc id="S033A"/>
+						<daoloc id="S033B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 28</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1074">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="fosros">Foster, Rose</persname> v. <persname
+							id="possus">Susannah Post</persname></unittitle>
+					<materialspec label="Docket">2705</materialspec>
+					<daogrp>
+						<daoloc id="S034A"/>
+						<daoloc id="S034B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 28</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1105">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="possus">Susannah
+						Post</persname></unittitle>
+					<materialspec label="Docket">2705</materialspec>
+					<daogrp>
+						<daoloc id="S035A"/>
+						<daoloc id="S035B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 28</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1135">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="prowil">William
+						Proctor</persname></unittitle>
+					<materialspec label="Docket">2706</materialspec>
+					<daogrp>
+						<daoloc id="S036A"/>
+						<daoloc id="S036B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 29</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1164">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="walmar">Walcott, Mary</persname> Indictment of
+							<persname id="prowil">William Proctor</persname></unittitle>
+					<materialspec label="Docket">2706</materialspec>
+					<daogrp>
+						<daoloc id="S037A"/>
+						<daoloc id="S037B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 29</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1195">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="booali">Booth, Alice</persname> Indictment of <persname
+							id="johreb">Rebecca Johnson</persname></unittitle>
+					<materialspec label="Docket">2707</materialspec>
+					<daogrp>
+						<daoloc id="S038A"/>
+						<daoloc id="S038B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 30</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1226">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="johreb">Rebecca
+						Johnson</persname></unittitle>
+					<materialspec label="Docket">2707</materialspec>
+					<daogrp>
+						<daoloc id="S039A"/>
+						<daoloc id="S039B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 30</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1255">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="warmar">Warren, Mary</persname> Indictment of <persname
+							id="ememar">Martha Emerson</persname></unittitle>
+					<materialspec label="Docket">2708</materialspec>
+					<daogrp>
+						<daoloc id="S040A"/>
+						<daoloc id="S040B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 31</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1286">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="ememar">Martha
+						Emerson</persname></unittitle>
+					<materialspec label="Docket">2708</materialspec>
+					<daogrp>
+						<daoloc id="S041A"/>
+						<daoloc id="S041B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 32</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1316">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment of <persname id="taymar">Mary
+						Taylor</persname></unittitle>
+					<materialspec label="Docket">2710</materialspec>
+					<daogrp>
+						<daoloc id="S042A"/>
+						<daoloc id="S042B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 43</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1345">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="parjoh">Parker, John</persname>
+						<persname id="eatjos2">Eaton, Josiah</persname> v. <persname id="taymar"
+							>Mary Taylor</persname></unittitle>
+					<materialspec label="Docket">2710</materialspec>
+					<daogrp>
+						<daoloc id="S043"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 43</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1377">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="taymar">Mary
+						Taylor</persname></unittitle>
+					<materialspec label="Docket">2710</materialspec>
+					<daogrp>
+						<daoloc id="S044A"/>
+						<daoloc id="S044B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 43</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1406">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Browne, Mary</persname> v. <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S045A"/>
+						<daoloc id="S045B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 48</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1437">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="eatmar1">Eaton, Mary</persname> v. <persname id=""
+							>Sarah Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S046A"/>
+						<daoloc id="S046B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 48</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1468">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="weleli">Wellman, Elizabeth</persname> v. <persname
+							id="">Sarah Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S047A"/>
+						<daoloc id="S047B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 48</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1500">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Browne, Mary</persname> v. <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S048A"/>
+						<daoloc id="S048B"/>
+						<daoloc id="S048C"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1533">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="welisa">Wellman, Isaac</persname> v. <persname id=""
+							>Sarah Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S049A"/>
+						<daoloc id="S049B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1564">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="brojoh">Brown, John</persname> v. <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S050A"/>
+						<daoloc id="S050B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1595">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Wellman, Abraham</persname> v. <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S050A"/>
+						<daoloc id="S050B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1626">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="coljoh">Cole, John</persname> v. <persname id="">Sarah
+							Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S051"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1655">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="">Sarah Cole</persname></unittitle>
+					<materialspec label="Docket">2712</materialspec>
+					<daogrp>
+						<daoloc id="S052A"/>
+						<daoloc id="S052B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 49</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1685">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment of <persname id="toomar">Mary
+						Toothaker</persname></unittitle>
+					<materialspec label="Docket">2713</materialspec>
+					<daogrp>
+						<daoloc id="S053A"/>
+						<daoloc id="S053B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 50</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1714">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="toomar">Mary
+						Toothaker</persname></unittitle>
+					<materialspec label="Docket">2713</materialspec>
+					<daogrp>
+						<daoloc id="S054A"/>
+						<daoloc id="S054B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 50</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1743">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="marmay">Marshall, Mary</persname> Indictment of
+							<persname id="liljan">Jane Lilly</persname></unittitle>
+					<materialspec label="Docket">2714</materialspec>
+					<daogrp>
+						<daoloc id="S055A"/>
+						<daoloc id="S055B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 52</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1774">
+				<did>
+					<unitdate/>
+					<unittitle>Recognizance of <persname id="liljan">Jane
+						Lilly</persname></unittitle>
+					<materialspec label="Docket">2714</materialspec>
+					<daogrp>
+						<daoloc id="S056A"/>
+						<daoloc id="S056B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 52</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1803">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="liljan">Jane
+						Lilly</persname></unittitle>
+					<materialspec label="Docket">2714</materialspec>
+					<daogrp>
+						<daoloc id="S057A"/>
+						<daoloc id="S057B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 52</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1832">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="fosros">Foster, Rose</persname> Indictment of <persname
+							id="">Mary Bridges</persname></unittitle>
+					<materialspec label="Docket">2729</materialspec>
+					<daogrp>
+						<daoloc id="S058A"/>
+						<daoloc id="S058B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 72</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1864">
+				<did>
+					<unitdate/>
+					<unittitle>Confession of mary Bridges</unittitle>
+					<materialspec label="Docket">2729</materialspec>
+					<daogrp>
+						<daoloc id="S059A"/>
+						<daoloc id="S059B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 72</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1891">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="">Mary Bridges</persname></unittitle>
+					<materialspec label="Docket">2729</materialspec>
+					<daogrp>
+						<daoloc id="S060A"/>
+						<daoloc id="S060B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 73</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1920">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment of Tituba</unittitle>
+					<materialspec label="Docket">2760</materialspec>
+					<daogrp>
+						<daoloc id="S061A"/>
+						<daoloc id="S061B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 102</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1947">
+				<did>
+					<unitdate/>
+					<unittitle>Indictment of <persname id="barwil2">William Barker
+						Jr.</persname></unittitle>
+					<materialspec label="Docket">2761</materialspec>
+					<daogrp>
+						<daoloc id="S062A"/>
+						<daoloc id="S062B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 102</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e1976">
+				<did>
+					<unitdate/>
+					<unittitle>Examination of <persname id="barwil2">William Barker
+						Jr.</persname></unittitle>
+					<materialspec label="Docket">2761</materialspec>
+					<daogrp>
+						<daoloc id="S063A"/>
+						<daoloc id="S063B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 103</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e2005">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="sprmar">Sprague, Martha</persname> Indictment of
+							<persname id="barwil2">William Barker Jr.</persname></unittitle>
+					<materialspec label="Docket">2761</materialspec>
+					<daogrp>
+						<daoloc id="S064A"/>
+						<daoloc id="S064B"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 32 Page 103</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e2037">
+				<did>
+					<unitdate/>
+					<unittitle><persname id="">Coleson, Elizabeth</persname> Report of <persname
+							id="arnwil">William Arnold</persname></unittitle>
+					<materialspec label="Docket">162281</materialspec>
+					<daogrp>
+						<daoloc id="S065"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Volume 1212 Page 82</bibref>
+				</bibliography>
+			</c>
 		</dsc>
 	</archdesc>
 </ead>

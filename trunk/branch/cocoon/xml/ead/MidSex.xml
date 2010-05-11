@@ -1,55 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ead id="MidSex">
 	<eadheader>
-		<eadid>Judicial Archives Middlesex County Court</eadid>
+		<eadid>MidSex</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Judicial Archives Middlesex County Court Folio Collection
+					1698-164-4</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Virginia Library</publisher>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>EAD Finding Aid created May 2009 by Ethan Gruber.</creation>
+		</profiledesc>
 	</eadheader>
 	<archdesc level="collection">
+		<did>
+			<unittitle>Judicial Archives Middlesex County Court Folio Collection
+				1698-164-4</unittitle>
+			<repository>Judicial Archives Middlesex County Court</repository>
+		</did>
 		<dsc type="combined">
-			<c01 level="series">
+			<c level="item" id="d1e43">
 				<did>
-					<unittitle>Folio Collection 1698-164-4</unittitle>
+					<unitid>M01A</unitid>
+					<unittitle><persname id="cheisr">Israel Cheever</persname>'s Account</unittitle>
+					<daogrp>
+						<daoloc id="m01a"/>
+						<daoloc id="m01an" label="Notation"/>
+					</daogrp>
 				</did>
-				<c02 level="item">
-					<did>
-						<unitid>M01A</unitid>
-						<unittitle>Israel Cheever's Account</unittitle>
-						<daogrp>
-							<daoloc id="m01a"/>
-							<daoloc id="m01an" label="Notation"/>
-						</daogrp>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>M02</unitid>
-						<unittitle>The Account of the Sherrif of Middlesex County</unittitle>
-						<daogrp>
-							<daoloc id="m02"/>
-							<daoloc id="m04n" label="Notation"/>
-						</daogrp>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>M03</unitid>
-						<unittitle>Response of the General Court to Timothy Phillips' Petition</unittitle>
-						<daogrp>
-							<daoloc id="m03"/>
-							<daoloc id="m03n" label="Notation"/>
-						</daogrp>
-					</did>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>M04</unitid>
-						<unittitle>An Account of Charges of Timothy Phillips</unittitle>
-						<daogrp>
-							<daoloc id="m04"/>
-							<daoloc id="m04n" label="Notation"/>
-						</daogrp>
-					</did>
-				</c02>
-			</c01>
+			</c>
+			<c level="item" id="d1e64">
+				<did>
+					<unitid>M02</unitid>
+					<unittitle>The Account of the Sherrif of Middlesex County</unittitle>
+					<daogrp>
+						<daoloc id="m02"/>
+						<daoloc id="m04n" label="Notation"/>
+					</daogrp>
+				</did>
+			</c>
+			<c level="item" id="d1e83">
+				<did>
+					<unitid>M03</unitid>
+					<unittitle>Response of the General Court to <persname id="phitim">Timothy Phillips</persname>'
+						Petition</unittitle>
+					<daogrp>
+						<daoloc id="m03"/>
+						<daoloc id="m03n" label="Notation"/>
+					</daogrp>
+				</did>
+			</c>
+			<c level="item" id="d1e105">
+				<did>
+					<unitid>M04</unitid>
+					<unittitle>An Account of Charges of <persname id="phitim">Timothy Phillips</persname></unittitle>
+					<daogrp>
+						<daoloc id="m04"/>
+						<daoloc id="m04n" label="Notation"/>
+					</daogrp>
+				</did>
+			</c>
 		</dsc>
 	</archdesc>
 </ead>

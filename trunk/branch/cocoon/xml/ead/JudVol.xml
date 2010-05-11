@@ -1,87 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ead id="JudVol">
+<?xml version="1.0" encoding="UTF-8"?><ead id="JudVol">
 	<eadheader>
-		<eadid>Massachusetts Archives</eadid>
-	</eadheader>
+		<eadid>JudVol</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Massachusetts Archives Judicial 1683 - 1724 Volume 40</titleproper>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Virginia Library</publisher>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>EAD Finding Aid created May 2009 by Ethan Gruber.</creation>
+		</profiledesc>
+	</eadheader>	
 	<archdesc level="collection">
+		<did>
+			<unittitle>Judicial 1683 - 1724 Volume 40</unittitle>
+			<repository>Massachusetts Archives</repository>
+		</did>
 		<dsc type="combined">
-			<c01 level="series">
+			<c level="item" id="d1e43">
 				<did>
-					<unittitle>Judicial 1683 - 1724 Volume 40</unittitle>
+					<unitid>J01</unitid>
+					<unittitle><persname id="arnjoh">John Arnold</persname> Jail Account</unittitle>
+					<daogrp>
+						<daoloc id="J01"/>
+					</daogrp>
 				</did>
-				<c02 level="item">
-					<did>
-						<unitid>J01</unitid>
-						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
-						<daogrp>
-							<daoloc id="J01"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 621</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>J02</unitid>
-						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
-						<daogrp>
-							<daoloc id="J02"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 622</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>J03</unitid>
-						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
-						<daogrp>
-							<daoloc id="J03"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 623</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>J04</unitid>
-						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
-						<daogrp>
-							<daoloc id="J04"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 624</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>J05</unitid>
-						<unittitle><persname>John Arnold</persname> Jail Account</unittitle>
-						<daogrp>
-							<daoloc id="J05"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 625</bibref>
-					</bibliography>
-				</c02>
-				<c02 level="item">
-					<did>
-						<unitid>J06</unitid>
-						<unittitle><persname>William Phips</persname> Appoint A. Checkley</unittitle>
-						<daogrp>
-							<daoloc id="J06"/>
-						</daogrp>
-					</did>
-					<bibliography>
-						<bibref>Page 264</bibref>
-					</bibliography>
-				</c02>
-			</c01>
+				<bibliography>
+					<bibref>Page 621</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e68">
+				<did>
+					<unitid>J02</unitid>
+					<unittitle><persname id="arnjoh">John Arnold</persname> Jail Account</unittitle>
+					<daogrp>
+						<daoloc id="J02"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 622</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e93">
+				<did>
+					<unitid>J03</unitid>
+					<unittitle><persname id="arnjoh">John Arnold</persname> Jail Account</unittitle>
+					<daogrp>
+						<daoloc id="J03"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 623</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e118">
+				<did>
+					<unitid>J04</unitid>
+					<unittitle><persname id="arnjoh">John Arnold</persname> Jail Account</unittitle>
+					<daogrp>
+						<daoloc id="J04"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 624</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e143">
+				<did>
+					<unitid>J05</unitid>
+					<unittitle><persname id="arnjoh">John Arnold</persname> Jail Account</unittitle>
+					<daogrp>
+						<daoloc id="J05"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 625</bibref>
+				</bibliography>
+			</c>
+			<c level="item" id="d1e169">
+				<did>
+					<unitid>J06</unitid>
+					<unittitle><persname id="">William Phips</persname> Appoint A. Checkley</unittitle>
+					<daogrp>
+						<daoloc id="J06"/>
+					</daogrp>
+				</did>
+				<bibliography>
+					<bibref>Page 264</bibref>
+				</bibliography>
+			</c>
 		</dsc>
 	</archdesc>
 </ead>
