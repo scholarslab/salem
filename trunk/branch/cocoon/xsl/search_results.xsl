@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xsl:output method="xhtml" encoding="UTF-8"/>
 
 	<xsl:param name="q"/>
-	<xsl:param name="rows"/>
-	<xsl:param name="start"/>
+	<xsl:param name="rows" as="xs:integer"/>
+	<xsl:param name="start" as="xs:integer"/>
 	<xsl:param name="mode"/>
 	<xsl:param name="name"/>
-	<xsl:param name="numFound" select="//result[@name='response']/@numFound"/>
+	<xsl:param name="numFound" select="//result[@name='response']/@numFound" as="xs:integer"/>
 	<xsl:param name="expand"/>
 	<xsl:param name="case_title">
 		<xsl:if test="contains($q, 'case_title:')">
 			<xsl:value-of
-				select="substring-before(substring-after($q, 'case_title:&#x0022;'), '&#x0022;')"
-			/>
+				select="substring-before(substring-after($q, 'case_title:&#x0022;'), '&#x0022;')"/>
 		</xsl:if>
 	</xsl:param>
 	<xsl:param name="query">
 		<xsl:choose>
-			<xsl:when test="(contains(substring-before($q, 'date:'), 'AND') or contains(substring-before($q, 'case_title:'), 'AND')) and not(substring($q, 1, 5) = 'date:')">
+			<xsl:when
+				test="(contains(substring-before($q, 'date:'), 'AND') or contains(substring-before($q, 'case_title:'), 'AND')) and not(substring($q, 1, 5) = 'date:')">
 				<xsl:value-of select="substring-before($q, ' AND')"/>
 			</xsl:when>
 			<xsl:when test="contains($q, 'name_text')"/>
@@ -33,8 +34,6 @@
 			<xsl:value-of select="substring-after($q, ':')"/>
 		</xsl:if>
 	</xsl:param>
-	
-
 
 	<xsl:template match="/">
 		<xsl:choose>
@@ -43,7 +42,7 @@
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:choose>
-					<xsl:when test="$numFound = '0'">
+					<xsl:when test="$numFound = 0">
 						<p>No results found. Please broaden query to find applicable terms and/or
 							dates.</p>
 					</xsl:when>
@@ -85,29 +84,178 @@
 		<xsl:variable name="id" select="str[@name='id']"/>
 
 		<div class="doc">
-			<!-- old -->
-			<!-- <a
-				href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={str[@name='chapter_id']}#{$id}">
-				<xsl:value-of select="str[@name='title']"/>
-				</a>-->
 			<xsl:choose>
-				<xsl:when test="string($nameid)">
-					<a
-						href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
-						<xsl:value-of select="str[@name='title']"/>
-					</a>
+				<xsl:when test="str[@name='source'] = 'tei'">
+					<xsl:choose>
+						<xsl:when test="string($nameid)">
+							<xsl:text>Transcript: </xsl:text>
+							<a
+								href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
+								<xsl:choose>
+									<xsl:when test="string(str[@name='title'])">
+										<xsl:value-of select="str[@name='title']"/>
+									</xsl:when>
+									<xsl:otherwise>[No title]</xsl:otherwise>
+								</xsl:choose>
+							</a>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:text>Transcript: </xsl:text>
+							<a
+								href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
+								<xsl:choose>
+									<xsl:when test="string(str[@name='title'])">
+										<xsl:value-of select="str[@name='title']"/>
+									</xsl:when>
+									<xsl:otherwise>[No title]</xsl:otherwise>
+								</xsl:choose>
+							</a>
+						</xsl:otherwise>
+					</xsl:choose>
+					<br/>
+					<span class="case">Case: <xsl:value-of select="str[@name='case_title']"/></span>
+					<br/>
+					<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 				</xsl:when>
-				<xsl:otherwise>
-					<a
-						href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
-						<xsl:value-of select="str[@name='title']"/>
+				<xsl:when test="str[@name='source'] = 'ead' and string($nameid)">
+					<xsl:variable name="thumb_url">
+						<xsl:choose>
+							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+								<xsl:text>archives/BPL/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+								<xsl:text>archives/MassHist/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+								<xsl:text>archives/Suffolk/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+								<xsl:text>archives/MA135/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+								<xsl:text>archives/JudVol/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+								<xsl:text>archives/MidSex/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+								<xsl:text>archives/SCJ/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+								<xsl:text>archives/MEHS/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'eia'">
+								<xsl:text>archives/essex/eia/gifs</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+								<xsl:text>archives/ecca/thumb</xsl:text>
+							</xsl:when>
+						</xsl:choose>
+					</xsl:variable>
+
+					<xsl:variable name="medium_url">
+						<xsl:choose>
+							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+								<xsl:text>archives/BPL/SMALL</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+								<xsl:text>archives/MassHist/medium</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+								<xsl:text>archives/Suffolk/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+								<xsl:text>archives/MA135/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+								<xsl:text>archives/JudVol/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+								<xsl:text>archives/MidSex/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+								<xsl:text>archives/SCJ/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+								<xsl:text>archives/MEHS/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'eia'">
+								<xsl:text>archives/essex/eia/small</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+								<xsl:text>archives/ecca/medium</xsl:text>
+							</xsl:when>
+						</xsl:choose>
+					</xsl:variable>
+
+					<xsl:variable name="large_url">
+						<xsl:choose>
+							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+								<xsl:text>archives/BPL/LARGE</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+								<xsl:text>archives/MassHist/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+								<xsl:text>archives/Suffolk/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+								<xsl:text>archives/MA135/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+								<xsl:text>archives/JudVol/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+								<xsl:text>archives/MidSex/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+								<xsl:text>archives/SCJ/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+								<xsl:text>archives/MEHS/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'eia'">
+								<xsl:text>archives/essex/eia/large</xsl:text>
+							</xsl:when>
+							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+								<xsl:text>archives/ecca/large</xsl:text>
+							</xsl:when>
+						</xsl:choose>
+					</xsl:variable>
+
+					<a href="../archives/{str[@name='doc_id']}#{$id}">
+						<xsl:choose>
+							<xsl:when test="string(str[@name='title'])">
+								<xsl:value-of select="str[@name='title']"/>
+							</xsl:when>
+							<xsl:otherwise>[No title]</xsl:otherwise>
+						</xsl:choose>
 					</a>
-				</xsl:otherwise>
+					<div style="display:table;">
+						<xsl:for-each select="arr[@name='thumb']/str">
+							<div class="thumb">
+								<xsl:choose>
+									<xsl:when test="not(str[@name='doc_id'] = 'MA135')">
+										<a href="../{$medium_url}/{.}.jpg" class="jqueryLightbox"
+											title="{str[@name='title']}">
+											<img src="../{$thumb_url}/{.}.gif"
+												title="{str[@name='title']}"/>
+										</a>
+									</xsl:when>
+									<xsl:otherwise>
+										<img src="../{$thumb_url}/{.}.gif"
+											title="{str[@name='title']}"
+											style="max-height:60px;max-width:60px;"/>
+									</xsl:otherwise>
+								</xsl:choose>
+								<br/>
+								<a href="../{$large_url}/{.}.jpg" target="_blank"
+									>Enlarge<br/>Manuscript</a>
+							</div>
+						</xsl:for-each>
+					</div>
+				</xsl:when>
 			</xsl:choose>
-			<br/>
-			<span class="case">Case: <xsl:value-of select="str[@name='case_title']"/></span>
-			<br/>
-			<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 		</div>
 	</xsl:template>
 
@@ -129,13 +277,13 @@
 					<xsl:choose>
 						<xsl:when test="$expand = 'true'">
 							<xsl:for-each select="int">
-								<xsl:call-template name="display_facet"/>								
+								<xsl:call-template name="display_facet"/>
 							</xsl:for-each>
 							<li>
 								<i>
 									<a style="margin-left:20px"
-										href="?q={$q}&amp;rows={$rows}&amp;start={$start}"
-										>Collapse List</a>
+										href="?q={$q}&amp;rows={$rows}&amp;start={$start}">Collapse
+										List</a>
 								</i>
 							</li>
 						</xsl:when>
@@ -178,8 +326,7 @@
 				<xsl:when test="$case_title = @name">
 					<xsl:variable name="removeStr">
 						<xsl:value-of
-							select="concat(' AND case_title:&#x0022;', $case_title, '&#x0022;')"
-						/>
+							select="concat(' AND case_title:&#x0022;', $case_title, '&#x0022;')"/>
 					</xsl:variable>
 					<xsl:variable name="finalStr">
 						<xsl:value-of
@@ -187,7 +334,7 @@
 						/>
 					</xsl:variable>
 					<div class="facet_num">[<a href="?q={$finalStr}&amp;start=0&amp;rows=10"
-							>X</a>]</div>
+						>X</a>]</div>
 				</xsl:when>
 				<xsl:otherwise>
 					<div class="facet_num">
@@ -221,7 +368,7 @@
 		<div class="paging_div">
 			<div style="float:left;">
 				<xsl:choose>
-					<xsl:when test="$numFound= '1'">
+					<xsl:when test="$numFound= 1">
 						<xsl:text>Displaying 1 result</xsl:text>
 						<xsl:if test="string($name)"> for <b>
 								<xsl:value-of select="$name"/>
@@ -271,14 +418,13 @@
 					</xsl:when>
 					<xsl:otherwise>
 						<span class="pagingSep" style="border-left:1px solid #454545;"
-						>«Previous</span>
+							>«Previous</span>
 					</xsl:otherwise>
 				</xsl:choose>
 
 				<!-- always display links to the first two pages -->
 				<xsl:if test="$start div $rows &gt;= 3">
-					<a class="pagingBtn"
-						href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start=0">
+					<a class="pagingBtn" href="salemSearch.htm?q={$q}&amp;rows={$rows}&amp;start=0">
 						<xsl:text>1</xsl:text>
 					</a>
 				</xsl:if>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 	<xsl:param name="institution" select="/ead/@id"/>
-	<xsl:param name="filter"/>
 	<xsl:param name="id"/>
 
 	<xsl:variable name="thumb_url">
@@ -155,61 +154,10 @@
 				<p>
 					<xsl:value-of select="//author"/>
 				</p>
+				
 				<xsl:choose>
-
-					<xsl:when test="$institution = 'ecca'">
-						<div style="text-align:center">
-							<a href="?filter=A-B">A - B</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=C-E">C - E</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=F-H">F - H</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=I-O">I - O</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=P-R">P - R</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=S-W">S - W</a>
-							<xsl:text> | </xsl:text>
-							<a href="?filter=ALL">ALL</a>
-						</div>
-						<xsl:if test="string($filter)">
-							<xsl:choose>
-								<xsl:when test="$institution = 'ecca' and $filter = 'A-B'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'a'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'b']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'C-E'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'c'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'd'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'e']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'F-H'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'f'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'g'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'h']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'I-O'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'i'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'j'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'k'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'l'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'm'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'n'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'o']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'P-R'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'p'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'q'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'r']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'S-W'">
-									<xsl:apply-templates
-										select="//c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 's'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 't'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'u'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'v'] | //c[@level='item'][substring(did/unittitle//persname/@id, 1, 1) = 'w']"
-									/>
-								</xsl:when>
-								<xsl:when test="$institution = 'ecca' and $filter = 'ALL'">
-									<xsl:apply-templates select="//c[@level='series']"/>
-								</xsl:when>
-							</xsl:choose>
-						</xsl:if>
+					<xsl:when test="string($id)">
+						<xsl:apply-templates select="descendant::c[@id=$id]"/>
 					</xsl:when>
 					<xsl:otherwise>
 						<xsl:choose>
@@ -222,6 +170,7 @@
 						</xsl:choose>
 					</xsl:otherwise>
 				</xsl:choose>
+				
 
 
 

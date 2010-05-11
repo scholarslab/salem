@@ -26,6 +26,8 @@
 				</title>
 				<link type="text/css" href="../style.css" rel="stylesheet"/>
 				<script type="text/javascript" src="../javascript/jquery-1.2.6.min.js"/>
+				<script type="text/javascript" src="../javascript/jquery.lightbox-0.5.min.js"/>
+				<script type="text/javascript" src="../javascript/salem-archives-lightbox.js"/>
 				<script type="text/javascript" src="../javascript/search_form.js"/>
 			</head>
 		</html>

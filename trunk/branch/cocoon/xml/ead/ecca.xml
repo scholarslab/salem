@@ -46,7 +46,7 @@
 				<did>
 					<unittitle>Volume 1</unittitle>
 				</did>
-				<c level="item">
+				<c level="item" id="d1e78">
 					<did>
 						<unitid>ecca1001</unitid>
 						<unittitle>Warrant for Jurors for the Court of Oyer and Terminer</unittitle>
@@ -59,7 +59,7 @@
 						<bibref>ECCA, Vol. 1, no. 1.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e103">
 					<did>
 						<unitid>ecca1002</unitid>
 						<unittitle>Oaths of <persname id="newtho1">Thomas Newton</persname> as
@@ -74,7 +74,7 @@
 						<bibref>ECCA, vol. 1, no. 2.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e134">
 					<did>
 						<unitid>ecca1003</unitid>
 						<unittitle>Indictment No. 1 of <persname id="goosar">Sarah Good</persname>
@@ -88,7 +88,7 @@
 						<bibref>ECCA, Vol. 1, no. 3.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e164">
 					<did>
 						<unitid>ecca1004</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="goosar">Sarah
@@ -102,7 +102,7 @@
 						<bibref>ECCA, Vol. 1, no. 4.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e192">
 					<did>
 						<unitid>ecca1005</unitid>
 						<unittitle>Indictment No. 3 of <persname id="goosar">Sarah Good</persname>
@@ -116,7 +116,7 @@
 						<bibref>ECCA, Vol. 1, no. 5.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e222">
 					<did>
 						<unitid>ecca1006</unitid>
 						<unittitle>Indictment No. 2 of <persname id="goosar">Sarah Good</persname>,
@@ -130,7 +130,7 @@
 						<bibref>ECCA, Vol. 1, no. 6.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e252">
 					<did>
 						<unitid>ecca1007</unitid>
 						<unittitle>Witnesses v. <persname id="goosar">Sarah
@@ -144,7 +144,7 @@
 						<bibref>ECCA, Vol. 1, no. 7.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e279">
 					<did>
 						<unitid>ecca1008</unitid>
 						<unittitle>Mittimus for <persname id="goosar">Sarah Good</persname> &amp;
@@ -158,7 +158,7 @@
 						<bibref>ECCA, Vol. 1, no. 8.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e309">
 					<did>
 						<unitid>ecca1009</unitid>
 						<unittitle>Examinations of <persname id="goosar">Sarah Good</persname>,
@@ -174,7 +174,7 @@
 						<bibref>ECCA, Vol. 1, no. 9.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e345">
 					<did>
 						<unitid>ecca1010</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="goosar">Sarah
@@ -188,7 +188,7 @@
 						<bibref>ECCA, Vol. 1, no. 10.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e373">
 					<did>
 						<unitid>ecca1011</unitid>
 						<unittitle>Examinations of <persname id="goosar">Sarah Good</persname>,
@@ -204,7 +204,7 @@
 						<bibref>ECCA, Vol. 1, nos. 11 &amp; 12.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e409">
 					<did>
 						<unitid>ecca1013</unitid>
 						<unittitle>Summary of Evidence v. <persname id="goosar">Sarah
@@ -218,7 +218,7 @@
 						<bibref>ECCA, Vol. 1, no. 13.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e436">
 					<did>
 						<unitid>ecca1014</unitid>
 						<unittitle>Examinations &amp; Mittimus of <persname id="goosar">Sarah
@@ -234,7 +234,7 @@
 						<bibref>ECCA, Vol. 1, no. 14.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e472">
 					<did>
 						<unitid>ecca1015</unitid>
 						<unittitle>Depositions of <persname id="">Sarah</persname> &amp; <persname
@@ -249,7 +249,7 @@
 						<bibref>ECCA, Vol. 1, no. 15.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e505">
 					<did>
 						<unitid>ecca1016</unitid>
 						<unittitle>Deposition of <persname id="herjos1">Joseph Herrick
@@ -264,7 +264,7 @@
 						<bibref>ECCA, Vol. 1, no. 16.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e538">
 					<did>
 						<unitid>ecca1017</unitid>
 						<unittitle>Testimony of <persname id="batwil">William Batten</persname>,
@@ -280,7 +280,7 @@
 						<bibref>ECCA, Vol. 1, no. 17.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e575">
 					<did>
 						<unitid>ecca1018</unitid>
 						<unittitle>Deposition of <persname id="abbsam">Samuel Abbey</persname> &amp;
@@ -295,7 +295,7 @@
 						<bibref>ECCA, Vol. 1, no. 18.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e608">
 					<did>
 						<unitid>ecca1019</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname>,
@@ -309,7 +309,7 @@
 						<bibref>ECCA, Vol. 1, no. 19.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e638">
 					<did>
 						<unitid>ecca1020</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -323,7 +323,7 @@
 						<bibref>ECCA, Vol. 1, no. 20.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e668">
 					<did>
 						<unitid>ecca1021</unitid>
 						<unittitle>Deposition of <persname id="herhen">Henry Herrick</persname>
@@ -338,7 +338,7 @@
 						<bibref>ECCA, Vol. 1, no. 21.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e701">
 					<did>
 						<unitid>ecca1022</unitid>
 						<unittitle>Deposition of <persname id="">Johanna Childen</persname> v.
@@ -352,7 +352,7 @@
 						<bibref>ECCA, Vol. 1, no. 22.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e731">
 					<did>
 						<unitid>ecca1023</unitid>
 						<unittitle>Deposition of <persname id="">Susannah Shelden</persname> v.
@@ -366,7 +366,7 @@
 						<bibref>ECCA, Vol. 1, no. 23.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e762">
 					<did>
 						<unitid>ecca1024</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -380,7 +380,7 @@
 						<bibref>ECCA, Vol. 1, no. 24.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e792">
 					<did>
 						<unitid>ecca1025</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -394,7 +394,7 @@
 						<bibref>ECCA, Vol. 1, no. 25.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e822">
 					<did>
 						<unitid>ecca1026</unitid>
 						<unittitle>Deposition of Sarah Bibber v. Sarah Good</unittitle>
@@ -407,7 +407,7 @@
 						<bibref>ECCA, Vol. 1, no. 26.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e847">
 					<did>
 						<unitid>ecca1027</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname>,
@@ -421,7 +421,7 @@
 						<bibref>ECCA, Vol. 1, no. 27.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e877">
 					<did>
 						<unitid>ecca1028</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -435,7 +435,7 @@
 						<bibref>ECCA, Vol. 1, no. 28.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e907">
 					<did>
 						<unitid>ecca1029</unitid>
 						<unittitle>Statement of <persname id="allwil1">William Allen</persname>,
@@ -452,7 +452,7 @@
 						<bibref>ECCA, Vol. 1, no. 29.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e952">
 					<did>
 						<unitid>ecca1030</unitid>
 						<unittitle>Testimony of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -466,7 +466,7 @@
 						<bibref>ECCA, Vol. 1, no. 30.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e982">
 					<did>
 						<unitid>ecca1031</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -481,7 +481,7 @@
 						<bibref>ECCA, Vol. 1, no. 31.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1016">
 					<did>
 						<unitid>ecca1032</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -495,7 +495,7 @@
 						<bibref>ECCA, Vol. 1, no. 32.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1044">
 					<did>
 						<unitid>ecca1033</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Sarah
@@ -509,7 +509,7 @@
 						<bibref>ECCA, Vol. 1, no. 33.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1072">
 					<did>
 						<unitid>ecca1034</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -526,7 +526,7 @@
 						<bibref>ECCA, Vol. 1, no. 34.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1112">
 					<did>
 						<unitid>ecca1035</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -540,7 +540,7 @@
 						<bibref>ECCA, Vol. 1, no. 35.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1141">
 					<did>
 						<unitid>ecca1036</unitid>
 						<unittitle>Mittimus for <persname id="">Martha Cory</persname>, <persname
@@ -557,7 +557,7 @@
 						<bibref>ECCA, Vol. 1, no. 36.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1184">
 					<did>
 						<unitid>ecca1037</unitid>
 						<unittitle>Indictment No. 1 of <persname id="">Martha Cory</persname>, for
@@ -572,7 +572,7 @@
 						<bibref>ECCA, Vol. 1, no. 37.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1214">
 					<did>
 						<unitid>ecca1038</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Martha
@@ -586,7 +586,7 @@
 						<bibref>ECCA, Vol. 1, no. 38.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1241">
 					<did>
 						<unitid>ecca1039</unitid>
 						<unittitle>Deposition of <persname id="cheeze">Ezekiel Cheever</persname>
@@ -601,7 +601,7 @@
 						<bibref>ECCA, Vol. 1, no. 39.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1274">
 					<did>
 						<unitid>ecca1040</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="">Martha Cory</persname>,
@@ -617,7 +617,7 @@
 						<bibref>ECCA, Vol. 1, no. 40.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1310">
 					<did>
 						<unitid>ecca1041</unitid>
 						<unittitle>Deposition of <persname id="sheeph">Ephraim Shelden</persname> v.
@@ -631,7 +631,7 @@
 						<bibref>ECCA, Vol. 1, no. 41.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1341">
 					<did>
 						<unitid>ecca1042</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -647,7 +647,7 @@
 						<bibref>ECCA, Vol. 1, no. 42.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1377">
 					<did>
 						<unitid>ecca1043</unitid>
 						<unittitle>Statement of <persname id="">Giles Cory</persname> Concerning
@@ -661,7 +661,7 @@
 						<bibref>ECCA, Vol. 1, no. 43.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1407">
 					<did>
 						<unitid>ecca1044</unitid>
 						<unittitle>Indictment No. 3 of <persname id="">John Procter</persname>, for
@@ -675,7 +675,7 @@
 						<bibref>ECCA, Vol. 1, no. 44.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1437">
 					<did>
 						<unitid>ecca1045</unitid>
 						<unittitle>Indictment No. 2 of <persname id="">John Procter</persname>, for
@@ -689,7 +689,7 @@
 						<bibref>ECCA, Vol. 1, no. 45.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1467">
 					<did>
 						<unitid>ecca1046</unitid>
 						<unittitle>Indictment No. 1 of <persname id="">John Procter</persname>, for
@@ -704,7 +704,7 @@
 						<bibref>ECCA, Vol. 1, no. 46.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1498">
 					<did>
 						<unitid>ecca1047</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -721,7 +721,7 @@
 						<bibref>ECCA, Vol. 1, no. 47.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1542">
 					<did>
 						<unitid>ecca1048</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -736,7 +736,7 @@
 						<bibref>ECCA, Vol. 1, no. 48.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1575">
 					<did>
 						<unitid>ecca1049</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -750,7 +750,7 @@
 						<bibref>ECCA, Vol. 1, no. 49.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1605">
 					<did>
 						<unitid>ecca1050</unitid>
 						<unittitle>Physical Examinations of the Bodies of <persname id="">John
@@ -765,7 +765,7 @@
 						<bibref>ECCA, Vol. 1, no. 50.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1635">
 					<did>
 						<unitid>ecca1051</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -779,7 +779,7 @@
 						<bibref>ECCA, Vol. 1, no. 51.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1665">
 					<did>
 						<unitid>ecca1052</unitid>
 						<unittitle><persname id="parsam">Samuel Parris</persname>'s Record of
@@ -794,7 +794,7 @@
 						<bibref>ECCA, Vol. 1, no. 52.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1697">
 					<did>
 						<unitid>ecca1053</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -810,7 +810,7 @@
 						<bibref>ECCA, Vol. 1, no. 53.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1734">
 					<did>
 						<unitid>ecca1054</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -824,7 +824,7 @@
 						<bibref>ECCA, Vol. 1, no. 54.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1764">
 					<did>
 						<unitid>ecca1055</unitid>
 						<unittitle>Statement of <persname id="warmar">Mary Warren</persname> v.
@@ -839,7 +839,7 @@
 						<bibref>ECCA, Vol. 1, no. 55.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1797">
 					<did>
 						<unitid>ecca1056</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -853,7 +853,7 @@
 						<bibref>ECCA, Vol. 1, no. 56.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1827">
 					<did>
 						<unitid>ecca1057</unitid>
 						<unittitle>Statement of <persname id="parsam">Samuel Parris</persname>
@@ -874,7 +874,7 @@
 						<bibref>ECCA, Vol. 1, no. 57.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1882">
 					<did>
 						<unitid>ecca1058</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> &amp;
@@ -894,7 +894,7 @@
 						<bibref>ECCA, Vol. 1, no. 58.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1934">
 					<did>
 						<unitid>ecca1059</unitid>
 						<unittitle>Deposition of <persname id="warmar">Mary Warren</persname> v.
@@ -908,7 +908,7 @@
 						<bibref>ECCA, Vol. 1, no. 59.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1965">
 					<did>
 						<unitid>ecca1060</unitid>
 						<unittitle>Petition in Support of <persname id="">John Procter</persname>
@@ -922,7 +922,7 @@
 						<bibref>ECCA, Vol. 1, no. 60.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e1995">
 					<did>
 						<unitid>ecca1061</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Dorothy
@@ -936,7 +936,7 @@
 						<bibref>ECCA, Vol. 1, no. 61.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2023">
 					<did>
 						<unitid>ecca1062</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -950,7 +950,7 @@
 						<bibref>ECCA, Vol. 1, no. 62.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2053">
 					<did>
 						<unitid>ecca1063</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -964,7 +964,7 @@
 						<bibref>ECCA, Vol. 1, no. 63.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2083">
 					<did>
 						<unitid>ecca1064</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -978,7 +978,7 @@
 						<bibref>ECCA, Vol. 1, no. 64.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2113">
 					<did>
 						<unitid>ecca1065</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="nurreb">Rebecca
@@ -992,7 +992,7 @@
 						<bibref>ECCA, Vol. 1, no. 65.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2141">
 					<did>
 						<unitid>ecca1066</unitid>
 						<unittitle>Indictment No. 3 of <persname id="nurreb">Rebecca
@@ -1007,7 +1007,7 @@
 						<bibref>ECCA, Vol. 1, no. 66.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2171">
 					<did>
 						<unitid>ecca1067</unitid>
 						<unittitle>Indictment No. 4 of <persname id="nurreb">Rebecca
@@ -1022,7 +1022,7 @@
 						<bibref>ECCA, Vol. 1, no. 67.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2201">
 					<did>
 						<unitid>ecca1068</unitid>
 						<unittitle>Indictment No. 2 of <persname id="nurreb">Rebecca
@@ -1037,7 +1037,7 @@
 						<bibref>ECCA, Vol. 1, no. 68.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2231">
 					<did>
 						<unitid>ecca1069</unitid>
 						<unittitle>Indictment No. 1 of <persname id="nurreb">Rebecca
@@ -1052,7 +1052,7 @@
 						<bibref>ECCA, Vol. 1, no. 69.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2261">
 					<did>
 						<unitid>ecca1070</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="nurreb">Rebecca
@@ -1066,7 +1066,7 @@
 						<bibref>ECCA, Vol. 1, no. 70.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2288">
 					<did>
 						<unitid>ecca1071</unitid>
 						<unittitle>Warrant for the Execution of <persname id="bisbri">Bridget
@@ -1080,7 +1080,7 @@
 						<bibref>ECCA, Vol. 1, no. 71.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2316">
 					<did>
 						<unitid>ecca1072</unitid>
 						<unittitle>Examination of <persname id="nurreb">Rebecca
@@ -1094,7 +1094,7 @@
 						<bibref>ECCA, Vol. 1, no. 72.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2343">
 					<did>
 						<unitid>ecca1073</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -1109,7 +1109,7 @@
 						<bibref>ECCA, Vol. 1, no. 73.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2376">
 					<did>
 						<unitid>ecca1074</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -1123,7 +1123,7 @@
 						<bibref>ECCA, Vol. 1, no. 74.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2406">
 					<did>
 						<unitid>ecca1075</unitid>
 						<unittitle>Deposition of <persname id="putedw">Edward Putnam</persname> v.
@@ -1137,7 +1137,7 @@
 						<bibref>ECCA, Vol. 1, no. 75.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2436">
 					<did>
 						<unitid>ecca1076</unitid>
 						<unittitle>Deposition of <persname id="">Johanna Childen</persname> v.
@@ -1151,7 +1151,7 @@
 						<bibref>ECCA, Vol. 1, no. 76.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2466">
 					<did>
 						<unitid>ecca1077</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>
@@ -1167,7 +1167,7 @@
 						<bibref>ECCA, Vol. 1, no. 77.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2503">
 					<did>
 						<unitid>ecca1078</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -1181,7 +1181,7 @@
 						<bibref>ECCA, Vol. 1, no. 78.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2533">
 					<did>
 						<unitid>ecca1079</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -1197,7 +1197,7 @@
 						<bibref>ECCA, Vol. 1, no. 79.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2569">
 					<did>
 						<unitid>ecca1080</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -1211,7 +1211,7 @@
 						<bibref>ECCA, Vol. 1, no. 80.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2599">
 					<did>
 						<unitid>ecca1081</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -1225,7 +1225,7 @@
 						<bibref>ECCA, Vol. 1, no. 81.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2629">
 					<did>
 						<unitid>ecca1082</unitid>
 						<unittitle>Deposition of <persname id="putjoh2">John Putnam Jr.</persname>
@@ -1242,7 +1242,7 @@
 						<bibref>ECCA, Vol. 1, no. 82.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2668">
 					<did>
 						<unitid>ecca1083</unitid>
 						<unittitle>Deposition of <persname id="putann1">Ann Putnam Sr.</persname> ,
@@ -1259,7 +1259,7 @@
 						<bibref>ECCA, Vol. 1, no. 83.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2708">
 					<did>
 						<unitid>ecca1084</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Holten</persname> v.
@@ -1273,7 +1273,7 @@
 						<bibref>ECCA, Vol. 1, no. 84.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2738">
 					<did>
 						<unitid>ecca1085</unitid>
 						<unittitle>Testimony of <persname id="prerob">Rebecca Preston</persname>
@@ -1288,7 +1288,7 @@
 						<bibref>ECCA, Vol. 1, no. 85.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2771">
 					<did>
 						<unitid>ecca1086</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -1303,7 +1303,7 @@
 						<bibref>ECCA, Vol. 1, no. 86.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2804">
 					<did>
 						<unitid>ecca1087</unitid>
 						<unittitle>Statement of <persname id="">Samuel Nurse</persname> &amp;
@@ -1318,7 +1318,7 @@
 						<bibref>ECCA, Vol. 1, no. 87.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2837">
 					<did>
 						<unitid>ecca1088</unitid>
 						<unittitle>Petition of <persname id="nurreb">Rebecca
@@ -1332,7 +1332,7 @@
 						<bibref>ECCA, Vol. 1, no. 88.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2864">
 					<did>
 						<unitid>ecca1089</unitid>
 						<unittitle>Indictment No. 2 of <persname id="">Elizabeth Procter</persname>,
@@ -1346,7 +1346,7 @@
 						<bibref>ECCA, Vol. 1, no. 89.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2895">
 					<did>
 						<unitid>ecca1090</unitid>
 						<unittitle>Indictment No. 1 of <persname id="">Elizabeth Procter</persname>,
@@ -1360,7 +1360,7 @@
 						<bibref>ECCA, Vol. 1, no. 90.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2925">
 					<did>
 						<unitid>ecca1091</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="closar">Sarah
@@ -1375,7 +1375,7 @@
 						<bibref>ECCA, Vol. 1, no. 91.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2955">
 					<did>
 						<unitid>ecca1092</unitid>
 						<unittitle>Council Record Pertaining to <persname id="closar">Sarah
@@ -1392,7 +1392,7 @@
 						<bibref>ECCA, Vol. 1, no. 92.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e2998">
 					<did>
 						<unitid>ecca1093</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -1407,7 +1407,7 @@
 						<bibref>ECCA, Vol. 1, no. 93.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3031">
 					<did>
 						<unitid>ecca1094</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -1421,7 +1421,7 @@
 						<bibref>ECCA, Vol. 1, no. 94.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3061">
 					<did>
 						<unitid>ecca1095</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -1435,7 +1435,7 @@
 						<bibref>ECCA, Vol. 1, no. 95.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3092">
 					<did>
 						<unitid>ecca1096</unitid>
 						<unittitle>Complaint of <persname id="">Jonathan Walcott</persname> &amp;
@@ -1451,7 +1451,7 @@
 						<bibref>ECCA, Vol. 1, no. 96.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3128">
 					<did>
 						<unitid>ecca1097</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -1465,7 +1465,7 @@
 						<bibref>ECCA, Vol. 1, no. 97.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3158">
 					<did>
 						<unitid>ecca1098</unitid>
 						<unittitle>Testimony of <persname id="">William Rayment</persname> Regarding
@@ -1480,7 +1480,7 @@
 						<bibref>ECCA, Vol. 1, no. 98.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3189">
 					<did>
 						<unitid>ecca1099</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -1494,7 +1494,7 @@
 						<bibref>ECCA, Vol. 1, no. 99.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3219">
 					<did>
 						<unitid>ecca1100</unitid>
 						<unittitle>Deposition of <persname id="bitste">Stephen Bittford</persname>
@@ -1509,7 +1509,7 @@
 						<bibref>ECCA, Vol. 1, no. 100.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3252">
 					<did>
 						<unitid>ecca1101</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -1523,7 +1523,7 @@
 						<bibref>ECCA, Vol. 1, no. 101.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3283">
 					<did>
 						<unitid>ecca1102</unitid>
 						<unittitle>Deposition of <persname id="warmar">Mary Warren</persname> v.
@@ -1537,7 +1537,7 @@
 						<bibref>ECCA, Vol. 1, no. 102.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3313">
 					<did>
 						<unitid>ecca1103</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -1551,7 +1551,7 @@
 						<bibref>ECCA, Vol. 1, no. 103.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3343">
 					<did>
 						<unitid>ecca1104</unitid>
 						<unittitle>Testimony of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -1566,7 +1566,7 @@
 						<bibref>ECCA, Vol. 1, no. 104 &amp; Vol. 2 no. 112.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3376">
 					<did>
 						<unitid>ecca1105</unitid>
 						<unittitle>Testimony of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -1581,7 +1581,7 @@
 						<bibref>ECCA, Vol. 1, no. 105.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3409">
 					<did>
 						<unitid>ecca1106</unitid>
 						<unittitle>Deposition of <persname id="bayjos">Joseph Bayley</persname>
@@ -1595,7 +1595,7 @@
 						<bibref>ECCA, Vol. 1, no. 106.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3439">
 					<did>
 						<unitid>ecca1107</unitid>
 						<unittitle>Testimony of <persname id="barsam">Samuel Barton</persname> for
@@ -1611,7 +1611,7 @@
 						<bibref>ECCA, Vol. 1, no. 107.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3476">
 					<did>
 						<unitid>ecca1108</unitid>
 						<unittitle>Declaration of <persname id="">Arthur Abbot</persname> Concerning
@@ -1625,7 +1625,7 @@
 						<bibref>ECCA, Vol. 1, no. 108.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3506">
 					<did>
 						<unitid>ecca1109</unitid>
 						<unittitle>Testimony of <persname id="elldan">Daniel Elliot</persname> for
@@ -1639,7 +1639,7 @@
 						<bibref>ECCA, Vol. 1, no. 109.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3536">
 					<did>
 						<unitid>ecca1110</unitid>
 						<unittitle>Petition in Support of <persname id="">John Procter</persname>
@@ -1653,7 +1653,7 @@
 						<bibref>ECCA, Vol. 1, no. 110.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3566">
 					<did>
 						<unitid>ecca1111</unitid>
 						<unittitle>Examination of <persname id="warmar">Mary
@@ -1667,7 +1667,7 @@
 						<bibref>ECCA, Vol. 1, no. 111.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3593">
 					<did>
 						<unitid>ecca1112</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Giles
@@ -1684,7 +1684,7 @@
 						<bibref>ECCA, Vol. 1, no. 112.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3633">
 					<did>
 						<unitid>ecca1113</unitid>
 						<unittitle>Examination of <persname id="warmar">Mary
@@ -1698,7 +1698,7 @@
 						<bibref>ECCA, Vol. 1, nos. 113 &amp; 114.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3661">
 					<did>
 						<unitid>ecca1115</unitid>
 						<unittitle>Examination of <persname id="warmar">Mary Warren</persname> in
@@ -1712,7 +1712,7 @@
 						<bibref>ECCA, Vol. 1, no. 115.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3689">
 					<did>
 						<unitid>ecca1116</unitid>
 						<unittitle>Examination of <persname id="warmar">Mary
@@ -1726,7 +1726,7 @@
 						<bibref>ECCA, Vol. 1, no. 116.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3716">
 					<did>
 						<unitid>ecca1117</unitid>
 						<unittitle>Statement of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -1741,7 +1741,7 @@
 							Library. PEM, Salem, MA.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3746">
 					<did>
 						<unitid>ecca1118</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -1756,7 +1756,7 @@
 						<bibref>ECCA, Vol. 1, no. 118.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3779">
 					<did>
 						<unitid>ecca1119</unitid>
 						<unittitle>Testimony of <persname id="engmar">Mary English</persname>
@@ -1770,7 +1770,7 @@
 						<bibref>ECCA, Vol. 1, no. 119.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3809">
 					<did>
 						<unitid>ecca1120</unitid>
 						<unittitle>Testimony of <persname id="">Edward Bishop</persname>, <persname
@@ -1785,7 +1785,7 @@
 						<bibref>ECCA, Vol. 1, no. 120.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3843">
 					<did>
 						<unitid>ecca1121</unitid>
 						<unittitle>Indictment No. 1 of <persname id="bisbri">Bridget
@@ -1800,7 +1800,7 @@
 						<bibref>ECCA, Vol. 1, no. 121.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3873">
 					<did>
 						<unitid>ecca1122</unitid>
 						<unittitle>Indictment No. 2 of <persname id="bisbri">Bridget
@@ -1815,7 +1815,7 @@
 						<bibref>ECCA, Vol. 1, no. 122.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3903">
 					<did>
 						<unitid>ecca1123</unitid>
 						<unittitle>Indictment No. 4 of <persname id="bisbri">Bridget
@@ -1830,7 +1830,7 @@
 						<bibref>ECCA, Vol. 1, no. 123.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3933">
 					<did>
 						<unitid>ecca1124</unitid>
 						<unittitle>Indictment No. 5 of <persname id="bisbri">Bridget
@@ -1845,7 +1845,7 @@
 						<bibref>ECCA, Vol. 1, no. 124.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3963">
 					<did>
 						<unitid>ecca1125</unitid>
 						<unittitle>Examination of <persname id="bisbri">Bridget Bishop</persname>,
@@ -1860,7 +1860,7 @@
 						<bibref>ECCA, Vol. 1, no. 125.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e3993">
 					<did>
 						<unitid>ecca1136</unitid>
 						<unittitle>Physical Examinations No. 1 &amp; No. 2 of <persname id="bisbri"
@@ -1878,7 +1878,7 @@
 						<bibref>ECCA, Vol. 1, no. 136.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4037">
 					<did>
 						<unitid>ecca1137</unitid>
 						<unittitle>Examination of <persname id="bisbri">Bridget Bishop</persname>,
@@ -1893,7 +1893,7 @@
 						<bibref>ECCA, Vol. 1, no. 137.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4067">
 					<did>
 						<unitid>ecca1138</unitid>
 						<unittitle>Deposition of <persname id="stawil">William Stacy</persname> v.
@@ -1907,7 +1907,7 @@
 						<bibref>ECCA, Vol. 1, nos. 138 &amp; 139.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4097">
 					<did>
 						<unitid>ecca1140</unitid>
 						<unittitle>Examination of <persname id="hobdel">Deliverance Hobbs</persname>
@@ -1921,7 +1921,7 @@
 						<bibref>ECCA, Vol. 1, no. 140.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4125">
 					<did>
 						<unitid>ecca1141</unitid>
 						<unittitle>Testimony of <persname id="grasam7">Samuel Gray</persname> v.
@@ -1935,7 +1935,7 @@
 						<bibref>ECCA, Vol. 1, no. 141.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4155">
 					<did>
 						<unitid>ecca1142</unitid>
 						<unittitle>Deposition of Rev. <persname id="haljoh">John Hale</persname> v.
@@ -1949,7 +1949,7 @@
 						<bibref>ECCA, Vol. 1, no. 142.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4185">
 					<did>
 						<unitid>ecca1144</unitid>
 						<unittitle>Deposition of Samuel &amp; <persname id="shasar">Sarah
@@ -1964,7 +1964,7 @@
 						<bibref>ECCA, Vol. 1, no. 144.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4216">
 					<did>
 						<unitid>ecca1145</unitid>
 						<unittitle>Testimony of <persname id="loujoh">John Louder</persname> v.
@@ -1978,7 +1978,7 @@
 						<bibref>ECCA, Vol. 1, no. 145.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4246">
 					<did>
 						<unitid>ecca1146</unitid>
 						<unittitle>Testimony of <persname id="comric">Richard Coman</persname> v.
@@ -1992,7 +1992,7 @@
 						<bibref>ECCA, Vol. 1, no. 146.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4276">
 					<did>
 						<unitid>ecca1147</unitid>
 						<unittitle>Testimony of <persname id="blyjoh">John Bly Sr.</persname> &amp;
@@ -2007,7 +2007,7 @@
 						<bibref>ECCA, Vol. 1, no. 147.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4309">
 					<did>
 						<unitid>ecca1148</unitid>
 						<unittitle>Testimony of <persname id="coojoh">John Cook</persname> v.
@@ -2021,7 +2021,7 @@
 						<bibref>ECCA, Vol. 1, no. 148.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4339">
 					<did>
 						<unitid>ecca1149</unitid>
 						<unittitle>Deposition of <persname id="">Susannah Shelden</persname> v.
@@ -2035,7 +2035,7 @@
 						<bibref>ECCA, Vol. 1, no. 149.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4369">
 					<did>
 						<unitid>ecca1150</unitid>
 						<unittitle>Testimony of <persname id="blyjoh">John Bly Sr.</persname> ,
@@ -2050,7 +2050,7 @@
 						<bibref>ECCA, Vol. 1, no. 150.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4403">
 					<did>
 						<unitid>ecca1151</unitid>
 						<unittitle>Deposition of <persname id="baleli">Elizabeth Balch</persname>
@@ -2065,7 +2065,7 @@
 						<bibref>ECCA, Vol. 1, no. 151.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4436">
 					<did>
 						<unitid>ecca1155</unitid>
 						<unittitle>Examinations of <persname id="hobabi">Abigail Hobbs</persname> in
@@ -2079,7 +2079,7 @@
 						<bibref>ECCA, Vol. 1, no. 155.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4464">
 					<did>
 						<unitid>ecca1156</unitid>
 						<unittitle>Examination of <persname id="hobabi">Abigail
@@ -2093,7 +2093,7 @@
 						<bibref>ECCA, Vol. 1, no. 156.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4491">
 					<did>
 						<unitid>ecca1157</unitid>
 						<unittitle>Testimony of <persname id="niclyd">Lydia Nichols</persname> &amp;
@@ -2108,7 +2108,7 @@
 						<bibref>ECCA, Vol. 1, no. 157.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4524">
 					<did>
 						<unitid>ecca1158</unitid>
 						<unittitle>Deposition of <persname id="knimar">Margaret Knight</persname> v.
@@ -2122,7 +2122,7 @@
 						<bibref>ECCA, Vol. 1, no. 158.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4554">
 					<did>
 						<unitid>ecca1159</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -2136,7 +2136,7 @@
 						<bibref>ECCA, Vol. 1, no. 159.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4585">
 					<did>
 						<unitid>ecca1160</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -2150,7 +2150,7 @@
 						<bibref>ECCA, Vol. 1, no. 160.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4615">
 					<did>
 						<unitid>ecca1161</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -2164,7 +2164,7 @@
 						<bibref>ECCA, Vol. 1, no. 161.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4645">
 					<did>
 						<unitid>ecca1162</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -2178,7 +2178,7 @@
 						<bibref>ECCA, Vol. 1, no. 162.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4675">
 					<did>
 						<unitid>ecca1163</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="wilsar">Sarah
@@ -2198,7 +2198,7 @@
 						<bibref>ECCA, Vol. 1, no. 163.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4728">
 					<did>
 						<unitid>ecca1164</unitid>
 						<unittitle>Examinations of <persname id="wilsar">Sarah Wilds</persname>
@@ -2212,7 +2212,7 @@
 						<bibref>ECCA, Vol. 1, no. 164.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4758">
 					<did>
 						<unitid>ecca1165</unitid>
 						<unittitle><persname id="wilepr">Ephraim Wilds</persname> for <persname
@@ -2226,7 +2226,7 @@
 						<bibref>ECCA, Vol. 1, no. 165.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4788">
 					<did>
 						<unitid>ecca1166</unitid>
 						<unittitle>Testimony of <persname id="wiljoh1">John Wilds</persname> &amp;
@@ -2241,7 +2241,7 @@
 						<bibref>ECCA, Vol. 1, no. 166.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4821">
 					<did>
 						<unitid>ecca1167</unitid>
 						<unittitle>Names of Some Witnesses v. <persname id="wilsar">Sarah
@@ -2256,7 +2256,7 @@
 						<bibref>ECCA, Vol. 1, no. 167.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4851">
 					<did>
 						<unitid>ecca1168</unitid>
 						<unittitle>Statement of <persname id="">Susannah Shelden</persname> v.
@@ -2274,7 +2274,7 @@
 						<bibref>ECCA, Vol. 1, nos. 168, 153 &amp; 154.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4898">
 					<did>
 						<unitid>ecca1169</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Philip
@@ -2289,7 +2289,7 @@
 						<bibref>ECCA, Vol. 1, no. 169.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4931">
 					<did>
 						<unitid>ecca1170</unitid>
 						<unittitle>Warrant No. 2 for the Apprehension of <persname id="">Philip
@@ -2303,7 +2303,7 @@
 						<bibref>ECCA, Vol. 1, no. 170.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4958">
 					<did>
 						<unitid>ecca1171</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="marsus">Susannah
@@ -2317,7 +2317,7 @@
 						<bibref>ECCA, Vol. 1, no. 171.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e4986">
 					<did>
 						<unitid>ecca1172</unitid>
 						<unittitle>Indictment No. 2 of <persname id="marsus">Susannah
@@ -2332,7 +2332,7 @@
 						<bibref>ECCA, Vol. 1, no. 172.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5016">
 					<did>
 						<unitid>ecca1173</unitid>
 						<unittitle>Indictment No. 1 of <persname id="marsus">Susannah
@@ -2347,7 +2347,7 @@
 						<bibref>ECCA, Vol. 1, no. 173.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5046">
 					<did>
 						<unitid>ecca1174</unitid>
 						<unittitle>Examination of <persname id="marsus">Susannah
@@ -2361,7 +2361,7 @@
 						<bibref>ECCA, Vol. 1, no. 174.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5073">
 					<did>
 						<unitid>ecca1175</unitid>
 						<unittitle>Examination of <persname id="marsus">Susannah Martin</persname>,
@@ -2375,7 +2375,7 @@
 						<bibref>ECCA, Vol. 1, no. 175.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5101">
 					<did>
 						<unitid>ecca1176</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="marsus">Susannah
@@ -2389,7 +2389,7 @@
 						<bibref>ECCA, Vol. 1, no. 176.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5128">
 					<did>
 						<unitid>ecca1177</unitid>
 						<unittitle>Mittimus for <persname id="marsus">Susannah Martin</persname>,
@@ -2405,7 +2405,7 @@
 						<bibref>ECCA, Vol. 1, no. 177.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5165">
 					<did>
 						<unitid>ecca1178</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -2419,7 +2419,7 @@
 						<bibref>ECCA, Vol. 1, no. 178.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5195">
 					<did>
 						<unitid>ecca1179</unitid>
 						<unittitle>Deposition of <persname id="browil">William Brown</persname> v.
@@ -2433,7 +2433,7 @@
 						<bibref>ECCA, Vol. 1, nos. 179 &amp; 180.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5225">
 					<did>
 						<unitid>ecca1181</unitid>
 						<unittitle>Deposition of <persname id="rinjar">Jarvis Ring</persname> v.
@@ -2450,7 +2450,7 @@
 						<bibref>ECCA, Vol. 1, nos. 181 &amp; 185.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5264">
 					<did>
 						<unitid>ecca1182</unitid>
 						<unittitle>Testimony and Deposition of <persname id="prejoh">John
@@ -2465,7 +2465,7 @@
 						<bibref>ECCA, Vol. 1, no. 182.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5294">
 					<did>
 						<unitid>ecca1183</unitid>
 						<unittitle>Deposition of <persname id="prejoh">John Pressey</persname> &amp;
@@ -2480,7 +2480,7 @@
 						<bibref>ECCA, Vol. 1, no. 183.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5327">
 					<did>
 						<unitid>ecca1184</unitid>
 						<unittitle>Deposition of <persname id="peaber">Bernard Peach</persname> v.
@@ -2494,7 +2494,7 @@
 						<bibref>ECCA, Vol. 1, no. 184.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5358">
 					<did>
 						<unitid>ecca1185</unitid>
 						<unittitle/>
@@ -2507,7 +2507,7 @@
 						<bibref>ECCA, Vol. 1, no. 185.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5382">
 					<did>
 						<unitid>ecca1186</unitid>
 						<unittitle>Deposition of <persname id="kimjoh">John Kimball</persname> v.
@@ -2521,7 +2521,7 @@
 						<bibref>ECCA, Vol. 1, no. 186.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5412">
 					<did>
 						<unitid>ecca1187</unitid>
 						<unittitle>Deposition of <persname id="kimjoh">John Kimball</persname> v.
@@ -2535,7 +2535,7 @@
 						<bibref>ECCA, Vol. 1, no. 187.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5442">
 					<did>
 						<unitid>ecca1188</unitid>
 						<unittitle>Deposition of <persname id="alljoh">John Allen</persname> v.
@@ -2549,7 +2549,7 @@
 						<bibref>ECCA, Vol. 1, no. 188.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5472">
 					<did>
 						<unitid>ecca1189</unitid>
 						<unittitle>Deposition of <persname id="peaber">Bernard Peach</persname> v.
@@ -2563,7 +2563,7 @@
 						<bibref>ECCA, Vol. 1, no. 189.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5502">
 					<did>
 						<unitid>ecca1190</unitid>
 						<unittitle>Deposition of <persname id="knijos">Joseph Knight</persname>
@@ -2578,7 +2578,7 @@
 						<bibref>ECCA, Vol. 1, nos. 190 &amp; 192.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5536">
 					<did>
 						<unitid>ecca1191</unitid>
 						<unittitle>Depositions of <persname id="dowrob">Robert Downer</persname>,
@@ -2594,7 +2594,7 @@
 						<bibref>ECCA, Vol. 1, no. 191.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5572">
 					<did>
 						<unitid>ecca1193</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> v.
@@ -2610,7 +2610,7 @@
 						<bibref>ECCA, Vol. 1, no. 193.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5608">
 					<did>
 						<unitid>ecca1194</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -2626,7 +2626,7 @@
 						<bibref>ECCA, Vol. 1, no. 194.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5644">
 					<did>
 						<unitid>ecca1195</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -2640,7 +2640,7 @@
 						<bibref>ECCA, Vol. 1, no. 195.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5674">
 					<did>
 						<unitid>ecca1196</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -2654,7 +2654,7 @@
 						<bibref>ECCA, Vol. 1, no. 196.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5704">
 					<did>
 						<unitid>ecca1197</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -2668,7 +2668,7 @@
 						<bibref>ECCA, Vol. 1, no. 197.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5735">
 					<did>
 						<unitid>ecca1198</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -2682,7 +2682,7 @@
 						<bibref>ECCA, Vol. 1, no. 198.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5765">
 					<did>
 						<unitid>ecca1199</unitid>
 						<unittitle>Testimony of <persname id="atkjoh">John Atkinson</persname> v.
@@ -2696,7 +2696,7 @@
 						<bibref>ECCA, Vol. 1, no. 199.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5795">
 					<did>
 						<unitid>ecca1200</unitid>
 						<unittitle>Testimony of <persname id="atksar">Sarah Atkinson</persname> v.
@@ -2710,7 +2710,7 @@
 						<bibref>ECCA, Vol. 1, no. 200.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5825">
 					<did>
 						<unitid>ecca1201</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="hareli">Elizabeth
@@ -2725,7 +2725,7 @@
 						<bibref>ECCA, Vol. 1, no. 201.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5856">
 					<did>
 						<unitid>ecca1203</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -2739,7 +2739,7 @@
 						<bibref>ECCA, Vol. 1, no. 203.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5886">
 					<did>
 						<unitid>ecca1204</unitid>
 						<unittitle>Indictment No. 2 of <persname id="hoador">Dorcas Hoar</persname>,
@@ -2753,7 +2753,7 @@
 						<bibref>ECCA, Vol. 1, no. 204.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5917">
 					<did>
 						<unitid>ecca1205</unitid>
 						<unittitle>Indictment No. 1 of <persname id="hoador">Dorcas Hoar</persname>,
@@ -2768,7 +2768,7 @@
 						<bibref>ECCA, Vol. 1, no. 205.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5947">
 					<did>
 						<unitid>ecca1206</unitid>
 						<unittitle>Examination of <persname id="hoador">Dorcas
@@ -2782,7 +2782,7 @@
 						<bibref>ECCA, Vol. 1, no. 206.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e5974">
 					<did>
 						<unitid>ecca1207</unitid>
 						<unittitle>Deposition of <persname id="coxhan">Hannah Cox</persname> &amp;
@@ -2797,7 +2797,7 @@
 						<bibref>ECCA, Vol. 1, no. 207.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6007">
 					<did>
 						<unitid>ecca1208</unitid>
 						<unittitle>Deposition of <persname id="ricjoh">John Richards</persname>
@@ -2812,7 +2812,7 @@
 						<bibref>ECCA, Vol. 1, no. 208.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6040">
 					<did>
 						<unitid>ecca1209</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -2826,7 +2826,7 @@
 						<bibref>ECCA, Vol. 1, no. 209.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6070">
 					<did>
 						<unitid>ecca1210</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -2840,7 +2840,7 @@
 						<bibref>ECCA, Vol. 1, no. 210.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6101">
 					<did>
 						<unitid>ecca1211</unitid>
 						<unittitle>Testimony of <persname id="haljoh">John Hale</persname> v.
@@ -2854,7 +2854,7 @@
 						<bibref>ECCA, Vol. 1, no. 211.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6131">
 					<did>
 						<unitid>ecca1212</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -2868,7 +2868,7 @@
 						<bibref>ECCA, Vol. 1, no. 212.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6161">
 					<did>
 						<unitid>ecca1213</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -2882,7 +2882,7 @@
 						<bibref>ECCA, Vol. 1, no. 213.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6191">
 					<did>
 						<unitid>ecca1214</unitid>
 						<unittitle>Depositions of Joseph &amp; <persname id="mordeb">Deborah
@@ -2897,7 +2897,7 @@
 						<bibref>ECCA, Vol. 1, no. 214.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6221">
 					<did>
 						<unitid>ecca1215</unitid>
 						<unittitle>Deposition of <persname id="hooedw">Edward Hooper</persname> v.
@@ -2911,7 +2911,7 @@
 						<bibref>ECCA, Vol. 1, no. 215.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6251">
 					<did>
 						<unitid>ecca1216</unitid>
 						<unittitle>Deposition of <persname id="">John Tuck</persname> &amp;
@@ -2926,7 +2926,7 @@
 						<bibref>ECCA, Vol. 1, no. 216.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6285">
 					<did>
 						<unitid>ecca1217</unitid>
 						<unittitle>Deposition of <persname id="">Maria Gage</persname> v. <persname
@@ -2940,7 +2940,7 @@
 						<bibref>ECCA, Vol. 1, no. 217.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6315">
 					<did>
 						<unitid>ecca1218</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -2955,7 +2955,7 @@
 						<bibref>ECCA, Vol. 1, no. 218.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6348">
 					<did>
 						<unitid>ecca1219</unitid>
 						<unittitle>Deposition of <persname id="">John Lovet</persname> v. <persname
@@ -2969,7 +2969,7 @@
 						<bibref>ECCA, Vol. 1, no. 219.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6378">
 					<did>
 						<unitid>ecca1220</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="jacgeo1">George
@@ -2984,7 +2984,7 @@
 						<bibref>ECCA, Vol. 1, no. 220.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6408">
 					<did>
 						<unitid>ecca1221</unitid>
 						<unittitle>Complaint of <persname id="ingnat">Nathaniel Ingersoll</persname>
@@ -3006,7 +3006,7 @@
 						<bibref>ECCA, Vol. 1, no. 221.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6467">
 					<did>
 						<unitid>ecca1222</unitid>
 						<unittitle>Indictment No. 2 of <persname id="jacgeo1">George Jacobs
@@ -3021,7 +3021,7 @@
 						<bibref>ECCA, Vol. 1, no. 222.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6499">
 					<did>
 						<unitid>ecca1223</unitid>
 						<unittitle>Testimony of <persname id="wilabi">Abigail Williams</persname> v.
@@ -3036,7 +3036,7 @@
 						<bibref>ECCA, Vol. 1, no. 223.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6530">
 					<did>
 						<unitid>ecca1224</unitid>
 						<unittitle>Examinations of <persname id="jacgeo1">George Jacobs
@@ -3051,7 +3051,7 @@
 						<bibref>ECCA, Vol. 1, no. 224.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6558">
 					<did>
 						<unitid>ecca1225</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="jacgeo1">George Jacobs
@@ -3066,7 +3066,7 @@
 						<bibref>ECCA, Vol. 1, no. 225.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6586">
 					<did>
 						<unitid>ecca1226</unitid>
 						<unittitle>Statements of <persname id="">Sarah Bibber</persname>, <persname
@@ -3085,7 +3085,7 @@
 						<bibref>ECCA, Vol. 1, no. 226.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6630">
 					<did>
 						<unitid>ecca1227</unitid>
 						<unittitle>Testimony of <persname id="derjoh">John DeRich</persname> v.
@@ -3100,7 +3100,7 @@
 						<bibref>ECCA, Vol. 1, no. 227.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6661">
 					<did>
 						<unitid>ecca1228</unitid>
 						<unittitle>Testimony of <persname id="hergeo">George Herrick</persname> v.
@@ -3115,7 +3115,7 @@
 						<bibref>ECCA, Vol. 1, no. 228.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6693">
 					<did>
 						<unitid>ecca1229</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -3130,7 +3130,7 @@
 						<bibref>ECCA, Vol. 1, no. 229.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6724">
 					<did>
 						<unitid>ecca1230</unitid>
 						<unittitle>Deposition of <persname id="flijos">Joseph Flint</persname> v.
@@ -3145,7 +3145,7 @@
 						<bibref>ECCA, Vol. 1, no. 230.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6755">
 					<did>
 						<unitid>ecca1231</unitid>
 						<unittitle>Warrant No. 1 for the Apprehension of <persname
@@ -3159,7 +3159,7 @@
 						<bibref>ECCA, Vol. 1, no. 231.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6782">
 					<did>
 						<unitid>ecca1232</unitid>
 						<unittitle>Indictment No. 3 of <persname id="wiljoh4wiljoh3">John
@@ -3174,7 +3174,7 @@
 						<bibref>ECCA, Vol. 1, no. 232.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6813">
 					<did>
 						<unitid>ecca1233</unitid>
 						<unittitle>Indictment No. 2 of <persname id="wiljoh4wiljoh3">John
@@ -3189,7 +3189,7 @@
 						<bibref>ECCA, Vol. 1, no. 233.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6843">
 					<did>
 						<unitid>ecca1234</unitid>
 						<unittitle>Indictment No. 1 of <persname id="wiljoh4wiljoh3">John
@@ -3204,7 +3204,7 @@
 						<bibref>ECCA, Vol. 1, no. 234.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6874">
 					<did>
 						<unitid>ecca1235</unitid>
 						<unittitle>Indictment No. 7 of <persname id="wiljoh4wiljoh3">John
@@ -3219,7 +3219,7 @@
 						<bibref>ECCA, Vol. 1, no. 235.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6904">
 					<did>
 						<unitid>ecca1236</unitid>
 						<unittitle>Indictment No. 4 of <persname id="wiljoh4wiljoh3">John
@@ -3234,7 +3234,7 @@
 						<bibref>ECCA, Vol. 1, no. 236.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6934">
 					<did>
 						<unitid>ecca1237</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="wiljoh4wiljoh3">John
@@ -3248,7 +3248,7 @@
 						<bibref>ECCA, Vol. 1, no. 237.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6961">
 					<did>
 						<unitid>ecca1238</unitid>
 						<unittitle>Warrant No. 2 for the Apprehension of <persname
@@ -3262,7 +3262,7 @@
 						<bibref>ECCA, Vol. 1, no. 238.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e6988">
 					<did>
 						<unitid>ecca1239</unitid>
 						<unittitle>Witnesses v. <persname id="wiljoh4wiljoh3">John
@@ -3276,7 +3276,7 @@
 						<bibref>ECCA, Vol. 1, no. 239.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7015">
 					<did>
 						<unitid>ecca1240</unitid>
 						<unittitle>Testimony of <persname id="putann1">Ann Putnam Sr.</persname> v.
@@ -3292,7 +3292,7 @@
 						<bibref>ECCA, Vol. 1, no. 240.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7052">
 					<did>
 						<unitid>ecca1241</unitid>
 						<unittitle>Testimony of <persname id="">Susannah Shelden</persname> v.
@@ -3310,7 +3310,7 @@
 						<bibref>ECCA, Vol. 1, no. 202 &amp; 241.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7098">
 					<did>
 						<unitid>ecca1242</unitid>
 						<unittitle>Deposition of <persname id="parsam">Samuel Parris</persname>,
@@ -3326,7 +3326,7 @@
 						<bibref>ECCA, Vol. 1, no. 242.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7134">
 					<did>
 						<unitid>ecca1243</unitid>
 						<unittitle>Testimony of <persname id="">Susannah Shelden</persname> v.
@@ -3340,7 +3340,7 @@
 						<bibref>ECCA, Vol. 1, no. 243.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7164">
 					<did>
 						<unitid>ecca1244</unitid>
 						<unittitle>Statement of <persname id="">Susannah Shelden</persname> v.
@@ -3355,7 +3355,7 @@
 						<bibref>ECCA, Vol. 1, no. 244.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7197">
 					<did>
 						<unitid>ecca1245</unitid>
 						<unittitle>Testimony of <persname id="">Sarah Bibber</persname> v. <persname
@@ -3369,7 +3369,7 @@
 						<bibref>ECCA, Vol. 1, no. 245.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7227">
 					<did>
 						<unitid>ecca1246</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -3383,7 +3383,7 @@
 						<bibref>ECCA, Vol. 1, no. 246.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7258">
 					<did>
 						<unitid>ecca1247</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname>
@@ -3398,7 +3398,7 @@
 						<bibref>ECCA, Vol. 1, no. 247.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7291">
 					<did>
 						<unitid>ecca1248</unitid>
 						<unittitle>Deposition of <persname id="niclyd">Lydia Nichols</persname>
@@ -3413,7 +3413,7 @@
 						<bibref>ECCA, Vol. 1, no. 248.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7324">
 					<did>
 						<unitid>ecca1249</unitid>
 						<unittitle>Deposition of <persname id="wilsam">Samuel Wilkins</persname> v.
@@ -3427,7 +3427,7 @@
 						<bibref>ECCA, Vol. 1, no. 249.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7354">
 					<did>
 						<unitid>ecca1250</unitid>
 						<unittitle>Deposition of <persname id="baitho">Thomas Bailey</persname> v.
@@ -3441,7 +3441,7 @@
 						<bibref>ECCA, Vol. 1, no. 250.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7384">
 					<did>
 						<unitid>ecca1251</unitid>
 						<unittitle>Deposition of <persname id="baieli">Elizabeth Bailey</persname>
@@ -3455,7 +3455,7 @@
 						<bibref>ECCA, Vol. 1, no. 251.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7414">
 					<did>
 						<unitid>ecca1252</unitid>
 						<unittitle>Testimony of <persname id="wilreb">Rebecca Wilkins</persname> v.
@@ -3469,7 +3469,7 @@
 						<bibref>ECCA, Vol. 1, no. 252.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7445">
 					<did>
 						<unitid>ecca1253</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -3484,7 +3484,7 @@
 						<bibref>ECCA, Vol. 1, no. 253.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7478">
 					<did>
 						<unitid>ecca1254</unitid>
 						<unittitle>Deposition of <persname id="wilhen">Henry Wilkins Sr.</persname>
@@ -3498,7 +3498,7 @@
 						<bibref>ECCA, Vol. 1, no. 254.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7508">
 					<did>
 						<unitid>ecca1255</unitid>
 						<unittitle>Testimony of <persname id="wilben">Benjamin Wilkins</persname>
@@ -3513,7 +3513,7 @@
 						<bibref>ECCA, Vol. 1, no. 255.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7541">
 					<did>
 						<unitid>ecca1256</unitid>
 						<unittitle>Deposition of <persname id="kniphi">Philip Knight</persname>
@@ -3528,7 +3528,7 @@
 						<bibref>ECCA, Vol. 1, no. 256.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7574">
 					<did>
 						<unitid>ecca1257</unitid>
 						<unittitle>Testimony of <persname id="wilben">Benjamin Wilkins</persname>
@@ -3544,7 +3544,7 @@
 						<bibref>ECCA, Vol. 1, no. 257.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7610">
 					<did>
 						<unitid>ecca1258</unitid>
 						<unittitle>Deposition of <persname id="wilbra">Bray Wilkins</persname> v.
@@ -3558,7 +3558,7 @@
 						<bibref>ECCA, Vol. 1, no. 258.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7641">
 					<did>
 						<unitid>ecca1259</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -3572,7 +3572,7 @@
 						<bibref>ECCA, Vol. 1, no. 259.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7671">
 					<did>
 						<unitid>ecca1260</unitid>
 						<unittitle>Indictment of <persname id="pudann">Ann Pudeator</persname>, for
@@ -3586,7 +3586,7 @@
 						<bibref>ECCA, Vol. 1, no. 260.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7701">
 					<did>
 						<unitid>ecca1261</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="parali">Alice
@@ -3601,7 +3601,7 @@
 						<bibref>ECCA, Vol. 1, no. 261.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7731">
 					<did>
 						<unitid>ecca1262</unitid>
 						<unittitle>Testimony of <persname id="chusar">Sarah Churchill</persname> v.
@@ -3620,7 +3620,7 @@
 						<bibref>ECCA, Vol. 1, no. 262.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7778">
 					<did>
 						<unitid>ecca1263</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="parali">Alice
@@ -3635,7 +3635,7 @@
 						<bibref>ECCA, Vol. 1, no. 263.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7808">
 					<did>
 						<unitid>ecca1264</unitid>
 						<unittitle>Examination of <persname id="pudann">Ann
@@ -3649,7 +3649,7 @@
 						<bibref>ECCA, Vol. 1, no. 264.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7836">
 					<did>
 						<unitid>ecca1265</unitid>
 						<unittitle>Testimony of <persname id="chusar">Sarah Churchill</persname>,
@@ -3667,7 +3667,7 @@
 						<bibref>ECCA, Vol. 1, no. 265.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7882">
 					<did>
 						<unitid>ecca1266</unitid>
 						<unittitle>Testimony of <persname id="piksam">Samuel Pickworth</persname>
@@ -3682,7 +3682,7 @@
 						<bibref>ECCA, Vol. 1, no. 266.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7915">
 					<did>
 						<unitid>ecca1267</unitid>
 						<unittitle>Petition of <persname id="pudann">Ann
@@ -3696,7 +3696,7 @@
 						<bibref>ECCA, Vol. 1, no. 267.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7942">
 					<did>
 						<unitid>ecca1268</unitid>
 						<unittitle>Testimony of <persname id="besjoh1">John Best Sr.</persname> v.
@@ -3710,7 +3710,7 @@
 						<bibref>ECCA, Vol. 1, no. 268.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e7972">
 					<did>
 						<unitid>ecca1269</unitid>
 						<unittitle>Testimony of <persname id="besjoh2">John Best Jr.</persname> , v.
@@ -3724,7 +3724,7 @@
 						<bibref>ECCA, Vol. 1, no. 269.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8002">
 					<did>
 						<unitid>ecca1270</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Daniel
@@ -3741,7 +3741,7 @@
 						<bibref>ECCA, Vol. 1, no. 270.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8042">
 					<did>
 						<unitid>ecca1271</unitid>
 						<unittitle>Indictment of <persname id="jacreb">Rebecca Jacobs</persname>,
@@ -3755,7 +3755,7 @@
 						<bibref>ECCA, Vol. 1, no. 271.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8070">
 					<did>
 						<unitid>ecca1272</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -3769,7 +3769,7 @@
 						<bibref>ECCA, Vol. 1, no. 272.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8100">
 					<did>
 						<unitid>ecca1273</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="toorog">Roger
@@ -3783,7 +3783,7 @@
 						<bibref>ECCA, Vol. 1, no. 273.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8127">
 					<did>
 						<unitid>ecca1274</unitid>
 						<unittitle>Mittimus for <persname id="toorog">Roger Toothaker</persname>,
@@ -3799,7 +3799,7 @@
 						<bibref>ECCA, Vol. 1, no. 274.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8163">
 					<did>
 						<unitid>ecca1275</unitid>
 						<unittitle>Deposition of <persname id="gadtho">Thomas Gage</persname> v.
@@ -3813,7 +3813,7 @@
 						<bibref>ECCA, Vol. 1, no. 275.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8193">
 					<did>
 						<unitid>ecca1276</unitid>
 						<unittitle>Complaint of <persname id="putjoh2">John Putnam Jr.</persname>
@@ -3829,7 +3829,7 @@
 						<bibref>ECCA, Vol. 1, no. 276.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8230">
 					<did>
 						<unitid>ecca1277</unitid>
 						<unittitle>Indictment No. 2 of <persname id="">Mary Esty</persname>, for
@@ -3844,7 +3844,7 @@
 						<bibref>ECCA, Vol. 1, no. 277.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8260">
 					<did>
 						<unitid>ecca1278</unitid>
 						<unittitle>Indictment No. 1 of <persname id="">Mary Esty</persname>, for
@@ -3858,7 +3858,7 @@
 						<bibref>ECCA, Vol. 1, no. 278.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8290">
 					<did>
 						<unitid>ecca1279</unitid>
 						<unittitle>Deposition of <persname id="">Jonathan Putnamm</persname>
@@ -3875,7 +3875,7 @@
 						<bibref>ECCA, Vol. 1, no. 279.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8329">
 					<did>
 						<unitid>ecca1280</unitid>
 						<unittitle>Testimony of <persname id="hergeo">George Herrick</persname>
@@ -3890,7 +3890,7 @@
 						<bibref>ECCA, Vol. 1, no. 280.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8362">
 					<did>
 						<unitid>ecca1281</unitid>
 						<unittitle>Examination of <persname id="">Mary Esty</persname></unittitle>
@@ -3903,7 +3903,7 @@
 						<bibref>ECCA, Vol. 1, no. 281.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8389">
 					<did>
 						<unitid>ecca1282</unitid>
 						<unittitle>Statement of <persname id="">Sarah Bibber</persname> v. <persname
@@ -3917,7 +3917,7 @@
 						<bibref>ECCA, Vol. 1, no. 282.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8420">
 					<did>
 						<unitid>ecca1283</unitid>
 						<unittitle>Statement of <persname id="warmar">Mary Warren</persname> v.
@@ -3931,7 +3931,7 @@
 						<bibref>ECCA, Vol. 1, no. 283.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8450">
 					<did>
 						<unitid>ecca1284</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -3945,7 +3945,7 @@
 						<bibref>ECCA, Vol. 1, no. 284.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8480">
 					<did>
 						<unitid>ecca1285</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -3961,7 +3961,7 @@
 						<bibref>ECCA, Vol. 1, no. 285.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8516">
 					<did>
 						<unitid>ecca1286</unitid>
 						<unittitle>Deposition of <persname id="wilabi">Abigail Williams</persname>
@@ -3979,7 +3979,7 @@
 						<bibref>ECCA, Vol. 1, no. 286.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8562">
 					<did>
 						<unitid>ecca1287</unitid>
 						<unittitle>Excuse of <persname id="towmar">Mary Towne</persname></unittitle>
@@ -3992,7 +3992,7 @@
 						<bibref>ECCA, Vol. 1, no. 287.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8589">
 					<did>
 						<unitid>ecca1288</unitid>
 						<unittitle>Summons of <persname id="towmar">Mary Towne</persname> &amp;
@@ -4006,7 +4006,7 @@
 						<bibref>ECCA, Vol. 1, no. 288.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8620">
 					<did>
 						<unitid>ecca1289</unitid>
 						<unittitle>Statement of <persname id="">Thomas</persname> &amp; <persname
@@ -4021,7 +4021,7 @@
 						<bibref>ECCA, Vol. 1, no. 289.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8653">
 					<did>
 						<unitid>ecca1290</unitid>
 						<unittitle>Deposition of <persname id="abbsam1">Samuel Abby</persname> and
@@ -4038,7 +4038,7 @@
 						<bibref>ECCA, Vol. 1, no. 290.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8692">
 					<did>
 						<unitid>ecca1291</unitid>
 						<unittitle>Deposition of <persname id="putedw">Edward Putnam</persname> v.
@@ -4052,7 +4052,7 @@
 						<bibref>ECCA, Vol. 1, no. 291.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8722">
 					<did>
 						<unitid>ecca1292</unitid>
 						<unittitle>Deposition of <persname id="smisam">Samuel Smith</persname> v.
@@ -4066,7 +4066,7 @@
 						<bibref>ECCA, Vol. 1, no. 292.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8752">
 					<did>
 						<unitid>ecca1293</unitid>
 						<unittitle>Deposition of <persname id="redmar">Margaret
@@ -4081,7 +4081,7 @@
 						<bibref>ECCA, Vol. 1, no. 293.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8782">
 					<did>
 						<unitid>ecca1294</unitid>
 						<unittitle>Petition of <persname id="">Mary Esty</persname></unittitle>
@@ -4094,7 +4094,7 @@
 						<bibref>ECCA, Vol. 1, no. 294.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8810">
 					<did>
 						<unitid>ecca1295</unitid>
 						<unittitle>Petition of <persname id="closar">Sarah Cloyce</persname> &amp;
@@ -4108,7 +4108,7 @@
 						<bibref>ECCA, Vol. 1, no. 295.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8840">
 					<did>
 						<unitid>ecca1296</unitid>
 						<unittitle>Statements of John &amp; <persname id="arnmar">Mary
@@ -4123,7 +4123,7 @@
 						<bibref>ECCA, Vol. 1, no. 296.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8873">
 					<did>
 						<unitid>ecca1297</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> v.
@@ -4137,7 +4137,7 @@
 						<bibref>ECCA, Vol. 1, no. 297.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8903">
 					<did>
 						<unitid>ecca1298</unitid>
 						<unittitle>Testimony of <persname id="putjoh2">John Putnam Jr.</persname> v.
@@ -4151,7 +4151,7 @@
 						<bibref>ECCA, Vol. 1, no. 298.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8933">
 					<did>
 						<unitid>ecca1299</unitid>
 						<unittitle>Deposition of <persname id="">David Ferneaux</persname> &amp;
@@ -4166,7 +4166,7 @@
 						<bibref>ECCA, Vol. 1, no. 299.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e8966">
 					<did>
 						<unitid>ecca1300</unitid>
 						<unittitle>Complaint of <persname id="">Thomas Putnam</persname> &amp;
@@ -4182,7 +4182,7 @@
 						<bibref>ECCA, Vol. 1, no. 300.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9006">
 					<did>
 						<unitid>ecca1301</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -4198,7 +4198,7 @@
 						<bibref>ECCA, Vol. 1, no. 301.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9042">
 					<did>
 						<unitid>ecca1302</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname> v.
@@ -4214,7 +4214,7 @@
 						<bibref>ECCA, Vol. 1, no. 302.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9081">
 					<did>
 						<unitid>ecca1303</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -4228,7 +4228,7 @@
 						<bibref>ECCA, Vol. 1, no. 303.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9111">
 					<did>
 						<unitid>ecca1304</unitid>
 						<unittitle>Statement of <persname id="">Susannah Shelden</persname> v.
@@ -4245,7 +4245,7 @@
 						<bibref>ECCA, Vol. 1, no. 304.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9150">
 					<did>
 						<unitid>ecca1305</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="roosus">Susannah
@@ -4259,7 +4259,7 @@
 						<bibref>ECCA, Vol. 1, no. 305.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9177">
 					<did>
 						<unitid>ecca1306</unitid>
 						<unittitle>Statement of <persname id="">Andrew Elliott</persname> v.
@@ -4273,7 +4273,7 @@
 						<bibref>ECCA, Vol. 1, no. 306.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9208">
 					<did>
 						<unitid>ecca1307</unitid>
 						<unittitle>Complaint of <persname id="ingnat">Nathaniel Ingersoll</persname>
@@ -4290,7 +4290,7 @@
 						<bibref>ECCA, Vol. 1, no. 307.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9247">
 					<did>
 						<unitid>ecca1308</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Benjamin
@@ -4305,7 +4305,7 @@
 						<bibref>ECCA, Vol. 1, no. 308.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9280">
 					<did>
 						<unitid>ecca1309</unitid>
 						<unittitle>Complaint of <persname id="">Joseph Houlton</persname> &amp;
@@ -4328,7 +4328,7 @@
 						<bibref>ECCA, Vol. 1, no. 309.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9346">
 					<did>
 						<unitid>ecca1310</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="carmar1">Martha
@@ -4342,7 +4342,7 @@
 						<bibref>ECCA, Vol. 1, no. 310.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9373">
 					<did>
 						<unitid>ecca1311</unitid>
 						<unittitle>Examination of <persname id="carmar1">Martha
@@ -4356,7 +4356,7 @@
 						<bibref>ECCA, Vol. 1, no. 311.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9400">
 					<did>
 						<unitid>ecca1312</unitid>
 						<unittitle>Indictment No. 2 of <persname id="carmar1">Martha
@@ -4371,7 +4371,7 @@
 						<bibref>ECCA, Vol. 1, no. 312.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9431">
 					<did>
 						<unitid>ecca1313</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="carmar1">Martha
@@ -4385,7 +4385,7 @@
 						<bibref>ECCA, Vol. 1, no. 313.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9458">
 					<did>
 						<unitid>ecca1314</unitid>
 						<unittitle>Testimony of <persname id="abbben">Benjamin Abbott</persname> and
@@ -4400,7 +4400,7 @@
 						<bibref>ECCA, Vol. 1, no. 314.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9491">
 					<did>
 						<unitid>ecca1315</unitid>
 						<unittitle>Deposition of <persname id="rogjoh">John Rogers</persname> v.
@@ -4414,7 +4414,7 @@
 						<bibref>ECCA, Vol. 1, no. 315.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9521">
 					<did>
 						<unitid>ecca1316</unitid>
 						<unittitle>Deposition of <persname id="chapho">Phoebe Chandler</persname>
@@ -4429,7 +4429,7 @@
 						<bibref>ECCA, Vol. 1, no. 316.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9554">
 					<did>
 						<unitid>ecca1317</unitid>
 						<unittitle>Deposition of <persname id="tooall">Allen Toothaker</persname> v.
@@ -4443,7 +4443,7 @@
 						<bibref>ECCA, Vol. 1, no. 317.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9584">
 					<did>
 						<unitid>ecca1318</unitid>
 						<unittitle>Statement of <persname id="presam">Samuel Preston</persname> v.
@@ -4457,7 +4457,7 @@
 						<bibref>ECCA, Vol. 1, no. 318.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9615">
 					<did>
 						<unitid>ecca1319</unitid>
 						<unittitle>Statement of <persname id="danfra1">Francis Dane Sr.</persname> ,
@@ -4471,7 +4471,7 @@
 						<bibref>ECCA, Vol. 1, no. 319.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9643">
 					<did>
 						<unitid>ecca1320</unitid>
 						<unittitle>Witnesses v. <persname id="howeli">Elizabeth
@@ -4485,7 +4485,7 @@
 						<bibref>ECCA, Vol. 1, no. 320.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9670">
 					<did>
 						<unitid>ecca1321</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="howeli">Elizabeth
@@ -4499,7 +4499,7 @@
 						<bibref>ECCA, Vol. 1, no. 321.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9697">
 					<did>
 						<unitid>ecca1322</unitid>
 						<unittitle>Examination of <persname id="howeli">Elizabeth
@@ -4513,7 +4513,7 @@
 						<bibref>ECCA, Vol. 1, no. 322.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9724">
 					<did>
 						<unitid>ecca1323</unitid>
 						<unittitle>Deposition of <persname id="pertim">Timothy Perley</persname>
@@ -4528,7 +4528,7 @@
 						<bibref>ECCA, Vol. 1, no. 323.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9757">
 					<did>
 						<unitid>ecca1324</unitid>
 						<unittitle>Indictment No. 1 of <persname id="howeli">Elizabeth
@@ -4543,7 +4543,7 @@
 						<bibref>ECCA, Vol. 1, no. 324.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9788">
 					<did>
 						<unitid>ecca1325</unitid>
 						<unittitle>Deposition of <persname id="persam">Samuel Perley</persname>
@@ -4559,7 +4559,7 @@
 						<bibref>ECCA, Vol. 1, no. 325.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9824">
 					<did>
 						<unitid>ecca1326</unitid>
 						<unittitle>Testimony of <persname id="phisam">Samuel Phillips</persname>
@@ -4574,7 +4574,7 @@
 						<bibref>ECCA, Vol. 1, no. 326.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9857">
 					<did>
 						<unitid>ecca1327</unitid>
 						<unittitle>Deposition of <persname id="haddeb">Deborah Hadley</persname> for
@@ -4588,7 +4588,7 @@
 						<bibref>ECCA, Vol. 1, no. 327.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9887">
 					<did>
 						<unitid>ecca1328</unitid>
 						<unittitle>Testimony of <persname id="chasim">Simon Chapman</persname> &amp;
@@ -4603,7 +4603,7 @@
 						<bibref>ECCA, Vol. 1, no. 328.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9920">
 					<did>
 						<unitid>ecca1329</unitid>
 						<unittitle>Statement of <persname id="wardan">Daniel Warner</persname>,
@@ -4619,7 +4619,7 @@
 						<bibref>ECCA, Vol. 1, no. 329.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9956">
 					<did>
 						<unitid>ecca1330</unitid>
 						<unittitle>Deposition of <persname id="cumisa1">Isaac Cummings
@@ -4634,7 +4634,7 @@
 						<bibref>ECCA, Vol. 1, no. 330.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e9987">
 					<did>
 						<unitid>ecca1331</unitid>
 						<unittitle>Three Depositions of <persname id="cummar">Mary
@@ -4649,7 +4649,7 @@
 						<bibref>ECCA, Vol. 1, no. 331.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10018">
 					<did>
 						<unitid>ecca1332</unitid>
 						<unittitle>Statement of <persname id="knojos">Joseph Knowlton</persname>
@@ -4664,7 +4664,7 @@
 						<bibref>ECCA, Vol. 1, no. 332.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10051">
 					<did>
 						<unitid>ecca1333</unitid>
 						<unittitle>Testimony of <persname id="cumisa2">Isaac Cummings Jr.</persname>
@@ -4678,7 +4678,7 @@
 						<bibref>ECCA, Vol. 1, no. 333.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10081">
 					<did>
 						<unitid>ecca1334</unitid>
 						<unittitle>Testimony of <persname id="lanfra">Francis Lane</persname> v.
@@ -4692,7 +4692,7 @@
 						<bibref>ECCA, Vol. 1, no. 334.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10111">
 					<did>
 						<unitid>ecca1335</unitid>
 						<unittitle>Testimony of <persname id="howjohhowjoh2">John How</persname> v.
@@ -4706,7 +4706,7 @@
 						<bibref>ECCA, Vol. 1, no. 335.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10141">
 					<did>
 						<unitid>ecca1336</unitid>
 						<unittitle>Deposition of <persname id="fosjac">Jacob Foster</persname> v.
@@ -4720,7 +4720,7 @@
 						<bibref>ECCA, Vol. 1, no. 336.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10172">
 					<did>
 						<unitid>ecca1337</unitid>
 						<unittitle>Deposition of <persname id="safjos">Joseph Safford</persname> v.
@@ -4735,7 +4735,7 @@
 						<bibref>ECCA, Vol. 1, no. 337.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10205">
 					<did>
 						<unitid>ecca1338</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Andrews</persname> v.
@@ -4749,7 +4749,7 @@
 						<bibref>ECCA, Vol. 1, no. 338.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10235">
 					<did>
 						<unitid>ecca1339</unitid>
 						<unittitle>Statement of <persname id="howjam1">James How Sr.</persname> ,
@@ -4763,7 +4763,7 @@
 						<bibref>ECCA, Vol. 1, no. 339.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10265">
 					<did>
 						<unitid>ecca1400</unitid>
 						<unittitle>Deposition of <persname id="chupri">Priscilla Chub</persname> v.
@@ -4784,7 +4784,7 @@
 				<did>
 					<unittitle>Volume 2</unittitle>
 				</did>
-				<c level="item">
+				<c level="item" id="d1e10304">
 					<did>
 						<unitid>ecca2001</unitid>
 						<unittitle>Indictment of <persname id="">William Procter</persname>, for
@@ -4799,7 +4799,7 @@
 						<bibref>ECCA, Vol. 2, no. 1.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10335">
 					<did>
 						<unitid>ecca2002</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">William
@@ -4813,7 +4813,7 @@
 						<bibref>ECCA, Vol. 2, no. 2.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10362">
 					<did>
 						<unitid>ecca2003</unitid>
 						<unittitle>Indictment of <persname id="">William Procter</persname>, for
@@ -4828,7 +4828,7 @@
 						<bibref>ECCA, Vol. 2, no. 3.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10393">
 					<did>
 						<unitid>ecca2004</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -4842,7 +4842,7 @@
 						<bibref>ECCA, Vol. 2, no. 4.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10424">
 					<did>
 						<unitid>ecca2005</unitid>
 						<unittitle>Indictment of <persname id="">Wilmot Redd</persname>, for
@@ -4857,7 +4857,7 @@
 						<bibref>ECCA, Vol. 2, no. 5.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10455">
 					<did>
 						<unitid>ecca2006</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Wilmot
@@ -4871,7 +4871,7 @@
 						<bibref>ECCA, Vol. 2, no. 6.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10482">
 					<did>
 						<unitid>ecca2007</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="">Wilmot
@@ -4885,7 +4885,7 @@
 						<bibref>ECCA, Vol. 2, no. 7.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10509">
 					<did>
 						<unitid>ecca2008</unitid>
 						<unittitle>Examination of <persname id="">Wilmot Redd</persname></unittitle>
@@ -4898,7 +4898,7 @@
 						<bibref>ECCA, Vol. 2, no. 8.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10536">
 					<did>
 						<unitid>ecca2009</unitid>
 						<unittitle>Indictment of <persname id="">Wilmot Redd</persname>, for
@@ -4913,7 +4913,7 @@
 						<bibref>ECCA, Vol. 2, no. 9.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10566">
 					<did>
 						<unitid>ecca2010</unitid>
 						<unittitle>Deposition of <persname id="warmar">Mary Warren</persname> v.
@@ -4927,7 +4927,7 @@
 						<bibref>ECCA, Vol. 2, no. 10.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10597">
 					<did>
 						<unitid>ecca2011</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -4941,7 +4941,7 @@
 						<bibref>ECCA, Vol. 2, no. 11.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10627">
 					<did>
 						<unitid>ecca2012</unitid>
 						<unittitle>Deposition of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -4955,7 +4955,7 @@
 						<bibref>ECCA, Vol. 2, no. 12.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10657">
 					<did>
 						<unitid>ecca2013</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -4969,7 +4969,7 @@
 						<bibref>ECCA, Vol. 2, no. 13.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10687">
 					<did>
 						<unitid>ecca2014</unitid>
 						<unittitle>Testimony of <persname id="pitcha">Charity Pitman</persname> v.
@@ -4983,7 +4983,7 @@
 						<bibref>ECCA, Vol. 2, no. 14.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10717">
 					<did>
 						<unitid>ecca2015</unitid>
 						<unittitle>Statements of <persname id="dodsar">Sarah Dodd</persname> &amp;
@@ -4998,7 +4998,7 @@
 						<bibref>ECCA, Vol. 2, no. 15.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10750">
 					<did>
 						<unitid>ecca2016</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="foseli1">Elizabeth
@@ -5013,7 +5013,7 @@
 						<bibref>ECCA, Vol. 2, no. 16.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10781">
 					<did>
 						<unitid>ecca2017</unitid>
 						<unittitle>Complaint of <persname id="putnat">Nathaniel Putnam</persname>,
@@ -5030,7 +5030,7 @@
 						<bibref>ECCA, Vol. 2, no. 17.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10820">
 					<did>
 						<unitid>ecca2018</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="iremar">Mary
@@ -5044,7 +5044,7 @@
 						<bibref>ECCA, Vol. 2, no. 18.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10847">
 					<did>
 						<unitid>ecca2019</unitid>
 						<unittitle>Complaint of <persname id="putedw">Edward Putnam</persname>,
@@ -5062,7 +5062,7 @@
 						<bibref>ECCA, Vol. 2, no. 19.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10890">
 					<did>
 						<unitid>ecca2021</unitid>
 						<unittitle>Summons for Witness v. <persname id="burgeo">George
@@ -5076,7 +5076,7 @@
 						<bibref>ECCA, Vol. 2, no. 21.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10917">
 					<did>
 						<unitid>ecca2022</unitid>
 						<unittitle>Testimony of <persname id="websam">Samuel Webber</persname> v.
@@ -5090,7 +5090,7 @@
 						<bibref>ECCA, Vol. 2, no. 22.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10947">
 					<did>
 						<unitid>ecca2023</unitid>
 						<unittitle>Physical Examination of <persname id="burgeo">George
@@ -5106,7 +5106,7 @@
 						<bibref>ECCA, Vol. 2, no. 23.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e10979">
 					<did>
 						<unitid>ecca2024</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -5124,7 +5124,7 @@
 						<bibref>ECCA, Vol. 2, no. 24.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11025">
 					<did>
 						<unitid>ecca2025</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -5141,7 +5141,7 @@
 						<bibref>ECCA, Vol. 2, no. 25.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11064">
 					<did>
 						<unitid>ecca2026</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -5158,7 +5158,7 @@
 						<bibref>ECCA, Vol. 2, no. 26.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11103">
 					<did>
 						<unitid>ecca2027</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -5172,7 +5172,7 @@
 						<bibref>ECCA, Vol. 2, no. 27.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11133">
 					<did>
 						<unitid>ecca2028</unitid>
 						<unittitle>Depositions of <persname id="wilsim">Simon Willard</persname> v.
@@ -5188,7 +5188,7 @@
 						<bibref>ECCA, Vol. 2, no. 28.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11169">
 					<did>
 						<unitid>ecca2029</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="burgeo">George
@@ -5202,7 +5202,7 @@
 						<bibref>ECCA, Vol. 2, no. 29.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11197">
 					<did>
 						<unitid>ecca2030</unitid>
 						<unittitle>Statement of <persname id="hubeli">Elizabeth Hubbard</persname>
@@ -5216,7 +5216,7 @@
 						<bibref>ECCA, Vol. 2, no. 30.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11227">
 					<did>
 						<unitid>ecca2031</unitid>
 						<unittitle>Fragment of the Examination of <persname id="hobdel">Deliverance
@@ -5230,7 +5230,7 @@
 						<bibref>ECCA, Vol. 2, no. 31.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11254">
 					<did>
 						<unitid>ecca2032</unitid>
 						<unittitle>Deposition of <persname id="harhan">Hannah Harris</persname> v.
@@ -5244,7 +5244,7 @@
 						<bibref>ECCA, Vol. 2, no. 32.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11284">
 					<did>
 						<unitid>ecca2033</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Greenslit</persname> v.
@@ -5258,7 +5258,7 @@
 						<bibref>ECCA, Vol. 2, no. 33.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11314">
 					<did>
 						<unitid>ecca2034</unitid>
 						<unittitle>Statement of <persname id="">Susannah Shelden</persname> v.
@@ -5272,7 +5272,7 @@
 						<bibref>ECCA, Vol. 2, no. 34.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11344">
 					<did>
 						<unitid>ecca2035</unitid>
 						<unittitle>Statement of <persname id="hutben">Benjamin Hutchinson</persname>
@@ -5286,7 +5286,7 @@
 						<bibref>ECCA, Vol. 2, no. 35.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11375">
 					<did>
 						<unitid>ecca2036</unitid>
 						<unittitle>Memorandum: <persname id="">Major Brown</persname>, <persname
@@ -5303,7 +5303,7 @@
 						<bibref>ECCA, Vol. 2, no. 36.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11418">
 					<did>
 						<unitid>ecca2037</unitid>
 						<unittitle>Indictment of <persname id="fauabi1">Abigail Faulkner
@@ -5318,7 +5318,7 @@
 						<bibref>ECCA, Vol. 2, no. 37.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11448">
 					<did>
 						<unitid>ecca2038</unitid>
 						<unittitle>Indictment of <persname id="fauabi1">Abigail Faulkner
@@ -5333,7 +5333,7 @@
 						<bibref>ECCA, Vol. 2, no. 38.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11478">
 					<did>
 						<unitid>ecca2039</unitid>
 						<unittitle>Deposition of <persname id="fosros">Rose Foster</persname> v.
@@ -5348,7 +5348,7 @@
 						<bibref>ECCA, Vol. 2, no. 39.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11509">
 					<did>
 						<unitid>ecca2040</unitid>
 						<unittitle>Examinations of <persname id="fauabi1">Abigail Faulkner
@@ -5363,7 +5363,7 @@
 						<bibref>ECCA, Vol. 2, no. 40.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11537">
 					<did>
 						<unitid>ecca2041</unitid>
 						<unittitle>Deposition of <persname id="sprmar">Martha Sprague</persname> v.
@@ -5378,7 +5378,7 @@
 						<bibref>ECCA, Vol. 2, no. 41.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11569">
 					<did>
 						<unitid>ecca2042</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -5393,7 +5393,7 @@
 						<bibref>ECCA, Vol. 2, no. 42.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11600">
 					<did>
 						<unitid>ecca2043</unitid>
 						<unittitle>Deposition of <persname id="warmar">Mary Warren</persname> v.
@@ -5408,7 +5408,7 @@
 						<bibref>ECCA, Vol. 2, no. 43.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11631">
 					<did>
 						<unitid>ecca2044</unitid>
 						<unittitle>Deposition of <persname id="phesar">Sarah Phelps</persname> v.
@@ -5423,7 +5423,7 @@
 						<bibref>ECCA, Vol. 2, no. 44.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11662">
 					<did>
 						<unitid>ecca2045</unitid>
 						<unittitle>Summary of the Examinations of <persname id="faudor">Dorothy
@@ -5443,7 +5443,7 @@
 						<bibref>ECCA, Vol. 2, no. 45.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11709">
 					<did>
 						<unitid>ecca2046</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -5458,7 +5458,7 @@
 						<bibref>ECCA, Vol. 2, no. 46.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11740">
 					<did>
 						<unitid>ecca2047</unitid>
 						<unittitle>Indictment of <persname id="fosann">Ann Foster</persname>, for
@@ -5473,7 +5473,7 @@
 						<bibref>ECCA, Vol. 2, no. 47.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11771">
 					<did>
 						<unitid>ecca2048</unitid>
 						<unittitle>Examination of <persname id="fosann">Ann
@@ -5487,7 +5487,7 @@
 						<bibref>ECCA, Vol. 2, no. 48.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11798">
 					<did>
 						<unitid>ecca2049</unitid>
 						<unittitle>Indictment of <persname id="lacmar1">Mary Lacey Sr.</persname> ,
@@ -5502,7 +5502,7 @@
 						<bibref>ECCA, Vol. 2, no. 49.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11828">
 					<did>
 						<unitid>ecca2050</unitid>
 						<unittitle>Depositions of <persname id="hubeli">Elizabeth
@@ -5519,7 +5519,7 @@
 						<bibref>ECCA, Vol. 2, no. 50.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11865">
 					<did>
 						<unitid>ecca2051</unitid>
 						<unittitle>Examination of <persname id="lacmar1">Mary Lacey Sr.</persname>
@@ -5533,7 +5533,7 @@
 						<bibref>ECCA, Vol. 2, no. 51.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11893">
 					<did>
 						<unitid>ecca2052</unitid>
 						<unittitle>Examination of <persname id="eamreb">Rebecca
@@ -5547,7 +5547,7 @@
 						<bibref>ECCA, Vol. 2, no. 52.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11920">
 					<did>
 						<unitid>ecca2053</unitid>
 						<unittitle>Indictment of <persname id="eamreb">Rebecca Eames</persname>, for
@@ -5561,7 +5561,7 @@
 						<bibref>ECCA, Vol. 2, no. 53.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11951">
 					<did>
 						<unitid>ecca2054</unitid>
 						<unittitle>Indictment of <persname id="eamreb">Rebecca Eames</persname>, for
@@ -5575,7 +5575,7 @@
 						<bibref>ECCA, Vol. 2, no. 54.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e11979">
 					<did>
 						<unitid>ecca2055</unitid>
 						<unittitle>Indictment of <persname id="warsam">Samuel Wardwell</persname>,
@@ -5589,7 +5589,7 @@
 						<bibref>ECCA, Vol. 2, no. 55.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12007">
 					<did>
 						<unitid>ecca2056</unitid>
 						<unittitle>Indictment of <persname id="warsam">Samuel Wardwell</persname>,
@@ -5604,7 +5604,7 @@
 						<bibref>ECCA, Vol. 2, no. 56.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12037">
 					<did>
 						<unitid>ecca2057</unitid>
 						<unittitle>Depositions of <persname id="sprmar">Martha Sprague</persname>,
@@ -5620,7 +5620,7 @@
 						<bibref>ECCA, Vol. 2, no. 57.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12073">
 					<did>
 						<unitid>ecca2058</unitid>
 						<unittitle>Deposition of <persname id="foseph">Ephraim Foster</persname> v.
@@ -5634,7 +5634,7 @@
 						<bibref>ECCA, Vol. 2, no. 58.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12103">
 					<did>
 						<unitid>ecca2059</unitid>
 						<unittitle>Examination of <persname id="warsam">Samuel
@@ -5648,7 +5648,7 @@
 						<bibref>ECCA, Vol. 2, no. 59.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12131">
 					<did>
 						<unitid>ecca2060</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Chandler</persname> v.
@@ -5662,7 +5662,7 @@
 						<bibref>ECCA, Vol. 2, no. 60.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12161">
 					<did>
 						<unitid>ecca2061</unitid>
 						<unittitle>Deposition of <persname id="baljos">Joseph Ballard</persname> v.
@@ -5676,7 +5676,7 @@
 						<bibref>ECCA, Vol. 2, no. 61.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12191">
 					<did>
 						<unitid>ecca2062</unitid>
 						<unittitle>Deposition of <persname id="marabi">Abigail Martin</persname>
@@ -5691,7 +5691,7 @@
 						<bibref>ECCA, Vol. 2, no. 62.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12224">
 					<did>
 						<unitid>ecca2063</unitid>
 						<unittitle>Examination of <persname id="parmar">Mary
@@ -5705,7 +5705,7 @@
 						<bibref>ECCA, Vol. 2, no. 63.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12251">
 					<did>
 						<unitid>ecca2064</unitid>
 						<unittitle>Indictment of <persname id="parmar">Mary Parker</persname>, for
@@ -5720,7 +5720,7 @@
 						<bibref>ECCA, Vol. 2, no. 64.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12282">
 					<did>
 						<unitid>ecca2065</unitid>
 						<unittitle>Testimony of <persname id="shasam">Samuel Shattuck</persname> v.
@@ -5734,7 +5734,7 @@
 						<bibref>ECCA, Vol. 2, no. 65.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12313">
 					<did>
 						<unitid>ecca2066</unitid>
 						<unittitle>Deposition of <persname id="wesjoh">John Westgate</persname> v.
@@ -5748,7 +5748,7 @@
 						<bibref>ECCA, Vol. 2, no. 66.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12343">
 					<did>
 						<unitid>ecca2067</unitid>
 						<unittitle>Testimony of <persname id="buljoh">John Bullock</persname> &amp;
@@ -5763,7 +5763,7 @@
 						<bibref>ECCA, Vol. 2, no. 67.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12376">
 					<did>
 						<unitid>ecca2068</unitid>
 						<unittitle>Statements of <persname id="barwil2">William Barker
@@ -5779,7 +5779,7 @@
 						<bibref>ECCA, Vol. 2, no. 68.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12409">
 					<did>
 						<unitid>ecca2069</unitid>
 						<unittitle>Indictment of <persname id="bramar">Mary Bradbury</persname>, for
@@ -5793,7 +5793,7 @@
 						<bibref>ECCA, Vol. 2, no. 69.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12439">
 					<did>
 						<unitid>ecca2070</unitid>
 						<unittitle>Indictment of <persname id="bramar">Mary Bradbury</persname>, for
@@ -5807,7 +5807,7 @@
 						<bibref>ECCA, Vol. 2, no. 70.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12469">
 					<did>
 						<unitid>ecca2071</unitid>
 						<unittitle>Statement of <persname id="hergeo">George Herrick</persname> v.
@@ -5824,7 +5824,7 @@
 						<bibref>ECCA, Vol. 2, no. 71.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12509">
 					<did>
 						<unitid>ecca2072</unitid>
 						<unittitle>Plea of <persname id="bramar">Mary
@@ -5838,7 +5838,7 @@
 						<bibref>ECCA, Vol. 2, no. 72.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12536">
 					<did>
 						<unitid>ecca2073</unitid>
 						<unittitle>Testimony of <persname id="bratho">Thomas Bradbury</persname> for
@@ -5852,7 +5852,7 @@
 						<bibref>ECCA, Vol. 2, no. 73.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12566">
 					<did>
 						<unitid>ecca2074</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="bramar">Mary
@@ -5866,7 +5866,7 @@
 						<bibref>ECCA, Vol. 2, no. 74.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12593">
 					<did>
 						<unitid>ecca2075</unitid>
 						<unittitle>Testimony of <persname id="alljam">James Allen</persname>,
@@ -5882,7 +5882,7 @@
 						<bibref>ECCA, Vol. 2, no. 75.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12629">
 					<did>
 						<unitid>ecca2076</unitid>
 						<unittitle>Deposition of <persname id="endsam">Samuel Endicott</persname> v.
@@ -5896,7 +5896,7 @@
 						<bibref>ECCA, Vol. 2, no. 76.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12659">
 					<did>
 						<unitid>ecca2077</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -5910,7 +5910,7 @@
 						<bibref>ECCA, Vol. 2, no. 77.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12690">
 					<did>
 						<unitid>ecca2078</unitid>
 						<unittitle>Deposition of <persname id="warmar">Mary Warren</persname> v.
@@ -5924,7 +5924,7 @@
 						<bibref>ECCA, Vol. 2, no. 78.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12720">
 					<did>
 						<unitid>ecca2079</unitid>
 						<unittitle>Deposition of <persname id="carjam">James Carr</persname> v.
@@ -5938,7 +5938,7 @@
 						<bibref>ECCA, Vol. 2, no. 79.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12750">
 					<did>
 						<unitid>ecca2080</unitid>
 						<unittitle>Deposition of <persname id="carric1">Richard Carr</persname>
@@ -5953,7 +5953,7 @@
 						<bibref>ECCA, Vol. 2, no. 80.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12783">
 					<did>
 						<unitid>ecca2081</unitid>
 						<unittitle>Deposition of <persname id="walmar">Mary Walcott</persname> v.
@@ -5967,7 +5967,7 @@
 						<bibref>ECCA, Vol. 2, no. 81.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12813">
 					<did>
 						<unitid>ecca2082</unitid>
 						<unittitle>Deposition of <persname id="carwil">William Carr</persname> for
@@ -5981,7 +5981,7 @@
 						<bibref>ECCA, Vol. 2, no. 82.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12843">
 					<did>
 						<unitid>ecca2083</unitid>
 						<unittitle>Petition in Support of <persname id="bramar">Mary
@@ -5995,7 +5995,7 @@
 						<bibref>ECCA, Vol. 2, no. 83.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12871">
 					<did>
 						<unitid>ecca2084</unitid>
 						<unittitle>Summons for Witnesses v. <persname id="">Giles
@@ -6009,7 +6009,7 @@
 						<bibref>ECCA, Vol. 2, no. 84.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12898">
 					<did>
 						<unitid>ecca2085</unitid>
 						<unittitle>Deposition of <persname id="lewmer">Mercy Lewis</persname> v.
@@ -6023,7 +6023,7 @@
 						<bibref>ECCA, Vol. 2, no. 85.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12928">
 					<did>
 						<unitid>ecca2086</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> v.
@@ -6037,7 +6037,7 @@
 						<bibref>ECCA, Vol. 2, no. 86.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12958">
 					<did>
 						<unitid>ecca2087</unitid>
 						<unittitle>Deposition of <persname id="">Sarah Bibber</persname> v.
@@ -6051,7 +6051,7 @@
 						<bibref>ECCA, Vol. 2, no. 87.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e12988">
 					<did>
 						<unitid>ecca2088</unitid>
 						<unittitle>Deposition of <persname id="gouben">Benjamin Gould</persname> v.
@@ -6067,7 +6067,7 @@
 						<bibref>ECCA, Vol. 2, no. 88.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13024">
 					<did>
 						<unitid>ecca2089</unitid>
 						<unittitle>Statements of <persname id="warmar">Mary Warren</persname>,
@@ -6084,7 +6084,7 @@
 						<bibref>ECCA, Vol. 2, no. 89.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13064">
 					<did>
 						<unitid>ecca2090</unitid>
 						<unittitle>Statement of <persname id="">Susannah Shelden</persname> v.
@@ -6100,7 +6100,7 @@
 						<bibref>ECCA, Vol. 2, no. 90.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13103">
 					<did>
 						<unitid>ecca2091</unitid>
 						<unittitle>Deposition of <persname id="booeli">Elizabeth Booth</persname>
@@ -6115,7 +6115,7 @@
 						<bibref>ECCA, Vol. 2, no. 91.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13136">
 					<did>
 						<unitid>ecca2092</unitid>
 						<unittitle>Testimony of <persname id="derjoh">John DeRich</persname> v.
@@ -6132,7 +6132,7 @@
 						<bibref>ECCA, Vol. 2, no. 92.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13175">
 					<did>
 						<unitid>ecca2093</unitid>
 						<unittitle>Testimony of <persname id="dutmar">Martha Dutch</persname> v.
@@ -6146,7 +6146,7 @@
 						<bibref>ECCA, Vol. 2, no. 93.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13205">
 					<did>
 						<unitid>ecca2094</unitid>
 						<unittitle>Deposition of <persname id="">Frances Wycomb</persname> v.
@@ -6160,7 +6160,7 @@
 						<bibref>ECCA, Vol. 2, no. 94.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13235">
 					<did>
 						<unitid>ecca2095</unitid>
 						<unittitle>Testimony of Philip &amp; <persname id="nelsar">Sarah
@@ -6175,7 +6175,7 @@
 						<bibref>ECCA, Vol. 2, no. 95.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13266">
 					<did>
 						<unitid>ecca2096</unitid>
 						<unittitle>Petition of the Selectmen of Andover, Regarding the Children of
@@ -6189,7 +6189,7 @@
 						<bibref>ECCA, Vol. 2, no. 96.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13293">
 					<did>
 						<unitid>ecca2097</unitid>
 						<unittitle>Deposition of <persname id="">Thomas Putnam</persname> &amp;
@@ -6204,7 +6204,7 @@
 						<bibref>ECCA, Vol. 2, no. 97.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13326">
 					<did>
 						<unitid>ecca2098</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="duslyd">Lydia
@@ -6218,7 +6218,7 @@
 						<bibref>ECCA, Vol. 2, no. 98.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13353">
 					<did>
 						<unitid>ecca2099</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="dussar">Sarah
@@ -6232,7 +6232,7 @@
 						<bibref>ECCA, Vol. 2, no. 99.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13380">
 					<did>
 						<unitid>ecca2100</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="seaann">Ann
@@ -6248,7 +6248,7 @@
 						<bibref>ECCA, Vol. 2, no. 100.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13414">
 					<did>
 						<unitid>ecca2101</unitid>
 						<unittitle>Examination of <persname id="hobdel">Deliverance
@@ -6262,7 +6262,7 @@
 						<bibref>ECCA, Vol. 2, no. 101.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13442">
 					<did>
 						<unitid>ecca2102</unitid>
 						<unittitle>Examination of <persname id="hobdel">Deliverance Hobbs</persname>
@@ -6276,7 +6276,7 @@
 						<bibref>ECCA, Vol. 2, no. 102.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13470">
 					<did>
 						<unitid>ecca2103</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="">Abigail
@@ -6290,7 +6290,7 @@
 						<bibref>ECCA, Vol. 2, no. 103.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13497">
 					<did>
 						<unitid>ecca2104</unitid>
 						<unittitle>Warrant No. 1 for the Apprehension of <persname id="coleli"
@@ -6304,7 +6304,7 @@
 						<bibref>ECCA, Vol. 2, no. 104.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13524">
 					<did>
 						<unitid>ecca2105</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="dermar">Mary
@@ -6318,7 +6318,7 @@
 						<bibref>ECCA, Vol. 2, no. 105.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13551">
 					<did>
 						<unitid>ecca2106</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="peasar">Sarah
@@ -6332,7 +6332,7 @@
 						<bibref>ECCA, Vol. 2, no. 106.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13578">
 					<did>
 						<unitid>ecca2107</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="aldjoh">John
@@ -6346,7 +6346,7 @@
 						<bibref>ECCA, Vol. 2, no. 107.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13606">
 					<did>
 						<unitid>ecca2108</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="ricsar">Sarah
@@ -6360,7 +6360,7 @@
 						<bibref>ECCA, Vol. 2, no. 108.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13633">
 					<did>
 						<unitid>ecca2109</unitid>
 						<unittitle>Complaint of <persname id="">Thomas Putnam</persname> &amp;
@@ -6375,7 +6375,7 @@
 						<bibref>ECCA, Vol. 2, no. 109.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13666">
 					<did>
 						<unitid>ecca2110</unitid>
 						<unittitle>Warrant for the Apprehension of <persname id="dolann">Ann
@@ -6389,7 +6389,7 @@
 						<bibref>ECCA, Vol. 2, no. 110.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13693">
 					<did>
 						<unitid>ecca2111</unitid>
 						<unittitle>Examination of <persname id="carric2">Richard
@@ -6403,7 +6403,7 @@
 						<bibref>ECCA, Vol. 2, no. 111.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13720">
 					<did>
 						<unitid>ecca2113</unitid>
 						<unittitle>Statement of <persname id="ingsar">Sarah Ingersoll</persname>
@@ -6418,7 +6418,7 @@
 						<bibref>ECCA, Vol. 2, no. 113.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13753">
 					<did>
 						<unitid>ecca2114</unitid>
 						<unittitle>Deposition of <persname id="putann2">Ann Putnam Jr.</persname> ,
@@ -6434,7 +6434,7 @@
 						<bibref>ECCA, Vol. 2, no. 114.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13790">
 					<did>
 						<unitid>ecca2115</unitid>
 						<unittitle>Testimony of <persname id="">Elizabeth Nicholason</persname> v.
@@ -6448,7 +6448,7 @@
 						<bibref>ECCA, Vol. 2, no. 115.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13820">
 					<did>
 						<unitid>ecca2116</unitid>
 						<unittitle>Deposition of <persname id="ketjam">James Kettle</persname> v.
@@ -6462,7 +6462,7 @@
 						<bibref>ECCA, Vol. 2, no. 116.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13850">
 					<did>
 						<unitid>ecca2117</unitid>
 						<unittitle>Statement of <persname id="warmar">Mary Warren</persname> v.
@@ -6477,7 +6477,7 @@
 						<bibref>ECCA, Vol. 2, no. 117.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13883">
 					<did>
 						<unitid>ecca2118</unitid>
 						<unittitle>Testimony of <persname id="derjoh">John DeRich</persname> v.
@@ -6491,7 +6491,7 @@
 						<bibref>ECCA, Vol. 2, no. 118.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13913">
 					<did>
 						<unitid>ecca2119</unitid>
 						<unittitle>Testimony of <persname id="porjoh">John Porter</persname> &amp;
@@ -6507,7 +6507,7 @@
 						<bibref>ECCA, Vol. 2, no. 119.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13949">
 					<did>
 						<unitid>ecca2120</unitid>
 						<unittitle>Testimony of <persname id="fowjos">Joseph Fowler</persname>
@@ -6522,7 +6522,7 @@
 						<bibref>ECCA, Vol. 2, no. 120.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e13983">
 					<did>
 						<unitid>ecca2121</unitid>
 						<unittitle>Testimony of <persname id="jactho">Thomas Jacobs</persname> &amp;
@@ -6541,7 +6541,7 @@
 						<bibref>ECCA, Vol. 2, no. 121.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14029">
 					<did>
 						<unitid>ecca2122</unitid>
 						<unittitle>Deposition of <persname id="colcle">Clement Coldum</persname>
@@ -6556,7 +6556,7 @@
 						<bibref>ECCA, Vol. 2, no. 122.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14062">
 					<did>
 						<unitid>ecca2123</unitid>
 						<unittitle>Testimony of <persname id="ketjam">James Kettle</persname>
@@ -6571,7 +6571,7 @@
 						<bibref>ECCA, Vol. 2, no. 123.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14092">
 					<did>
 						<unitid>ecca2124</unitid>
 						<unittitle>Deposition of Nathaniel &amp; <persname id="inghan">Hannah
@@ -6586,7 +6586,7 @@
 						<bibref>ECCA, Vol. 2, no. 124.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14122">
 					<did>
 						<unitid>ecca2125</unitid>
 						<unittitle>Testimony of <persname id="putjoh1">John Putnam Sr.</persname>
@@ -6601,7 +6601,7 @@
 						<bibref>ECCA, Vol. 2, no. 125.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14155">
 					<did>
 						<unitid>ecca2126</unitid>
 						<unittitle>Deposition of <persname id="welhan">Hannah Welch</persname> v.
@@ -6615,7 +6615,7 @@
 						<bibref>ECCA, Vol. 2, no. 126.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14186">
 					<did>
 						<unitid>ecca2127</unitid>
 						<unittitle>Deposition of <persname id="wilben">Benjamin Wilkins</persname>,
@@ -6631,7 +6631,7 @@
 						<bibref>ECCA, Vol. 2, no. 127.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14222">
 					<did>
 						<unitid>ecca2128</unitid>
 						<unittitle>Testimony of <persname id="mourob">Robert Moulton</persname>
@@ -6646,7 +6646,7 @@
 						<bibref>ECCA, Vol. 2, no. 128.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14255">
 					<did>
 						<unitid>ecca2129</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="">Abraham
@@ -6660,7 +6660,7 @@
 						<bibref>ECCA, Vol. 2, no. 129.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14283">
 					<did>
 						<unitid>ecca2130</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="mantho">Thomas
@@ -6674,7 +6674,7 @@
 						<bibref>ECCA, Vol. 2, no. 130.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14311">
 					<did>
 						<unitid>ecca2131</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="ingnat">Nathaniel
@@ -6688,7 +6688,7 @@
 						<bibref>ECCA, Vol. 2, no. 131.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14339">
 					<did>
 						<unitid>ecca2132</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="">Joseph
@@ -6702,7 +6702,7 @@
 						<bibref>ECCA, Vol. 2, no. 132.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14368">
 					<did>
 						<unitid>ecca2133</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="litisa">Isaac
@@ -6717,7 +6717,7 @@
 						<bibref>ECCA, Vol. 2, no. 133.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14399">
 					<did>
 						<unitid>ecca2134</unitid>
 						<unittitle>Census of Prisoners in Salem &amp; Boston Prisons</unittitle>
@@ -6730,7 +6730,7 @@
 						<bibref>ECCA, Vol. 2, no. 134.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14424">
 					<did>
 						<unitid>ecca2135</unitid>
 						<unittitle>docketed Cover Paper Used to Contain the Warrant for the
@@ -6747,7 +6747,7 @@
 						<bibref>ECCA, Vol. 2, no. 135.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14464">
 					<did>
 						<unitid>ecca2136</unitid>
 						<unittitle>Reversal of Attainder of <persname id="burgeo">George
@@ -6761,7 +6761,7 @@
 						<bibref>ECCA, Vol. 2, no. 136.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14492">
 					<did>
 						<unitid>ecca2137</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="stawil1">William
@@ -6775,7 +6775,7 @@
 						<bibref>ECCA, Vol. 2, no. 137.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14520">
 					<did>
 						<unitid>ecca2138</unitid>
 						<unittitle>Order for Payment of Damages by Governor <persname id="">Joseph
@@ -6789,7 +6789,7 @@
 						<bibref>ECCA, Vol. 2, no. 138.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14548">
 					<did>
 						<unitid>ecca2139</unitid>
 						<unittitle>Request for Copy of Act for Restitution</unittitle>
@@ -6802,7 +6802,7 @@
 						<bibref>ECCA, Vol. 2, no. 139.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14573">
 					<did>
 						<unitid>ecca2140</unitid>
 						<unittitle>Receipts for Sums Paid in Restitution</unittitle>
@@ -6815,7 +6815,7 @@
 						<bibref>ECCA, Vol. 2, no. 140.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14598">
 					<did>
 						<unitid>ecca2141</unitid>
 						<unittitle>Summary of Receipts of the Relations &amp; Sufferers</unittitle>
@@ -6828,7 +6828,7 @@
 						<bibref>ECCA, Vol. 2, no. 141.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14623">
 					<did>
 						<unitid>ecca2142</unitid>
 						<unittitle>Order of <persname id="goowil">William Good</persname> for
@@ -6843,7 +6843,7 @@
 						<bibref>ECCA, Vol. 2, no. 142.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14656">
 					<did>
 						<unitid>ecca2143</unitid>
 						<unittitle>Summary of the Amounts Requested by the Victims &amp; Their
@@ -6857,7 +6857,7 @@
 						<bibref>ECCA, Vol. 2, no. 143.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14681">
 					<did>
 						<unitid>ecca2144</unitid>
 						<unittitle>Order of <persname id="vereli">Elizabeth Very</persname> for
@@ -6872,7 +6872,7 @@
 						<bibref>ECCA, Vol. 2, no. 144.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14715">
 					<did>
 						<unitid>ecca2145</unitid>
 						<unittitle>Order of <persname id="gownat">Nathaniel Gowing</persname> for
@@ -6887,7 +6887,7 @@
 						<bibref>ECCA, Vol. 2, no. 145.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14748">
 					<did>
 						<unitid>ecca2146</unitid>
 						<unittitle>Order of <persname id="nurben">Benjamin Nurse</persname> et al.
@@ -6902,7 +6902,7 @@
 						<bibref>ECCA, Vol. 2, no. 146.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14778">
 					<did>
 						<unitid>ecca2147</unitid>
 						<unittitle>Order of Joseph &amp; <persname id="">Abigail Procter</persname>
@@ -6917,7 +6917,7 @@
 						<bibref>ECCA, Vol. 2, no. 147.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14811">
 					<did>
 						<unitid>ecca2148</unitid>
 						<unittitle>Order of John Nurse et al. for Payment, Case of <persname
@@ -6931,7 +6931,7 @@
 						<bibref>ECCA, Vol. 2, no. 148.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14838">
 					<did>
 						<unitid>ecca2149</unitid>
 						<unittitle>Order of <persname id="hobabi">Abigail Hobbs</persname> for
@@ -6945,7 +6945,7 @@
 						<bibref>ECCA, Vol. 2, no. 149.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14866">
 					<did>
 						<unitid>ecca2151</unitid>
 						<unittitle>Petition of John &amp; <persname id="kinann">Annis
@@ -6960,7 +6960,7 @@
 						<bibref>ECCA, Vol. 2, no. 151.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14897">
 					<did>
 						<unitid>ecca2152</unitid>
 						<unittitle>Order of George &amp; <persname id="abbhan">Hannah
@@ -6975,7 +6975,7 @@
 						<bibref>ECCA, Vol. 2, no. 152.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14927">
 					<did>
 						<unitid>ecca2153</unitid>
 						<unittitle>Petition of <persname id="">Benjamin Procter</persname> for
@@ -6989,7 +6989,7 @@
 						<bibref>ECCA, Vol. 2, no. 153.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14955">
 					<did>
 						<unitid>ecca2154</unitid>
 						<unittitle>Order of <persname id="">Joseph Esty</persname> for Payment, Case
@@ -7003,7 +7003,7 @@
 						<bibref>ECCA, Vol. 2, no. 154.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e14985">
 					<did>
 						<unitid>ecca2155</unitid>
 						<unittitle>Order of <persname id="">Thomas Carrier</persname> for
@@ -7017,7 +7017,7 @@
 						<bibref>ECCA, Vol. 2, no. 155.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15013">
 					<did>
 						<unitid>ecca2156</unitid>
 						<unittitle>Order of Mary &amp; <persname id="howabi">Abigail How</persname>
@@ -7032,7 +7032,7 @@
 						<bibref>ECCA, Vol. 2, no. 156.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15043">
 					<did>
 						<unitid>ecca2157</unitid>
 						<unittitle>Order of <persname id="burgeo2">George Burroughs Jr.</persname>
@@ -7047,7 +7047,7 @@
 						<bibref>ECCA, Vol. 2, no. 157.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15074">
 					<did>
 						<unitid>ecca2158</unitid>
 						<unittitle>Division of Money in Burroughs Restitution</unittitle>
@@ -7060,7 +7060,7 @@
 						<bibref>ECCA, Vol. 2, no. 158.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15099">
 					<did>
 						<unitid>ecca2159</unitid>
 						<unittitle>Order of <persname id="thopet">Peter Thomas</persname> et al. for
@@ -7075,7 +7075,7 @@
 						<bibref>ECCA, Vol. 2, no. 159.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15129">
 					<did>
 						<unitid>ecca2160</unitid>
 						<unittitle>Petition of the Children of <persname id="burgeo">George
@@ -7089,7 +7089,7 @@
 						<bibref>ECCA, Vol. 2, no. 160.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15156">
 					<did>
 						<unitid>ecca2161</unitid>
 						<unittitle>Letter of <persname id="burmar">Mary Burroughs</persname>, Case
@@ -7103,7 +7103,7 @@
 						<bibref>ECCA, Vol. 2, no. 161.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15186">
 					<did>
 						<unitid>ecca2162</unitid>
 						<unittitle>Petition of the Children of <persname id="burgeo">George
@@ -7117,7 +7117,7 @@
 						<bibref>ECCA, Vol. 2, no. 162.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15214">
 					<did>
 						<unitid>ecca2163</unitid>
 						<unittitle>Letter of <persname id="fowreb">Rebecca Fowle</persname>, Case of
@@ -7131,7 +7131,7 @@
 						<bibref>ECCA, Vol. 2, no. 163.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15245">
 					<did>
 						<unitid>ecca2164</unitid>
 						<unittitle>Order of <persname id="burjer">Jeremiah Burroughs</persname> for
@@ -7146,7 +7146,7 @@
 						<bibref>ECCA, Vol. 2, no. 164.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15275">
 					<did>
 						<unitid>ecca2165</unitid>
 						<unittitle>Order of <persname id="warwil">William Wardwell</persname> et al.
@@ -7161,7 +7161,7 @@
 						<bibref>ECCA, Vol. 2, no. 165.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15308">
 					<did>
 						<unitid>ecca2166</unitid>
 						<unittitle>Order of <persname id="eamreb">Rebecca Eames</persname> for
@@ -7175,7 +7175,7 @@
 						<bibref>ECCA, Vol. 2, no. 166.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15336">
 					<did>
 						<unitid>ecca2167</unitid>
 						<unittitle>Petition of <persname id="warsam2">Samuel Wardwell Jr.</persname>
@@ -7190,7 +7190,7 @@
 						<bibref>ECCA, Vol. 2, no. 167.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15366">
 					<did>
 						<unitid>ecca2168</unitid>
 						<unittitle>Petition of <persname id="dannat">Nathaniel Dane</persname> et
@@ -7204,7 +7204,7 @@
 						<bibref>ECCA, Vol. 2, no. 168.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15394">
 					<did>
 						<unitid>ecca2169</unitid>
 						<unittitle>Petition of <persname id="joheli2">Elizabeth Johnson
@@ -7218,7 +7218,7 @@
 						<bibref>ECCA, Vol. 2, no. 169.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15423">
 					<did>
 						<unitid>ecca2170</unitid>
 						<unittitle>Petition of <persname id="osgpet">Peter Osgood</persname> for
@@ -7232,7 +7232,7 @@
 						<bibref>ECCA, Vol. 2, no. 170.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15453">
 					<did>
 						<unitid>ecca2171</unitid>
 						<unittitle>Order of John &amp; <persname id="">Mary Stanyan</persname> for
@@ -7247,7 +7247,7 @@
 						<bibref>ECCA, Vol. 2, no. 171.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15483">
 					<did>
 						<unitid>ecca2172</unitid>
 						<unittitle>Order of <persname id="parjoh">John Parker</persname> for
@@ -7262,7 +7262,7 @@
 						<bibref>ECCA, Vol. 2, no. 172.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15513">
 					<did>
 						<unitid>ecca2173</unitid>
 						<unittitle>Order of <persname id="posmar">Mary Post</persname> for
@@ -7276,7 +7276,7 @@
 						<bibref>ECCA, Vol. 2, no. 173.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15541">
 					<did>
 						<unitid>ecca2174</unitid>
 						<unittitle>Order of <persname id="">Mary Procter</persname> for Payment,
@@ -7291,7 +7291,7 @@
 						<bibref>ECCA, Vol. 2, no. 174.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15574">
 					<did>
 						<unitid>ecca2175</unitid>
 						<unittitle>Petition of <persname id="parsar">Sarah Parker</persname> for
@@ -7305,7 +7305,7 @@
 						<bibref>ECCA, Vol. 2, no. 175.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15603">
 					<did>
 						<unitid>ecca2176</unitid>
 						<unittitle>Order of <persname id="">Rachel Slue</persname> for
@@ -7319,7 +7319,7 @@
 						<bibref>ECCA, Vol. 2, no. 176.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15631">
 					<did>
 						<unitid>ecca2177</unitid>
 						<unittitle>Petition of <persname id="dermar">Mary DeRich</persname> for
@@ -7333,7 +7333,7 @@
 						<bibref>ECCA, Vol. 2, no. 177.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15659">
 					<did>
 						<unitid>ecca2178</unitid>
 						<unittitle>Order of the Superior Court of Judicature Regarding Payment of
@@ -7347,7 +7347,7 @@
 						<bibref>ECCA, Vol. 2, no. 178.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15684">
 					<did>
 						<unitid>ecca2179</unitid>
 						<unittitle>Superior Court of Judicature: Statement of Sums Due</unittitle>
@@ -7360,7 +7360,7 @@
 						<bibref>ECCA, Vol. 2, no. 179.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15709">
 					<did>
 						<unitid>ecca2180</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="lorrob">Robert
@@ -7374,7 +7374,7 @@
 						<bibref>ECCA, Vol. 2, no. 180.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15737">
 					<did>
 						<unitid>ecca2181</unitid>
 						<unittitle>Letter of <persname id="jewneh">Nehemiah Jewett</persname> to
@@ -7388,7 +7388,7 @@
 						<bibref>ECCA, Vol. 2, no. 181.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15768">
 					<did>
 						<unitid>ecca2182</unitid>
 						<unittitle>Order of <persname id="laclaw">Lawrence Lacey</persname> for
@@ -7403,7 +7403,7 @@
 						<bibref>ECCA, Vol. 2, no. 182.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15799">
 					<did>
 						<unitid>ecca2184</unitid>
 						<unittitle>Petition of <persname id="">Philip English</persname> for
@@ -7417,7 +7417,7 @@
 						<bibref>ECCA, Vol. 2, no. 184.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15827">
 					<did>
 						<unitid>ecca2185</unitid>
 						<unittitle>Recognizance for <persname id="">Dorothy Good</persname> by
@@ -7431,7 +7431,7 @@
 						<bibref>ECCA, Vol. 2, no. 185.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15857">
 					<did>
 						<unitid>ecca2186</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="fostho">Thomas
@@ -7445,7 +7445,7 @@
 						<bibref>ECCA, Vol. 2, no. 186.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15885">
 					<did>
 						<unitid>ecca2187</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="grasam">Samuel
@@ -7459,7 +7459,7 @@
 						<bibref>ECCA, Vol. 2, no. 187.</bibref>
 					</bibliography>
 				</c>
-				<c level="item">
+				<c level="item" id="d1e15913">
 					<did>
 						<unitid>ecca2188</unitid>
 						<unittitle>Account for Payment Submitted by <persname id="bakwil">William

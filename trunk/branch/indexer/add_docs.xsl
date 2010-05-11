@@ -13,6 +13,9 @@
 			<field name="id">
 				<xsl:value-of select="@id"/>
 			</field>
+			<field name="source">
+				<xsl:text>tei</xsl:text>
+			</field>
 			<field name="chapter_id">
 				<xsl:value-of select="parent::node()/@id"/>
 			</field>

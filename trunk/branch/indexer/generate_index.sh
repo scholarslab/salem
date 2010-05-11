@@ -5,6 +5,8 @@ java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal2R.xml -xsl:add_docs.xs
 echo Generating add_doc for BoySal3R.xml;
 java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal3R.xml -xsl:add_docs.xsl > index/add_BoySal3R.xml;
 
+for i in `ls ../cocoon/xml/ead/*.xml`; do java -jar saxon/saxon9.jar -xi:on -s $i -xsl:add_ead_docs.xsl > index/add_`basename $i`; echo Generating add_doc for `basename $i`; done
+
 FILE="index/add_*.xml"
 URL=http://localhost:8080/solr/salem/update
 
