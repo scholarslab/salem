@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="WhiCale">
+	<teiHeader type="aacr2">
+		<fileDesc>
+			<titleStmt>
+				<title type="245">Calef In Boston </title>
+				<title type="gmd">[electronic resource] </title>
+				<author>Whittier, John Greenleaf </author>
+				<editor> </editor>
+				<respStmt>
+					<resp> </resp>
+					<name> </name>
+					<resp>Creation of machine-readable version: </resp>
+					<name> </name>
+					<resp>Creation of digital images: </resp>
+					<name>Jolie Sheffer </name>
+					<resp>Conversion to TEI.2-conformant markup: </resp>
+					<name>University of Virginia Library Electronic Text Center. </name>
+				</respStmt>
+			</titleStmt>
+			<extent>ca. 5 kilobytes </extent>
+			<publicationStmt>
+				<publisher>University of Virginia Library </publisher>
+				<pubPlace>Charlottesville, Virginia </pubPlace>
+				<idno type="ETC">Modern English, WhiCale </idno>
+				<availability>
+					<p>Publicly accessible </p>
+					<p n="public">URL: http://etext.lib.virginia.edu/modeng/modengW.browse.html </p>
+					<p> </p>
+				</availability>
+				<date>2005 </date>
+			</publicationStmt>
+			<seriesStmt>
+				<p> </p>
+			</seriesStmt>
+			<notesStmt>
+				<note>Illustrations have been included from the original source. </note>
+			</notesStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+						<title>Calef in Boston </title>
+						<title type="parallel"> </title>
+						<title level="m">Anti-Slavery Poems: Songs of Labor and Reform. Whittier`s
+							Poetical Works, III. </title>
+						<author>John Greenleaf Whittier </author>
+						<editor> </editor>
+						<respStmt>
+							<resp>Illustrator </resp>
+							<name>J. A. J. Wilcox </name>
+						</respStmt>
+					</titleStmt>
+					<editionStmt>
+						<p> </p>
+					</editionStmt>
+					<extent>pp. 332-333 </extent>
+					<publicationStmt>
+						<publisher>Houghton, Mifflin and Company </publisher>
+						<pubPlace>Boston </pubPlace>
+						<date>1892 </date>
+						<idno type="callNo">WhiCaleT </idno>
+					</publicationStmt>
+					<seriesStmt>
+						<p> </p>
+					</seriesStmt>
+					<notesStmt>
+						<note>UVa Library copy </note>
+					</notesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+			</projectDesc>
+			<editorialDecl>
+				<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+					word has been joined to the preceding line. </p>
+				<p id="ETC">Some keywords in the header are a local Electronic Text Center scheme to
+					aid in establishing analytical groupings. </p>
+			</editorialDecl>
+			<refsDecl>
+				<p> </p>
+			</refsDecl>
+			<classDecl>
+				<taxonomy id="LCSH">
+					<bibl>
+						<title>Library of Congress Subject Headings </title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date>1892 </date>
+			</creation>
+			<langUsage>
+				<language id="eng">English </language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<term>fiction </term>
+					<term>poetry </term>
+					<term>masculine </term>
+					<term>American Civil War </term>
+				</keywords>
+				<keywords scheme="LCSH">
+					<term type="Field650">LCSH </term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>February 2005 </date>
+				<respStmt>
+					<resp>corrector </resp>
+					<name>Jolie A. Sheffer, Electronic Text Center </name>
+				</respStmt>
+				<item>Added TEI header and images. </item>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text id="WhiCaleT">
+		<front>
+			<div1 id="d1e266" type="cover">
+				<head/>
+				<p>
+					<figure id="WhiCacov">
+						<figDesc>Image of Cover</figDesc>
+					</figure>
+				</p>
+				<p>
+					<figure id="WhiCaspi">
+						<figDesc>Image of Spine</figDesc>
+					</figure>
+				</p>
+				<p>
+					<figure id="WhiCafro">
+						<figDesc>Image of frontispiece</figDesc>
+					</figure>
+				</p>
+				<p>
+					<figure id="WhiCatit">
+						<figDesc>Image of titlepage</figDesc>
+					</figure>
+				</p>
+			</div1>
+		</front>
+		<body>
+			<div1 id="d1e294" type="">
+				<head>The Poetical Works of John Greenleaf Whittier, in four volumes. Vol. 3.<lb/>
+					Houghton Mifflin and Co., Boston, 1892.</head>
+				<p/>
+			</div1>
+			<div1 id="d1e304" type="poem">
+				<head>Calef in Boston. <lb/> 1692.</head>
+				<lg type="stanza">
+					<l>In the solemn days of old,</l>
+					<l>Two men met in Boston town,</l>
+					<l>One a tradesman frank and bold,</l>
+					<l>One a preacher of renown.</l>
+				</lg>
+				<lg type="stanza">
+					<l>Cried the last, in bitter tone:</l>
+					<l>"Poisoner of the wells of truth!</l>
+					<l>Satan's hireling, thou has sown</l>
+					<l>With his tares the heart of youth!"</l>
+				</lg>
+				<lg type="stanza">
+					<l>Spake the simple tradesman then,</l>
+					<l>"God be judge 'twixt thee and me;</l>
+					<l>All thou knowed of truth hath been</l>
+					<l>Once a lie to men like thee.</l>
+				</lg>
+				<lg type="stanza">
+					<l>"Falsehoods which we spurn to-day</l>
+					<l>Were the truths of long ago;</l>
+					<l>Let the dead boughs fall away,</l>
+					<l>Fresher shall the living grow.</l>
+				</lg>
+				<lg type="stanza">
+					<l>"God is good and God is light,</l>
+					<l>In this faith I rest secure;</l>
+					<l>Evil can but serve the right,</l>
+					<l>Over all shall love endure.</l>
+				</lg>
+				<lg type="stanza">
+					<l>"Of your spectral puppet play</l>
+					<l>I have traced the cunning wires;</l>
+					<l>Come what will, I needs must say,</l>
+					<l>God is true, and ye are liars."</l>
+				</lg>
+				<lg type="stanza">
+					<l>When the thought of man is free,</l>
+					<l>Error fears its lightest tones;</l>
+					<l>So the priest cried, "Sadducee!"</l>
+					<l>And the people took up stones.</l>
+				</lg>
+				<lg type="stanza">
+					<l>In the ancient burying-ground,</l>
+					<l>Side by side the twain now lie;</l>
+					<l>One with humble grassy mound,</l>
+					<l>One with marbles pale and high.</l>
+				</lg>
+				<lg type="stanza">
+					<l>But the Lord hath blest the seed</l>
+					<l>Which that tradesman scattered then,</l>
+					<l>And the preacher's spectral creed</l>
+					<l>Chills no more the blood of men.</l>
+				</lg>
+				<lg type="stanza">
+					<l>Let us trust, to one is known</l>
+					<l>Perfect love which casts out fear,</l>
+					<l>While the other's joys atone</l>
+					<l>For the wrong he suffered here.</l>
+				</lg>
+				<p>1849.</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

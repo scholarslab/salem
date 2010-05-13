@@ -159,7 +159,7 @@
 				<map:serialize type="html"/>
 			</map:match>
 
-			<map:match pattern="archives/*">
+			<map:match pattern="archives/*.xml">
 				<map:generate src="xml/ead/{1}.xml" label="record"/>
 				<map:transform type="xslt-saxon" src="xsl/archives_gallery.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>
@@ -210,27 +210,28 @@
 
 			<map:match pattern="html/**.html">
 				<map:generate src="html/{1}.html"/>
-				<map:serialize type="xhtml"/>
+				<map:serialize type="html"/>
 			</map:match>
-
+			
 			<map:match pattern="**.html">
 				<map:generate src="html/{1}.html"/>
-				<map:serialize type="xhtml"/>
-			</map:match>
+				<map:serialize type="html"/>
+			</map:match>			
 
-			<!-- XML files displays -->
+			
 			<!-- Viewing the table of contents for all BoySal files-->
-			<map:match pattern="B*.xml">
+			<!--<map:match pattern="B*.xml">
 				<map:generate src="xml/B{1}.xml"/>
 				<map:transform src="xsl/tei_display.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>				
 				<map:serialize type="html"/>
-			</map:match>
-
-			<map:match pattern="U*.xml">
-				<map:generate src="xml/U{1}.xml"/>
-				<map:transform src="xsl/contents.xsl" type="xslt-saxon">
+			</map:match>-->
+			
+			<!-- XML files displays -->
+			<map:match pattern="texts/tei/*">
+				<map:generate src="xml/{1}.xml"/>
+				<map:transform src="xsl/tei_display.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>				
 				<map:serialize type="html"/>

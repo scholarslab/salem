@@ -90,7 +90,7 @@
 						<xsl:when test="string($nameid)">
 							<xsl:text>Transcript: </xsl:text>
 							<a
-								href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
+								href="tei/{str[@name='doc_id']}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
 								<xsl:choose>
 									<xsl:when test="string(str[@name='title'])">
 										<xsl:value-of select="str[@name='title']"/>
@@ -102,7 +102,7 @@
 						<xsl:otherwise>
 							<xsl:text>Transcript: </xsl:text>
 							<a
-								href="../{str[@name='doc_id']}.xml?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
+								href="tei/{str[@name='doc_id']}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 								<xsl:choose>
 									<xsl:when test="string(str[@name='title'])">
 										<xsl:value-of select="str[@name='title']"/>

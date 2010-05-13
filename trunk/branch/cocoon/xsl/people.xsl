@@ -36,8 +36,7 @@
 							<a href="maps.html">Maps</a>
 						</li>
 						<li class="menu_item menu_people" style="width:15%;">
-							<a href="people?group.num=all&amp;clear-stylesheet-cache=yes"
-								>People</a>
+							<a href="people?group.num=all&amp;clear-stylesheet-cache=yes">People</a>
 						</li>
 					</ul>
 				</div>
@@ -55,13 +54,13 @@
 										</span>
 									</xsl:when>
 									<xsl:otherwise>
-											<a href="?group.num={@id}" class="people_menu_item">
-												<xsl:value-of select="."/>
-											</a>
+										<a href="?group.num={@id}" class="people_menu_item">
+											<xsl:value-of select="."/>
+										</a>
 									</xsl:otherwise>
 								</xsl:choose>
 
-							</xsl:for-each>							
+							</xsl:for-each>
 							<a href="?group.num=all" class="people_menu_item">All</a>
 						</div>
 					</div>
@@ -232,6 +231,12 @@
 				<xsl:apply-templates/>
 			</td>
 		</tr>
+	</xsl:template>
+
+	<xsl:template match="ref">
+		<a href="{@target}">
+			<xsl:value-of select="."/>
+		</a>
 	</xsl:template>
 
 	<xsl:template match="emph">

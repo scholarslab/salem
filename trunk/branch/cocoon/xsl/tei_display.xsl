@@ -10,17 +10,32 @@
 	<xsl:param name="chapter_id"/>
 	<xsl:param name="term"/>
 
+	<xsl:variable name="mode">
+		<xsl:choose>
+			<xsl:when test="contains($doc_id, 'Boy')">
+				<xsl:text>papers</xsl:text>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:text>other</xsl:text>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:variable>
+
+	<xsl:variable name="path">
+		<xsl:text>../../</xsl:text>
+	</xsl:variable>
+
 	<xsl:template match="/">
 		<html>
 			<head>
 				<title>
 					<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']"/>
 				</title>
-				<link type="text/css" href="style.css" rel="stylesheet"/>
-				<script type="text/javascript" src="javascript/jquery-1.2.6.min.js"/>
-				<script type="text/javascript" src="javascript/jquery.lightbox-0.5.min.js"/>
-				<script type="text/javascript" src="javascript/salem-lightbox.js"/>
-				<script type="text/javascript" src="javascript/searchhi.js"/>
+				<link type="text/css" href="{$path}style.css" rel="stylesheet"/>
+				<script type="text/javascript" src="{$path}javascript/jquery-1.2.6.min.js"/>
+				<script type="text/javascript" src="{$path}javascript/jquery.lightbox-0.5.min.js"/>
+				<script type="text/javascript" src="{$path}javascript/salem-lightbox.js"/>
+				<script type="text/javascript" src="{$path}javascript/searchhi.js"/>
 			</head>
 		</html>
 		<body onLoad="JavaScript:SearchHighlight();">
@@ -49,41 +64,42 @@
 				</xsl:when>
 				<xsl:otherwise>
 					<div class="header nosearchhi">
-						<img src="images/startdoc2.jpg" width="621" height="90" border="1"/>
+						<img src="{$path}images/startdoc2.jpg" width="621" height="90" border="1"/>
 						<ul class="menu">
 							<li class="menu_item menu_home" style="width:13%;">
-								<a href="home.html">Home</a>
+								<a href="{$path}home.html">Home</a>
 							</li>
 							<li class="menu_item menu_archives" style="width:15%">
-								<a href="archive2.html">Archives</a>
+								<a href="{$path}archive2.html">Archives</a>
 							</li>
 							<li class="menu_item menu_books" style="width:24%;">
-								<a href="books.html">Books &amp; Letters</a>
+								<a href="{$path}books.html">Books &amp; Letters</a>
 							</li>
 							<li class="menu_item menu_documents" style="width:20%;">
-								<a href="17docs.html">Documents</a>
+								<a href="{$path}17docs.html">Documents</a>
 							</li>
 							<li class="menu_item menu_maps" style="width:13%;">
-								<a href="maps.html">Maps</a>
+								<a href="{$path}maps.html">Maps</a>
 							</li>
 							<li class="menu_item menu_people" style="width:15%;">
-								<a
-									href="people?group.num=all"
-									>People</a>
+								<a href="{$path}people?group.num=all">People</a>
 							</li>
 						</ul>
 					</div>
 					<div class="content_container">
 						<div class="options">
-							<a href="texts/transcripts.html">Return to The Salem Witchcraft Papers</a>
-							<xsl:text> | </xsl:text>
+							<xsl:if test="$mode = 'papers'">
+								<a href="../transcripts.html">Return to The Salem Witchcraft
+									Papers</a>
+								<xsl:text> | </xsl:text>
+							</xsl:if>
 							<a href="?div_id={$div_id}&amp;print=yes" target="_blank">Print</a>
 						</div>
 						<xsl:call-template name="toc"/>
 						<div class="content">
 							<xsl:choose>
 								<xsl:when test="string($div_id)">
-									<xsl:apply-templates select="descendant::div1[@id = $div_id] | descendant::div2[@id = $div_id]"/>
+									<xsl:apply-templates select="descendant::node()[@id = $div_id]"/>
 									<!--<xsl:apply-templates
 										select="descendant::node()[generate-id(.) = $div_id]"/>-->
 								</xsl:when>
@@ -124,7 +140,7 @@
 			<ul>
 				<!--<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
 				<xsl:value-of select="$volume"/></a></li>-->
-				<li>Title Page: <a href="{/TEI.2/@id}.xml">Volume <xsl:value-of select="$volume"
+				<li>Title Page: <a href="{/TEI.2/@id}">Volume <xsl:value-of select="$volume"
 					/></a></li>
 			</ul>
 			<xsl:apply-templates select="descendant::TEI.2/text/body" mode="toc"/>
@@ -189,97 +205,123 @@
 
 	<xsl:template match="body" mode="toc">
 		<ul>
-			<xsl:for-each select="div1">
-				<li>
+			<xsl:apply-templates select="div1" mode="toc"/>
+		</ul>
+	</xsl:template>
+
+	<xsl:template match="div1 | div2 | div3" mode="toc">
+		<li>
+			<xsl:choose>
+				<xsl:when test="contains(name(), 'div')">
 					<xsl:choose>
-						<xsl:when test="name() = 'div1'">
+						<xsl:when test="@id = $div_id or @id = $chapter_id">
 							<xsl:choose>
-								<xsl:when test="@id = $div_id or @id = $chapter_id">
+								<xsl:when test="$mode = 'papers'">
 									<b>Case File: </b>
 								</xsl:when>
 								<xsl:otherwise>
+									<b><xsl:value-of
+											select="concat(upper-case(substring(@type, 1, 1)), substring(@type, 2))"
+										/>: </b>
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:choose>
+								<xsl:when test="$mode = 'papers'">
 									<xsl:text>Case File: </xsl:text>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of
+										select="concat(upper-case(substring(@type, 1, 1)), substring(@type, 2))"/>
+									<xsl:text>: </xsl:text>
+								</xsl:otherwise>
+							</xsl:choose>
+						</xsl:otherwise>
+					</xsl:choose>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:choose>
+						<xsl:when test="@id = $div_id or @id = $chapter_id">
+							<b>Title Page: </b>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:text>Title Page: </xsl:text>
+						</xsl:otherwise>
+					</xsl:choose>
+				</xsl:otherwise>
+			</xsl:choose>
+
+			<xsl:choose>
+				<xsl:when test="@id">
+					<xsl:choose>
+						<xsl:when test="string(head)">
+							<xsl:choose>
+								<xsl:when test="@id = $div_id or @id = $chapter_id">
+									<b>
+										<xsl:value-of select="normalize-space(head)"/>
+									</b>
+								</xsl:when>
+								<xsl:otherwise>
+									<a href="?div_id={@id}">
+										<xsl:value-of select="normalize-space(head)"/>
+									</a>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:choose>
 								<xsl:when test="@id = $div_id or @id = $chapter_id">
-									<b>Title Page: </b>
+									<b>[No title]</b>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:text>Title Page: </xsl:text>
+									<a href="?div_id={@id}"> [No title] </a>
 								</xsl:otherwise>
 							</xsl:choose>
+
 						</xsl:otherwise>
 					</xsl:choose>
-
+				</xsl:when>
+				<xsl:otherwise>
 					<xsl:choose>
-						<xsl:when test="@id">
+						<xsl:when test="head">
 							<xsl:choose>
-								<xsl:when test="head">
-									<xsl:choose>
-										<xsl:when test="@id = $div_id or @id = $chapter_id">
-											<b>
-												<xsl:value-of select="normalize-space(head)"/>
-											</b>
-										</xsl:when>
-										<xsl:otherwise>
-											<a href="?div_id={@id}">
-												<xsl:value-of select="normalize-space(head)"/>
-											</a>
-										</xsl:otherwise>
-									</xsl:choose>
+								<xsl:when test="@id = $div_id or @id = $chapter_id">
+									<b>
+										<xsl:value-of select="normalize-space(head)"/>
+									</b>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:choose>
-										<xsl:when test="@id = $div_id or @id = $chapter_id">
-											<b>
-												<xsl:value-of select="normalize-space(head)"/>
-											</b>
-										</xsl:when>
-										<xsl:otherwise>
-											<a href="?div_id={@id}"> [No title] </a>
-										</xsl:otherwise>
-									</xsl:choose>
-
+									<a href="?div_id={generate-id(.)}">
+										<xsl:value-of select="normalize-space(head)"/>
+									</a>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:choose>
-								<xsl:when test="head">
-									<xsl:choose>
-										<xsl:when test="@id = $div_id or @id = $chapter_id">
-											<b>
-												<xsl:value-of select="normalize-space(head)"/>
-											</b>
-										</xsl:when>
-										<xsl:otherwise>
-											<a href="?div_id={generate-id(.)}">
-												<xsl:value-of select="normalize-space(head)"/>
-											</a>
-										</xsl:otherwise>
-									</xsl:choose>
+								<xsl:when test="@id = $div_id or @id = $chapter_id">
+									<b>
+										<xsl:value-of select="normalize-space(head)"/>
+									</b>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:choose>
-										<xsl:when test="@id = $div_id or @id = $chapter_id">
-											<b>
-												<xsl:value-of select="normalize-space(head)"/>
-											</b>
-										</xsl:when>
-										<xsl:otherwise>
-											<a href="?div_id={generate-id(.)}"> [No title] </a>
-										</xsl:otherwise>
-									</xsl:choose>
+									<a href="?div_id={generate-id(.)}"> [No title] </a>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:otherwise>
 					</xsl:choose>
-				</li>
-			</xsl:for-each>
-		</ul>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:if test="$mode = 'other'">
+				<xsl:if test="div2 or div3">
+					<ul style="margin-left:20px;">
+						<xsl:apply-templates select="div2 | div3 | div4 | div5 | div6 | div7 | div8"
+							mode="toc"/>
+					</ul>
+				</xsl:if>
+			</xsl:if>
+		</li>
 	</xsl:template>
 
 	<xsl:template match="titlePage">
@@ -326,8 +368,7 @@
 					<xsl:when test="string($q)">
 						<h2>Results for <xsl:value-of select="$name"/></h2>
 						<cinclude:include
-							src="cocoon:/search_results?q={$q}&amp;mode=teidoc&amp;name={$name}"
-						/>
+							src="cocoon:/search_results?q={$q}&amp;mode=teidoc&amp;name={$name}"/>
 					</xsl:when>
 					<!-- names list-->
 					<!--<xsl:otherwise>
@@ -452,6 +493,17 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'ecca']">
+					<div class="figures">
+						<xsl:apply-templates
+							select="descendant::figure[substring(@n, 1, 4) = 'ecca']" mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>ecca</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
 				<xsl:otherwise>
 					<xsl:apply-templates/>
 				</xsl:otherwise>
@@ -460,14 +512,20 @@
 		</div>
 	</xsl:template>
 
+	<xsl:template match="div3|div4|div5|div6|div7|div8">
+		<xsl:apply-templates/>
+	</xsl:template>
+
 	<xsl:template match="figure" mode="mss">
 		<xsl:param name="source"/>
 		<xsl:variable name="filename">
 			<xsl:choose>
-				<xsl:when test=" not($source = 'eia') and contains(@n, 'r')">
+				<xsl:when
+					test="(not($source = 'eia') and not($source = 'ecca')) and contains(@n, 'r')">
 					<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
 				</xsl:when>
-				<xsl:when test="not($source = 'eia') and contains(@n, 'v')">
+				<xsl:when
+					test="(not($source = 'eia') and not($source = 'ecca')) and contains(@n, 'v')">
 					<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
 				</xsl:when>
 				<xsl:otherwise>
@@ -479,27 +537,40 @@
 		<div class="figure">
 			<xsl:choose>
 				<xsl:when test="$source='mh'">
-					<a href="archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
-						<img src="archives/MassHist/gifs/{$filename}.gif"/>
+					<a href="{$path}archives/MassHist/medium/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/MassHist/gifs/{$filename}.gif"/>
 					</a>
 					<br/>
-					<a href="archives/MassHist/large/{$filename}.jpg" target="_blank"
+					<a href="{$path}archives/MassHist/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 				<xsl:when test="$source='bpl'">
-					<a href="archives/BPL/SMALL/{$filename}.jpg" class="jqueryLightbox">
-						<img src="archives/BPL/gifs/{$filename}.gif"/>
+					<a href="{$path}archives/BPL/SMALL/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/BPL/gifs/{$filename}.gif"/>
 					</a>
 					<br/>
-					<a href="archives/BPL/LARGE/{$filename}.jpg" target="_blank"
+					<a href="{$path}archives/BPL/LARGE/{$filename}.jpg" target="_blank"
+						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+				<!--<xsl:when test="contains($source, 'Boy')">
+					<a href="{$path}archives/upham/medium/{@id}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/upham/gifs/{@id}.gif"/>
+					</a>
+					</xsl:when>-->
+				<xsl:when test="$source='ecca'">
+					<a href="{$path}archives/ecca/medium/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/ecca/thumb/{$filename}.gif"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/ecca/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 				<xsl:when test="$source='eia'">
-					<a href="archives/essex/eia/small/{$filename}.jpg" class="jqueryLightbox">
-						<img src="archives/essex/eia/gifs/{$filename}.gif"/>
+					<a href="{$path}archives/essex/eia/small/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/essex/eia/gifs/{$filename}.gif"/>
 					</a>
 					<br/>
-					<a href="archives/essex/eia/large/{$filename}.jpg" target="_blank"
+					<a href="{$path}archives/essex/eia/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 			</xsl:choose>
@@ -561,6 +632,24 @@
 			</xsl:if>
 			<xsl:apply-templates/>
 		</p>
+	</xsl:template>
+
+	<xsl:template match="figure">
+		<xsl:if test="not(contains($doc_id, 'Boy'))">
+			<xsl:choose>
+				<xsl:when test="contains($doc_id, 'Uph')">
+					<div class="figure">
+						<a href="{$path}archives/upham/medium/{@id}.jpg" class="jqueryLightbox" title="{figDesc}">
+							<img src="{$path}archives/upham/gifs/{@id}.gif"/>
+						</a>
+						<br/>
+						<a href="{$path}archives/upham/large/{@id}.jpg" target="_blank">Enlarge Image</a>
+						<br/>
+						<xsl:apply-templates select="figDesc"/>
+					</div>
+				</xsl:when>
+			</xsl:choose>			
+		</xsl:if>
 	</xsl:template>
 
 	<!-- removed pb milestones, no longer necessary since content has been changed versus printed edition -->
@@ -641,9 +730,8 @@
 					<!-- for salem: view entire case if viewing a div2 from a search result -->
 					<xsl:if test="string($chapter_id)">
 						<div style="width:100%;text-align:center;margin-bottom:20px;">
-							<a
-								href="?div_id={$chapter_id}&amp;term={$term}&amp;name={$name}"
-								>View Entire Case File</a>
+							<a href="?div_id={$chapter_id}&amp;term={$term}&amp;name={$name}">View
+								Entire Case File</a>
 						</div>
 					</xsl:if>
 				</xsl:if>
@@ -872,69 +960,7 @@
 	</xsl:template>-->
 
 	<xsl:template match="note">
-
-		<xsl:if test="@place='foot'">
-			<font size="-1">
-				<a name="{@id}">
-					<table style="float: right">
-						<tr>
-							<td>
-								<xsl:apply-templates/>
-							</td>
-						</tr>
-
-					</table>
-				</a>
-			</font>
-		</xsl:if>
-
-		<xsl:if test="@place='end'">
-			<font size="-1">
-				<a name="{@id}">
-					<table style="text-align: left; margin-left: auto;
-margin-right: 0px;">
-						<tr>
-							<td>
-								<xsl:apply-templates/>
-							</td>
-						</tr>
-
-					</table>
-				</a>
-			</font>
-
-			<xsl:if test="@place='inline'">
-				<font size="-1">
-					<a name="{@id}">
-						<table style="float: right">
-							<tr>
-								<td>
-									<xsl:apply-templates/>
-								</td>
-							</tr>
-
-						</table>
-					</a>
-				</font>
-			</xsl:if>
-
-			<xsl:if test="@place='right'">
-				<font size="-1">
-					<a name="{@id}">
-						<table style="float: right">
-							<tr>
-								<td>
-									<xsl:apply-templates/>
-								</td>
-							</tr>
-
-						</table>
-					</a>
-				</font>
-			</xsl:if>
-
-		</xsl:if>
-
+		<xsl:apply-templates/>
 	</xsl:template>
 
 	<xsl:template match="fw">
