@@ -4301,7 +4301,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 
 				<div2 id="BoySal3-n3.17" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="reewil">Wilmott
-						Reed</name> ) </head>
+						Reed</name> ) </head><figure n="ecca2006r"/><figure n="ecca2006v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Constables </name>
@@ -4379,7 +4379,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.19" type="indictment">
 					<head>(Indictment v. <name type="person" key="reewil">Wilmott Reed</name> , No.
-						2) </head>
+						2) </head><figure n="ecca2009r"/><figure n="ecca2009v"/>
 					<p>Essex in the province of the Massachusetts Bay in New England ss &rsqb; </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Domini 1692 </p>
@@ -4410,7 +4410,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					</p>
 				</div2>
 				<div2 id="BoySal3-n3.20" type="examination">
-					<head>(Examination of <name type="person" key="reewil">Wilmott Reed</name> ) </head>
+					<head>(Examination of <name type="person" key="reewil">Wilmott Reed</name> ) </head><figure n="ecca2008r"/><figure n="ecca2008v"/>
 					<p>The examination of <name type="person" key="reewil">Wilmot Redd </name> wife
 						of <name type="person" key="reesam">Sam'll Red</name> of marble hed
 						fisherman <date value="1692-05-31" certainty="confirmed">31 May <hi
@@ -4470,7 +4470,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 					</p>
 				</div2>
 				<div2 id="BoySal3-n3.21" type="summons">
-					<head>(Summons for Witnesses) </head>
+					<head>(Summons for Witnesses) </head><figure n="ecca2007r"/><figure n="ecca2007v"/>
 					<p>Essex ss. Wm &amp; Mary by the Grace of God. of England Scotland France
 						&amp; Ireland King &amp; Queen defend'rs of the faith &amp;ca </p>
 					<p>To the Sheriff of Essex or deputy or Constable of Marblehead </p>
@@ -4514,7 +4514,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<pb n="715"/>
 				<div2 id="BoySal3-n3.22" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
-							type="person" key="reewil">Wilmott Reed</name> ) </head>
+							type="person" key="reewil">Wilmott Reed</name> ) </head><figure n="ecca2011r"/><figure n="ecca2011v"/>
 					<p>The deposistion of <name type="person" key="walmar">Mary Walcott</name> who
 						testifieth and saith I was for a considerable time <orig reg="afflicted"
 							>afflected</orig> by a woman which tould me hir name was <name
@@ -4593,7 +4593,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				<pb n="716"/>
 				<div2 id="BoySal3-n3.24" type="section">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
-							type="person" key="reewil">Wilmott Reed</name> ) </head>
+							type="person" key="reewil">Wilmott Reed</name> ) </head><figure n="ecca2013r"/><figure n="ecca2013v"/>
 					<p>The deposition of <name type="person" key="putann2">Ann putnam</name> who
 						testifieth and saith that I was for a considerable time <orig
 							reg="afflicted">afflected</orig> by a woman that tould me hir name was
@@ -4634,7 +4634,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 				</div2>
 				<div2 id="BoySal3-n3.25" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
-							type="person" key="reewil">Wilmott Reed</name> ) </head>
+							type="person" key="reewil">Wilmott Reed</name> ) </head><figure n="ecca2012r"/><figure n="ecca2012v"/>
 					<p>The deposistion of <name type="person" key="hubeli">Eliz. Hubburd</name> who
 						testifieth and saith that I was a #[a] considerable time <orig
 							reg="afflicted">afflected</orig> by a woman w'ch tould me hir name was
@@ -5514,7 +5514,7 @@ over it--> <!ENTITY ybar  "[ybar ]"><!-- =y with bar over it--> ]>
 			<div1 id="n120" type="case" n="8">
 				<head>
 					<name type="person" key="seaann">Ann Sears</name>
-				</head>
+				</head><figure n="ecca2100r"/>
 
 				<!-- <ID>n120</ID> -->
 
@@ -7215,7 +7215,7 @@ book">Devills Booke</orig> with a
 				<div2 id="BoySal3-n3.70" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> and <name
 							type="person" key="iremar">Mary Ireson</name> v. <name type="person"
-							key="toomar">Mary Toothaker</name> ) </head>
+							key="toomar">Mary Toothaker</name> ) </head><figure n="ecca2117r"/><figure n="ecca2117v"/>
 					<p>one may the 24 <name type="person" key="warmar">mary waren</name> being in
 						afeet and grevosly <orig reg="afflicted">aflectted</orig> then was in atranc
 						for sum tim we hard her say who ar ye what is your name and agin she said
@@ -16845,7 +16845,8 @@ book"
 				</div2>
 				<pb n="945" id="p929-254"/>
 				<div2 id="BoySal3-n3.171" type="section">
-					<head>Officials' Expense Accounts for 1692 (Submitted 1692 - 1694) </head>
+					<head>Officials' Expense Accounts for 1692 (Submitted 1692 - 1694) </head><figure n="ecca2178v"/>
+
 					<div3 type="section">
 						<head>(Order of the Superior Court of Judicature) </head>
 						<p>At a Superiour Court of Judicature holden at Salem for the County of
@@ -16879,7 +16880,7 @@ book"
 					</div3>
 					<pb n="946"/>
 					<div3 type="section">
-						<head>(Superior Court of Judicature: Statement of Sums Due) </head>
+						<head>(Superior Court of Judicature: Statement of Sums Due) </head><figure n="ecca2179r"/><figure n="ecca2179v"/>
 						<p>An account of what is due to the severall persons hereafter named from
 							the publique for their respective disbursem'ts and services according to
 							their acco'ts Given in and &amp; Examined by the Superiour Court
@@ -20520,7 +20521,7 @@ book"
 					<div3 type="section">
 						<head>(Petition of <name type="person" key="engphi">Phillip English</name>
 							-- Cases of <name type="person" key="engphi">Phillip English</name> and
-								<name type="person" key="engmar">Mary English</name> ) </head>
+								<name type="person" key="engmar">Mary English</name> ) </head><figure n="ecca2184r"/><figure n="ecca2184v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Comittee Appointed to Distribute the
@@ -22383,7 +22384,7 @@ book"
 					</div3>
 					<div3 type="letter">
 						<head>(Letter of <name type="person" key="jewneh">Nehemiah Jewett</name> to
-								<name type="person" key="sewell">Samuel Sewell</name> ) </head>
+								<name type="person" key="sewell">Samuel Sewell</name> ) </head><figure n="ecca2181r"/><figure n="ecca2181v"/>
 						<p>
 							<name type="person" key="sewell">Mr. Sewall</name> S'r I thought good to
 							returne you the Names of severall &pbar;sons that were Condemned
@@ -23315,7 +23316,7 @@ book"
 						</p>
 					</div3>
 					<div3 type="section">
-						<head>(Order of <name type="person" key="eamreb">Rebecca Eames</name> ) </head>
+						<head>(Order of <name type="person" key="eamreb">Rebecca Eames</name> ) </head><figure n="ecca2166r"/><figure n="ecca2166  v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Gentlemen of the Committee appointed
@@ -23431,7 +23432,7 @@ book"
 					<pb n="1026"/>
 					<div3 type="section">
 						<head>(Petition of <name type="person" key="dannat">Nathaniel Dane</name> et
-							al.) </head>
+							al.) </head><figure n="ecca2168r"/><figure n="ecca2168v"/>
 						<p>Whereas severall of the neer Relations of us the Subscribers suffered
 							imprisonment at Salem in the year 1692. And we were put to great charges
 							and expence to provide for them while they were in Prison, and for
@@ -23576,7 +23577,7 @@ book"
 					</div3>
 					<div3 type="section">
 						<head>(Order of Nathaniel Gowing -- Case of <name type="person" key="projoh"
-								>John Proctor</name> ) </head>
+								>John Proctor</name> ) </head><figure n="ecca2145r"/>
 						<p>Wherefore inasmuch as I the subscriber Married with <name type="person"
 								key="promar">Martha Procter</name> one of the daughters of <name
 								type="person" key="projoh">John Procter</name> late of Salem deced
@@ -23673,7 +23674,7 @@ book"
 						</closer>
 					</div3>
 					<div3 type="section">
-						<head>(Order of <name type="person" key="nurjoh">John Nurse</name> et al.) </head>
+						<head>(Order of <name type="person" key="nurjoh">John Nurse</name> et al.) </head><figure n="ecca2148r"/><figure n="ecca2148 v"/>
 						<p>Wheareas wee are Informed the Generall Court hath apointed a Committe to
 							ditribute to the parties Concearnd what the s'd Court hath alowed to
 							make Reparatian to the Sufferers in the year 1692 Therefore wee doe
@@ -23705,7 +23706,7 @@ book"
 						</p>
 					</div3>
 					<div3 type="section">
-						<head>(Order of <name type="person" key="hobabi">Abigail Hobbs</name> ) </head>
+						<head>(Order of <name type="person" key="hobabi">Abigail Hobbs</name> ) </head><figure n="ecca2149r"/><figure n="ecca2149v"/>
 						<p>Whereas the Governour &amp; Generall Court have been Pleased to grant
 							a Considerable sum towards restitution to those who were sufferers in
 							the year 1692: &amp; have appointed a Committee to Distribute the
@@ -23739,7 +23740,7 @@ book"
 					</div3>
 					<div3 type="section">
 						<head>(Petition of <name type="person" key="osgpet">Peter Osgood</name> --
-							Case of <name type="person" key="osgmar">Mary Osgood</name> ) </head>
+							Case of <name type="person" key="osgmar">Mary Osgood</name> ) </head><figure n="ecca2170r"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the honourable Comittee Salem <date
@@ -23943,7 +23944,7 @@ book"
 					</div3>
 					<pb n="1034"/>
 					<div3 type="section">
-						<head>(Receipts for Sums Paid in Restitution) </head>
+						<head>(Receipts for Sums Paid in Restitution) </head><figure n="ecca2140-1"/><figure n="ecca2140-2"/><figure n="ecca2140-3"/><figure n="ecca2140-4"/>
 						<p>Whereas His Excellency the Governour and General court have been pleased
 							to grant to the persons who were Sufferers in the year 1692 some
 							considerable alowance towards restitution with respect to what they
@@ -25236,7 +25237,7 @@ book"
 
 					<div3 type="section">
 						<head>(An Act to Reverse the Attainders of <name type="person" key="burgeo"
-								>George Burroughs</name> and Others For WitchCraft)</head>
+								>George Burroughs</name> and Others For WitchCraft)</head><figure n="ecca2136r"/><figure n="ecca2136v"/>
 						<p> Forasmuch as in the year of our Lord one Thousand Six hundred ninety two
 							Several Towns within<lb/> this Province were Infested with a horrible
 							Witchcraft or Possession of devils: And at a Special<lb/> Court of Oyer
