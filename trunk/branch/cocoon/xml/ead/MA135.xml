@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><ead id="MA135">
+<?xml version="1.0" encoding="UTF-8"?>
+<ead id="MA135">	
 	<eadheader>
 		<eadid>MA135</eadid>
 		<filedesc>
@@ -23,8 +24,8 @@
 				<did>
 					<unitid>20</unitid>
 					<unittitle> Examination of Mary Black, Apr 22, 1692</unittitle>
-					<daogrp> <daoloc id="075"/> <daoloc id="076"/>
-					</daogrp>
+					<daoloc id="MA020r"/>
+					<daoloc id="MA020v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 18</bibref>
@@ -34,8 +35,8 @@
 				<did>
 					<unitid>21</unitid>
 					<unittitle><persname id="hubeli">Hubbard, Elizabeth</persname> v. <persname id="witmar">Mary Witheridge</persname>, May 18, 1692</unittitle>
-					<daogrp> <daoloc id="077"/> <daoloc id="078"/>
-					</daogrp>
+					<daoloc id="MA021r"/>
+					<daoloc id="MA021v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 19</bibref>
@@ -45,8 +46,8 @@
 				<did>
 					<unitid>22</unitid>
 					<unittitle><persname id="">Buckly, Sarah</persname> Examination, May 18, 1692</unittitle>
-					<daogrp> <daoloc id="079"/> <daoloc id="080"/>
-					</daogrp>
+					<daoloc id="MA022r"/>
+					<daoloc id="MA022v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 20</bibref>
@@ -56,8 +57,8 @@
 				<did>
 					<unitid>23</unitid>
 					<unittitle><persname id="">Putnam, Ann</persname> v. <persname id="">Sarah Buckly</persname>, May 18, 1692</unittitle>
-					<daogrp> <daoloc id="081"/> <daoloc id="082"/>
-					</daogrp>
+					<daoloc id="MA023r"/>
+					<daoloc id="MA023v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 21</bibref>
@@ -67,8 +68,8 @@
 				<did>
 					<unitid>24</unitid>
 					<unittitle><persname id="arnjoh">Arnold, John</persname> Account of expenses March - May, 1692</unittitle>
-					<daogrp> <daoloc id="083"/> <daoloc id="084"/>
-					</daogrp>
+					<daoloc id="MA024r"/>
+					<daoloc id="MA024v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 22</bibref>
@@ -78,8 +79,8 @@
 				<did>
 					<unitid>25</unitid>
 					<unittitle><persname id="">Newton, Thos</persname> Letter, May 31, 1692</unittitle>
-					<daogrp> <daoloc id="085"/> <daoloc id="086"/>
-					</daogrp>
+					<daoloc id="MA025r"/>
+					<daoloc id="MA025v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 23</bibref>
@@ -88,9 +89,9 @@
 			<c level="item" id="d1e212">
 				<did>
 					<unitid>25</unitid>
-					<unittitle><persname id="">Good, Sarah &amp; others</persname> Warrant (copy), May 31, 1692</unittitle>
-					<daogrp> <daoloc id="085"/> <daoloc id="086"/>
-					</daogrp>
+					<unittitle><persname id="">Good, Sarah</persname> &amp; others Warrant (copy), May 31, 1692</unittitle>
+					<daoloc id="MA025r"/>
+					<daoloc id="MA025v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 23</bibref>
@@ -99,9 +100,10 @@
 			<c level="item" id="d1e239">
 				<did>
 					<unitid>26</unitid>
-					<unittitle><persname id="warmar">Warren, Mary</persname> <persname id="">Shelden Susannah</persname> &amp; others v. <persname id="tucjob">Job Tuckey</persname>, June 4, 1692</unittitle>
-					<daogrp> <daoloc id="087"/> <daoloc id="088"/>
-					</daogrp>
+					<unittitle><persname id="warmar">Warren, Mary</persname>
+						<persname id="">Shelden Susannah</persname> &amp; others v. <persname id="tucjob">Job Tuckey</persname>, June 4, 1692</unittitle>
+					<daoloc id="MA026r"/>
+					<daoloc id="MA026v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 24</bibref>
@@ -110,9 +112,10 @@
 			<c level="item" id="d1e272">
 				<did>
 					<unitid>27</unitid>
-					<unittitle><persname id="">Lauder, John</persname> <persname id="">Stacy, John</persname> v. <persname id="tucjob">Job Tuckey</persname>, June 4, 1692</unittitle>
-					<daogrp> <daoloc id="089"/> <daoloc id="090"/>
-					</daogrp>
+					<unittitle><persname id="">Lauder, John</persname>
+						<persname id="">Stacy, John</persname> v. <persname id="tucjob">Job Tuckey</persname>, June 4, 1692</unittitle>
+					<daoloc id="MA027r"/>
+					<daoloc id="MA027v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 25</bibref>
@@ -122,8 +125,8 @@
 				<did>
 					<unitid>28</unitid>
 					<unittitle> Examination of <persname id="">Job Tucky</persname>, June 7, 1692</unittitle>
-					<daogrp> <daoloc id="091"/> <daoloc id="092"/>
-					</daogrp>
+					<daoloc id="MA028r"/>
+					<daoloc id="MA028v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 26</bibref>
@@ -133,8 +136,8 @@
 				<did>
 					<unitid>29</unitid>
 					<unittitle><persname id="hubwil">Hubbard, William</persname> Petition for <persname id="">Sarah Buckly</persname>, June 20, 1692</unittitle>
-					<daogrp> <daoloc id="093"/> <daoloc id="094"/>
-					</daogrp>
+					<daoloc id="MA029r"/>
+					<daoloc id="MA029v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 27</bibref>
@@ -144,8 +147,8 @@
 				<did>
 					<unitid>30</unitid>
 					<unittitle><persname id="swatim">Swan, Timothy</persname> v. <persname id="carric2">Richard Carrier</persname> , June, 1692</unittitle>
-					<daogrp> <daoloc id="095"/> <daoloc id="096"/>
-					</daogrp>
+					<daoloc id="MA030r"/>
+					<daoloc id="MA030v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 28</bibref>
@@ -155,8 +158,8 @@
 				<did>
 					<unitid>31</unitid>
 					<unittitle><persname id="walmar">Walcott, Mary</persname> v. Candy, July 2, 1692</unittitle>
-					<daogrp> <daoloc id="097"/> <daoloc id="098"/>
-					</daogrp>
+					<daoloc id="MA031r"/>
+					<daoloc id="MA031v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 29</bibref>
@@ -166,8 +169,8 @@
 				<did>
 					<unitid>31/2</unitid>
 					<unittitle><persname id="">Putnam, Ann</persname> v. Candy, July 2, 1692</unittitle>
-					<daogrp> <daoloc id="099"/> <daoloc id="100"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 30</bibref>
@@ -177,8 +180,8 @@
 				<did>
 					<unitid>32</unitid>
 					<unittitle><persname id="warmar">Warren, Mary</persname> v. <persname id="toojob">Job Tookey</persname> June 7, 1692</unittitle>
-					<daogrp> <daoloc id="101"/> <daoloc id="102"/>
-					</daogrp>
+					<daoloc id="MA032r"/>
+					<daoloc id="MA032v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 31</bibref>
@@ -188,8 +191,8 @@
 				<did>
 					<unitid>33</unitid>
 					<unittitle><persname id="">Johnson, Eliz., Jr</persname> Confession, Aug. 11, 1692</unittitle>
-					<daogrp> <daoloc id="103"/> <daoloc id="104"/>
-					</daogrp>
+					<daoloc id="MA033r"/>
+					<daoloc id="MA033v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 32</bibref>
@@ -198,9 +201,10 @@
 			<c level="item" id="d1e505">
 				<did>
 					<unitid>35</unitid>
-					<unittitle><persname id="hutben">Hutchinson, Benjamin</persname> Deposition v. <persname id="">Sarah Buckly</persname> &amp; <persname id="witmar">Mary Witheridge</persname> Sept 15, 1692</unittitle>
-					<daogrp> <daoloc id="105"/> <daoloc id="106"/>
-					</daogrp>
+					<unittitle><persname id="hutben">Hutchinson, Benjamin</persname> Deposition v. <persname id="">Sarah Buckly</persname> &amp; <persname id="witmar">Mary Witheridge</persname> Sept
+						15, 1692</unittitle>
+					<daoloc id="MA035r"/>
+					<daoloc id="MA035v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 33</bibref>
@@ -210,8 +214,8 @@
 				<did>
 					<unitid>36</unitid>
 					<unittitle><persname id="sprmar">Sprague, Martha</persname> v. <persname id="brisar">Sarah Bridges</persname>, Aug. 25, 1692</unittitle>
-					<daogrp> <daoloc id="107"/> <daoloc id="108"/>
-					</daogrp>
+					<daoloc id="MA036r"/>
+					<daoloc id="MA036v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 34</bibref>
@@ -221,8 +225,8 @@
 				<did>
 					<unitid>37</unitid>
 					<unittitle><persname id="marabi">Martin, Abigail</persname> v. <persname id="">William Barker</persname>, August</unittitle>
-					<daogrp> <daoloc id="109"/> <daoloc id="110"/>
-					</daogrp>
+					<daoloc id="MA037r"/>
+					<daoloc id="MA037v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 35</bibref>
@@ -232,8 +236,8 @@
 				<did>
 					<unitid>38</unitid>
 					<unittitle> Indictment of <persname id="">William Barker</persname></unittitle>
-					<daogrp> <daoloc id="111"/> <daoloc id="112"/>
-					</daogrp>
+					<daoloc id="MA038r"/>
+					<daoloc id="MA038v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 36</bibref>
@@ -243,8 +247,8 @@
 				<did>
 					<unitid>39</unitid>
 					<unittitle><persname id="">Barker, William</persname> Confession, Sept 5, 1692 duplicate</unittitle>
-					<daogrp> <daoloc id="113"/> <daoloc id="114 115 116"/>
-					</daogrp>
+					<daoloc id="MA039r"/>
+					<daoloc id="MA039v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 37</bibref>
@@ -254,8 +258,8 @@
 				<did>
 					<unitid>40</unitid>
 					<unittitle><persname id="brisar">Bridges, Sarah</persname> Indictment of <persname id="brisar">Sarah Bridges</persname></unittitle>
-					<daogrp> <daoloc id="117"/> <daoloc id="118"/>
-					</daogrp>
+					<daoloc id="MA040r"/>
+					<daoloc id="MA040v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 38</bibref>
@@ -265,8 +269,8 @@
 				<did>
 					<unitid>41</unitid>
 					<unittitle><persname id="">Johnson, Stephen</persname> Indictment of <persname id="">Stephen Johnson</persname></unittitle>
-					<daogrp> <daoloc id="119"/> <daoloc id="120"/>
-					</daogrp>
+					<daoloc id="MA041r"/>
+					<daoloc id="MA041v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 39</bibref>
@@ -275,9 +279,10 @@
 			<c level="item" id="d1e712">
 				<did>
 					<unitid>42</unitid>
-					<unittitle><persname id="sprmar">Sprague, Martha</persname> <persname id="">Mary Lacey</persname>, <persname id="fosros">Rose Foster</persname> v. <persname id="">Stephen Johnson</persname>, Sept. 1, 1692</unittitle>
-					<daogrp> <daoloc id="121"/> <daoloc id="122"/>
-					</daogrp>
+					<unittitle><persname id="sprmar">Sprague, Martha</persname>
+						<persname id="">Mary Lacey</persname>, <persname id="fosros">Rose Foster</persname> v. <persname id="">Stephen Johnson</persname>, Sept. 1, 1692</unittitle>
+					<daoloc id="MA042r"/>
+					<daoloc id="MA042v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 40</bibref>
@@ -287,8 +292,8 @@
 				<did>
 					<unitid>43</unitid>
 					<unittitle><persname id="walmar">Walcott, Mary</persname> v. <persname id="">Sarah Buckly</persname> Sept. 14, 1692</unittitle>
-					<daogrp> <daoloc id="123"/> <daoloc id="124"/>
-					</daogrp>
+					<daoloc id="MA043r"/>
+					<daoloc id="MA043v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 41</bibref>
@@ -298,8 +303,8 @@
 				<did>
 					<unitid>44</unitid>
 					<unittitle><persname id="">Putnam, Ann</persname> Deposition v. <persname id="">Sarah Buckly</persname>, Sept. 15, 1692</unittitle>
-					<daogrp> <daoloc id="125"/> <daoloc id="126"/>
-					</daogrp>
+					<daoloc id="MA044r"/>
+					<daoloc id="MA044v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 42</bibref>
@@ -308,9 +313,10 @@
 			<c level="item" id="d1e808">
 				<did>
 					<unitid>45</unitid>
-					<unittitle><persname id="hubeli">Hubbard, Elizabeth</persname> <persname id="">Sarah Buckly</persname>, Sept. 14, 1692</unittitle>
-					<daogrp> <daoloc id="127"/> <daoloc id="128"/>
-					</daogrp>
+					<unittitle><persname id="hubeli">Hubbard, Elizabeth</persname>
+						<persname id="">Sarah Buckly</persname>, Sept. 14, 1692</unittitle>
+					<daoloc id="MA045r"/>
+					<daoloc id="MA045v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 43</bibref>
@@ -320,8 +326,8 @@
 				<did>
 					<unitid>47</unitid>
 					<unittitle><persname id="">Marsten, Mary</persname> Examination &amp; Confession, Sept. 15, 1692</unittitle>
-					<daogrp> <daoloc id="129"/> <daoloc id="130"/>
-					</daogrp>
+					<daoloc id="MA047r"/>
+					<daoloc id="MA047v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 44</bibref>
@@ -330,9 +336,10 @@
 			<c level="item" id="d1e865">
 				<did>
 					<unitid>48</unitid>
-					<unittitle><persname id="phesar">Phelps, Sarah</persname> <persname id="warmar">Warren, Mary</persname> v. <persname id="">Abigail Faulkner</persname> Sept 17, 1692</unittitle>
-					<daogrp> <daoloc id="131"/> <daoloc id="132"/>
-					</daogrp>
+					<unittitle><persname id="phesar">Phelps, Sarah</persname>
+						<persname id="warmar">Warren, Mary</persname> v. <persname id="">Abigail Faulkner</persname> Sept 17, 1692</unittitle>
+					<daoloc id="MA048r"/>
+					<daoloc id="MA048v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 45</bibref>
@@ -341,9 +348,10 @@
 			<c level="item" id="d1e899">
 				<did>
 					<unitid>49</unitid>
-					<unittitle><persname id="fosros">Foster, Rose</persname><persname id=""> Sprague, Martha</persname> v. <persname id="">Abigail Faulkner</persname> Sept 17, 1692 <persname id="">Abigail Faulkner</persname> Verdict &amp; sentence, Sept. 17, 1692</unittitle>
-					<daogrp> <daoloc id="133"/> <daoloc id="134"/>
-					</daogrp>
+					<unittitle><persname id="fosros">Foster, Rose</persname><persname id=""> Sprague, Martha</persname> v. <persname id="">Abigail Faulkner</persname> Sept 17, 1692 <persname id=""
+							>Abigail Faulkner</persname> Verdict &amp; sentence, Sept. 17, 1692</unittitle>
+					<daoloc id="MA049r"/>
+					<daoloc id="MA049v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 46</bibref>
@@ -353,8 +361,8 @@
 				<did>
 					<unitid>50</unitid>
 					<unittitle><persname id="walmar">Walcott, Mary</persname> v. <persname id="">Abigail Faulkner</persname>, Sept. 17, 1692</unittitle>
-					<daogrp> <daoloc id="135"/> <daoloc id="136"/>
-					</daogrp>
+					<daoloc id="MA050r"/>
+					<daoloc id="MA050v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 47</bibref>
@@ -364,8 +372,8 @@
 				<did>
 					<unitid>50</unitid>
 					<unittitle> v. <persname id="">Abigail Faulkner</persname>, Sept. 17 1692 duplicate . image</unittitle>
-					<daogrp> <daoloc id="137"/> <daoloc id="138"/>
-					</daogrp>
+					<daoloc id="MA050r"/>
+					<daoloc id="MA050v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 47</bibref>
@@ -375,8 +383,8 @@
 				<did>
 					<unitid>51</unitid>
 					<unittitle> Indictment of <persname id="faredw">Edward Farrington</persname> Duplicate image</unittitle>
-					<daogrp> <daoloc id="139"/> <daoloc id="140 141 142"/>
-					</daogrp>
+					<daoloc id="MA051r"/>
+					<daoloc id="MA051v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 48</bibref>
@@ -386,8 +394,8 @@
 				<did>
 					<unitid>52</unitid>
 					<unittitle><persname id="warmar">Warren, Mary</persname> v. <persname id="faredw">Edward Farrington</persname> Sept 7, 1692</unittitle>
-					<daogrp> <daoloc id="143"/> <daoloc id="144"/>
-					</daogrp>
+					<daoloc id="MA052r"/>
+					<daoloc id="MA052v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 49</bibref>
@@ -397,8 +405,8 @@
 				<did>
 					<unitid>53</unitid>
 					<unittitle><persname id="fosros">Foster, Rose</persname> v. <persname id="tylhan">Hannah Tyler</persname> Sept 7, 1692</unittitle>
-					<daogrp> <daoloc id="145"/> <daoloc id="146"/>
-					</daogrp>
+					<daoloc id="MA053r"/>
+					<daoloc id="MA053v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 50</bibref>
@@ -408,8 +416,8 @@
 				<did>
 					<unitid>54</unitid>
 					<unittitle><persname id="fosros">Foster, Rose</persname> v. <persname id="barabi">Abigail Barker</persname> Sept 8, 1692</unittitle>
-					<daogrp> <daoloc id="147"/> <daoloc id="148"/>
-					</daogrp>
+					<daoloc id="MA054r"/>
+					<daoloc id="MA054v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 51</bibref>
@@ -418,9 +426,10 @@
 			<c level="item" id="d1e1111">
 				<did>
 					<unitid>55</unitid>
-					<unittitle><persname id="wriwal">Wright, Walter</persname> <persname id="">Faulkner Francis</persname> Bond for <persname id="sawjoh">John Sawdy</persname>, Oct. 6, 1692</unittitle>
-					<daogrp> <daoloc id="149"/> <daoloc id="150"/>
-					</daogrp>
+					<unittitle><persname id="wriwal">Wright, Walter</persname>
+						<persname id="">Faulkner Francis</persname> Bond for <persname id="sawjoh">John Sawdy</persname>, Oct. 6, 1692</unittitle>
+					<daoloc id="MA055r"/>
+					<daoloc id="MA055v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 52</bibref>
@@ -429,9 +438,10 @@
 			<c level="item" id="d1e1144">
 				<did>
 					<unitid>56</unitid>
-					<unittitle><persname id="">Osgood, John, Sr</persname> <persname id="">Dane, Nathaniel, Sr</persname> Bond for <persname id="">Dorothy</persname> &amp; <persname id="">Abigail Faulkner</persname>, Oct. 6, 1692</unittitle>
-					<daogrp> <daoloc id="151"/> <daoloc id="152"/>
-					</daogrp>
+					<unittitle><persname id="">Osgood, John, Sr</persname>
+						<persname id="">Dane, Nathaniel, Sr</persname> Bond for <persname id="">Dorothy</persname> &amp; <persname id="">Abigail Faulkner</persname>, Oct. 6, 1692</unittitle>
+					<daoloc id="MA056r"/>
+					<daoloc id="MA056v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 53</bibref>
@@ -441,8 +451,8 @@
 				<did>
 					<unitid>57</unitid>
 					<unittitle><persname id="">Faulkner, Francis &amp; others</persname> Bond for <persname id="">Mary Lacy Jr.</persname>, Oct. 6, 1692</unittitle>
-					<daogrp> <daoloc id="153"/> <daoloc id="154"/>
-					</daogrp>
+					<daoloc id="MA057r"/>
+					<daoloc id="MA057v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 54</bibref>
@@ -451,9 +461,10 @@
 			<c level="item" id="d1e1210">
 				<did>
 					<unitid>58</unitid>
-					<unittitle><persname id="">Wright, Walter &amp; others</persname> Bond for <persname id="">Stephen</persname> &amp; <persname id="johabi">Abigail Johnson</persname> &amp; <persname id="carsar">Sarah Carrier</persname>, Oct 6, 1692</unittitle>
-					<daogrp> <daoloc id="155"/> <daoloc id="156"/>
-					</daogrp>
+					<unittitle><persname id="">Wright, Walter &amp; others</persname> Bond for <persname id="">Stephen</persname> &amp; <persname id="johabi">Abigail Johnson</persname> &amp; <persname
+							id="carsar">Sarah Carrier</persname>, Oct 6, 1692</unittitle>
+					<daoloc id="MA058r"/>
+					<daoloc id="MA058v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 55</bibref>
@@ -462,9 +473,10 @@
 			<c level="item" id="d1e1246">
 				<did>
 					<unitid>59</unitid>
-					<unittitle> Petition for <persname id="osgjoh">John Osgood</persname>, <persname id="fryjoh">John Fry</persname>, <persname id="marjoh">John Marston</persname> &amp; others Oct 12, 1692</unittitle>
-					<daogrp> <daoloc id="157"/> <daoloc id="158"/>
-					</daogrp>
+					<unittitle> Petition for <persname id="osgjoh">John Osgood</persname>, <persname id="fryjoh">John Fry</persname>, <persname id="marjoh">John Marston</persname> &amp; others Oct 12,
+						1692</unittitle>
+					<daoloc id="MA059r"/>
+					<daoloc id="MA059v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 56</bibref>
@@ -473,9 +485,10 @@
 			<c level="item" id="d1e1281">
 				<did>
 					<unitid>60</unitid>
-					<unittitle><persname id="brijoh">Bridges, John</persname> <persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">Mary Bridges</persname>, Oct. 15, 1692</unittitle>
-					<daogrp> <daoloc id="159"/> <daoloc id="160"/>
-					</daogrp>
+					<unittitle><persname id="brijoh">Bridges, John</persname>
+						<persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">Mary Bridges</persname>, Oct. 15, 1692</unittitle>
+					<daoloc id="MA060r"/>
+					<daoloc id="MA060v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 57</bibref>
@@ -485,8 +498,8 @@
 				<did>
 					<unitid>61</unitid>
 					<unittitle> Petition of ministers of Andover, Oct 18, 1692</unittitle>
-					<daogrp> <daoloc id="161"/> <daoloc id="162"/>
-					</daogrp>
+					<daoloc id="MA061r"/>
+					<daoloc id="MA061v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 59</bibref>
@@ -496,8 +509,8 @@
 				<did>
 					<unitid>62</unitid>
 					<unittitle><persname id="hartho1">Hart, Thomas</persname> Petition for <persname id="hareli">Elizabeth Hart</persname> Oct 19, 1692</unittitle>
-					<daogrp> <daoloc id="163"/> <daoloc id="164"/>
-					</daogrp>
+					<daoloc id="MA062r"/>
+					<daoloc id="MA062v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 60</bibref>
@@ -507,8 +520,8 @@
 				<did>
 					<unitid>63</unitid>
 					<unittitle><persname id="">Rist, Nicholas</persname> Petition for <persname id="">Sarah Rist</persname>, Oct. 19, 1692</unittitle>
-					<daogrp> <daoloc id="165"/> <daoloc id="166"/>
-					</daogrp>
+					<daoloc id="MA063r"/>
+					<daoloc id="MA063v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 61</bibref>
@@ -518,8 +531,8 @@
 				<did>
 					<unitid>64</unitid>
 					<unittitle><persname id="bartho2">Barrett, Thomas</persname> Petition for <persname id="spamar">Martha Sparks</persname> Nov 1, 1692</unittitle>
-					<daogrp> <daoloc id="167"/> <daoloc id="168"/>
-					</daogrp>
+					<daoloc id="MA064r"/>
+					<daoloc id="MA064v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 62</bibref>
@@ -529,8 +542,8 @@
 				<did>
 					<unitid>65</unitid>
 					<unittitle><persname id="">Parker, John &amp; Joseph</persname> Petition for <persname id="parmar">Mary Parker</persname></unittitle>
-					<daogrp> <daoloc id="169"/> <daoloc id="170"/>
-					</daogrp>
+					<daoloc id="MA065r"/>
+					<daoloc id="MA065v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 63</bibref>
@@ -540,8 +553,8 @@
 				<did>
 					<unitid>66</unitid>
 					<unittitle><persname id="osgjoh">Osgood, John</persname> Petition for accused Dec 6, 1692</unittitle>
-					<daogrp> <daoloc id="171"/> <daoloc id="172"/>
-					</daogrp>
+					<daoloc id="MA066r"/>
+					<daoloc id="MA066v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 64</bibref>
@@ -551,8 +564,8 @@
 				<did>
 					<unitid/>
 					<unittitle> BLANK</unittitle>
-					<daogrp> <daoloc id="173"/> <daoloc id="174"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page </bibref>
@@ -562,8 +575,8 @@
 				<did>
 					<unitid>67</unitid>
 					<unittitle><persname id="hergeo">Herrick, George</persname> Compensation Dec 8, 1692</unittitle>
-					<daogrp> <daoloc id=""/> <daoloc id=""/>
-					</daogrp>
+					<daoloc id="MA067r"/>
+					<daoloc id="MA067v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 66</bibref>
@@ -573,8 +586,8 @@
 				<did>
 					<unitid>68</unitid>
 					<unittitle> Legislative bill for more specificity in execution of laws against witchcraft</unittitle>
-					<daogrp> <daoloc id="177"/> <daoloc id="178"/>
-					</daogrp>
+					<daoloc id="MA068r"/>
+					<daoloc id="MA068v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 67</bibref>
@@ -584,8 +597,8 @@
 				<did>
 					<unitid/>
 					<unittitle> BLANK</unittitle>
-					<daogrp> <daoloc id="179"/> <daoloc id="189"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page </bibref>
@@ -594,9 +607,10 @@
 			<c level="item" id="d1e1586">
 				<did>
 					<unitid>70</unitid>
-					<unittitle><persname id="">Niccolls, John</persname> <persname id="">Town, Joseph</persname> Bond for <persname id="hobwil">William Hobbs</persname>, Dec14, 1692</unittitle>
-					<daogrp> <daoloc id="181"/> <daoloc id="182"/>
-					</daogrp>
+					<unittitle><persname id="">Niccolls, John</persname>
+						<persname id="">Town, Joseph</persname> Bond for <persname id="hobwil">William Hobbs</persname>, Dec14, 1692</unittitle>
+					<daoloc id="MA070r"/>
+					<daoloc id="MA070v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 69</bibref>
@@ -605,9 +619,10 @@
 			<c level="item" id="d1e1620">
 				<did>
 					<unitid>71</unitid>
-					<unittitle><persname id="pritho">Prince, Thomas</persname> <persname id="">Tan, Richard</persname> Bond for <persname id="primar">Margaret Prince</persname>, Dec 15, 1692</unittitle>
-					<daogrp> <daoloc id="183"/> <daoloc id="184"/>
-					</daogrp>
+					<unittitle><persname id="pritho">Prince, Thomas</persname>
+						<persname id="">Tan, Richard</persname> Bond for <persname id="primar">Margaret Prince</persname>, Dec 15, 1692</unittitle>
+					<daoloc id="MA071r"/>
+					<daoloc id="MA071v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 70</bibref>
@@ -616,9 +631,10 @@
 			<c level="item" id="d1e1653">
 				<did>
 					<unitid>72</unitid>
-					<unittitle><persname id="grepet">Green, Peter</persname> <persname id="sanjam">Sanders, James</persname> Bond for <persname id="gremar">Mary Green</persname> , Dec 16, 1692</unittitle>
-					<daogrp> <daoloc id="185"/> <daoloc id="186"/>
-					</daogrp>
+					<unittitle><persname id="grepet">Green, Peter</persname>
+						<persname id="sanjam">Sanders, James</persname> Bond for <persname id="gremar">Mary Green</persname> , Dec 16, 1692</unittitle>
+					<daoloc id="MA072r"/>
+					<daoloc id="MA072v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 71</bibref>
@@ -627,9 +643,11 @@
 			<c level="item" id="d1e1686">
 				<did>
 					<unitid>73</unitid>
-					<unittitle><persname id="">Frie, John</persname> <persname id="osgjoh">Osgood, John</persname> <persname id="">Eunice Frie</persname>, Dec 20, 1692 Duplicate</unittitle>
-					<daogrp> <daoloc id="187"/> <daoloc id="188 189 190"/>
-					</daogrp>
+					<unittitle><persname id="">Frie, John</persname>
+						<persname id="osgjoh">Osgood, John</persname>
+						<persname id="">Eunice Frie</persname>, Dec 20, 1692 Duplicate</unittitle>
+					<daoloc id="MA073r"/>
+					<daoloc id="MA073v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 72</bibref>
@@ -639,8 +657,8 @@
 				<did>
 					<unitid>74</unitid>
 					<unittitle><persname id="osgjoh">Osgood, John</persname><persname id=""> Frie, John</persname> Bond for <persname id="osgmar">Mary Osgood</persname>, Dec 20, 1692</unittitle>
-					<daogrp> <daoloc id="191"/> <daoloc id="192"/>
-					</daogrp>
+					<daoloc id="MA074r"/>
+					<daoloc id="MA074v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 73</bibref>
@@ -649,9 +667,10 @@
 			<c level="item" id="d1e1751">
 				<did>
 					<unitid>75</unitid>
-					<unittitle><persname id="">Hutchens, Samuel</persname> <persname id="kinjos">Kingsbury, Joseph</persname> Bond for <persname id="">Frances Hutchens</persname>, Dec 29, 1692</unittitle>
-					<daogrp> <daoloc id="193"/> <daoloc id="194"/>
-					</daogrp>
+					<unittitle><persname id="">Hutchens, Samuel</persname>
+						<persname id="kinjos">Kingsbury, Joseph</persname> Bond for <persname id="">Frances Hutchens</persname>, Dec 29, 1692</unittitle>
+					<daoloc id="MA075r"/>
+					<daoloc id="MA075v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 74</bibref>
@@ -661,8 +680,8 @@
 				<did>
 					<unitid>76</unitid>
 					<unittitle><persname id="foxreb">Fox, Rebecca</persname> Petition for <persname id="jacreb">Rebecca Jacobs</persname></unittitle>
-					<daogrp> <daoloc id="195"/> <daoloc id="196"/>
-					</daogrp>
+					<daoloc id="MA076r"/>
+					<daoloc id="MA076v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 75</bibref>
@@ -672,8 +691,8 @@
 				<did>
 					<unitid>77</unitid>
 					<unittitle> Warrant for jurors -- Lynn, Dec 25, 1692</unittitle>
-					<daogrp> <daoloc id="197"/> <daoloc id="198"/>
-					</daogrp>
+					<daoloc id="MA077r"/>
+					<daoloc id="MA077v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 76</bibref>
@@ -683,8 +702,8 @@
 				<did>
 					<unitid>79</unitid>
 					<unittitle> Warrant for jurors -- Ipswich, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="199"/> <daoloc id="200"/>
-					</daogrp>
+					<daoloc id="MA079r"/>
+					<daoloc id="MA079v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 77</bibref>
@@ -694,8 +713,8 @@
 				<did>
 					<unitid>81</unitid>
 					<unittitle> Warrant for jurors -- Salem, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="201"/> <daoloc id="202"/>
-					</daogrp>
+					<daoloc id="MA081r"/>
+					<daoloc id="MA081v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 78</bibref>
@@ -705,8 +724,8 @@
 				<did>
 					<unitid>83</unitid>
 					<unittitle> Warrant for jurors -- Gloucester, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="203"/> <daoloc id="204"/>
-					</daogrp>
+					<daoloc id="MA083r"/>
+					<daoloc id="MA083v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 79</bibref>
@@ -716,8 +735,8 @@
 				<did>
 					<unitid>84</unitid>
 					<unittitle> Warrant for jurors -- Marblehead, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="205"/> <daoloc id="206"/>
-					</daogrp>
+					<daoloc id="MA084r"/>
+					<daoloc id="MA084v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 80</bibref>
@@ -727,8 +746,8 @@
 				<did>
 					<unitid>85(86?)</unitid>
 					<unittitle> Warrant for jurors -- Topsfield, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="207"/> <daoloc id="208"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 81</bibref>
@@ -738,8 +757,8 @@
 				<did>
 					<unitid>88</unitid>
 					<unittitle> Warrant for jurors -- Beverly, Dec 20, 1692</unittitle>
-					<daogrp> <daoloc id="209"/> <daoloc id="210"/>
-					</daogrp>
+					<daoloc id="MA088r"/>
+					<daoloc id="MA088v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 82</bibref>
@@ -749,8 +768,8 @@
 				<did>
 					<unitid>90</unitid>
 					<unittitle> Warrant for jurors -- Haverhill, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="211"/> <daoloc id="212"/>
-					</daogrp>
+					<daoloc id="MA090r"/>
+					<daoloc id="MA090v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 83</bibref>
@@ -760,8 +779,8 @@
 				<did>
 					<unitid>92</unitid>
 					<unittitle> Warrant for jurors -- Andover, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="213"/> <daoloc id="214"/>
-					</daogrp>
+					<daoloc id="MA092r"/>
+					<daoloc id="MA092v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 84</bibref>
@@ -771,8 +790,8 @@
 				<did>
 					<unitid>93</unitid>
 					<unittitle> Warrant for jurors -- Newbury, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="215"/> <daoloc id="216"/>
-					</daogrp>
+					<daoloc id="MA093r"/>
+					<daoloc id="MA093v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 85</bibref>
@@ -782,8 +801,8 @@
 				<did>
 					<unitid>95</unitid>
 					<unittitle> Return of jurors -- Rowly Dec 31, 1692</unittitle>
-					<daogrp> <daoloc id="217"/> <daoloc id="218"/>
-					</daogrp>
+					<daoloc id="MA095r"/>
+					<daoloc id="MA095v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 86</bibref>
@@ -793,8 +812,8 @@
 				<did>
 					<unitid>96</unitid>
 					<unittitle> Warrant for jurors -- Wenham, Dec 23, 1692</unittitle>
-					<daogrp> <daoloc id="219"/> <daoloc id="220"/>
-					</daogrp>
+					<daoloc id="MA096r"/>
+					<daoloc id="MA096v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 87</bibref>
@@ -804,8 +823,8 @@
 				<did>
 					<unitid>97</unitid>
 					<unittitle> Return of jurors -- Newbury, Dec 30, 1692</unittitle>
-					<daogrp> <daoloc id="221"/> <daoloc id="222"/>
-					</daogrp>
+					<daoloc id="MA097r"/>
+					<daoloc id="MA097v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 88</bibref>
@@ -815,8 +834,8 @@
 				<did>
 					<unitid>98</unitid>
 					<unittitle><persname id="hubeli">Hubbard, Elizabeth</persname> v. <persname id="jacreb">Rebecca Jacobs</persname>, May 18, 1692</unittitle>
-					<daogrp> <daoloc id="223"/> <daoloc id="224"/>
-					</daogrp>
+					<daoloc id="MA098r"/>
+					<daoloc id="MA098v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 89</bibref>
@@ -825,9 +844,10 @@
 			<c level="item" id="d1e2171">
 				<did>
 					<unitid>99</unitid>
-					<unittitle><persname id="higjoh">Higginson, John</persname> <persname id="chesam7">Cheever, Samuel</persname> Petition for <persname id="">Mrs Buckly</persname>, Jan 2, 1692/3</unittitle>
-					<daogrp> <daoloc id="225"/> <daoloc id="226"/>
-					</daogrp>
+					<unittitle><persname id="higjoh">Higginson, John</persname>
+						<persname id="chesam7">Cheever, Samuel</persname> Petition for <persname id="">Mrs Buckly</persname>, Jan 2, 1692/3</unittitle>
+					<daoloc id="MA099r"/>
+					<daoloc id="MA099v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 90</bibref>
@@ -837,8 +857,8 @@
 				<did>
 					<unitid>100</unitid>
 					<unittitle><persname id="hubeli">Hubbard, Elizabeth</persname> v. <persname id="">Margaret Jacobs</persname>, May 11, 1692</unittitle>
-					<daogrp> <daoloc id="227"/> <daoloc id="228"/>
-					</daogrp>
+					<daoloc id="MA100r"/>
+					<daoloc id="MA100v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 91</bibref>
@@ -848,8 +868,8 @@
 				<did>
 					<unitid>101</unitid>
 					<unittitle> Indictment of <persname id="wrimarwarmer">Mercy Wardwell</persname></unittitle>
-					<daogrp> <daoloc id="229"/> <daoloc id="230"/>
-					</daogrp>
+					<daoloc id="MA101r"/>
+					<daoloc id="MA101v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 92</bibref>
@@ -858,9 +878,10 @@
 			<c level="item" id="d1e2261">
 				<did>
 					<unitid>102</unitid>
-					<unittitle><persname id="osgjoh">Osgood, John</persname> <persname id="fryjam">Fry, James</persname> Bond for <persname id="fryeun">Eunice Fry</persname>, Jan 2, 1692/3</unittitle>
-					<daogrp> <daoloc id="231"/> <daoloc id="232"/>
-					</daogrp>
+					<unittitle><persname id="osgjoh">Osgood, John</persname>
+						<persname id="fryjam">Fry, James</persname> Bond for <persname id="fryeun">Eunice Fry</persname>, Jan 2, 1692/3</unittitle>
+					<daoloc id="MA102r"/>
+					<daoloc id="MA102v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 93</bibref>
@@ -869,9 +890,10 @@
 			<c level="item" id="d1e2295">
 				<did>
 					<unitid>103</unitid>
-					<unittitle><persname id="brijoh">Bridges, John</persname> <persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">Mary Bridges</persname>, Jan 2, 1692/3</unittitle>
-					<daogrp> <daoloc id="233"/> <daoloc id="234"/>
-					</daogrp>
+					<unittitle><persname id="brijoh">Bridges, John</persname>
+						<persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">Mary Bridges</persname>, Jan 2, 1692/3</unittitle>
+					<daoloc id="MA103r"/>
+					<daoloc id="MA103v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 94</bibref>
@@ -880,9 +902,10 @@
 			<c level="item" id="d1e2328">
 				<did>
 					<unitid>104</unitid>
-					<unittitle><persname id="faufra">Faulkner, Francis</persname> <persname id="marjos">Marble, Joseph</persname> Bond for Dorothy &amp; <persname id="">Abigail Faulkner</persname> Jan 13, 1692 Duplicate images</unittitle>
-					<daogrp> <daoloc id="235"/> <daoloc id="236 237 238"/>
-					</daogrp>
+					<unittitle><persname id="faufra">Faulkner, Francis</persname>
+						<persname id="marjos">Marble, Joseph</persname> Bond for Dorothy &amp; <persname id="">Abigail Faulkner</persname> Jan 13, 1692 Duplicate images</unittitle>
+					<daoloc id="MA104r"/>
+					<daoloc id="MA104v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 95</bibref>
@@ -891,9 +914,10 @@
 			<c level="item" id="d1e2361">
 				<did>
 					<unitid>105</unitid>
-					<unittitle><persname id="barjoh">Barker, John</persname> <persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">William</persname> &amp; <persname id="barmar">Mary Barker</persname> Jan 13, 1692/3</unittitle>
-					<daogrp> <daoloc id="239"/> <daoloc id="240"/>
-					</daogrp>
+					<unittitle><persname id="barjoh">Barker, John</persname>
+						<persname id="osgjoh">Osgood, John</persname> Bond for <persname id="">William</persname> &amp; <persname id="barmar">Mary Barker</persname> Jan 13, 1692/3</unittitle>
+					<daoloc id="MA105r"/>
+					<daoloc id="MA105v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 96</bibref>
@@ -902,9 +926,11 @@
 			<c level="item" id="d1e2397">
 				<did>
 					<unitid>106</unitid>
-					<unittitle><persname id="osgjoh">Osgood, John</persname> <persname id="wiljos">Wilson, Joseph</persname> Bond for <persname id="wilsar3">Sarah Wilson Jr.</persname> &amp; <persname id="wilsar2">Sarah Wilson Sr.</persname> Jan 13, 1692</unittitle>
-					<daogrp> <daoloc id="241"/> <daoloc id="242"/>
-					</daogrp>
+					<unittitle><persname id="osgjoh">Osgood, John</persname>
+						<persname id="wiljos">Wilson, Joseph</persname> Bond for <persname id="wilsar3">Sarah Wilson Jr.</persname> &amp; <persname id="wilsar2">Sarah Wilson Sr.</persname> Jan 13,
+						1692</unittitle>
+					<daoloc id="MA106r"/>
+					<daoloc id="MA106v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 97</bibref>
@@ -913,9 +939,10 @@
 			<c level="item" id="d1e2433">
 				<did>
 					<unitid>107</unitid>
-					<unittitle><persname id="tylhop">Tyler, Hopestill</persname> <persname id="brijoh">Bridges, John</persname> Bond for <persname id="">Martha</persname> &amp; <persname id="tyljoh">Johanna Tyler</persname> Jan 13, 1692/3</unittitle>
-					<daogrp> <daoloc id="243"/> <daoloc id="244"/>
-					</daogrp>
+					<unittitle><persname id="tylhop">Tyler, Hopestill</persname>
+						<persname id="brijoh">Bridges, John</persname> Bond for <persname id="">Martha</persname> &amp; <persname id="tyljoh">Johanna Tyler</persname> Jan 13, 1692/3</unittitle>
+					<daoloc id="MA107r"/>
+					<daoloc id="MA107v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 98</bibref>
@@ -925,8 +952,8 @@
 				<did>
 					<unitid>108</unitid>
 					<unittitle><persname id="colabr">Cole, Abraham</persname> Bond for <persname id="">Sarah Cole</persname> Jan 14, 1692/3</unittitle>
-					<daogrp> <daoloc id="245"/> <daoloc id="246"/>
-					</daogrp>
+					<daoloc id="MA108r"/>
+					<daoloc id="MA108v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 99</bibref>
@@ -936,8 +963,8 @@
 				<did>
 					<unitid>109</unitid>
 					<unittitle><persname id="">Procter, Elizabeth</persname> Petition to recover her husband's estate, June 10, 1696</unittitle>
-					<daogrp> <daoloc id="247"/> <daoloc id="248"/>
-					</daogrp>
+					<daoloc id="MA109r"/>
+					<daoloc id="MA109v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 100</bibref>
@@ -947,8 +974,8 @@
 				<did>
 					<unitid>110</unitid>
 					<unittitle><persname id="phitim">Phillips, Timothy</persname> Petition for compensation, Mar 18, 1696/7</unittitle>
-					<daogrp> <daoloc id="249"/> <daoloc id="250"/>
-					</daogrp>
+					<daoloc id="MA110r"/>
+					<daoloc id="MA110v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 101</bibref>
@@ -958,8 +985,8 @@
 				<did>
 					<unitid>111</unitid>
 					<unittitle><persname id="phitim">Phillips, Timothy</persname> Account of expenses Mar 22, 1696/7 Payment for expenses Dec 16, 1697</unittitle>
-					<daogrp> <daoloc id="251"/> <daoloc id="252"/>
-					</daogrp>
+					<daoloc id="MA111r"/>
+					<daoloc id="MA111v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 102</bibref>
@@ -969,8 +996,8 @@
 				<did>
 					<unitid>113</unitid>
 					<unittitle><persname id="">Faulkner, Abigail</persname> Petition to clear condemnation as a witch June 13, 1700</unittitle>
-					<daogrp> <daoloc id="253"/> <daoloc id="254"/>
-					</daogrp>
+					<daoloc id="MA113r"/>
+					<daoloc id="MA113v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 103</bibref>
@@ -980,8 +1007,8 @@
 				<did>
 					<unitid>115 116 117</unitid>
 					<unittitle> Examination of <persname id="">Abigail Faulkner</persname> (copy) Aug 11, 1692</unittitle>
-					<daogrp> <daoloc id="255"/> <daoloc id="256 257"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 104 105</bibref>
@@ -991,8 +1018,8 @@
 				<did>
 					<unitid>118</unitid>
 					<unittitle><persname id="phesar">Phelps, Sarah</persname> Indictment of <persname id="">Abigail Faulkner</persname> (copy)</unittitle>
-					<daogrp> <daoloc id=""/> <daoloc id=""/>
-					</daogrp>
+					<daoloc id="MA118r"/>
+					<daoloc id="MA118v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 105a</bibref>
@@ -1002,8 +1029,8 @@
 				<did>
 					<unitid>119</unitid>
 					<unittitle><persname id="">Putnam, Ann</persname> v. <persname id="">Abigail Faulkner</persname>, Sept. 17, 1692</unittitle>
-					<daogrp> <daoloc id="259"/> <daoloc id="260"/>
-					</daogrp>
+					<daoloc id="MA119r"/>
+					<daoloc id="MA119v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 106</bibref>
@@ -1013,8 +1040,8 @@
 				<did>
 					<unitid>120</unitid>
 					<unittitle><persname id="">Faulkner, Abigail</persname> Indictment of <persname id="">Abigail Faulkner</persname></unittitle>
-					<daogrp> <daoloc id="261"/> <daoloc id="262"/>
-					</daogrp>
+					<daoloc id="MA120r"/>
+					<daoloc id="MA120v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 107</bibref>
@@ -1024,8 +1051,8 @@
 				<did>
 					<unitid>121 122</unitid>
 					<unittitle> Petition to clear records of accused, mar 2, 1702/3</unittitle>
-					<daogrp> <daoloc id="263"/> <daoloc id="265"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 108</bibref>
@@ -1035,8 +1062,8 @@
 				<did>
 					<unitid>123</unitid>
 					<unittitle><persname id="">Faulkner, Mary &amp; others</persname> Memorandum for Bill to acquit accused</unittitle>
-					<daogrp> <daoloc id=""/> <daoloc id=""/>
-					</daogrp>
+					<daoloc id="MA123r"/>
+					<daoloc id="MA123v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 109</bibref>
@@ -1046,8 +1073,8 @@
 				<did>
 					<unitid>124</unitid>
 					<unittitle> House of Rep. Order for Bill to prohibit future witchcraft prosecutions July 21, 1703</unittitle>
-					<daogrp> <daoloc id=""/> <daoloc id=""/>
-					</daogrp>
+					<daoloc id="MA124r"/>
+					<daoloc id="MA124v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 109</bibref>
@@ -1057,8 +1084,8 @@
 				<did>
 					<unitid>124</unitid>
 					<unittitle> Memorial to clear reputations of accused, July 16, 1703</unittitle>
-					<daogrp> <daoloc id="267"/> <daoloc id="268"/>
-					</daogrp>
+					<daoloc id="MA124r"/>
+					<daoloc id="MA124v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 110</bibref>
@@ -1068,8 +1095,8 @@
 				<did>
 					<unitid>125</unitid>
 					<unittitle> Memorial to clear reputations of accused, May 25, 1709</unittitle>
-					<daogrp> <daoloc id=""/> <daoloc id=""/>
-					</daogrp>
+					<daoloc id="MA125r"/>
+					<daoloc id="MA125v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 111</bibref>
@@ -1079,8 +1106,8 @@
 				<did>
 					<unitid>126</unitid>
 					<unittitle> Memorial to clear reputations of accused, May 25, 1709</unittitle>
-					<daogrp> <daoloc id="271"/> <daoloc id="272"/>
-					</daogrp>
+					<daoloc id="MA126r"/>
+					<daoloc id="MA126v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 112</bibref>
@@ -1090,8 +1117,8 @@
 				<did>
 					<unitid>127 128 128</unitid>
 					<unittitle><persname id="">English, Philip</persname> Petition for restitution, 1692</unittitle>
-					<daogrp> <daoloc id="273"/> <daoloc id="274 275 276"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 113 113a 114</bibref>
@@ -1101,8 +1128,8 @@
 				<did>
 					<unitid>130</unitid>
 					<unittitle><persname id="">Esty, Isaac, Sr</persname> Petition for restitution for <persname id="">Mary Esty</persname>, Sept. 8, 1710</unittitle>
-					<daogrp> <daoloc id="277"/> <daoloc id="278"/>
-					</daogrp>
+					<daoloc id="MA130r"/>
+					<daoloc id="MA130v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 115</bibref>
@@ -1112,8 +1139,8 @@
 				<did>
 					<unitid>131</unitid>
 					<unittitle><persname id="">How, Mary &amp; Abigail</persname> Petition for restitution for Eliz. How, Sept. 9, 1710</unittitle>
-					<daogrp> <daoloc id="279"/> <daoloc id="280"/>
-					</daogrp>
+					<daoloc id="MA131r"/>
+					<daoloc id="MA131v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 116</bibref>
@@ -1123,8 +1150,8 @@
 				<did>
 					<unitid>132</unitid>
 					<unittitle><persname id="">Bishop, Edward</persname> Petition for restitution for <persname id="bisbri">Bridget Bishop</persname>, Sept. 9, 1710</unittitle>
-					<daogrp> <daoloc id="281"/> <daoloc id="282"/>
-					</daogrp>
+					<daoloc id="MA132r"/>
+					<daoloc id="MA132v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 117</bibref>
@@ -1134,8 +1161,8 @@
 				<did>
 					<unitid>133</unitid>
 					<unittitle><persname id="">Wildes, Ephraim</persname> Petition for restitution for <persname id="">Sarah Wild</persname>, Sept. 11, 1710</unittitle>
-					<daogrp> <daoloc id="283"/> <daoloc id="284"/>
-					</daogrp>
+					<daoloc id="MA133r"/>
+					<daoloc id="MA133v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 118</bibref>
@@ -1145,8 +1172,8 @@
 				<did>
 					<unitid>134</unitid>
 					<unittitle><persname id="">King, John &amp; Annus</persname> Petition for restitution for <persname id="hoador">Dorcas Hoar</persname></unittitle>
-					<daogrp> <daoloc id="285"/> <daoloc id="286"/>
-					</daogrp>
+					<daoloc id="MA134r"/>
+					<daoloc id="MA134v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 119</bibref>
@@ -1156,8 +1183,8 @@
 				<did>
 					<unitid>135</unitid>
 					<unittitle><persname id="">True, Henry &amp; Jane</persname> Petition for restitution for <persname id="bramar">Mary Bradbury</persname> Sept. 11, 1710</unittitle>
-					<daogrp> <daoloc id="287"/> <daoloc id="288"/>
-					</daogrp>
+					<daoloc id="MA135r"/>
+					<daoloc id="MA135v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 120</bibref>
@@ -1167,8 +1194,8 @@
 				<did>
 					<unitid>136</unitid>
 					<unittitle><persname id="burcha">Burroughs, Charles</persname> Petition for restitution for <persname id="burgeo">George Burroughs</persname></unittitle>
-					<daogrp> <daoloc id="289"/> <daoloc id="290"/>
-					</daogrp>
+					<daoloc id="MA136r"/>
+					<daoloc id="MA136v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 121</bibref>
@@ -1178,8 +1205,8 @@
 				<did>
 					<unitid>137</unitid>
 					<unittitle><persname id="">Lacy, Lawrence</persname> Petition for restitution for <persname id="">Mary Lacy</persname></unittitle>
-					<daogrp> <daoloc id="289"/> <daoloc id="290"/>
-					</daogrp>
+					<daoloc id="MA137r"/>
+					<daoloc id="MA137v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 121</bibref>
@@ -1189,8 +1216,8 @@
 				<did>
 					<unitid>138 139</unitid>
 					<unittitle><persname id="barjoh">Barker, John</persname> Payment for jail fee <persname id="">Wm Barker</persname>, <persname id="barmar">Mary Barker</persname></unittitle>
-					<daogrp> <daoloc id="291"/> <daoloc id="292"/>
-					</daogrp>
+					<daoloc id="MANaNr"/>
+					<daoloc id="MANaNv"/>
 				</did>
 				<bibliography>
 					<bibref>Page 122</bibref>
@@ -1200,8 +1227,8 @@
 				<did>
 					<unitid>140</unitid>
 					<unittitle><persname id="">Prestion, Sarah</persname> Petition for restitution for sarah Bridges</unittitle>
-					<daogrp> <daoloc id="293"/> <daoloc id="294"/>
-					</daogrp>
+					<daoloc id="MA140r"/>
+					<daoloc id="MA140v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 123</bibref>
@@ -1211,8 +1238,8 @@
 				<did>
 					<unitid>141</unitid>
 					<unittitle><persname id="">Wright (Wardwell), Mercy</persname> Petition for restitution for <persname id="wrimarwarmer">Mercy Wardwell</persname></unittitle>
-					<daogrp> <daoloc id="295"/> <daoloc id="296"/>
-					</daogrp>
+					<daoloc id="MA141r"/>
+					<daoloc id="MA141v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 123</bibref>
@@ -1222,8 +1249,8 @@
 				<did>
 					<unitid>142</unitid>
 					<unittitle><persname id="johjoh">Johnson, John</persname> Petition for restitution for <persname id="johreb">Rebecca Johnson</persname></unittitle>
-					<daogrp> <daoloc id="295"/> <daoloc id="296"/>
-					</daogrp>
+					<daoloc id="MA142r"/>
+					<daoloc id="MA142v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 124</bibref>
@@ -1233,8 +1260,8 @@
 				<did>
 					<unitid>143</unitid>
 					<unittitle><persname id="marjoh">Marston, John</persname> Petition for restitution for <persname id="marmar1">Mary Marston</persname></unittitle>
-					<daogrp> <daoloc id="295"/> <daoloc id="296"/>
-					</daogrp>
+					<daoloc id="MA143r"/>
+					<daoloc id="MA143v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 124</bibref>
@@ -1244,8 +1271,8 @@
 				<did>
 					<unitid>144</unitid>
 					<unittitle><persname id="">Jacob, George, Jr.</persname> Petition for restitution for <persname id="">George Jacob Sr.</persname></unittitle>
-					<daogrp> <daoloc id="297"/> <daoloc id="298"/>
-					</daogrp>
+					<daoloc id="MA144r"/>
+					<daoloc id="MA144v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 124</bibref>
@@ -1255,8 +1282,8 @@
 				<did>
 					<unitid>145</unitid>
 					<unittitle><persname id="">Wilson, John</persname> Petition for restitution for wife Sarah &amp; daughter Sarah</unittitle>
-					<daogrp> <daoloc id="299"/> <daoloc id="300"/>
-					</daogrp>
+					<daoloc id="MA145r"/>
+					<daoloc id="MA145v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 126</bibref>
@@ -1266,8 +1293,8 @@
 				<did>
 					<unitid>146</unitid>
 					<unittitle><persname id="barebe">Barker, Ebenezer</persname> Petition for restitution for <persname id="barabi">Abigail Barker</persname></unittitle>
-					<daogrp> <daoloc id="299"/> <daoloc id="300"/>
-					</daogrp>
+					<daoloc id="MA146r"/>
+					<daoloc id="MA146v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 126</bibref>
@@ -1277,8 +1304,8 @@
 				<did>
 					<unitid>147</unitid>
 					<unittitle><persname id="dannat">Dane, Nathaniel</persname> Petition for restitution for <persname id="">Deliverance Dane</persname></unittitle>
-					<daogrp> <daoloc id="301"/> <daoloc id="301"/>
-					</daogrp>
+					<daoloc id="MA147r"/>
+					<daoloc id="MA147v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 127</bibref>
@@ -1288,8 +1315,8 @@
 				<did>
 					<unitid>149</unitid>
 					<unittitle><persname id="barjoh">Barker, John</persname> Petition for restitution for <persname id="barwil2">William Barker Jr.</persname></unittitle>
-					<daogrp> <daoloc id="303"/> <daoloc id="304"/>
-					</daogrp>
+					<daoloc id="MA149r"/>
+					<daoloc id="MA149v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 127</bibref>
@@ -1299,8 +1326,8 @@
 				<did>
 					<unitid>150</unitid>
 					<unittitle><persname id="mormar">Morey, Mary</persname> Petition for restitution for <persname id="morsar">Sarah Morey</persname></unittitle>
-					<daogrp> <daoloc id="303"/> <daoloc id="304"/>
-					</daogrp>
+					<daoloc id="MA150r"/>
+					<daoloc id="MA150v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 128</bibref>
@@ -1310,8 +1337,8 @@
 				<did>
 					<unitid>151</unitid>
 					<unittitle><persname id="">Emes, Rebecca</persname> Petition for restitution for <persname id="">Rebecca Emes</persname>, Sept. 12, 1710</unittitle>
-					<daogrp> <daoloc id="305"/> <daoloc id="306"/>
-					</daogrp>
+					<daoloc id="MA151r"/>
+					<daoloc id="MA151v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 129</bibref>
@@ -1321,8 +1348,8 @@
 				<did>
 					<unitid>152</unitid>
 					<unittitle><persname id="osgsam">Osgood, Samuel</persname> Petition for restitution for <persname id="osgmar">Mary Osgood</persname>, 1710</unittitle>
-					<daogrp> <daoloc id="307"/> <daoloc id="308"/>
-					</daogrp>
+					<daoloc id="MA152r"/>
+					<daoloc id="MA152v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 130</bibref>
@@ -1332,8 +1359,8 @@
 				<did>
 					<unitid>153</unitid>
 					<unittitle><persname id="posmar">Post, Mary</persname> Petition for restitution for imprisionment, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="307"/> <daoloc id="308"/>
-					</daogrp>
+					<daoloc id="MA153r"/>
+					<daoloc id="MA153v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 130</bibref>
@@ -1343,8 +1370,8 @@
 				<did>
 					<unitid>154</unitid>
 					<unittitle><persname id="">Faulkner, Abigail</persname> Petition for restitution , Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="309"/> <daoloc id="310"/>
-					</daogrp>
+					<daoloc id="MA154r"/>
+					<daoloc id="MA154v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 131</bibref>
@@ -1354,8 +1381,8 @@
 				<did>
 					<unitid>155</unitid>
 					<unittitle><persname id="">Cole, Sarah</persname> Petition for restitution for imprisonment, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="311"/> <daoloc id="312"/>
-					</daogrp>
+					<daoloc id="MA155r"/>
+					<daoloc id="MA155v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 132</bibref>
@@ -1365,8 +1392,8 @@
 				<did>
 					<unitid>156</unitid>
 					<unittitle><persname id="">Hobs, William</persname> Petition for restitution for imprisonment, sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="311"/> <daoloc id="312"/>
-					</daogrp>
+					<daoloc id="MA156r"/>
+					<daoloc id="MA156v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 132</bibref>
@@ -1376,8 +1403,8 @@
 				<did>
 					<unitid>157</unitid>
 					<unittitle><persname id="johfra">Johnson, Francis</persname> Petition for restitution for Eliz. Johnson, Jr, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="313"/> <daoloc id="314"/>
-					</daogrp>
+					<daoloc id="MA157r"/>
+					<daoloc id="MA157v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 133</bibref>
@@ -1387,8 +1414,8 @@
 				<did>
 					<unitid>158</unitid>
 					<unittitle><persname id="">Lacy, Lawrence</persname> Petition for restitution for <persname id="">Mary Lacy</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="315"/> <daoloc id="316"/>
-					</daogrp>
+					<daoloc id="MA158r"/>
+					<daoloc id="MA158v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 134</bibref>
@@ -1398,8 +1425,8 @@
 				<did>
 					<unitid>159</unitid>
 					<unittitle><persname id="fosabr">Foster, Abraham</persname> Petition for restitution for <persname id="">Anne Foster</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="317"/> <daoloc id="318"/>
-					</daogrp>
+					<daoloc id="MA159r"/>
+					<daoloc id="MA159v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 135</bibref>
@@ -1408,9 +1435,10 @@
 			<c level="item" id="d1e3718">
 				<did>
 					<unitid>160</unitid>
-					<unittitle><persname id="">Buckly, William</persname> Petition for restitution for <persname id="">Sarah Buckly</persname> &amp; <persname id="">Mary Witherige</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="319"/> <daoloc id="320"/>
-					</daogrp>
+					<unittitle><persname id="">Buckly, William</persname> Petition for restitution for <persname id="">Sarah Buckly</persname> &amp; <persname id="">Mary Witherige</persname>, Sept.
+						13, 1710</unittitle>
+					<daoloc id="MA160r"/>
+					<daoloc id="MA160v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 136</bibref>
@@ -1420,8 +1448,8 @@
 				<did>
 					<unitid>161</unitid>
 					<unittitle><persname id="moujoh">Moulton, John</persname> Petition for restitution for Marth &amp; <persname id="">Giles Cory</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="321"/> <daoloc id="322"/>
-					</daogrp>
+					<daoloc id="MA161r"/>
+					<daoloc id="MA161v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 137</bibref>
@@ -1431,8 +1459,8 @@
 				<did>
 					<unitid>162</unitid>
 					<unittitle><persname id="johfra">Johnson, Francis</persname> Petition for restitution for Eliz. Johnson, Jr., Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="323"/> <daoloc id="324"/>
-					</daogrp>
+					<daoloc id="MA162r"/>
+					<daoloc id="MA162v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 138</bibref>
@@ -1442,8 +1470,8 @@
 				<did>
 					<unitid>163</unitid>
 					<unittitle><persname id="">Carrier, Thomas</persname> Petition for restitutiion for <persname id="carmar1">Martha Carrier</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="325"/> <daoloc id="326"/>
-					</daogrp>
+					<daoloc id="MA163r"/>
+					<daoloc id="MA163v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 139</bibref>
@@ -1452,9 +1480,10 @@
 			<c level="item" id="d1e3838">
 				<did>
 					<unitid>164</unitid>
-					<unittitle><persname id="warsam">Wardwell, Samuel</persname> Petition for restitution for sarah &amp; <persname id="warsam">Samuel Wardwell</persname>, Sr., Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="327"/> <daoloc id="328"/>
-					</daogrp>
+					<unittitle><persname id="warsam">Wardwell, Samuel</persname> Petition for restitution for sarah &amp; <persname id="warsam">Samuel Wardwell</persname>, Sr., Sept. 13,
+						1710</unittitle>
+					<daoloc id="MA164r"/>
+					<daoloc id="MA164v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 140</bibref>
@@ -1464,8 +1493,8 @@
 				<did>
 					<unitid>165</unitid>
 					<unittitle><persname id="">Nurse, Samuel</persname> Petition for restitution for <persname id="nurreb">Rebecca Nurse</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="329"/> <daoloc id="330"/>
-					</daogrp>
+					<daoloc id="MA165r"/>
+					<daoloc id="MA165v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 141</bibref>
@@ -1475,8 +1504,8 @@
 				<did>
 					<unitid>166</unitid>
 					<unittitle><persname id="johfra">Johnson, Francis</persname> Petition for restitution for <persname id="">Sarah Hawks</persname>, Sept. 14, 1710</unittitle>
-					<daogrp> <daoloc id="331"/> <daoloc id="332"/>
-					</daogrp>
+					<daoloc id="MA166r"/>
+					<daoloc id="MA166v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 142</bibref>
@@ -1486,8 +1515,8 @@
 				<did>
 					<unitid>167</unitid>
 					<unittitle><persname id="">Town, Margaret</persname> Memorial for <persname id="wiljoh4wiljoh3">John Willard</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="333"/> <daoloc id="334"/>
-					</daogrp>
+					<daoloc id="MA167r"/>
+					<daoloc id="MA167v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 143</bibref>
@@ -1497,8 +1526,8 @@
 				<did>
 					<unitid>168</unitid>
 					<unittitle><persname id="">Parker, John &amp; Joseph</persname> Memorial for <persname id="parmar">Mary Parker</persname>, Sept. 13, 1710</unittitle>
-					<daogrp> <daoloc id="335"/> <daoloc id="336"/>
-					</daogrp>
+					<daoloc id="MA168r"/>
+					<daoloc id="MA168v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 144</bibref>
@@ -1508,8 +1537,8 @@
 				<did>
 					<unitid>169</unitid>
 					<unittitle> Report of General Court on reversal of attainders of accused Oct. 26, 1711</unittitle>
-					<daogrp> <daoloc id="337"/> <daoloc id="338"/>
-					</daogrp>
+					<daoloc id="MA169r"/>
+					<daoloc id="MA169v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 145</bibref>
@@ -1519,8 +1548,8 @@
 				<did>
 					<unitid>170</unitid>
 					<unittitle><persname id="grepet">Green, Peter</persname> Peititon for restitution for his wife</unittitle>
-					<daogrp> <daoloc id="339"/> <daoloc id="340"/>
-					</daogrp>
+					<daoloc id="MA170r"/>
+					<daoloc id="MA170v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 146</bibref>
@@ -1530,8 +1559,8 @@
 				<did>
 					<unitid>171</unitid>
 					<unittitle> Expenses of General Court for reversal of attainders Oct. 30, 1711</unittitle>
-					<daogrp> <daoloc id="339"/> <daoloc id="340"/>
-					</daogrp>
+					<daoloc id="MA171r"/>
+					<daoloc id="MA171v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 146</bibref>
@@ -1541,8 +1570,8 @@
 				<did>
 					<unitid>172</unitid>
 					<unittitle><persname id="">Newman, Thomas &amp; others</persname> Memorial for <persname id="burgeo">George Burroughs</persname>, Mar. 28, 1750</unittitle>
-					<daogrp> <daoloc id="341"/> <daoloc id="342"/>
-					</daogrp>
+					<daoloc id="MA172r"/>
+					<daoloc id="MA172v"/>
 				</did>
 				<bibliography>
 					<bibref>Page 147</bibref>
