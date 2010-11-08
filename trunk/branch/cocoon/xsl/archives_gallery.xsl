@@ -219,7 +219,11 @@
 			<div class="thumbnail_container">
 				<xsl:for-each select="did/daogrp/daoloc">
 					<div class="thumb">
-						<xsl:choose>
+						<a href="../{$medium_url}/{@id}.jpg" class="jqueryLightbox"
+							title="{$caption}">
+							<img src="../{$thumb_url}/{@id}.gif" title="{$caption}"/>
+						</a>
+						<!--<xsl:choose>
 							<xsl:when test="not($institution = 'MA135')">
 								<a href="../{$medium_url}/{@id}.jpg" class="jqueryLightbox"
 									title="{$caption}">
@@ -230,7 +234,7 @@
 								<img src="../{$thumb_url}/{@id}.gif" title="{$caption}"
 									style="max-height:60px;max-width:60px;"/>
 							</xsl:otherwise>
-						</xsl:choose>
+						</xsl:choose>-->
 						<br/>
 						<xsl:if test="@label">(<xsl:value-of select="@label"/>)<br/></xsl:if>
 						<a href="../{$large_url}/{@id}.jpg" target="_blank"
