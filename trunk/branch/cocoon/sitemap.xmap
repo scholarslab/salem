@@ -181,7 +181,7 @@
 			<!-- Salem Witchcraft Papers Search -->
 			<map:match pattern="texts/salemSearch.htm">
 				<map:generate src="xml/empty.xml"/>
-				<map:transform src="xsl/search_papers.xsl" type="xslt">
+				<map:transform src="xsl/search_papers.xsl" type="xslt-saxon">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>		
 				<map:transform type="cinclude"/>

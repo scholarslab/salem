@@ -56,8 +56,14 @@
 		<xsl:variable name="month" select="substring-before(substring-after(@value, '-'), '-')"/>
 		<xsl:variable name="day" select="substring-after(substring-after(@value, '-'), '-')"/>
 
-		<field name="date">
-			<xsl:value-of select="concat($year, $month, $day)"/>
+		<field name="year">
+			<xsl:value-of select="$year"/>
+		</field>
+		<field name="month">
+			<xsl:value-of select="$month"/>
+		</field>
+		<field name="day">
+			<xsl:value-of select="$day"/>
 		</field>
 	</xsl:template>
 

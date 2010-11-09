@@ -4,19 +4,7 @@
 
 	<xsl:param name="q"/>
 	<xsl:param name="rows"/>
-	<xsl:param name="start"/>
-	<xsl:param name="query">
-		<xsl:choose>
-			<xsl:when test="contains(substring-before($q, 'date:'), 'AND')">
-				<xsl:value-of select="substring-before($q, ' AND')"/>
-			</xsl:when>
-			<xsl:when test="contains($q, 'name_text')"/>
-			<xsl:when test="contains($q, 'date:') and not(contains($q, 'AND'))"/>
-			<xsl:otherwise>
-				<xsl:value-of select="$q"/>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:param>
+	<xsl:param name="start"/>	
 
 	<xsl:template match="/">
 		<html>
@@ -67,135 +55,390 @@
 						<xsl:text>Search for word or phrase: </xsl:text>
 						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
-						<xsl:choose>
-							<xsl:when test="contains($q, 'name_text')">
-								<input type="text" name="q" id="q"/>
-							</xsl:when>
-							<xsl:otherwise>
-								<input type="text" name="q" value="{$query}" id="q"/>
-							</xsl:otherwise>
-						</xsl:choose>
+						<input type="text" name="q" value="{if (contains($q, '*:*')) then '' else substring-before($q, ' AND')}" id="q"/>
 						<br/>
 						<xsl:text>and/or documents dated
 						(1692/1693, excluding some undated items):</xsl:text>
 						<br/>
 						<xsl:text>year: </xsl:text>
-						<select id="range">
+						<!--<select id="range">
 							<option value="select">Select...</option>
 							<option value="exactly">Exactly</option>
 							<option value="after">After</option>
 							<option value="before">Before</option>
 							<option value="from">From...</option>
-						</select>
+						</select>-->
 						<select id="year">
-							<option>1692</option>
-							<option>1693</option>
+							<option value="">any</option>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1692')">
+									<option value="1692" selected="selected">1692</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1692">1692</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1693')">
+									<option value="1693" selected="selected">1693</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1693">1693</option>
+								</xsl:otherwise>
+							</xsl:choose>
 						</select>
 						<xsl:text>month: </xsl:text>
 						<select id="month">
-							<option value="01">Jan. </option>
-							<option value="02">Feb. </option>
-							<option value="03">Mar. </option>
-							<option value="04">Apr. </option>
-							<option value="05">May </option>
-							<option value="06">Jun. </option>
-							<option value="07">Jul. </option>
-							<option value="08">Aug. </option>
-							<option value="09">Sep. </option>
-							<option value="10">Oct. </option>
-							<option value="11">Nov. </option>
-							<option value="12">Dec. </option>
+							<option value="">any</option>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:01')">
+									<option value="01" selected="selected">January</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="01">January</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:02')">
+									<option value="02" selected="selected">February</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="02">February</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:03')">
+									<option value="03" selected="selected">March</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="03">March</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:04')">
+									<option value="04" selected="selected">April</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="04">April</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:05')">
+									<option value="05" selected="selected">May</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="05">May</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:06')">
+									<option value="06" selected="selected">June</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="06">June</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:07')">
+									<option value="07" selected="selected">July</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="07">July</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:08')">
+									<option value="08" selected="selected">August</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="08">August</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:09')">
+									<option value="09" selected="selected">September</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="09">September</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:10')">
+									<option value="10" selected="selected">October</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="10">October</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:11')">
+									<option value="11" selected="selected">November</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="11">November</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'month:12')">
+									<option value="12" selected="selected">December</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="12">December</option>
+								</xsl:otherwise>
+							</xsl:choose>							
 						</select>
 						<xsl:text>day: </xsl:text>
 						<select id="day">
-							<option>01 </option>
-							<option>02 </option>
-							<option>03 </option>
-							<option>04 </option>
-							<option>05 </option>
-							<option>06 </option>
-							<option>07 </option>
-							<option>08 </option>
-							<option>09 </option>
-							<option>10 </option>
-							<option>11 </option>
-							<option>12 </option>
-							<option>13 </option>
-							<option>14 </option>
-							<option>15 </option>
-							<option>16 </option>
-							<option>17 </option>
-							<option>18 </option>
-							<option>19 </option>
-							<option>20 </option>
-							<option>21 </option>
-							<option>22 </option>
-							<option>23 </option>
-							<option>24 </option>
-							<option>25 </option>
-							<option>26 </option>
-							<option>27 </option>
-							<option>28 </option>
-							<option>29 </option>
-							<option>30 </option>
-							<option>31 </option>
+							<option value="">any</option>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:01')">
+									<option selected="selected">01</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>01</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:02')">
+									<option selected="selected">02</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>02</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:03')">
+									<option selected="selected">03</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>03</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:04')">
+									<option selected="selected">04</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>04</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:05')">
+									<option selected="selected">05</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>05</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:06')">
+									<option selected="selected">06</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>06</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:07')">
+									<option selected="selected">07</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>07</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:08')">
+									<option selected="selected">08</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>08</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:09')">
+									<option selected="selected">09</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>09</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:10')">
+									<option selected="selected">10</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>10</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:11')">
+									<option selected="selected">11</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>11</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:12')">
+									<option selected="selected">12</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>12</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:13')">
+									<option selected="selected">13</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>13</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:14')">
+									<option selected="selected">14</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>14</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:15')">
+									<option selected="selected">15</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>15</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:16')">
+									<option selected="selected">16</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>16</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:17')">
+									<option selected="selected">17</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>17</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:18')">
+									<option selected="selected">18</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>18</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:19')">
+									<option selected="selected">19</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>19</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:20')">
+									<option selected="selected">20</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>20</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:21')">
+									<option selected="selected">21</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>21</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:22')">
+									<option selected="selected">22</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>22</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:23')">
+									<option selected="selected">23</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>23</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:24')">
+									<option selected="selected">24</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>24</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:25')">
+									<option selected="selected">25</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>25</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:26')">
+									<option selected="selected">26</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>26</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:27')">
+									<option selected="selected">27</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>27</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:28')">
+									<option selected="selected">28</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>28</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:29')">
+									<option selected="selected">29</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>29</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:30')">
+									<option selected="selected">30</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>30</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'day:31')">
+									<option selected="selected">31</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option>31</option>
+								</xsl:otherwise>
+							</xsl:choose>
 						</select>
-						<div class="toDate_hidden">
-							<xsl:text>To: </xsl:text>
-							<select id="year2">
-								<option>1692</option>
-								<option>1693</option>
-							</select>
-							<xsl:text>month: </xsl:text>
-							<select id="month2">
-								<option value="01">Jan. </option>
-								<option value="02">Feb. </option>
-								<option value="03">Mar. </option>
-								<option value="04">Apr. </option>
-								<option value="05">May </option>
-								<option value="06">Jun. </option>
-								<option value="07">Jul. </option>
-								<option value="08">Aug. </option>
-								<option value="09">Sep. </option>
-								<option value="10">Oct. </option>
-								<option value="11">Nov. </option>
-								<option value="12">Dec. </option>
-							</select>
-							<xsl:text>day: </xsl:text>
-							<select id="day2">
-								<option>01 </option>
-								<option>02 </option>
-								<option>03 </option>
-								<option>04 </option>
-								<option>05 </option>
-								<option>06 </option>
-								<option>07 </option>
-								<option>08 </option>
-								<option>09 </option>
-								<option>10 </option>
-								<option>11 </option>
-								<option>12 </option>
-								<option>13 </option>
-								<option>14 </option>
-								<option>15 </option>
-								<option>16 </option>
-								<option>17 </option>
-								<option>18 </option>
-								<option>19 </option>
-								<option>20 </option>
-								<option>21 </option>
-								<option>22 </option>
-								<option>23 </option>
-								<option>24 </option>
-								<option>25 </option>
-								<option>26 </option>
-								<option>27 </option>
-								<option>28 </option>
-								<option>29 </option>
-								<option>30 </option>
-								<option>31 </option>
-							</select>
-						</div>
 						<br/>
 						<br/>
 						<input type="submit" value="Search" id="search_button"/>

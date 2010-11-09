@@ -10,15 +10,33 @@ $(function () {
 		else{$('.toDate_visible') .attr('class', 'toDate_hidden');}
 	});
 
-	$('#search_button') .click(function(){
-		var range = $('#range') .attr('value');
-		var year = $('#year').attr('value');
+	$('#search_button') .click(function(){	
+		//var range = $('#range') .attr('value');
+		var year = '';
+		var month = '';
+		var day = '';
+		
+		if ($('#year').attr('value') != ''){
+			year = ' AND year:' + $('#year').attr('value');
+		}
+		if ($('#month').attr('value') != ''){
+			month = ' AND month:' + $('#month').attr('value');
+		}
+		if ($('#day').attr('value') != ''){
+			day = ' AND day:' + $('#day').attr('value');
+		}
+		/*var year = $('#year').attr('value');
 		var month = $('#month').attr('value');
 		var day = $('#day').attr('value');
-		var date;
-		var search_text = $('#q') .attr('value');
+		var date;*/
+		if ($('#q') .attr('value') != ''){
+			var search_text = $('#q') .attr('value');
+		} else { 
+			search_text = '*:*';
+		}
+		//var search_text = $('#q') .attr('value');
 				
-		if (range == 'exactly'){
+		/*if (range == 'exactly'){
 			date = year + month + day;
 		}
 		else if (range == 'after'){
@@ -35,15 +53,9 @@ $(function () {
 			date = '[' + year + month + day + ' TO ' + year2 + month2 + day2 + ']';
 		}
 		else{ date = 'none';};
+		*/
 		
-		if (date != 'none'){
-			if (search_text == ''){
-				$('#q') .attr('value', 'date:' + date);
-			}
-			else{
-				$('#q') .attr('value', search_text + ' AND date:' + date);
-			}
-		}
+		$('#q') .attr('value', search_text + year + month + day);
 	});
 	
 	

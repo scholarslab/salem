@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<xsl:output method="xhtml" encoding="UTF-8"/>
+	<xsl:output method="html" encoding="UTF-8"/>
 
 	<xsl:param name="q"/>
 	<xsl:param name="rows" as="xs:integer"/>
@@ -117,7 +117,7 @@
 					<br/>
 					<xsl:apply-templates select="//lst[@name=$id]/arr[@name='fulltext']/str"/>
 				</xsl:when>
-				<xsl:when test="str[@name='source'] = 'ead' and string($nameid)">
+				<xsl:when test="str[@name='source'] = 'ead'">
 					<xsl:variable name="thumb_url">
 						<xsl:choose>
 							<xsl:when test="str[@name='doc_id'] = 'BPL'">
