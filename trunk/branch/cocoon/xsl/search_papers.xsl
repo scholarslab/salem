@@ -86,7 +86,104 @@
 									<option value="1693">1693</option>
 								</xsl:otherwise>
 							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1696')">
+									<option value="1696" selected="selected">1696</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1696">1696</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1697')">
+									<option value="1697" selected="selected">1697</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1697">1697</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1702')">
+									<option value="1702" selected="selected">1702</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1702">1702</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1703')">
+									<option value="1703" selected="selected">1703</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1703">1703</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1709')">
+									<option value="1709" selected="selected">1709</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1709">1709</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1710')">
+									<option value="1710" selected="selected">1710</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1710">1710</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1711')">
+									<option value="1711" selected="selected">1711</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1711">1711</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1712')">
+									<option value="1712" selected="selected">1712</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1712">1712</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1713')">
+									<option value="1713" selected="selected">1713</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1713">1713</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1717')">
+									<option value="1717" selected="selected">1717</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1717">1717</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1718')">
+									<option value="1718" selected="selected">1718</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1718">1718</option>
+								</xsl:otherwise>
+							</xsl:choose>
+							<xsl:choose>
+								<xsl:when test="contains($q, 'year:1750')">
+									<option value="1750" selected="selected">1750</option>
+								</xsl:when>
+								<xsl:otherwise>
+									<option value="1750">1750</option>
+								</xsl:otherwise>
+							</xsl:choose>
 						</select>
+						
 						<xsl:text>month: </xsl:text>
 						<select id="month">
 							<option value="">any</option>
