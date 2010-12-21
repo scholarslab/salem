@@ -223,7 +223,7 @@
 						</xsl:choose>
 					</xsl:variable>
 
-					<a href="../archives/{str[@name='doc_id']}#{$id}">
+					<a href="../archives/{str[@name='doc_id']}.xml#{$id}">
 						<xsl:choose>
 							<xsl:when test="string(str[@name='title'])">
 								<xsl:value-of select="str[@name='title']"/>
