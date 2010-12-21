@@ -63,8 +63,8 @@
 	</xsl:template>
 
 	<xsl:template match="doc" mode="teidoc">
-		<xsl:variable name="id" select="str[@name='id']"/>
-
+		<xsl:variable name="id" select="str[@name='id']"/>		
+		
 		<div class="doc">
 			<!-- old -->
 			<!-- <a href="{str[@name='doc_id']}.xml?div_id={str[@name='chapter_id']}#{$id}">
@@ -82,6 +82,7 @@
 
 	<xsl:template match="doc" mode="normal">
 		<xsl:variable name="id" select="str[@name='id']"/>
+		<xsl:variable name="doc_id" select="str[@name='doc_id']"/>
 
 		<div class="doc">
 			<xsl:choose>
@@ -90,7 +91,7 @@
 						<xsl:when test="string($nameid)">
 							<xsl:text>Transcript: </xsl:text>
 							<a
-								href="tei/{str[@name='doc_id']}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
+								href="tei/{$doc_id}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}&amp;name={$nameid}">
 								<xsl:choose>
 									<xsl:when test="string(str[@name='title'])">
 										<xsl:value-of select="str[@name='title']"/>
@@ -102,7 +103,7 @@
 						<xsl:otherwise>
 							<xsl:text>Transcript: </xsl:text>
 							<a
-								href="tei/{str[@name='doc_id']}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
+								href="tei/{$doc_id}?term={$query}&amp;div_id={$id}&amp;chapter_id={str[@name='chapter_id']}">
 								<xsl:choose>
 									<xsl:when test="string(str[@name='title'])">
 										<xsl:value-of select="str[@name='title']"/>
@@ -120,34 +121,34 @@
 				<xsl:when test="str[@name='source'] = 'ead'">
 					<xsl:variable name="thumb_url">
 						<xsl:choose>
-							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+							<xsl:when test="$doc_id = 'BPL'">
 								<xsl:text>archives/BPL/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+							<xsl:when test="$doc_id = 'MassHist'">
 								<xsl:text>archives/MassHist/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+							<xsl:when test="$doc_id = 'Suffolk'">
 								<xsl:text>archives/Suffolk/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+							<xsl:when test="$doc_id = 'MA135'">
 								<xsl:text>archives/MA135/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+							<xsl:when test="$doc_id = 'JudVol'">
 								<xsl:text>archives/JudVol/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+							<xsl:when test="$doc_id = 'MidSex'">
 								<xsl:text>archives/MidSex/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+							<xsl:when test="$doc_id = 'SCJ'">
 								<xsl:text>archives/SCJ/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+							<xsl:when test="$doc_id = 'MEHS'">
 								<xsl:text>archives/MEHS/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'eia'">
+							<xsl:when test="$doc_id = 'eia'">
 								<xsl:text>archives/essex/eia/gifs</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+							<xsl:when test="$doc_id = 'ecca'">
 								<xsl:text>archives/ecca/thumb</xsl:text>
 							</xsl:when>
 						</xsl:choose>
@@ -155,34 +156,34 @@
 
 					<xsl:variable name="medium_url">
 						<xsl:choose>
-							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+							<xsl:when test="$doc_id = 'BPL'">
 								<xsl:text>archives/BPL/SMALL</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+							<xsl:when test="$doc_id = 'MassHist'">
 								<xsl:text>archives/MassHist/medium</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+							<xsl:when test="$doc_id = 'Suffolk'">
 								<xsl:text>archives/Suffolk/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+							<xsl:when test="$doc_id = 'MA135'">
 								<xsl:text>archives/MA135/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+							<xsl:when test="$doc_id = 'JudVol'">
 								<xsl:text>archives/JudVol/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+							<xsl:when test="$doc_id = 'MidSex'">
 								<xsl:text>archives/MidSex/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+							<xsl:when test="$doc_id = 'SCJ'">
 								<xsl:text>archives/SCJ/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+							<xsl:when test="$doc_id = 'MEHS'">
 								<xsl:text>archives/MEHS/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'eia'">
+							<xsl:when test="$doc_id = 'eia'">
 								<xsl:text>archives/essex/eia/small</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+							<xsl:when test="$doc_id = 'ecca'">
 								<xsl:text>archives/ecca/medium</xsl:text>
 							</xsl:when>
 						</xsl:choose>
@@ -190,40 +191,40 @@
 
 					<xsl:variable name="large_url">
 						<xsl:choose>
-							<xsl:when test="str[@name='doc_id'] = 'BPL'">
+							<xsl:when test="$doc_id = 'BPL'">
 								<xsl:text>archives/BPL/LARGE</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MassHist'">
+							<xsl:when test="$doc_id = 'MassHist'">
 								<xsl:text>archives/MassHist/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'Suffolk'">
+							<xsl:when test="$doc_id = 'Suffolk'">
 								<xsl:text>archives/Suffolk/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MA135'">
+							<xsl:when test="$doc_id = 'MA135'">
 								<xsl:text>archives/MA135/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'JudVol'">
+							<xsl:when test="$doc_id = 'JudVol'">
 								<xsl:text>archives/JudVol/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MidSex'">
+							<xsl:when test="$doc_id = 'MidSex'">
 								<xsl:text>archives/MidSex/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'SCJ'">
+							<xsl:when test="$doc_id = 'SCJ'">
 								<xsl:text>archives/SCJ/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'MEHS'">
+							<xsl:when test="$doc_id = 'MEHS'">
 								<xsl:text>archives/MEHS/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'eia'">
+							<xsl:when test="$doc_id = 'eia'">
 								<xsl:text>archives/essex/eia/large</xsl:text>
 							</xsl:when>
-							<xsl:when test="str[@name='doc_id'] = 'ecca'">
+							<xsl:when test="$doc_id = 'ecca'">
 								<xsl:text>archives/ecca/large</xsl:text>
 							</xsl:when>
 						</xsl:choose>
 					</xsl:variable>
 
-					<a href="../archives/{str[@name='doc_id']}.xml#{$id}">
+					<a href="../archives/{$doc_id}.xml#{$id}">
 						<xsl:choose>
 							<xsl:when test="string(str[@name='title'])">
 								<xsl:value-of select="str[@name='title']"/>
@@ -235,15 +236,15 @@
 						<xsl:for-each select="arr[@name='thumb']/str">
 							<div class="thumb">
 								<xsl:choose>
-									<xsl:when test="not(str[@name='doc_id'] = 'MA135')">
+									<xsl:when test="not($doc_id = 'MA135')">
 										<a href="../{$medium_url}/{.}.jpg" class="jqueryLightbox"
 											title="{str[@name='title']}">
-											<img src="../{$thumb_url}/{.}.{if (str[@name='doc_id'] = 'ecca') then 'jpg' else 'gif'}"
+											<img src="../{$thumb_url}/{.}.{if ($doc_id = 'ecca') then 'jpg' else 'gif'}"
 												title="{str[@name='title']}"/>
 										</a>
 									</xsl:when>
 									<xsl:otherwise>
-										<img src="../{$thumb_url}/{.}.{if (str[@name='doc_id'] = 'ecca') then 'jpg' else 'gif'}"
+										<img src="../{$thumb_url}/{.}.{if ($doc_id = 'ecca') then 'jpg' else 'gif'}"
 											title="{str[@name='title']}"
 											style="max-height:60px;max-width:60px;"/>
 									</xsl:otherwise>
