@@ -4,7 +4,7 @@
 
 	<xsl:template match="/">
 		<add>
-			<xsl:apply-templates select="//div1[@type='case']/div2"/>
+			<xsl:apply-templates select="//div2"/>
 		</add>
 	</xsl:template>
 
@@ -27,10 +27,27 @@
 			</field>
 			<field name="case_title">
 				<xsl:value-of select="normalize-space(parent::div1[@type='case']/head)"/>
-			</field>
-			<xsl:if test="descendant::date[1]">
-				<xsl:apply-templates select="descendant::date[1]"/>
-			</xsl:if>
+			</field>			
+			
+			<xsl:for-each select="descendant::date">
+				<xsl:variable name="year" select="substring-before(@value, '-')"/>
+				<xsl:variable name="month" select="substring-before(substring-after(@value, '-'), '-')"/>
+				<xsl:variable name="day" select="substring-after(substring-after(@value, '-'), '-')"/>
+				
+				<!--<field name="year">
+					<xsl:value-of select="$year"/>
+					</field>
+					<field name="month">
+					<xsl:value-of select="$month"/>
+					</field>
+					<field name="day">
+					<xsl:value-of select="$day"/>
+					</field>-->
+				<field name="date">
+					<xsl:value-of select="concat('y', $year, 'm', $month, 'd', $day)"/>
+				</field>
+			</xsl:for-each>
+			
 
 			<xsl:for-each select="descendant::name[@type='person']">
 				<xsl:variable name="id" select="@key"/>
@@ -56,7 +73,7 @@
 		<xsl:variable name="month" select="substring-before(substring-after(@value, '-'), '-')"/>
 		<xsl:variable name="day" select="substring-after(substring-after(@value, '-'), '-')"/>
 
-		<field name="year">
+		<!--<field name="year">
 			<xsl:value-of select="$year"/>
 		</field>
 		<field name="month">
@@ -64,6 +81,9 @@
 		</field>
 		<field name="day">
 			<xsl:value-of select="$day"/>
+			</field>-->
+		<field name="date">
+			<xsl:value-of select="concat($year, $month, $day)"/>
 		</field>
 	</xsl:template>
 

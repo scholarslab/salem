@@ -15,15 +15,26 @@ $(function () {
 		var year = '';
 		var month = '';
 		var day = '';
+		var range  = '';
 		
-		if ($('#year').attr('value') != ''){
-			year = ' AND year:' + $('#year').attr('value');
-		}
-		if ($('#month').attr('value') != ''){
-			month = ' AND month:' + $('#month').attr('value');
-		}
-		if ($('#day').attr('value') != ''){
-			day = ' AND day:' + $('#day').attr('value');
+		if ($('#year').attr('value') != '' || $('#month').attr('value') != '' || $('#day').attr('value') != ''){			
+			if ($('#year').attr('value') != ''){
+				year = 'y' + $('#year').attr('value');
+			} else {
+				year = 'y*';
+			}
+			if ($('#month').attr('value') != ''){
+				month = 'm' + $('#month').attr('value');
+			} else {
+				month = 'm*';
+			}
+			
+			if ($('#day').attr('value') != ''){
+				day = 'd' + $('#day').attr('value');
+			} else {
+				day = 'd*';
+			}
+			range = ' AND date:' + year + month + day;
 		}
 		/*var year = $('#year').attr('value');
 		var month = $('#month').attr('value');
@@ -55,7 +66,7 @@ $(function () {
 		else{ date = 'none';};
 		*/
 		
-		$('#q') .attr('value', search_text + year + month + day);
+		$('#q') .attr('value', search_text + range);
 	});
 	
 	
