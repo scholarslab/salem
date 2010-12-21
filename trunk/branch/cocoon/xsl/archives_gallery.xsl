@@ -221,7 +221,7 @@
 					<div class="thumb">
 						<a href="../{$medium_url}/{@id}.jpg" class="jqueryLightbox"
 							title="{$caption}">
-							<img src="../{$thumb_url}/{@id}.gif" title="{$caption}"/>
+							<img src="../{$thumb_url}/{@id}.{if ($institution = 'ecca') then 'jpg' else 'gif'}" title="{$caption}"/>
 						</a>
 						<!--<xsl:choose>
 							<xsl:when test="not($institution = 'MA135')">

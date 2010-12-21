@@ -238,12 +238,12 @@
 									<xsl:when test="not(str[@name='doc_id'] = 'MA135')">
 										<a href="../{$medium_url}/{.}.jpg" class="jqueryLightbox"
 											title="{str[@name='title']}">
-											<img src="../{$thumb_url}/{.}.gif"
+											<img src="../{$thumb_url}/{.}.{if (str[@name='doc_id']) then 'jpg' else 'gif'}"
 												title="{str[@name='title']}"/>
 										</a>
 									</xsl:when>
 									<xsl:otherwise>
-										<img src="../{$thumb_url}/{.}.gif"
+										<img src="../{$thumb_url}/{.}.{if (str[@name='doc_id']) then 'jpg' else 'gif'}"
 											title="{str[@name='title']}"
 											style="max-height:60px;max-width:60px;"/>
 									</xsl:otherwise>

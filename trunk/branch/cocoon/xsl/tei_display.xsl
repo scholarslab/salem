@@ -559,7 +559,7 @@
 					</xsl:when>-->
 				<xsl:when test="$source='ecca'">
 					<a href="{$path}archives/ecca/medium/{$filename}.jpg" class="jqueryLightbox">
-						<img src="{$path}archives/ecca/thumb/{$filename}.gif"/>
+						<img src="{$path}archives/ecca/thumb/{$filename}.jpg"/>
 					</a>
 					<br/>
 					<a href="{$path}archives/ecca/large/{$filename}.jpg" target="_blank"
