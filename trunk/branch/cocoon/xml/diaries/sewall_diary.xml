@@ -1,0 +1,184 @@
+<TEI.2>
+<teiHeader> 
+
+<fileDesc> 
+<titleStmt> 
+
+<title type="245">Diary of Samuel Sewall</title> 
+<title type="gmd">[electronic resource] </title> 
+
+<author>Samuel Sewall</author>
+<editor></editor> 
+<respStmt> 
+</respStmt> 
+</titleStmt> 
+
+<publicationStmt> 
+<publisher>Virginia Center for Digital History</publisher> 
+<pubPlace>Charlottesville, Virginia </pubPlace> 
+
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public"></p> 
+<p>Text and images (c) copyright 2004, by the Rector and Visitors of the University of Virginia</p> 
+</availability> 
+<date>2004</date> 
+</publicationStmt> 
+<seriesStmt> <p></p></seriesStmt> 
+<notesStmt><note></note></notesStmt> 
+
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Diary of Samuel Sewall</title> 
+<title level="m"></title>
+<author>Samuel Sewall</author> 
+<editor></editor> 
+<respStmt><resp></resp><name></name></respStmt> 
+</titleStmt> 
+<editionStmt><p></p></editionStmt> 
+<publicationStmt> 
+<publisher>Massachusetts Historical Society</publisher> 
+<pubPlace>Boston</pubPlace> 
+<date>1878</date> 
+<idno type="callNo"></idno> </publicationStmt> 
+<seriesStmt><p>Collections of the Massachusetts Historical Society, Vol. 5, Series 5</p></seriesStmt> 
+<notesStmt><note>Excerpts from pages 358 - 464.</note></notesStmt> 
+</biblFull> 
+</sourceDesc> 
+</fileDesc> 
+
+<encodingDesc>
+<projectDesc><p></p></projectDesc>
+<editorialDecl><p></p></editorialDecl>
+</encodingDesc>
+
+<profileDesc> 
+<creation><date></date></creation> 
+<textClass> 
+</textClass> 
+</profileDesc> 
+
+<revisionDesc> 
+<change> 
+<date></date>
+<respStmt>
+<resp n="revision">Revised by: <name></name> on <date></date></resp>
+</respStmt> 
+<item></item> 
+</change> 
+</revisionDesc> 
+</teiHeader> 
+
+<text>
+<front>
+<title>The Diary of Samuel Sewall<author>Samuel Sewall,</author>1674-1729</title>
+<p>Selected excerpts from Collections of the Massachusetts Historical Society, Vol. 5, Series 5, 1878, pages 358 - 464.
+</front>
+<body>
+
+<div1 type="entry" n="1">
+<head></head>
+<p><date value="1692-04-11">April 11th 1692.</date>  Went to Salem, where, in the Meeting-house, the persons accused of Witchcraft were examined; was a very great Assembly; ‘twas awfull to see how the afflicted persons were agitated.  Mr. Noyes pray’d at the beginning, and Mr. Higginson concluded.  [In the margin], Væ, Væ, Væ, Witchcraft.</p>
+</div1>
+
+<div1 type="entry" n="2">
+<head></head>
+<p><date value="1692-05-24">May 24th 1692.</date>  First general Council, Saltonstall, Major Gedny, Walley, Hutchinson, Lothrop, Alcot, Sewall took their Oaths together, presently after Major Appleton took his.  Justices of the Peace were nominated for the Province.</p>
+</div1>
+
+<div1 type="entry" n="3">
+<head></head>
+<p><date value="1692-07-20">July 20th 1692.</date>  Fast at the house of Capt. Alden, upon his account.  Mr. Willard pray’d.  I read a Sermon out of Dr. Preston, 1st and 2d Uses of God’s Alsufficiency.  Capt. Scottow pray’d, Mr. Allen came in and pray’d, Mr. Cotton Mather, then Capt. Hill.  Sung the first part 103.Ps., concluded about 5. aclock.  Brave Shower of Rain while Capt. Scottow was praying, after much Drought.  Cous. Daniel Gookin sups with us, and bespeaks my marrying of him tomorrow.</p>
+</div1>
+
+<div1 type="entry" n="4">
+<head></head>
+<p><date value="1692-07-30">July 30, 1692.</date>  Mrs. Cary makes her escape out of Cambridge –Prison, who was Committed for Witchcraft.</p>
+</div1>
+
+<div1 type="entry" n="5">
+<head></head>
+<p><date value="1692-08-19">Augt. 19th 1692.</date>  This day the Liet. Governour, Major Phillips, Mr. Russel, Capt. Lynde and my self went to Watertown.  Advis’d the Inhabitants at their Town-Meeting to settle a Minister; and if could not otherwise agree, should first have a Town-Meeting to decide where the Meetinghouse should be set.  Many say Whitney’s Hill would be a convenient place.</p>
+<p>This day [in the margin, Dolefull!  Witchcraft] George Burrough, John Willard, Jno Procter, Martha Carrier and George Jacobs were executed at Salem, a very great number of Spectators being present.  Mr. Cotton Mather was there, Mr. Sims, Hale, Noyes, Chiever, &c.  All of them said they were innocent, Carrier and all.  Mr. Mather says they all died by a Righteous Sentence.  Mr. Burrough by his Speech, Prayer, protestation of his Innocence, did much move unthinking persons, which occasions their speaking hardly concerning his being executed.</p>
+</div1>
+
+<div1 type="entry" n="6">
+<head></head>
+<p><date value="1692-08-25">Augt. 25.</date>  Fast at the old [First] Church, respecting the Witchcraft, Drought, &c.</p>
+</div1>
+
+<div1 type="entry" n="7">
+<head></head>
+<p><date value="1692-09-19">Monday, Sept. 19, 1692.</date>  About noon, at Salem, Giles Corey was press’d to death for standing Mute; much pains was used with him two days, one after another, by the Court and Capt. Gardner of Nantucket who had been of his acquaintance: but all in vain.</p>
+</div1>
+
+<div1 type="entry" n="8">
+<head></head>
+<p><date value="1692-09-20">Sept. 20.</date>  Now I hear from Salem that about 18 years agoe, he was suspected to have stampd and press’d a man to death, but was cleared.  Twas not remembered till Anne Putnam was told of it by said Corey’s Spectre the Sabbath-day night before the Execution.</p>
+</div1>
+
+<div1 type="entry" n="9">
+<head></head>
+<p><date value="1692-09-21">Sept. 21.</date>  A petition is sent to Town in behalf of Dorcas Hoar, who now confesses: Accordingly an order is sent to the Sheriff to forbear her Execution, notwithstanding her being in the Warrant to die to morrow.  This is the first condemned person who has confess’d.</p>
+</div1>
+
+<div1 type="entry" n="10">
+<head></head>
+<p><date value="1692-09-22">Thorsday, Sept. 22, 1692.</date>  William Stoughton, Esqr., John Hathorne, Esqr., Mr. Cotton Mather, and Capt. John Higginson, with my Brother St., were at our house, speaking about publishing some Trials of the Witches.  Mr. Stoughton went away and left us, it began to rain and was very dark, so that getting some way beyond the fortification, was fain to come back again, and lodgd here in Capt. Henchman’s Room.  Has been a plentiful Rain, blessed be God.  Mr. Stoughton went away early in the morn so that I saw him not.  Read the 1 Jno 1. before went to bed.</p>
+</div1>
+
+<div1 type="entry" n="11">
+<head></head>
+<p><date value="1692-10-11">Oct. 11, 1692.</date>  Went to the Funeral of Mrs. Sarah Oliver, widow, aged 72. years; buried in the new burying place; a very good, modest, humble, plain, liberal Matron.  Bearers, Sam. Sewall, Major Jno Walley, Capt. Joshua Scottow, Capt. James Hill, Capt. Jacob Eliot, Capt. Theophilus Frary.  Scarvs and Gloves.</p>
+<p>Read Mr. Willard’s Epistle to Mr. Mather’s book, as to Cases of Conscience touching Witchcraft.</p>
+</div1>
+
+<div1 type="entry" n="12">
+<head></head>
+<p><date value="1692-10-15">Satterday, Oct. 15th</date> Went to Cambridge and visited Mr. Danforth, and discoursed with Him about the Witchcraft; thinks there cannot be a procedure in the Court except there be some better consent of Ministers and People.  Told me of the woman’s coming into his house last Sabbath-day sennight at Even.</p>
+</div1>
+
+<div1 type="entry" n="13">
+<head></head>
+<p><date value="1692-10-26">Oct. 26, 1692.</date>  A Bill is sent in about calling a Fast, and Convocation of Ministers, that may be led in the right way as to the Witchcrafts.  The season and manner of doing it, us such, that the Court of Oyer and Terminer count themselves thereby dismissed.  29 Nos, and 33 yeas to the Bill.  Capt. Bradstreet and Lieut. True, Wm Huchins and several other interested persons there, in the affirmative.</p>
+</div1>
+
+<div1 type="entry" n="14">
+<head></head>
+<p><date value="1692-11-22">Nov. 22, 1692.</date>  I prayd that God would pardon all my Sinfull Wanderings, and direct me for the future.  That God would bless the Assembly in their debates, and that would chse and assist our Judges, &c., and save New England as to Enemies and Witchcrafts, and vindicate the late Judges, consisting with his Justice and Holiness, &c., with Fasting.  Cousin Anne Quinsy visited me in the Evening, and told me of her children’s wellfare.  Now about, Mercy Short grows ill again, as formerly.</p>
+</div1>
+
+<div1 type="entry" n="15">
+<head></head>
+<p><date value="1693-06-12">Monday, June 12, 1693.</date>  I visit Capt. Alden and his wife, and tell them I was sorry for their Sorrow and Temptations by reason of his Imprisonment, and that was glad of his Restauration.</p>
+</div1>
+
+<div1 type="entry" n="16">
+<head></head>
+<p><date value="1696-08-12">Fourth-day Augt 12, 1696.</date>  Mr. Melyen, upon a slight occasion, spoke to me very smartly about the Salem Witchcraft: in discourse he said, if a man should take Beacon hill on ‘s back, carry it away; and then bring it and set it in its place again, he should not make any thing of that.</p>
+</div1>
+
+<div1 type="entry" n="17">
+<head></head>
+<p><date value="1696-09-16">7r 16.</date>  Keep a day of Prayer in the East end of the Town-House, Govr, Council and Assembly.  Mr. Morton begun with Prayer, Mr. Allin pray’d, Mr. Willard preached—If God be with us who can be against us?—Spake smartly at last about the Salem Witchcrafts, and that no order had been suffer’d to come forth by Authority to ask Gods pardon.</p>
+</div1>
+
+<div1 type="entry" n="19">
+<head></head>
+<p>Copy of the Bill I put up on the Fast day; giving it to Mr. Willard as he pass’d by, and standing up at the reading of it, and bowing when finished; in the Afternoon.</p>
+<p>Samuel Sewall, sensible of the reiterated strokes of God upon himself and family; and being sensible, that as to the Guilt contracted, upon the opening of the late Commission of Oyer and Terminer at Salem (to which the order for this Day relates) he is, upon many accounts, more concerned than any that he knows of, Desires to take the Blame and Shame of it, Asking pardon of Men, And especially desiring prayers that God, who has an Unlimited Authority, would pardon that sin and all other his sins; personal and Relative: And according to his infinite Benignity, and Soveraignty, Not Visit the Sin of him, or of any other, upon himself or any of his, nor upon the Land: But that He would powerfully defend him against all Temptations to Sin, for the future; and vouchsafe him the efficacious, saving Conduct of his Word and Spirit.</p></div1>
+
+
+<div1 type="entry" n="18">
+<head></head>
+<p><date value="1697-11-19">Sixth-day, Novr 19.</date>  Mr. Higginson coms as far as Brothers to see me; which I wonder’d at.  Mr Hale and I lodged together: He discours’d me about writing a History of the Witchcraft; I fear lest he go into the other exream.  Came home with the Majr General, din’d at Madam Paiges; there found Hancock, Allen, and Sam. Haugh.  Found all well, Laus Deo.  At Col. Paiges was told of the Death of Mrs. Thatcher.  When came home, Mr. Cooke told me of the death of Mr. Hooker of Farmington.</p>
+</div1>
+
+
+<div1 type="entry" n="20">
+<head></head>
+<p><date value="1720-05-03">May, 3.</date>  I went not to court in the morning because of my Letters.  Dr. Mather sends me Mr. Daniel Neal’s History of New-England: It grievs me to see New England’s Nakedness laid open in the business of the Quakers, Anabaptists, Witchcraft.  The Judges Names are mentioned, p. 502.  My Confession, p.536.  Vol. 2.  The Good and Gracious God to be pleased to save New-England, and me and my family!</p></div1>
+</body>
+</text>
+</TEI.2>
