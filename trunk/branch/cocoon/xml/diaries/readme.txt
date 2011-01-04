@@ -1,0 +1,3 @@
+Hopefully diaries added will have consistent TEI tagging; I did have to fix a bunch of TEI errors to make it conform to both be valid XML (lots of &c, not &amp;c, etc). Just ran the transform on the files (sewell_diary.xml) to generate the html version for the site. 
+
+Note: The entire content management system here needs work... 
