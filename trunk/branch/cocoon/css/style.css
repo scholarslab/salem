@@ -459,6 +459,23 @@ ul li {
     color: #000;
 }
 
+.div2 {
+    margin-left: 1em;
+}
+
+.div3 {
+    margin-left: 1.5em;
+}
+.div4 {
+    margin-left: 2em;
+}
+.div5 {
+    margin-left: 2.5em;
+}
+.div6 {
+    margin-left: 1em;
+}
+
 .navlist li {
     text-transformation: capitalize;
 }
