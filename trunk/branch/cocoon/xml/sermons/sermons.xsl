@@ -18,7 +18,7 @@
         <html>
             <head>
                 <title>
-                    <xsl:value-of select="TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']" />
+                    <xsl:value-of select="TEI.2/teiHeader/fileDesc/titleStmt/title" />
                     <xsl:text> | Salem Witch Trials</xsl:text>
                 </title>
                 <link type="text/css" href="../style.css?v=2" rel="stylesheet"/>
@@ -39,8 +39,7 @@
                     
                     <div id="page_content">
                         
-                        <h2><xsl:value-of select="TEI.2/text/front/titlePage/docTitle/titlePart[@type='main']" /></h2>
-                        <p><xsl:value-of select="TEI.2/text/front/titlePage/docTitle/titlePart[@type='alt']" /></p>
+                        <h2><xsl:value-of select="TEI.2/text/front/titlePage/titlePart" /></h2>
                         
                         <xsl:for-each select="TEI.2/text/body/div1">
                             <xsl:apply-templates />
@@ -60,10 +59,30 @@
     </xsl:template>
     
     <xsl:template match="TEI.2/text/body/div1/p">
-        <p><xsl:apply-templates /></p>
+        <p class="div1"><xsl:apply-templates /></p>
     </xsl:template>
     
-    <xsl:template match="TEI.2/text/body/div1/p/date">
+    <xsl:template match="TEI.2/text/body/div1/div2/p">
+        <p class="div2"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="TEI.2/text/body/div1/div2/div3/p">
+        <p class="div3"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="TEI.2/text/body/div1/div2/div3/div4/p">
+        <p class="div4"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="TEI.2/text/body/div1/div2/div3/div4/div5/p">
+        <p class="div5"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="TEI.2/text/body/div1/div2/div3/div4/div5/div6/p">
+        <p class="div6"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="//date">
         <strong><xsl:value-of select="node()" /></strong>
         
     </xsl:template>
