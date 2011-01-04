@@ -1,0 +1,52 @@
+<TEI.2> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Sermon Notebook of Samuel Parris</title>
+                <author>Samuel Parris</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University Press of Virginia</publisher> 
+                <pubPlace>Charlottesville, Virginia </pubPlace> 
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>The Sermon Notebook of Samuel Parris, 1689-1694</title>
+                        <author>Samuel Parris</author>
+                        <editor>James F. Cooper, Jr.</editor>
+                        <editor>Kenneth P. Minkema</editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>The Colonial Society of Massachusetts</publisher>
+                        <pubPlace>Boston</pubPlace>
+                        <date>1993</date>
+                        <distributor>University Press of Virginia</distributor>
+                    </publicationStmt>
+
+                </biblFull>
+                
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+    
+    <front> 
+        <titlePage>
+        <docTitle>
+            <titlePart type="main">The Sermon Notebook of Samuel Parris, 1689-1694</titlePart> 
+        </docTitle>
+        
+    </titlePage>
+    </front> 
+        
+        <body> <p> None ought, nor is it
+possible that any should, maintain communion with Christ, &amp; yet keep up
+fellowship with Devils </p>
+   
+ 
+<p> <date value="1692-05-08">Sacrament day. 8. May. 1692</date> 1.Cor.
+10. 21.<lb/> Ye cannot drink the Cup of the Lord, &amp; the cup of Devils: ye
+cannot be partakers of the Lords table, &amp; of the Table of Devils. </p>
+
+<p> Se these sermons in loose papers. 8vo. </p>  </body></text></TEI.2>
