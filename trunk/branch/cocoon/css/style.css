@@ -486,6 +486,10 @@ ul li {
     text-transformation: capitalize;
 }
 
+.nav_list li ul {
+    margin-left: 1.1em;
+}
+
 footer, #footer {
     color: #000;
     width: 621px;
