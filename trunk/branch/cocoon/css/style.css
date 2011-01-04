@@ -486,7 +486,7 @@ ul li {
     text-transformation: capitalize;
 }
 
-footer, #footer, .footer {
+footer, #footer {
     color: #000;
     width: 621px;
     margin: auto !important;
