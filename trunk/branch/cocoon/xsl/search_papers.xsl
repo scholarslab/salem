@@ -56,6 +56,15 @@
 						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
 						<input type="text" name="q" value="{if (contains($q, '*:*')) then '' else substring-before($q, ' AND')}" id="q"/>
+				
+						<select id="field" name="field">
+							<option value="*" selected>Everything</option>
+							<option value="fulltext">Fulltext</option>
+							<option value="title">Title</option>
+							<option value="case_title">Case Title</option>
+							<option value="name_text">Name</option>
+						</select>	
+							
 						<br/>
 						<xsl:text>and/or documents dated
 						(1692/1693, excluding some undated items):</xsl:text>
