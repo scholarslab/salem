@@ -295,7 +295,7 @@
 							<li>
 								<i>
 									<a style="margin-left:20px"
-										href="?q={$field}:{$q}&amp;rows={$rows}&amp;start={$start}&amp;expand=true"
+										href="?q={$q}&amp;rows={$rows}&amp;start={$start}&amp;expand=true"
 										>Expand List</a>
 								</i>
 							</li>

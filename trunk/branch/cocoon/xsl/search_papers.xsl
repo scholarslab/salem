@@ -58,10 +58,10 @@
 						<input type="text" name="q" value="{if (contains($q, '*:*')) then '' else substring-before($q, ' AND')}" id="q"/>
 				
 						<select id="field" name="field">
-							<option value="fulltext" selected="true">Fulltext</option>
-							<option value="title">Title</option>
-							<option value="case_title">Case Title</option>
-							<option value="name_text">Name</option>
+							<option value="fulltext:" selected="true">Fulltext</option>
+							<option value="title:">Title</option>
+							<option value="case_title:">Case Title</option>
+							<option value="name_text:">Name</option>
 						</select>	
 							
 						<br/>
