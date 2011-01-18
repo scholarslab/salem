@@ -55,9 +55,11 @@
 						<xsl:text>Search for word or phrase: </xsl:text>
 						<input type="hidden" name="rows" value="10"/>
 						<input type="hidden" name="start" value="0"/>
+						<input type="hidden" name="field_limit" value="tei" />
+						
 						<input type="text" name="q" value="{if (contains($q, '*:*')) then '' else substring-before($q, ' AND')}" id="q"/>
 						
-						<input type="hidden" name="fq=source:tei" />
+						
 				
 						<select id="field" name="field">
 							<option value="fulltext:" selected="true">Fulltext</option>

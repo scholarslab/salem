@@ -296,7 +296,7 @@
 		<xsl:choose>
 			<xsl:when test="string(@id)">
 				<a
-					href="../texts/salemSearch.htm?q=name_text:{@id}&amp;rows=20&amp;start=0&amp;name={.}&amp;fq=source:tei">
+					href="../texts/salemSearch.htm?q=name_text:{@id}&amp;rows=20&amp;start=0&amp;name={.}&amp;field_limit=tei">
 					<xsl:value-of select="."/>
 				</a>
 			</xsl:when>
