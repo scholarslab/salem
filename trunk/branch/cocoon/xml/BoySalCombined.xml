@@ -3195,14 +3195,14 @@
 					<name>University of Virginia Library Electronic Text Center. </name>
 				</respStmt>
 			</titleStmt>
-			<extent>ca. 1060 kilobytes </extent>
+			<extent>ca. 3214 kilobytes </extent>
 			<publicationStmt>
 				<publisher>University of Virginia Library </publisher>
 				<pubPlace>Charlottesville, Virginia </pubPlace>
 				<idno type="ETC">BoySal1R</idno>
 				<availability>
 					<p>publicly available </p>
-					<p n="public">URL: http://etext.lib.virginia.edu/salem/witchcraft/ </p>
+					<p n="public">URL: http://salem.lib.virginia.edu/</p>
 					<p>Print text copyright. Da Capo Press 1977; used here in electronic form with
 						permission of the publisher. SGML tagging and keyboarding copyright 1999, by
 						the Rector and Visitors of the University of Virginia. </p>
