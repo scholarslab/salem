@@ -53,10 +53,10 @@
 									<xsl:apply-templates select="descendant::titlePage"/>
 								</xsl:when>
 								<xsl:when test="descendant::front">
-									<xsl:apply-templates select="//TEI.2/text/group/text/front"/>
+									<xsl:apply-templates select="//TEI.2/text/*/text/front"/>
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:apply-templates select="//TEI.2/text/group/text/front"/>
+									<xsl:apply-templates select="//TEI.2/text/*/text/front"/>
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:otherwise>
@@ -143,7 +143,7 @@
 				<li>Title Page: <a href="{/TEI.2/@id}">Volume <xsl:value-of select="$volume"
 					/></a></li>
 			</ul>
-			<xsl:apply-templates select="descendant::TEI.2/text/group/text/body" mode="toc"/>
+			<xsl:apply-templates select="descendant::TEI.2/text/*/text/body" mode="toc"/>
 		</div>
 	</xsl:template>
 
