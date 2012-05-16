@@ -11,6 +11,15 @@ body {
 	font-family:times, serif;
 	
 }
+
+.doc17 a {
+  color: #fff;
+}
+
+.doc17 a:active, .doc17 a:visited {
+	color: #864654;
+}
+
 a:link {
 	color:#000000;
 }
