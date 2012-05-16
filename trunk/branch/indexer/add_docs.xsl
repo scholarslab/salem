@@ -46,12 +46,12 @@
 				<field name="name_facet">
 					<xsl:value-of select="$id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="//term[@id = $id]"/>
+					<xsl:value-of select="//normalize-space(term[@id = $id])"/>
 				</field>
 				<field name="name_text">
 					<xsl:value-of select="$id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="//term[@id = $id]"/>
+					<xsl:value-of select="//normalize-space(term[@id = $id])"/>
 				</field>
 			</xsl:for-each>
 			<field name="fulltext">
@@ -106,12 +106,12 @@
 				<field name="name_facet">
 					<xsl:value-of select="$id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="//term[@id = $id]"/>
+					<xsl:value-of select="//normalize-space(term[@id = $id])"/>
 				</field>
 				<field name="name_text">
 					<xsl:value-of select="$id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="//term[@id = $id]"/>
+					<xsl:value-of select="//normalize-space(term[@id = $id])"/>
 				</field>
 			</xsl:for-each>
 			<field name="fulltext">

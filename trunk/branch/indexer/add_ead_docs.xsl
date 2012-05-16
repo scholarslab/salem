@@ -27,12 +27,12 @@
 				<field name="name_facet">
 					<xsl:value-of select="@id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="."/>
+					<xsl:value-of select="normalize-space(.)"/>
 				</field>
 				<field name="name_text">
 					<xsl:value-of select="@id"/>
 					<xsl:text>|</xsl:text>
-					<xsl:value-of select="."/>
+					<xsl:value-of select="normalize-space(.)"/>
 				</field>
 			</xsl:for-each>
 			<xsl:for-each select="descendant::daoloc | descendant::dao">
