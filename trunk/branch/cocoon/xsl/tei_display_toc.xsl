@@ -134,19 +134,9 @@
 					</xsl:when>
 				</xsl:choose>
 			</xsl:variable>
-			<xsl:choose>
-				<xsl:when test="string-length($volume) &gt; 0">
-					<h3> The Salem witchcraft papers, original volumes <!-- <xsl:value-of select="$volume"/>:--> edited by
-						Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
-						Benjamin C. Ray and Tara S. Wood (2010)</h3>
-				</xsl:when>
-				<xsl:otherwise>
-					<h3>
-						<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']" />
-						<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/author" />
-					</h3>
-				</xsl:otherwise>
-			</xsl:choose>
+			<h3> The Salem witchcraft papers, Volume <xsl:value-of select="$volume"/>: edited by
+				Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
+				Benjamin C. Ray and Tara S. Wood (2010)</h3>
 			<ul>
 				<!--<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
 				<xsl:value-of select="$volume"/></a></li>-->
