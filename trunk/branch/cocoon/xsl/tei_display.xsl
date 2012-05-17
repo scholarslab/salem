@@ -649,7 +649,7 @@
 			<xsl:choose>
 				<xsl:when test="contains($doc_id, 'Uph')">
 					<div class="figure">
-						<a href="{$path}archives/upham/medium/{@id}.jpg" class="jqueryLightbox" title="{figDesc}">
+						<a href="{$path}archives/upham/medium/{@id}.jpg" id="{@id}" class="jqueryLightbox" title="{figDesc}">
 							<img src="{$path}archives/upham/gifs/{@id}.gif"/>
 						</a>
 						<br/>
