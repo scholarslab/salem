@@ -131,7 +131,10 @@
 					</xsl:when>
 					<xsl:when test="/TEI.2/@id = 'BoySal4R'">
 						<xsl:text>4</xsl:text>
-					</xsl:when>
+          </xsl:when>
+          <xsl:when test="/TEI.2/@id = 'BoySalCombined'">
+            <xsl:text>Combined</xsl:text>
+          </xsl:when>
 				</xsl:choose>
 			</xsl:variable>
 			<xsl:choose>
@@ -153,7 +156,8 @@
 				<li>Title Page: <a href="{/TEI.2/@id}">Volume <xsl:value-of select="$volume"
 					/></a></li>
 			</ul>
-			<xsl:apply-templates select="descendant::TEI.2/text/body" mode="toc"/>
+      <xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
+      
 		</div>
 	</xsl:template>
 
