@@ -311,24 +311,15 @@
 		</li>
 	</xsl:template>
 
-  <xsl:template match="int">
-  	
-  	<xsl:variable name="person">
-  		<xsl:value-of select="normalize-space(@name)" />
-  	</xsl:variable>
-
-    <xsl:if test="not(.=preceding-sibling::node())">
-    	<xsl:value-of select="$person" />
-      <xsl:if test="string(substring-after(@name, '|'))">
-        <li class="name">
+	<xsl:template match="int">
+		<xsl:if test="string(substring-after(@name, '|'))">
+			<li class="name">
 				<a
 					href="salemSearch.htm?q=name_text:{substring-before(@name, '|')}&amp;rows=20&amp;start=0&amp;name={substring-after(@name, '|')}">
 					<xsl:value-of select="substring-after(@name, '|')"/>
 				</a>
-        </li>
-      </xsl:if>
-    </xsl:if>
-
+			</li>
+		</xsl:if>
 	</xsl:template>
 
 </xsl:stylesheet>
