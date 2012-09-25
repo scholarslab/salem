@@ -978,7 +978,17 @@
 	</xsl:template>-->
 	
 	<xsl:template match="ref">
-		<a href="?div_id=d1e304#{@n}">
+		
+		<xsl:variable name="test" select="number(replace(@n, 'vI', ''))" />
+		
+		<xsl:variable name="docId">
+			<xsl:choose>
+				<xsl:when test="$test &lt; 323">d1e304</xsl:when>
+				<xsl:otherwise>d1e13028</xsl:otherwise>
+			</xsl:choose>
+		</xsl:variable>
+		
+		<a href="?div_id={@docId}#{@n}">
 			<xsl:value-of select="."/>
 		</a>
 	</xsl:template>
