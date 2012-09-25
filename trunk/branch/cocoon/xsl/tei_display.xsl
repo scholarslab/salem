@@ -988,7 +988,7 @@
 			</xsl:choose>
 		</xsl:variable>
 		
-		<a href="?div_id={@docId}#{@n}">
+		<a href="?div_id={$docId}#{@n}">
 			<xsl:value-of select="."/>
 		</a>
 	</xsl:template>
