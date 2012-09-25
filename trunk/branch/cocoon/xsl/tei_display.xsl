@@ -984,7 +984,8 @@
 		<xsl:variable name="docId">
 			<xsl:choose>
 				<xsl:when test="$test &lt; 323">d1e304</xsl:when>
-				<xsl:otherwise>d1e13028</xsl:otherwise>
+				<xsl:when test="$test &gt; 323 and $test &lt; 469">d1e304</xsl:when>
+				<xsl:otherwise>d1e132</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
 		
