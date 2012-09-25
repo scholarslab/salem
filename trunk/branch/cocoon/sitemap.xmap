@@ -227,7 +227,7 @@
 				</map:transform>				
 				<map:serialize type="html"/>
 			</map:match>-->
-			
+
 			<!-- XML files displays -->
 			<map:match pattern="texts/tei/*">
 				<map:generate src="xml/{1}.xml"/>

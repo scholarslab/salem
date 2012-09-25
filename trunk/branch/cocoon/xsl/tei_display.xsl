@@ -665,6 +665,10 @@
 			</xsl:choose>			
 		</xsl:if>
 	</xsl:template>
+	
+	<xsl:template match="pb">
+		<a name="{@id}" />
+	</xsl:template>
 
 	<!-- removed pb milestones, no longer necessary since content has been changed versus printed edition -->
 	<!--<xsl:template match="pb">
@@ -972,6 +976,12 @@
 		</a>
 
 	</xsl:template>-->
+	
+	<xsl:template match="ref">
+		<a href="?div_id=d1e304#{@n}">
+			<xsl:value-of select="."/>
+		</a>
+	</xsl:template>
 
 	<xsl:template match="note">
 		<xsl:apply-templates/>
