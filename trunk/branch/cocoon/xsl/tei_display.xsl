@@ -978,41 +978,31 @@
 	</xsl:template>-->
 	
 	<xsl:template match="ref">
-		
-    <xsl:variable name="test" select="number(replace(@n, 'vI', ''))" />
 
-    <xsl:variable name="docId">
-      <xsl:choose>
-        <xsl:when test="starts-with(@n, 'vII')">
-          <xsl:variable name="page" select="number(replace(@n, 'vII', ''))" />
-          <xsl:choose>
-            <xsl:when test="$page &lt; 444">d1e132</xsl:when>
-            <xsl:when test="$page &gt; 444 and $page &lt; 522">d1e6905</xsl:when>
-            <xsl:otherwise>d1e8401</xsl:otherwise>
-          </xsl:choose>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:variable name="page" select="number(replace(@n, 'vI', ''))" />
-          <xsl:choose>
-            <xsl:when test="$page &lt; 322">d1e304</xsl:when>
-            <xsl:otherwise>d1e13028</xsl:otherwise>
-          </xsl:choose>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-    <!--	
 		<xsl:variable name="docId">
 			<xsl:choose>
-				<xsl:when test="$test &lt; 323">d1e304</xsl:when>
-				<xsl:when test="$test &gt; 323 and $test &lt; 469">d1e304</xsl:when>
-				<xsl:otherwise>d1e132</xsl:otherwise>
+				<xsl:when test="starts-with(@n, 'vII')">
+					<xsl:variable name="page" select="number(replace(@n, 'vII', ''))"/>
+					<xsl:choose>
+						<xsl:when test="$page &lt; 444">d1e132</xsl:when>
+						<xsl:when test="$page &gt; 444 and $page &lt; 522">d1e6905</xsl:when>
+						<xsl:otherwise>d1e8401</xsl:otherwise>
+					</xsl:choose>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:variable name="page" select="number(replace(@n, 'vI', ''))"/>
+					<xsl:choose>
+						<xsl:when test="$page &lt; 322">d1e304</xsl:when>
+						<xsl:otherwise>d1e13028</xsl:otherwise>
+					</xsl:choose>
+				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
-    -->
-    <a href="?div_id={$docId}#{@n}">
+
+		<a href="?div_id={$docId}#{@n}">
 			<xsl:value-of select="."/>
 		</a>
-    <!-- (<xsl:value-of select="$docId" /> | <xsl:value-of select="@n" /> | <xsl:value-of select="starts-with(@n, 'vII')" />  | <xsl:value-of select="@n" />) -->
+
 	</xsl:template>
 
 	<xsl:template match="note">
