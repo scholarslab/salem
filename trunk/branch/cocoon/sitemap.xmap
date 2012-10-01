@@ -20,6 +20,7 @@
 
 <map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
 
+  <!-- dummy comment -->
 	<map:components>
 		<!-- *********************************** -->
 		<!-- Cocoon generators - file is default -->
@@ -190,7 +191,7 @@
 
 			<map:match pattern="search_results">
 				<map:generate
-					src="{global:solr-url}select?q={request-param:field}{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1&amp;fq=source:tei"
+					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
 					label="record"/>
 				<map:transform type="xslt-saxon" src="xsl/search_results.xsl">
 					<map:parameter name="use-request-parameters" value="true"/>
@@ -227,7 +228,7 @@
 				</map:transform>				
 				<map:serialize type="html"/>
 			</map:match>-->
-
+			
 			<!-- XML files displays -->
 			<map:match pattern="texts/tei/*">
 				<map:generate src="xml/{1}.xml"/>
@@ -252,3 +253,4 @@
 		</map:pipeline>
 	</map:pipelines>
 </map:sitemap>
+
