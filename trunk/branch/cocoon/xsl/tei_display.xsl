@@ -496,6 +496,28 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'S']">
+					<div class="figures">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'S']"
+							mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>suffolk</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 5) = 'MA135']">
+					<div class="figures">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 5) = 'MA135']"
+							mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>ma135</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
 				<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'eia']">
 					<div class="figures">
 						<xsl:apply-templates
@@ -513,17 +535,6 @@
 							select="descendant::figure[substring(@n, 1, 4) = 'ecca']" mode="mss">
 							<xsl:with-param name="source">
 								<xsl:text>ecca</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'S']">
-					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'S']"
-							mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>suffolk</xsl:text>
 							</xsl:with-param>
 						</xsl:apply-templates>
 					</div>
@@ -604,6 +615,15 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/Suffolk/large/{$filename}.jpg" target="_blank">
+						Enlarge<br/>Manuscript
+					</a>
+				</xsl:when>
+				<xsl:when test="$source='ma135'">
+					<a href="{$path}archives/MA135/small/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/MA135/small/{$filename}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/MA135/large/{$filename}.jpg" target="_blank">
 						Enlarge<br/>Manuscript
 					</a>
 				</xsl:when>
