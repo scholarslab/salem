@@ -599,7 +599,7 @@
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 				<xsl:when test="$source='suffolk'">
-					<a href="{$path}archives/Suffolk/smal/{$filename}.jpg" class="jqueryLightbox">
+					<a href="{$path}archives/Suffolk/small/{$filename}.jpg" class="jqueryLightbox">
 						<img src="{$path}archives/Suffolk/small/{$filename}.jpg"/>
 					</a>
 					<br/>
