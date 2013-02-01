@@ -5784,8 +5784,8 @@
 
 				<div2 id="n8.4" type="indictment">
 					<head>(Indictment v. <name type="person" key="barmar">Mary Barker</name> ) </head>
-					<figure n="S015r"/>
-					<figure n="S015v"/>
+					<figure n="S015A"/>
+					<figure n="S015B"/>
 
 					<p>3rd Paper </p>
 					<p>
@@ -5839,7 +5839,8 @@
 				<div2 id="n9.1" type="indictment">
 					<head>(Indictment v. <name type="person" key="barwil1">William Barker,
 							Sr.</name> ) </head>
-
+					<figure n="MA038r"/>
+					<figure n="MA038v"/>
 					<p>
 						<table>
 							<row>
