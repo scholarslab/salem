@@ -13,13 +13,6 @@
 
 <!ENTITY longs  "&#223;"> <!--=long s--> 
 <!NOTATION jpg SYSTEM "JPEG">  
-
-
-
-
-
-
-
  
 <!ENTITY n5 SYSTEM "n5" NDATA sgm> 
 <!ENTITY n6 SYSTEM "n6" NDATA sgm> 
