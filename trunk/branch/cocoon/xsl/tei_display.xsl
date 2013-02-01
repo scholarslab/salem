@@ -507,9 +507,9 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 5) = 'MA135']">
+				<xsl:when test="descendant::figure[substring(@n, 1, 2) = 'MA']">
 					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 5) = 'MA135']"
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 2) = 'MA']"
 							mode="mss">
 							<xsl:with-param name="source">
 								<xsl:text>ma135</xsl:text>
