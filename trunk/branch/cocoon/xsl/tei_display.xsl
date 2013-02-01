@@ -518,6 +518,17 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'S']">
+					<div class="figures">
+						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'S']"
+							mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>suffolk</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
 				<xsl:otherwise>
 					<xsl:apply-templates/>
 				</xsl:otherwise>
@@ -586,6 +597,15 @@
 					<br/>
 					<a href="{$path}archives/essex/eia/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+				<xsl:when test="$source='suffolk'">
+					<a href="{$path}archives/Suffolk/smal/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/Suffolk/small/{$filename}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/Suffolk/large/{$filename}.jpg" target="_blank">
+						Enlarge<br/>Manuscript
+					</a>
 				</xsl:when>
 			</xsl:choose>
 
