@@ -5997,7 +5997,7 @@
 				<div2 id="n9.4" type="examination">
 					<head>(Examination of <name type="person" key="barwil1">William Barker,
 							Sr.</name> ) </head>
-
+					<figure n="MA039r"/>
 					<p>
 						<date value="1692-08-29" certainty="unconfirmed">29. agust. 92. </date>
 						<lb/> Coram <lb/>
@@ -6326,8 +6326,8 @@
 				<div2 id="BoySal1-n10.3" type="indictment">
 					<head>(Indictment v. <name type="person" key="barwil2">William Barker,
 							Jr.</name> ) </head>
-					<figure n="S064r"/>
-					<figure n="S084v"/>
+					<figure n="S064A"/>
+					<figure n="S064B"/>
 
 					<p>3rd Paper </p>
 					<p>
@@ -6368,7 +6368,7 @@
 						<name type="person" key="payrob">*Robert Payne</name>
 						<lb/> foreman <lb/> ponet se <lb/> Not Guilty </p>
 					<p>
-						<ref>( <hi rend="italics">Suffolk Court Records Case No. 2761 Page 102
+						<ref>( <hi rend="italics">Suffolk Court Records Case No. 2761 Page 103
 							</hi>) </ref>
 					</p>
 				</div2>
