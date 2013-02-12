@@ -287,9 +287,12 @@
 							<xsl:choose>
 								<xsl:when test="@id = $div_id or @id = $chapter_id">
 									<b>[No title]</b>
-								</xsl:when>
+                </xsl:when>
+                <xsl:when test="@type = 'year'">
+                  <a href="?div_id={@id}"><xsl:value-of select="@n" /></a>
+                </xsl:when>
 								<xsl:otherwise>
-									<a href="?div_id={@id}"> [No title] </a>
+                  <a href="?div_id={@id}">[No title]</a>
 								</xsl:otherwise>
 							</xsl:choose>
 
