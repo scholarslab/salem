@@ -557,11 +557,11 @@
 		<xsl:variable name="filename">
 			<xsl:choose>
 				<xsl:when
-					test="(not($source = 'eia') and not($source = 'ecca')) and contains(@n, 'r')">
+					test="(not($source = 'eia') and not ($source = 'ma135') and not($source = 'ecca')) and contains(@n, 'r')">
 					<xsl:value-of select="concat(substring-before(@n, 'r'), 'A')"/>
 				</xsl:when>
 				<xsl:when
-					test="(not($source = 'eia') and not($source = 'ecca')) and contains(@n, 'v')">
+					test="(not($source = 'eia') and not ($source = 'ma135') and not($source = 'ecca')) and contains(@n, 'v')">
 					<xsl:value-of select="concat(substring-before(@n, 'v'), 'B')"/>
 				</xsl:when>
 				<xsl:otherwise>
@@ -625,7 +625,7 @@
 					<br/>
 					<a href="{$path}archives/MA135/large/{$filename}.jpg" target="_blank">
 						Enlarge<br/>Manuscript
-					</a>
+          </a>
 				</xsl:when>
 			</xsl:choose>
 
