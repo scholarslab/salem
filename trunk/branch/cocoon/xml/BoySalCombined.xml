@@ -6699,7 +6699,8 @@
 							type="person" key="porlyd">Lydia Porter</name> v. <name type="person"
 							key="bibsar">Sarah Bibber)</name>
 					</head>
-
+					<figure n="ecca2119r"/>
+					<figure n="ecca2119v"/>
 					<p rend="center">The Testimony of <name type="person" key="porjoh">John
 							porter</name> : And <name type="person" key="porlyd">Lidia porter</name>
 					</p>
@@ -6728,6 +6729,8 @@
 					<head>( <name type="person" key="fowjos">Joseph Fowler</name> v.<name
 							type="person" key="bibsar"> Sarah Bibber)</name>
 					</head>
+					<figure n="ecca2120r"/>
+					<figure n="ecca2120v"/>
 					<p>The Testimony of <name type="person" key="fowjos">Joseph fowler</name> , who
 						Testifieth that <name type="person" key="bibber">Goodman <lb/> Bibber</name>
 						&amp; his wife, Lived at my house, and I did observe and take <lb/> notice,
@@ -6753,6 +6756,7 @@
 							type="person" key="jacmay">Mary Jacobs</name> v.<name type="person"
 							key="bibsar"> Sarah Bibber)</name>
 					</head>
+					<figure n="ecca2121r"/>
 					<p>The testymony of <name type="person" key="jactho">Thomas Jacob</name> and
 							<name type="person" key="jacay">mary</name> his wife doth testyfy <lb/>
 						and say that <name type="person" key="bibsar">good bibbor#</name> [and] now
@@ -6779,6 +6783,7 @@
 				<div2 id="BoySal1-n12.4" type="section">
 					<head>( <name type="person" key="walric">Richard Walker</name> v. <name
 							type="person" key="bibsar">Sarah Bibber</name>) </head>
+					<figure n="2121r"/>
 					<p>(In left margin) The Testimony of <name type="person" key="walric">Richard
 							Walker:</name> who Testifieth: <lb/> that <name type="person"
 							key="bibsar"> Goodwife Bibber </name>somtimes Living neare to me, I did
@@ -6835,6 +6840,7 @@
 				<div2 id="BoySal1-n13.1" type="examination">
 					<head>(Examination of <name type="person" key="bisbri">Bridget Bishop</name> ,
 						First Version) </head>
+					<figure n="ecca1125r"/>
 					<p rend="center">The Examination of <name type="person" key="bisbri">Bridget
 							Byshop</name> at Salem Village <date value="1692-04-19"
 							certainty="confirmed">19. Apr. 1692 </date>
@@ -7063,6 +7069,7 @@
 				<div2 id="BoySal1-n13.3" type="indictment">
 					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
 						No. 1) </head>
+					<figure n="ecca1121r"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae W[illm et] <lb/> Mariae nunc
 							Angliae &amp;c Quarto: </foreign>
@@ -7123,6 +7130,8 @@
 				<div2 id="BoySal1-n13.4" type="indictment">
 					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
 						No. 2) </head>
+					<figure n="ecca1122r"/>
+					<figure n="ecca1122v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
 							Angliae &amp;c Quarto </foreign>
@@ -7181,6 +7190,8 @@
 				<div2 id="BoySal1-n13.5" type="indictment">
 					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
 						No. 3) </head>
+					<figure n="ecca1123r"/>
+					<figure n="ecca1123v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
 							Angliae &amp;c Quarto </foreign>
@@ -7237,6 +7248,8 @@
 				<div2 id="BoySal1-n13.6" type="indictment">
 					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
 						No. 4) </head>
+					<figure n="ecca1124r"/>
+					<figure n="ecca1124v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
 							Angliae &amp;c Quarto: </foreign>
@@ -7295,6 +7308,8 @@
 				<div2 id="BoySal1-n13.7" type="section">
 					<head>( <name type="person" key="hobdel">Deliverance Hobbs</name> v. <name
 							type="person" key="bisbri">Bridget Bishop</name> et al.) </head>
+					<figure n="ecca1140r"/>
+					<figure n="ecca1140v"/>
 					<p rend="center"><name type="person" key="hobdel">Deliverance-Hobbs</name> .
 						Exam'ed <date value="1692-05-03" certainty="confirmed">May. 3. 1692 </date>.
 						Salem prison </p>
