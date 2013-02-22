@@ -7475,6 +7475,8 @@
 				<div2 id="BoySal1-n13.9" type="section">
 					<head>( <name type="person" key="grasam7">Samuel Gray</name> v. <name
 							type="person" key="bisbri">Bridget Bishop</name> ) </head>
+					<figure n="ecca1141r"/>
+					<figure n="ecca1141v"/>
 					<p>
 						<name type="person" key="grasam7">Samuell Gray</name> of Salem Aged aboute
 						42 yeares Testifieth and <lb/> sayth that about fourteen years agoe he
@@ -7682,6 +7684,8 @@
 					<head>( <name type="person" key="shasam">Samuel</name> and <name type="person"
 							key="shasar">Sarah Shattuck</name> v. <name type="person" key="bisbri"
 							>Bridget Bishop</name> ) </head>
+					<figure n="ecca1144r"/>
+					<figure n="ecca1144v"/>
 					<p>
 						<name type="person" key="shasam">Sam'll Shattock</name> aged 41 years
 						testifieth that in the year 1680. </p>
@@ -8062,6 +8066,8 @@
 				<div2 id="BoySal1-n13.17" type="deposition">
 					<head>(<name type="person" key="shesus">Susannah Sheldon</name> v. <name
 							type="person" key="bisbri">Bridget Bishop</name> ) </head>
+					<figure n="ecca1149r"/>
+					<figure n="ecca1149v"/>
 					<p>The Deposistion of <name type="person" key="shesus">susannah shelldin</name>
 						aged about 18 years who <lb/> testifieth and said that on this 2 June 1692 I
 						saw the <orig reg="Apparition">Apperishtion</orig>
@@ -8082,6 +8088,8 @@
 				<div2 id="BoySal1-n13.18" type="section">
 					<head>( <name type="person" key="coojoh">John Cook</name> v. <name type="person"
 							key="bisbri">Bridget Bishop</name> .) </head>
+					<figure n="ecca1148r"/>
+					<figure n="ecca1148v"/>
 					<p>
 						<name type="person" key="coojoh">John Cooke</name> aged about 18 years
 						Testifieth that about five or <lb/> six yeares agoe One Morning about Sun
@@ -8467,7 +8475,7 @@
 				<div2 id="BoySal1-n14.1" type="deposition">
 					<head>( <name type="person" key="ketjam">James Kettle</name> v. <name
 							type="person" key="bissar">Sarah Bishop</name> ) </head>
-
+					<figure n="ecca2116r"/>
 					<p>The deposition of <name type="person" key="ketjam">James Kettle</name> aged
 						twenty seven years or there <lb/> about testyfieth &amp; saith that I was
 						att <name type="person" key="gridoc"><orig reg="Doctor">Docter</orig>
@@ -8498,6 +8506,7 @@
 					<head>( <name type="person" key="baleli">Elizabeth Balch</name> and <name
 							type="person" key="walabi">Abigail Waldon</name> v. <name type="person"
 							key="bissar">Sarah Bishop</name> ) </head>
+					<figure n="ecca1151r"/>
 					<p>The Depotion of <name type="person" key="baleli">Elizabeth Balch</name> of
 						Beverly Aged aboute Eight <lb/> &amp; thirty years &amp; wife unto <name
 							type="person" key="balben">Benjamin Balch</name> ju'r This Deponant
@@ -8568,6 +8577,7 @@
 				<head>
 					<name type="person" key="blamar">Mary Black</name>
 				</head>
+				<figure n="MA020r"/>
 
 				<!-- <ID>n15</ID> -->
 
@@ -8714,6 +8724,8 @@
 				<div2 id="BoySal1-n16.2" type="indictment">
 					<head>(Indictment v. <name type="person" key="bramar">Mary Bradbury</name> , No.
 						2) </head>
+					<figure n="ecca2070r"/>
+					<figure n="ecca2070v"/>
 					<p>
 						<table>
 							<row>
@@ -8767,6 +8779,7 @@
 				</div2>
 				<div2 id="BoySal1-n16.3" type="answer">
 					<head>(Answer of <name type="person" key="bramar">Mary Bradbury</name> ) </head>
+					<figure n="ecca2072r"/>
 					<p rend="center">The Answer of <name type="person" key="bramar">Mary
 							Bradbury</name> in the charge of Witchcraft or <lb/> familliarity with
 						the <orig reg="Devil">Divell</orig> I doe plead not guilty. </p>
