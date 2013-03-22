@@ -10533,7 +10533,7 @@
 				<head>
 					<name type="person" key="bucsar">Sarah Buckley</name>
 				</head>
-
+				
 				<!-- <ID>n21</ID> -->
 
 				<p> (<hi rend="italics">See also: <xref doc="BoySal2-n2.159">George Jacobs Jr. --
@@ -10543,6 +10543,8 @@
 
 				<div2 id="BoySal1-n21.1" type="examination">
 					<head>(Examination of <name type="person" key="bucsar">Sarah Buckley</name>
+					<figure n="MA022r"/>
+					<figure n="MA022v"/>	
 						<date value="1692-05-18" certainty="confirmed">18. May. 1692</date>) </head>
 					<p>
 						<name type="person" key="wilabi">Abig: Williams</name> said this is the
@@ -10596,6 +10598,7 @@
 
 				<div2 id="BoySal1-n21.2" type="indictment">
 					<head>(Indictment v. <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="MA023r"/>
 					<p>
 						<table>
 							<row>
@@ -10641,6 +10644,8 @@
 				<div2 id="BoySal1-n21.3" type="section">
 					<head>( <name type="person" key="hubwil">William Hubbard</name> for <name
 							type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="MA029r"/>
+					<figure n="MA029v"/>
 					<p>These may Certifye whom it may </p>
 					<p>These are to Certyfye whom it may or shall concerne that I have <lb/> known
 							<name type="person" key="bucsar">Sarah</name> the wife of <name
@@ -10675,6 +10680,7 @@
 					<head>(Revs. <name type="person" key="higjoh">John Higginson</name> and <name
 							type="person" key="chesam">Samuel Cheever</name>
 						<lb/> for <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="MA099r"/>
 					<p>Being desired by <name type="person" key="bucwil">goodman Buckly</name> to
 						give my testimony to his <lb/> wives conversation before this great Calamity
 						befell her, I cannot <lb/> refuse to bear witnes to the truth, viz that
@@ -10711,6 +10717,8 @@
 				<div2 id="BoySal1-n21.5" type="deposition">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="MA044r"/>
+					<figure n="MA044v"/>
 					<p>The deposistion of <name type="person" key="putann2">Ann putnam</name> who
 						testifieth and [saith] that I <lb/> have a long time seen <name
 							type="person" key="bucsar">gooddy Buckly</name> amongsts the <orig
@@ -10747,6 +10755,8 @@
 				<div2 id="BoySal1-n21.6" type="deposition">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
 							type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="MA045r"/>
+					<figure n="MA045v"/>
 					<p>The Deposistion of <name type="person" key="hubeli">Eliz. Hubberd </name> who
 						testifieth and saith that I <lb/> cannot say that ever <name type="person"
 							key="bucsar">goody Buckly</name> hurt me but on the 18'th may 1692 being
@@ -10827,6 +10837,8 @@
 					<head>( <name type="person" key="hutben">Benjamin Hutchinson</name> v. <name
 							type="person" key="bucsar">Sarah Buckley</name>
 						<lb/>and <name type="person" key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="MA035r"/>
+					<figure n="MA035v"/>
 					<p>The deposistion of <name type="person" key="hutben">benjamine
 							Hutchinson</name> who testifieth and saith <lb/> that my wife was much
 							<orig reg="afflicted">affleted</orig> presently affter the last
