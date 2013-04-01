@@ -543,6 +543,17 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'NYPL']">
+					<div class="figures">
+						<xsl:apply-templates
+							select="descendant::figure[substring(@n, 1, 4) = 'nypl']" mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>nypl</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
 				<xsl:otherwise>
 					<xsl:apply-templates/>
 				</xsl:otherwise>
@@ -628,7 +639,16 @@
 					<br/>
 					<a href="{$path}archives/MA135/large/{$filename}.jpg" target="_blank">
 						Enlarge<br/>Manuscript
-          </a>
+          			</a>
+				</xsl:when>
+				<xsl:when test="$source='nypl'">
+					<a href="{$path}archives/NYPL/SMALL/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/NYPL/SMALL/{$filename}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/NYPL/LARGE/{$filename}.jpg" target="_blank">
+						Enlarge<br/>Manuscript
+					</a>
 				</xsl:when>
 			</xsl:choose>
 
