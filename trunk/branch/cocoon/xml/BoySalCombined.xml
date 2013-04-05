@@ -13728,7 +13728,7 @@
 					<head>(Warrant for Arrest of <name type="person" key="carric2">Richard
 							Carrier</name> and <name type="person" key="carand">Andrew
 							Carrier</name> ) </head>
-					<figure n="B31r"/>
+					<figure n="B31"/>
 
 					<p>To the Sherriffe of the County of Essex or Deputy or Constable <lb/> of
 						Andover You are in their Majesties names hereby required to <lb/> Apprehend
@@ -13772,6 +13772,7 @@
 				</div2>
 				<div2 id="BoySal1-n1.49" type="examination">
 					<head>(Examination of <name type="person" key="carric2">Richard Carrier</name> ) </head>
+					<figure n="ecca2111r"/>
 					<p>
 						<name type="person" key="carric2">Richard Carriers:</name> Confession <date
 							value="1692-07-22" certainty="unconfirmed">July 22: 1692 </date>
@@ -13817,6 +13818,8 @@
 				</div2>
 				<div2 id="BoySal1-n1.50" type="indictment">
 					<head>(Indictment v. <name type="person" key="carric2">Richard Carrier</name> ) </head>
+					<figure n="MA030r"/>
+					<figure n="MA030v"/>
 					<p>
 						<table>
 							<row>
@@ -13876,7 +13879,7 @@
 				<head>
 					<name type="person" key="carsar">Sarah Carrier</name>
 				</head>
-				<figure n="eia24-5v"/>
+				
 
 				<!-- <ID>n26</ID> -->
 
@@ -13886,6 +13889,7 @@
 
 				<div2 id="BoySal1-n1.51" type="examination">
 					<head>(Examination of <name type="person" key="carsar">Sarah Carrier</name> ) </head>
+					<figure n="eia24-5v"/>
 					<p>The Examination of <name type="person" key="carsar">Sarah Carrier</name>
 						Taken before <name type="person" key="bradud">Dudly <orig reg="Broadsteat"
 								>Broad- <lb/> steat </orig></name>
@@ -14090,6 +14094,7 @@
 
 				<div2 id="BoySal1-n1.55" type="complaint">
 					<head>(Complaint v. <name type="person" key="careli">Elizabeth Cary</name> ) </head>
+					<figure n="ecca2109r"/>
 					<p rend="center">Salem, <date value="1692-05-28" certainty="confirmed"> Ma&yuml;
 							28'th 1692. </date>
 					</p>
@@ -14264,6 +14269,7 @@
 
 				<div2 id="BoySal1-n1.57" type="section">
 					<head>(Confession of <name type="person" key="chusar">Sarah Churchill</name>) </head>
+					<figure n="ecca1262r"/>
 					<p>
 						<name type="person" key="chusar">Sarah Churchwell </name> confesseth that
 							<name type="person" key="pudann">Goody pudeator</name> brought the <lb/>
@@ -14307,6 +14313,7 @@
 				<div2 id="BoySal1-n1.58" type="deposition">
 					<head>( <name type="person" key="ingsar">Sarah Ingersoll</name> for <name
 							type="person" key="chusar">Sarah Churchill</name>) </head>
+					<figure n="ecca2113r"/>
 					<p>The diposition of <name type="person" key="ingsar">Sarah Ingelson</name> Aged
 						about 30 yers: saith that <lb/> seing <name type="person" key="chusar">Sarah
 							Church</name> after hur exsamination She came to me Crieng <lb/> and
@@ -14353,7 +14360,7 @@
 					<head>(Complaint of <name type="person" key="swarob">Robert Swan</name> and
 							<name type="person" key="swajoh">John Swan</name> v. <name type="person"
 							key="clamar">Mary Clarke</name> ) </head>
-					<figure n="B27r"/>
+					<figure n="B27"/>
 					<p>The Complaint of <name type="person" key="swarob">Roburt swane</name> and
 							<name type="person" key="swajoh">John swane</name> of Andevor against <lb/>
 						<name type="person" key="clamar">Mary Clarke</name> the wife of <name
@@ -14386,6 +14393,8 @@
 				</div2>
 				<div2 id="BoySal1-n1.60" type="examination">
 					<head>(Examination of <name type="person" key="clamar">Mary Clark</name> ) </head>
+					<figure n="NYPL01A"/>
+					<figure n="NYPL01B"/>
 					<p>
 						<date value="1692-08-04" certainty="unconfirmed">4't Agust 1692. </date>
 					</p>
@@ -14627,7 +14636,7 @@
 				<div2 id="BoySal1-n1.63" type="deposition">
 					<head>( <name type="person" key="fulmar1">Mary Fuller, Sr.</name> , v. <name
 							type="person" key="clerac">Rachel Clenton</name> ) </head>
-					<figure n="S003r"/>
+					<figure n="S003"/>
 					<p>The Deposition of <name type="person" key="fulmar1">Mary fuller sen'or</name>
 						Aged About 41 years Saieth <lb/> About the 23 or fouorth of Last March:
 						1691/2 About Tenn of the <lb/> Clock <name type="person" key="clerac"
@@ -14654,7 +14663,7 @@
 				<div2 id="BoySal1-n1.64" type="deposition">
 					<head>( <name type="person" key="boatho">Thomas Boarman</name> v. <name
 							type="person" key="clerac">Rachel Clenton</name> ) </head>
-					<figure n="S002r"/>
+					<figure n="S002"/>
 					<p>This Deposition of <name type="person" key="boatho">Thomas Boarman</name>
 						sen'or aged 47 This Deponent <lb/> testifieth and saith that som wimen of
 						worth and quality: Desired <lb/> me To Aquaint the seven men that <name
@@ -14684,7 +14693,7 @@
 				<div2 id="BoySal1-n1.65" type="deposition">
 					<head>( <name type="person" key="bakwil">William Baker</name> v. <name
 							type="person" key="clerac">Rachel Clenton</name> ) </head>
-					<figure n="S004r"/>
+					<figure n="S004"/>
 					<p>The Deposion of <name type="person" key="bakwil">William Baker</name> Aged 36
 						years Saith: About 10 years <lb/> Agoo: I living with my Master Rust: There
 						was a Barrill of strong <lb/> beer brewed &amp; the Day it was Brewed <name
@@ -14712,7 +14721,7 @@
 				<div2 id="BoySal1-n1.66" type="section">
 					<head>( <name type="person" key="edwmar">Mary Edwards</name> v. <name
 							type="person" key="clearac">Rachel Clenton</name> ) </head>
-					<figure n="B17r"/>
+					<figure n="B17"/>
 					<p rend="center">Ipswich <date value="1692-04-04" certainty="confirmed">April
 							the 4'th 1692 </date>
 					</p>
@@ -14768,7 +14777,8 @@
 				<div2 id="BoySal1-n1.67" type="deposition">
 					<head>( <name type="person" key="fuljam">James Fuller, Jr.</name> , v. <name
 							type="person" key="clerac">Rachel Clenton</name> ) </head>
-					<p><figure n="B18r"/>The deposition of <name type="person" key="fuljam">Jeams
+					<figure n="B18"/>
+					<p>The deposition of <name type="person" key="fuljam">Jeams
 							Fuller Junier</name> aged about eighteen years <lb/> saith that on the
 						15'th Day of march Last: 1692 or there a bouts: <lb/> as to the Day: A bout
 						9 or 10: of the Clock: I was talking with <name type="person" key="perrym"
@@ -14804,6 +14814,7 @@
 				<div2 id="BoySal1-n1.67b" type="deposition">
 					<head>(Deposition of <name type="person" key="burtho">Thomas Burnam</name> v.
 							<name type="person" key="clerac">Rachel Clinton</name>)</head>
+					<figure n="mehs_1"/>
 					<p> The Depsition of <name type="person" key="burtho">Thomas Burnam</name> junr
 						aged: 48:<lb/> years who testifieth &amp; saith yt som years<lb/> sinc one
 						sumer one of my Cows was very<lb/> often milked &amp; som times tow of them
@@ -15100,7 +15111,8 @@
 
 				<div2 id="BoySal1-n1.72" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="colsar">Sarah Cole</name>
-						) <figure n="B14r"/></head>
+						) </head>
+					<figure n="B14"/>
 					<opener>
 						<salute>Essex: <lb/> To the Constable of Lin </salute>
 					</opener>
@@ -15257,7 +15269,8 @@
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n1.75" type="summons">
-					<head>(Summons for Witnesses) <figure n="B14r"/></head>
+					<head>(Summons for Witnesses) </head>
+					<figure n="B14"/>
 					<opener>
 						<salute>To the Constable of Lin </salute>
 					</opener>
@@ -15511,7 +15524,7 @@
 				<div2 id="BoySal1-n1.81" type="section">
 					<head>( <name type="person" key="coljoh">John Cole</name> v. <name type="person"
 							key="colsar">Sarah Cole</name> ) </head>
-					<figure n="S051r"/>
+					<figure n="S051"/>
 					<p>
 						<name type="person" key="coljoh">Jno Cole</name> Saith that Coming home to
 						his house on saturday night <lb/> after his wife had seen strange sights --
@@ -15678,7 +15691,7 @@
 				<div2 id="BoySal1-n1.84b" type="Deposition">
 					<head>(Deposition of <name type="person" key="brojoh2">John Browne, Jr.</name>
 						v. <name type="person" key="colsar1">Sarah Cole</name>)</head>
-					<figure n="B39r"/>
+					<figure n="B39"/>
 					<p>&lsqb;<hi rend="italics">in upper left corner:</hi> 692&rsqb;<lb/> The
 						Deposition of <name type="person" key="brojoh2">John Browne, Junr-</name>.
 						Aged about twenty five years<lb/> Saith. that a Mongth agoe Last Thursday
@@ -15737,6 +15750,7 @@
 				<div2 id="BoySal1-n1.85" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="coleli">Elizabeth
 							Colson</name> , No. 1) </head>
+					<figure n="ecca2104r"/>
 					<p>You are in the&yuml;r Majestyes Names hereb&yuml; Required to Apprehend <lb/>
 						&amp; bring before us (upon Tuesday next being the Seavententh day of <lb/>
 						this Instant May by Tenne of the Clock aforenoone att the house of <lb/>
@@ -15781,7 +15795,8 @@
 				<div2 id="BoySal1-n1.86" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="coleli">Elizabeth
 							Colson</name> , No. 2) </head>
-					<p><figure n="B17r"/>You are likewise required to apprehend <name type="person"
+					<figure n="B17"/>
+					<p>You are likewise required to apprehend <name type="person"
 							key="coleli">[] Coloson</name> of Reding <lb/> single woman who we are
 						Informed is gone from Reding to Boston <lb/> or Charlstowne, And who Also
 						stands Charged w'th Sundry acts of <lb/> witchcraft by her Committed on the
@@ -15808,7 +15823,8 @@
 				<div2 id="BoySal1-n1.87" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="coleli">Elizabeth
 							Colson</name> in Suffolk County, No. 3) </head>
-					<p><figure n="B37r"/>Complaynt beinge made to me underwritten by <name
+					<figure n="B37"/>
+					<p>Complaynt beinge made to me underwritten by <name
 							type="person" key="arnwil">William Arnold</name>
 						<lb/> of Readinge that the above intended and mentioned <name type="person"
 							key="coleli">Elizabeth <orig reg="Coleston">Cole- <lb/> ston
@@ -15836,7 +15852,8 @@
 				<div2 id="BoySal1-n1.87b" type="deposition">
 					<head>(Testimony of <name type="person" key="marmay">Mary Marshall</name> v.
 							<name type="person" key="coleli">Elizabeth Colson</name>)</head>
-					<p><figure n="B28r"/><date value="1692-09-10" certainty="confirmed">10 September
+					<figure n="B28"/>
+					<p><date value="1692-09-10" certainty="confirmed">10 September
 							1692</date> The testemony of <name type="person" key="marmay">Mary
 							Marshall</name> of Moldin aged fortie Six yeare or there abouts
 						testefieth and Sayth about the Eaighth day of Aprill Last past: <name
