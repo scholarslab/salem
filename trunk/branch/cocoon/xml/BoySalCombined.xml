@@ -16575,6 +16575,7 @@
 				<div2 id="BoySal1-n1.105" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="cormar">Martha
 							Corey</name> ) </head>
+					<figure n="ecca1038r"/>
 					<opener>
 						<dateline>
 							<name type="place">Salem, </name>
@@ -16638,6 +16639,8 @@
 
 				<div2 id="BoySal1-n1.106" type="section">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1038r"/>
+					<figure n="ecca1038v"/>
 					<p><date value="1692-03-21" certainty="confirmed">March 21'st</date> I have
 						taken <name type="person" key="cormar">Martha Cory</name> and brought to the
 						house <lb/> of <name type="person" key="ingnat">Leut Nath: Engersoll</name>
@@ -17161,6 +17164,8 @@
 				</div2>
 				<div2 id="BoySal1-n1.111" type="summons">
 					<head>(Summons for Witnesses) </head>
+					<figure n="ecca1040r"/>
+					<figure n="ecca1040v"/>
 					<p>Wm &amp; Mary by the Grace of God of England Scotland France <lb/> &amp;
 						Ireland King &amp; Queen defenders of the faith &amp;c. </p>
 					<p rend="indent">To the Sheriffe of Essex or deputy or Constable or Constables
@@ -17244,6 +17249,8 @@
 				<div2 id="BoySal1-n1.113" type="deposition">
 					<head>( <name type="person" key="sheeph">Ephraim Sheldon</name> v. <name
 							type="person" key="cormar">Martha Corey</name> ) </head>
+					<figure n="ecca1041r"/>
+					<figure n="ecca1041v"/>
 					<p>The deposition of <name type="person" key="sheeph">Ephraim Shelden</name>
 						aged <date value="1692-04-10" certainty="confirmed">April 10'th 92 </date>
 						20 years <lb/> who testefieth. and sayth I this deponent being at the house
@@ -17694,7 +17701,8 @@
 
 				<div2 id="BoySal1-n1.121" type="section">
 					<head>(Account of <name type="person" key="dandel">Deliverance Dane</name> ) </head>
-
+					<figure n="MA147r"/>
+					<figure n="MA147v"/>
 					<p>An Account of the Expences of <name type="person" key="dannat">Nathaniel
 							Dane</name> of Andover for his <lb/> wife <name type="person"
 							key="dandel">Deliverance</name> who was accused of witchcraft and
@@ -17761,6 +17769,7 @@
 				<div2 id="BoySal1-n1.122" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="dermar">Mary De
 							Rich</name> ) </head>
+					<figure n="ecca2105r"/>
 					<opener>
 						<salute>To the Marshall of the County of Essex or his Lawfull Deputy or
 							<lb/> Constable in Salem </salute>
@@ -17844,6 +17853,7 @@
 				<div2 id="BoySal1-n1.124" type="section">
 					<head>( <name type="person" key="niceli">Elizabeth Nicholson</name> v. <name
 							type="person" key="dolann">Ann Dolliver</name> ) </head>
+					<figure n="ecca2115r"/>
 					<p>
 						<name type="person" key="niceli">Elizabeth</name> the wife of <name
 							type="person" key="nicedm">Edmond Nicolasson</name> will testify; that
@@ -17966,6 +17976,8 @@
 				<div2 id="BoySal1-n1.125" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="duslyd">Lydia
 							Dustin</name> ) </head>
+					<figure n="ecca2098r"/>
+					<figure n="ecca2098v"/>
 					<opener>
 						<salute>To the Constable of reading </salute>
 					</opener>
@@ -18096,6 +18108,8 @@
 				<div2 id="BoySal1-n1.128" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="dussar">Sarah
 							Dustin</name>) </head>
+					<figure n="ecca2099r"/>
+					<figure n="ecca2099v"/>
 					<p>Whereas Complaint hath bin exhibited before us by <name type="person"
 							key="puttho">mr Thomas <lb/> Putnam</name> &amp; mr <name type="person"
 							key="putjoh2">Jno putnam Jun'r</name> of Salem Village In the behalfe of
@@ -18355,7 +18369,7 @@
 							type="person" key="warmar">Mary Warren</name>, and <name type="person"
 							key="putann2">Ann Putnam, Jr.</name> v. <lb/>
 						<name type="person" key="eamreb">Rebecca Eames</name> ) </head>
-					<figure n="B11r"/>
+					<figure n="B11"/>
 					<p><name type="person" key="walmar">Mary Walcott</name> affirmed to the grand
 						Inquest: that <name type="person" key="eamreb">Rebecca Eames:</name>
 						<lb/> hath afflicted her at the time of her examination </p>
@@ -18386,6 +18400,8 @@
 				<div2 id="BoySal1-n1.130" type="examination">
 					<head>(Examination of <name type="person" key="eamreb">Rebecca Eames</name> and
 							<name type="person" key="lacmar1">Mary Lacey Sr.</name> ) </head>
+					<figure n="ecca2052r"/>
+					<figure n="ecca2052v"/>
 					<p>
 						<name type="person" key="eamreb">Rebecca: Eames:</name> examined. before
 						Salem Majestrats: <date value="1692-08-19" certainty="unconfirmed">Aug'st
@@ -18577,6 +18593,8 @@
 				<div2 id="BoySal1-n1.133" type="indictment">
 					<head>(Indictment v. <name type="person" key="eamreb">Rebecca Eames</name> , No.
 						2) </head>
+					<figure n="ecca2054r"/>
+					<figure n="ecca2054v"/>
 					<p>
 						<table>
 							<row>
@@ -18615,6 +18633,7 @@
 
 				<div2 id="BoySal1-n1.134" type="section">
 					<head>(Petition of <name type="person" key="eamreb">Rebecca Eames</name> ) </head>
+					<figure n="NYPL05"/>
 					<p>The humble Petition of <name type="person" key="eamreb">Rebecka Eames</name>
 						unto his Excellencye S'r: <lb/> W'm: <name type="person" key="kniphi">Phipps
 							knight</name> &amp; Govern'r of their Majestyes Dominions in <lb/>
@@ -18690,7 +18709,7 @@
 				<div2 id="BoySal1-n1.135" type="complaint">
 					<head>(Complaint of <name type="person" key="putjoh2">John Putnam, Jr.</name>
 						and <name type="person" key="hutben">Benjamin Hutchinson</name> ) </head>
-
+					<figure n="ecca1276r"/>
 					<p rend="right">Salem <date value="1692-05-20" certainty="confirmed">May the
 							20th 1692 </date>
 					</p>
@@ -18724,6 +18743,7 @@
 				<div2 id="BoySal1-n1.136" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="easmar">Mary Easty</name>
 						) </head>
+					<figure n="ecca1276r"/>
 					<p>To the Marshall of the County of Essex or dept or Constables of </p>
 					<p>Salem You are in theire Majest's names hereby required to <orig
 							reg="apprehend">appre- <lb/> hend </orig> and forthwith bring before mee
@@ -18760,8 +18780,8 @@
 				</div2>
 				<div2 id="BoySal1-n1.137" type="examination">
 					<head>(Examination of <name type="person" key="easmar">Mary Easty</name> ) </head>
-					<figure n="ecca1281_m_esty_exam copy"/>
-					<figure n="ecca1281_2"/>
+					<figure n="ecca1281r"/>
+					<figure n="ecca1281v"/>
 					<p>The Examination of <name type="person" key="easmar">Mary Eastie</name> . </p>
 					<p>At a Court held at Salem village <date value="1692-04-22"
 							certainty="confirmed">22. Apr. <hi rend="italics">1692 </hi>
@@ -18920,6 +18940,8 @@
 				</div2>
 				<div2 id="BoySal1-n1.139" type="indictment">
 					<head>(Indictment v. <name type="person" key="easmar">Mary Easty</name> , No. 2) </head>
+					<figure n="ecca1277r"/>
+					<figure n="ecca1277v"/>
 					<p>
 						<table>
 							<row>
@@ -19034,6 +19056,8 @@
 				<div2 id="BoySal1-n1.142" type="summons">
 					<head>(Summons for <name type="person" key="towmar">Mary Towne</name> and <name
 							type="person" key="towreb">Rebecca Towne</name> ) </head>
+					<figure n="ecca1288r"/>
+					<figure n="ecca1288v"/>
 					<p>W'm &amp; Mary by the Grace of God of England Scotland france &amp; <lb/>
 						Ireland King &amp; Queen defend'rs of the faith </p>
 					<p>
@@ -19068,6 +19092,8 @@
 					<head>( <name type="person" key="fostho">Thomas Fosse</name> and <name
 							type="person" key="foseli2">Elizabeth Fosse</name> for <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1289r"/>
+					<figure n="ecca1289v"/>
 					<p>thes may Sartifie home it may cun[cern] <lb/> that wee hows names are undor
 						Ritt[en] <lb/> Being dasired by some of the Realeations of <lb/> mary
 						estweke to give our obsarvation how <lb/> she behaved hur self while she
@@ -19124,6 +19150,8 @@
 					<head>( <name type="person" key="hergeo">George Herrick</name> and <name
 							type="person" key="putjoh2">John Putnam, Jr.</name> , v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1280r"/>
+					<figure n="ecca1280v"/>
 					<p>
 						<date value="1692-05-20" certainty="questionable">May 20th 1692 </date>. The
 						testimone of <name type="person" key="hergeo">Geo: Herrick</name> aged
@@ -19177,6 +19205,8 @@
 							key="hutben">Benjamin Hutchinson</name>
 						<lb/> and <name type="person" key="brasam">Samuel Braybrook</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1279r"/>
+					<figure n="ecca1279v"/>
 					<p>The deposition of <name type="person" key="putjoh">Jonathan Putman</name> ,
 							<name type="person" key="darjam">James Darling</name> , <name
 							type="person" key="hutben">Benja. <lb/> Hutchinson</name> &amp; <name
@@ -19271,6 +19301,8 @@
 				<div2 id="BoySal1-n1.148" type="section">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1282r"/>
+					<figure n="ecca1282v"/>
 					<p>
 						<name type="person" key="bibsar">Sarah: Viber</name>: afirmed upon her oath:
 						that she saw <name type="person" key="easmar">Mary:</name> the <lb/> wife of
@@ -19313,6 +19345,7 @@
 				<div2 id="BoySal1-n1.149" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1283r"/>
 					<p>
 						<name type="person" key="warmar">Mary: Warin:</name> affirmd: before: the
 						Jury: of Inquest: that: <name type="person" key="easmar"><orig
@@ -19337,6 +19370,7 @@
 							type="person" key="easmar">Mary Easty</name> , <lb/>
 						<name type="person" key="wiljoh">John Willard</name> , and <name
 							type="person" key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="ecca1286r"/>
 					<p>The Deposistion of <name type="person" key="wilabi">Abigaill williams</name>
 						and <name type="person" key="putann2">Ann putnam</name> who <orig
 							reg="testifieth">testi- <lb/> fieth </orig> and saith that we both
@@ -19389,6 +19423,8 @@
 				<div2 id="BoySal1-n1.151" type="examination">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1286r"/>
+					<figure n="ecca1286v"/>
 					<p>
 						<name type="person" key="putann2">Ann putnam</name> further testifieth that
 						on 23 may 1692: being the <lb/> last day of the examination of <name
@@ -19425,6 +19461,8 @@
 							type="person" key="easmar">Mary Easty</name> , <name type="person"
 							key="wiljoh">John Willard</name> , <lb/> and <name type="person"
 							key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="ecca1285r"/>
+					<figure n="ecca1286v"/>
 					<p>The Deposistion of <name type="person" key="hubeli">Elizabeth Hubburt </name>
 						who testifieth and saith <lb/> I being caryed up to Constable Jno.
 						putnams<!-- Comment: --> house on the 20th of may 1692: to se <name
@@ -19508,6 +19546,7 @@
 							type="person" key="easmar">Mary Easty</name> , <name type="person"
 							key="wiljoh">John Willard</name> , <lb/> and <name type="person"
 							key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="ecca1290r"/>
 					<p>The Deposistion of <name type="person" key="abbsam">Samuell Abby</name> aged
 						about 45 years who <lb/> testifieth and saith that on the 20th of may 1692 I
 						went to the <lb/> house. of constable Jno. putnam:<!-- Comment: -->about 9 a
@@ -19566,6 +19605,8 @@
 							type="person" key="easmar">Mary Easty</name> , <name type="person"
 							key="wiljoh">John Willard</name> , <lb/> and <name type="person"
 							key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="ecca1290r"/>
+					<figure n="ecca1290v"/>
 					<p>
 						<name type="person" key="trasar">Sarah Trask</name> ageed about 19 years
 						testifieth that she went along <lb/> with <name type="person" key="wilabi"
@@ -19584,6 +19625,8 @@
 				<div2 id="BoySal1-n1.155" type="deposition">
 					<head>( <name type="person" key="putedw">Edward Putnam</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1291r"/>
+					<figure n="ecca1291v"/>
 					<p>the deposistion of <name type="person" key="putedw">Edward Putnam</name> aged
 						abought 38 years ho <lb/> testifieth and saith abought 18 day of may 1692
 							<name type="person" key="easmar">mary easty</name> the <lb/> prisner now
@@ -19633,6 +19676,8 @@
 				<div2 id="BoySal1-n1.156" type="deposition">
 					<head>( <name type="person" key="smisam">Samuel Smith</name> v. <name
 							type="person" key="easmar">Mary Easty</name> ) </head>
+					<figure n="ecca1292r"/>
+					<figure n="ecca1292v"/>
 					<p>The deposistion of <name type="person" key="smisam">Samuell Smith</name> of
 						Boxford about 25 yers who <lb/> testifieth and saith that about five years
 						sence I was one night att <lb/>
