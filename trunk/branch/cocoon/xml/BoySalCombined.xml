@@ -19889,7 +19889,7 @@
 
 				<div2 id="BoySal1-n1.161" type="section">
 					<head>(Testimony of <name type="person" key="stejam">James Stevens</name> ) </head>
-					<figure n="S018r"/>
+					<figure n="S018"/>
 					<p>
 						<name type="person" key="stejam">James Stevens</name> testifieth and saith
 						that <name type="person" key="fitmar">Mary Fitch</name> did say that she
@@ -19963,7 +19963,7 @@
 				<div2 id="BoySal1-n1.162" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="ememar">Martha
 							Emerson</name> ) </head>
-					<figure n="B23r"/>
+					<figure n="B23"/>
 					<opener>
 						<salute>To the Sherriff of the County of Essex or his Dept or Constable of
 							<lb/> Haverhill </salute>
@@ -20209,7 +20209,7 @@
 					<head>(Warrant for Arrest of <name type="person" key="engphi">Phillip
 							English</name> , <name type="person" key="morsar">Sarah Morey</name> ,
 						<lb/> and <name type="person" key="hoador">Dorcas Hoar</name> ) </head>
-
+					<figure n="ecca1169r"/>
 					<opener>
 						<salute>To the Marshall of the County of Essex or his Lawfull Deputy
 						</salute>
@@ -20260,6 +20260,7 @@
 
 				<div2 id="BoySal1-n1.167" type="section">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1169r"/>
 					<p>
 						<date value="1692-05-02" certainty="confirmed">May 2d: 1692 </date> I have
 						taken the bodys of the above named <name type="person" key="morsar">Sarah
@@ -20587,6 +20588,7 @@
 							key="engphi">Mary English</name> , <name type="person" key="duslyd"
 							>Lydia Dustin</name> , <lb/> Elizabeth Johnson<!-- Comment: -->, and
 							<name type="person" key="fartho">Thomas Farrer</name> ) </head>
+					<figure n="NYPL02"/>
 					<p>(Endorsed) <date value="1693-01-12" certainty="unconfirmed">1692/3 Jan.
 							12</date>. The Deposition of <name type="person" key="lewmer">Mercy
 							Lewis</name> Aged [illegible] this <orig reg="Deponant">De- <lb/> ponant
@@ -20712,6 +20714,8 @@
 							type="person" key="puttho">Thomas Putnam</name> and <name type="person"
 							key="morrob">Robert Morrill</name>
 						<lb/> v. <name type="person" key="fartho">Thomas Farrer</name> ) </head>
+					<figure n="ecca2114r"/>
+					<figure n="ecca2114v"/>
 					<p>the deposistion of <name type="person" key="putann2">Ann putnam</name> who
 						testifieth and saith that on the: <lb/> 8.th of may 1692 : there appeard to
 						me the <orig reg="Apparition">Apperishtion</orig> of an <lb/> old gray-head
@@ -20815,6 +20819,8 @@
 				<div2 id="BoySal1-n1.176" type="indictment">
 					<head>(Indictment v. <name type="person" key="faredw">Edward Farrington</name> ,
 						No. 1) </head>
+					<figure n="MA051r"/>
+					<figure n="MA051v"/>
 					<p>
 						<table>
 							<row>
@@ -20855,6 +20861,8 @@
 				<div2 id="BoySal1-n1.177" type="indictment">
 					<head>(Indictment v. <name type="person" key="faredw">Edward Farrington</name> ,
 						No. 2) </head>
+					<figure n="MA052r"/>
+					<figure n="MA052v"/>
 					<p>
 						<table>
 							<row>
@@ -20912,6 +20920,7 @@
 				<div2 id="BoySal1-n1.178" type="examination">
 					<head>(Examination of <name type="person" key="fauabi1">Abigail Faulkner,
 							Sr.</name> ) </head>
+					<figure n="ecca2040r"/>
 					<p rend="center">
 						<name type="person" key="fauabi1">Abig'l Folkner</name> examined <date
 							value="1692-08-11" certainty="unconfirmed">August. 11: 1692 </date>. </p>
@@ -21039,6 +21048,8 @@
 				<div2 id="BoySal1-n1.180" type="indictment">
 					<head>(Indictment v. <name type="person" key="fauabi1">Abigail Faulkner,
 							Sr.</name> , No. 2) </head>
+					<figure n="ecca2037r"/>
+					<figure n="ecca2037v"/>
 					<p>
 						<table>
 							<row>
@@ -21087,7 +21098,7 @@
 					<head>( <name type="person" key="fosros">Rose Foster</name> v. <name
 							type="person" key="fauabi1">Abigail Faulkner</name> ) </head>
 					<figure n="ecca2039r"/>
-					<figure n="ecca2039v  "/>
+					<figure n="ecca2039v"/>
 					<p>The deposistion of <name type="person" key="fosros">Rose Foster</name> who
 						testifieth &amp; saith I have ben <lb/> most greviously <orig
 							reg="afflicted">afflected</orig> and tormented by <name type="person"
@@ -21115,6 +21126,7 @@
 				<div2 id="BoySal1-n1.182" type="deposition">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="fauabi1">Abigail Faulkner</name> ) </head>
+					<figure n="ecca2042r"/>
 					<p>The deposistion of <name type="person" key="walmar"> </name> who testifieth
 						and saith that <lb/> about the 9.th August 1692 I was most dreadfully <orig
 							reg="afflicted">afflected</orig> by a <lb/> woman that tould me hir name
@@ -21179,6 +21191,7 @@
 				<div2 id="BoySal1-n1.184" type="deposition">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="fauabi1">Abigail Faulkner</name> ) </head>
+					<figure n="ecca2043r"/>
 					<p>The deposistion of <name type="person" key="warmar">marry warren</name> who
 						testifieth and saith that <lb/>
 						<name type="person" key="fauabi1">Abigail Falkner</name> of Andevor did most
@@ -21314,6 +21327,7 @@
 				<div2 id="BoySal1-n1.188" type="section">
 					<head>(Verdict and Death Sentence v. <name type="person" key="fauabi1">Abigail
 							Faulkner</name> ) </head>
+					<figure n="MA049r"/>
 					<p rend="center">Att a Court of Oyer and Terminer <lb/> holden att Salem by
 						adjournment <lb/> Septem'r: 1692 -- </p>
 					<p>
@@ -21338,6 +21352,8 @@
 
 				<div2 id="BoySal1-n1.189" type="section">
 					<head>(Petition of <name type="person" key="fauabi1">Abigail Faulkner</name> ) </head>
+					<figure n="NYPL06A"/>
+					<figure n="NYPL06B"/>
 					<p>The humblee Petition of <name type="person" key="fauabi1">Abigall:
 							Falkner</name> unto his Excellencye <lb/> S'r <name type="person"
 							key="phiwil">W'm Phipps</name> knight and Govern'r of their Majestyes
