@@ -191,7 +191,7 @@
 
 			<map:match pattern="search_results">
 				<map:generate
-					src="{global:solr-url}select?q={url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
+					src="{global:solr-url}select?q=doc_id:BoySalCombined+AND+{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
 					label="record"/>
 				<map:transform type="xslt-saxon" src="xsl/search_results.xsl">
 					<map:parameter name="use-request-parameters" value="true"/>
