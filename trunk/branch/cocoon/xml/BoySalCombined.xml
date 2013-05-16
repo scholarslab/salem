@@ -22040,6 +22040,7 @@
 							key="tyljoh">Johannah Tyler</name> , <name type="person" key="wilsar3"
 							>Sarah Wilson, Jr.</name> , and <name type="person" key="drajos">Joseph
 							Draper</name> ) </head>
+					<figure n="ecca2045r"/>
 					<p>
 						<name type="person" key="faudor">dorritye Forknor</name> and <name
 							type="person" key="fauabi2">Abigale Forknor</name> children: to <name
@@ -22073,6 +22074,7 @@
 				<div2 id="BoySal2-n2.2" type="recognizance">
 					<head>(Recognizance for <name type="person" key="faudor">Dorothy Faulkner</name>
 						and <name type="person" key="fauabi2">Abigail Faulkner</name> Jr.) </head>
+					<figure n="MA056v"/>
 					<p>Know all Men by these presents That I <name type="person" key="osgjoh">John
 							Osgood sen'r.</name> of Andover in the Cownty of Essex in New England
 						And <name type="person" key="dannat">Nathan'll: Dean Sen'r</name> of the
@@ -22218,6 +22220,8 @@
 						and <name type="person" key="paieli">Elizabeth Paine</name> ) </head>
 					<p>Salem <date value="1692-05-30" certainty="confirmed">May the. 30th 1692
 						</date>
+					<figure n="ecca2017r"/>
+					<figure n="ecca2017v"/>
 					</p>
 					<p>
 						<name type="person" key="putnat">L't Nathaniell putnam</name> and <name
@@ -22303,8 +22307,7 @@
 				</div2>
 				<div2 id="BoySal2-n2.6" type="section">
 					<head>(Officer's Return) </head>
-					<figure n="ecca2016
-                                        r"/>
+					<figure n="ecca2016r"/>
 					<p>I doe Appoint <name type="person" key="gibsam">Sam'll Gibson</name> of
 						Cambridge To Serve this Warrant To effect <date value="1692-06-02"
 							certainty="unconfirmed">June 2d 1692 </date>
@@ -22348,7 +22351,8 @@
 				<div2 id="BoySal2-n2.7" type="section">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="fosann">Ann Foster</name> ) </head>
-					<p><figure n="B10r"/>
+					<figure n="B10"/>
+					<p>
 						<name type="person" key="walmar">Mary Walcot</name> affirmed to the Jury of
 						Inquest: that <name type="person" key="fosann">Ann Foster:</name> of
 						Andover: has afflicted her: both: before her examination: and at her
@@ -22375,7 +22379,8 @@
 				<div2 id="BoySal2-n2.8" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
 							type="person" key="fosann">Ann Foster</name> ) </head>
-					<p><figure n="B10r"/>
+					<figure n="B10"/>
+					<p>
 						<name type="person" key="hubeli">Eliz Hubbert. </name> Affirmed to the Jury
 						of Inquest: th't <name type="person" key="fosann">Ann Foster:</name> both
 						before: and at her examination &amp; after hath afflicted her: she also
@@ -22398,8 +22403,9 @@
 				<div2 id="BoySal2-n2.9" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="fosann">Ann Foster</name>)</head>
+					<figure n="B10"/>
 					<p>
-						<figure n="B10r"/><name type="person" key="warmar">Mary Warin</name>
+						<name type="person" key="warmar">Mary Warin</name>
 						affirmed to the Jury of Inquest: that she saw <name type="person"
 							key="fosann">Ann Foster</name> or her <orig reg="Apparition"
 							>Apperition</orig>: afflict: <name type="person" key="walmar">Mary
@@ -22700,6 +22706,7 @@
 				</div2>
 				<div2 id="BoySal2-n2.14" type="recognizance">
 					<head>(Recognizance for <name type="person" key="fryeun">Eunice Fry</name> ) </head>
+					<figure n="MA102r"/>
 					<p>Memorandum </p>
 					<p>That on the: Twelfth day of Jan'ry 1692 in the fourth year of the Reigne of
 						our Sovereigne Lord &amp; Lady -- William &amp; Mary by the Grace of God of
@@ -22787,6 +22794,7 @@
 				</div2>
 				<div2 id="BoySal2-n2.16" type="section">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1061v"/>
 					<p>(Reverse) </p>
 					<p><date value="1692-03-24" certainty="confirmed">March 24. 1691/2</date> I have
 						taken the body of <name type="person" key="goodor">Dorcas Good</name> and
@@ -22824,8 +22832,7 @@
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="goodor">Dorcas Good</name> ) </head>
 					<figure n="ecca1064r"/>
-					<figure n="ecca1064v
-                                                        "/>
+					<figure n="ecca1064v"/>
 					<p>The deposition of <name>
 							<name type="person" key="walmar">mary walcott</name>
 						</name> agged about 17 years who testifieth that about the 21: march 1691/92
@@ -22875,6 +22882,7 @@
 				</div2>
 				<div2 id="BoySal2-n2.20" type="recognizance">
 					<head>(Recognizance for <name type="person" key="goodor">Dorcas Good</name> ) </head>
+					<figure n="ecca2185r"/>
 					<p>Memorandum </p>
 					<p>That on the <date value="1692-12-10" certainty="confirmed">Tenth day of
 							December 1692</date> Samuel Ray of Salem. appeared before me
@@ -22951,6 +22959,7 @@
 				<pb n="356"/>
 				<div2 id="BoySal2-n2.22" type="section">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1004v"/>
 					<p>I brought the person of <name type="person" key="goosar">Saragh Good</name>
 						the wife of <name type="person" key="goowil">william Good</name> according
 						to the tenor of the within warrant as is Attest by me <date
@@ -23279,6 +23288,8 @@
 				<div2 id="BoySal2-n2.27" type="section">
 					<head>(Summary of Evidence v. <name type="person" key="goosar">Sarah Good</name>
 						) </head>
+					<figure n="ecca1013r"/>
+					<figure n="ecca1013v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">Titabes Confession &amp; Examinacon ag't. her
@@ -23639,6 +23650,7 @@
 				</div2>
 				<div2 id="BoySal2-n2.32" type="summons">
 					<head>(Summons for Witnesses) </head>
+					<figure n="ecca1010r"/>
 					<p>
 						<name>W'm &amp; Mary </name> By the grace of God of England Scotland France
 						&amp; Ireland King &amp; Queen def'rs of the faith &amp;ca. </p>
@@ -23677,6 +23689,8 @@
 				<pb n="368"/>
 				<div2 id="BoySal2-n2.33" type="section">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1010r"/>
+					<figure n="ecca1010v"/>
 					<p>
 						<date value="1692-06-28" certainty="unconfirmed">Dat: 28 Jun 1692 </date> --
 						I have warned the parsens.above.named accorden to tener of this summonce by
@@ -23692,6 +23706,8 @@
 					<head>( <name type="person" key="abbsam">Samuel Abbey</name> and <name
 							type="person" key="abbmar">Mary Abbey</name> v. <name type="person"
 							key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1018r"/>
+					<figure n="ecca1018v"/>
 					<p>
 						<name type="person" key="abbsam">Samuel Abbey</name> of Salem Villiage Aged
 						45. Years or thereabouts and <name type="person" key="abbmar">Mary
@@ -23752,6 +23768,7 @@
 				<div2 id="BoySal2-n2.35" type="section">
 					<head>( <name type="person" key="gadsar">Sarah Gadge</name> v. <name
 							type="person" key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1015r"/>
 					<p>The deposition of <name type="person" key="gadsar">Sarah Gadge</name> the
 						wife of <name type="person" key="gadtho">Thomas Gadge</name> aged about 40
 						years this deponent testifieth and saith that about two years &amp; an halfe
@@ -23775,6 +23792,8 @@
 				<div2 id="BoySal2-n2.36" type="section">
 					<head>( <name type="person" key="gadtho">Thomas Gadge</name> v. <name
 							type="person" key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1015r"/>
+					<figure n="ecca1015v"/>
 					<p>And <name type="person" key="gadtho">Thomas Gadge</name> husband of s'd <name
 							type="person" key="gadsar">Sarah:</name> testifieth that he had a Cow
 						soe Died about the time abovementioned &amp; though he &amp; some neighbors
@@ -23798,6 +23817,8 @@
 					<head>( <name type="person" key="herjos1">Joseph Herrick, Sr.</name> , and <name
 							type="person" key="hermar">Mary Herrick</name> v. <name type="person"
 							key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1016r"/>
+					<figure n="ecca1016v"/>
 					<p>The Deposistion of <name type="person" key="herjos1">Joseph Herrick
 							senr.</name> who testifieth and saith that on the first day of March
 						1691/2: I being then Constable for Salem: there was delivered to me by
@@ -23845,6 +23866,8 @@
 							type="person" key="shawil">William Shaw </name> v. <name type="person"
 							key="goosar">Sarah Good</name> and <name type="person" key="duslyd"
 							>Lydia Dustin</name> ) </head>
+					<figure n="ecca1017r"/>
+					<figure n="ecca1017v"/>
 					<p>The testimony of <name type="person" key="batwil">William Batten</name> aged
 						76 years or their abouts and <name type="person" key="shawil">william
 							shaw</name> aged about 50 years and <name type="person" key="shadeb"
@@ -24106,6 +24129,7 @@
 				<div2 id="BoySal2-n2.43" type="section">
 					<head>( <name type="person" key="chijoh">Johanna Childin</name> v. <name
 							type="person" key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1022r"/>
 					<p>The deposition of <name type="person" key="chijoh">Johanna Childun</name>
 						testifieth and saieth that upon 2d: of June: 1692: that the <orig
 							reg="apparition">aparition</orig> of <name type="person" key="goosar"
@@ -24125,6 +24149,8 @@
 					<head>( <name type="person" key="herhen">Henry Herrick</name> and <name
 							type="person" key="batjoh">Jonathan Batchelor</name> v. <name
 							type="person" key="goosar">Sarah Good</name> ) </head>
+					<figure n="ecca1021r"/>
+					<figure n="ecca1021v"/>
 					<p>The deposition of <name type="person" key="herhen">Henery Herrick</name> aged
 						About 21 one years, this deponent testifieth &amp; saith that in Last march
 						was two yeare; <name type="person" key="goosar">Sarah Good</name> came to
@@ -24233,7 +24259,7 @@
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name
 							type="person" key="goosar">Sarah Good</name> ) </head>
 					<figure n="ecca1024r"/>
-					<figure n="ecca1024V"/>
+					<figure n="ecca1024v"/>
 					<p>The Deposistion of <name type="person" key="walmar">Mary wolcott</name> agged
 						about 17 years who testifieth and saith that sence I have been <orig
 							reg="afflicted">afflected</orig> I have often seen the <orig
