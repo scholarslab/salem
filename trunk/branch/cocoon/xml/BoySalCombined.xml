@@ -8577,7 +8577,6 @@
 				<head>
 					<name type="person" key="blamar">Mary Black</name>
 				</head>
-				<figure n="MA020r"/>
 
 				<!-- <ID>n15</ID> -->
 
@@ -8591,6 +8590,7 @@
 					</hi>.) </p>
 
 				<div2 id="BoySal1-n15.1" type="examination">
+					<figure n="MA020r"/>
 					<head>(Examination of <name type="person" key="blamar">Mary Black</name> ) </head>
 					<p>The examination of <name type="person" key="blamar">Mary Black</name> (a
 						Negroe) at a Court held at Salem <lb/> Village 22. <hi rend="italics">1692
