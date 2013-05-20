@@ -628,7 +628,7 @@
 				</xsl:when>
 				<xsl:when test="$source='mehs'">
 					<a href="{$path}archives/MEHS/small/{$filename}.jpg" class="jqueryLightbox">
-						<img src="{$path}archives/small/{$filename}.jpg"/>
+						<img src="{$path}archives/MEHS/small/{$filename}.jpg"/>
 					</a>
 					<br/>
 					<a href="{$path}archives/MEHS/large/{$filename}.jpg" target="_blank"
