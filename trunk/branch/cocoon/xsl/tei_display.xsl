@@ -546,7 +546,7 @@
 				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'NYPL']">
 					<div class="figures">
 						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 4) = 'nypl']" mode="mss">
+							select="descendant::figure[substring(@n, 1, 4) = 'NYPL']" mode="mss">
 							<xsl:with-param name="source">
 								<xsl:text>nypl</xsl:text>
 							</xsl:with-param>
