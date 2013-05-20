@@ -543,6 +543,17 @@
 					</div>
 					<xsl:apply-templates/>
 				</xsl:when>
+				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'mehs']">
+					<div class="figures">
+						<xsl:apply-templates
+							select="descendant::figure[substring(@n, 1, 4) = 'mehs']" mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>mehs</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
+				</xsl:when>
 				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'NYPL']">
 					<div class="figures">
 						<xsl:apply-templates
@@ -613,6 +624,14 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/ecca/large/{$filename}.jpg" target="_blank"
+						>Enlarge<br/>Manuscript</a>
+				</xsl:when>
+				<xsl:when test="$source='mehs'">
+					<a href="{$path}archives/MEHS/medium/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/ecca/thumb/{$filename}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/MEHS/large/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
 				<xsl:when test="$source='eia'">
