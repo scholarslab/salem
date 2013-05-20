@@ -10891,7 +10891,9 @@
 							type="person" key="hoador">Dorcas Hoar</name> , <name type="person"
 							key="morsar">Sarah Morey</name> , and <name type="person" key="engphi"
 							>Phillip English</name> ) </head>
+					
 					<figure n="eia17r"/>
+					
 					<p rend="center">Salem <date value="1692-04-30" certainty="confirmed">Aprill the
 							30'th 1692 </date>
 					</p>
@@ -12099,7 +12101,7 @@
 							type="person" key="burgeo">George Burroughs</name> ) </head>
 					<figure n="ecca2035s1"/>
 					<figure n="ecca2035s3"/>
-					<figure n="ecca2035s4  "/>
+					<figure n="ecca2035s4"/>
 					<p>
 						<name type="person" key="hutben">Benjemin huchension</name> s'd that one the
 						21'st aprell 92 abegeral <lb/> wiluams s'd that there.was a lettell black
