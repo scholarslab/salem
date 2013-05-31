@@ -25796,8 +25796,8 @@
 					<head>(Examination of <name type="person" key="hobabi">Abigail Hobbs</name> ,
 							<date value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head>
 					<p>
-					<figure n="H54r"/>
-					<figure n="H54v"/>
+					<figure n="H54A"/>
+					<figure n="H54B"/>
 						The Examination of <name type="person"
 							key="hobabi">Abigail Hobbs</name>, at Salem Village, <date
 							value="1692-04-19" certainty="confirmed">19 April, 1692, </date> by
@@ -26001,7 +26001,7 @@
 				<div2 id="BoySal2-n2.79" type="examination">
 					<head>(Examination of <name type="person" key="hobabi">Abigail Hobbs</name> ,
 							<date value="1692-04-20" certainty="confirmed">April 20, 1692</date>) </head>
-					<figure n="ecca11155r"/>
+					<figure n="ecca1155r"/>
 					<p>
 						<name type="person" key="hobabi">Abigail Hobb's</name> Examination <date
 							value="1692-04-20" certainty="confirmed">20. Apr. 1692 </date> in Salem
@@ -26152,6 +26152,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.81" type="examination">
 					<head>(Examination of <name type="person" key="hobabi">Abigail Hobbs</name> ,
 							<date value="1692-06-29" certainty="unconfirmed">June 29, 1692</date>) </head>
+					<figure n="ecca1156r"/>
 					<p>Examinacon of <name type="person" key="hobabi">Abigall Hobbs</name> [before
 						theire] Maj'ties Justices <date value="1692-06-29" certainty="unconfirmed"
 							>June 29 1692. </date>
@@ -27035,6 +27036,7 @@ Comment: --> of Cascoe, and of those
 
 				<div2 id="BoySal2-n2.98" type="warrant">
 					<head>(Warrant v. <name type="person" key="howeli">Elizabeth How</name> ) </head>
+					<figure n="ecca1321r"/>
 					<figure n="ecca1321v"/>
 					<opener>
 						<dateline>
@@ -27092,6 +27094,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.99" type="examination">
 					<head>(Examination of <name type="person" key="howeli">Elizabeth How</name> ) </head>
 					<figure n="ecca1322r"/>
+					<figure n="ecca1322v"/>
 					<p>The examination of <name>Eliz: </name>
 						<date value="1692-05-31" certainty="confirmed">31. May. <hi rend="underline"
 								>1692 </hi>
@@ -27330,6 +27333,7 @@ Comment: --> of Cascoe, and of those
 					<head>( <name type="person" key="pertim">Timothy Perley</name> and <name
 							type="person" key="perdeb">Deborah Perley</name> v. <name type="person"
 							key="howeli">Elizabeth How</name> .) </head>
+					<figure n="ecca1323r"/>
 					<p>the <date value="1692-06-01" certainty="unconfirmed">first of june 1692.
 						</date>
 					</p>
@@ -27452,8 +27456,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.105" type="section">
 					<head>(List of Evidence v. <name type="person" key="howeli">Elizabeth How</name>
 						) </head>
-					<figure
-						n="ecca1325r_                                                                                   botm"/>
+					<figure n="ecca1325r"/>
 					<p>other Evidences. ag't. <name type="person" key="howeli">Goody How</name>
 						<name type="person" key="cumdea">Deacon Cummins</name> wife of Topsfield.
 							<name type="person" key="heatho">Tho. HeaSins</name> wife Box'd <name
@@ -27539,6 +27542,7 @@ Comment: --> of Cascoe, and of those
 					<head>( <name type="person" key="chasim">Simon Chapman</name> and <name
 							type="person" key="chamar">Mary Chapman</name> for <name type="person"
 							key="howeli">Elizabeth How</name> ) </head>
+					<figure n="ecca1328r"/>
 					<p>Ispswich <date value="1692-06-25" certainty="unconfirmed">June: th: 25th:
 							1692 </date>
 					</p>
@@ -27635,6 +27639,7 @@ Comment: --> of Cascoe, and of those
 					<head>( <name type="person" key="payedw">Edward Payson</name> for <name
 							type="person" key="howeli">Elizabeth How</name> ) </head>
 					<figure n="ecca1326r"/>
+					<figure n="ecca1326v"/>
 					<p>I <name type="person" key="payedw">Edward Paison</name> of the Town aboves'd
 						tho' present at the place &amp; time afores'd, yet cannot evidence in all
 						the particulars mentioned: Thus much is yet in my remembrance viz't being in
@@ -27673,6 +27678,7 @@ Comment: --> of Cascoe, and of those
 					<head>( <name type="person" key="knojos">Joseph Knowlton</name> and <name
 							type="person" key="knomar">Mary Knowlton</name> for <name type="person"
 							key="howeli">Elizabeth How</name> ) </head>
+					<figure n="ecca1332r"/>
 					<p>from Ipswich <date value="1692-06-27" certainty="unconfirmed">June 27: 1692 </date>
 						<name type="person" key="knojos">Joseph knoulton</name> being acquainte with
 						the wife of <name type="person" key="howjam">James How Jun'r</name> as a
@@ -27797,7 +27803,7 @@ Comment: --> of Cascoe, and of those
 					<head>( <name type="person" key="cumisa2">Isaac Cummings, Jr.</name> v. <name
 							type="person" key="howeli">Elizabeth How</name> ) </head>
 					<figure n="ecca1333r"/>
-					<figure n="ecca1333v "/>
+					<figure n="ecca1333v"/>
 					<p>
 						<date value="1692-06-28" certainty="unconfirmed">June 28th 1692. </date>
 					</p>
@@ -28326,6 +28332,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.126" type="section">
 					<head>( <name type="person" key="colcle">Clement Coldum</name> v. <name
 							type="person" key="hubeli">Elizabeth Hubbard</name>) </head>
+					<figure n="ecca2122r"/>
 					<p>The deposition of <name type="person" key="colcle">Clement Coldum</name> aged
 						60 years or ther about: saith; that on the 29th: of May; 1692; being at
 						Salem Village carrying home <name type="person" key="hubeli">Elizabeth
@@ -28353,6 +28360,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.127" type="section">
 					<head>( <name type="person" key="ketjam">James Kettle</name> v. <name
 							type="person" key="hubeli">Elizabeth Hubbard</name> ) </head>
+					<figure n="ecca2123r"/>
 					<p>the testimony of <name type="person" key="ketjam">James Cetel</name> being of
 						age who testifie and saith i being at <orig reg="doctor">docter</orig>
 						grigses one a sabath day about the last of may in 1692 having some discource
@@ -28655,6 +28663,7 @@ Comment: --> of Cascoe, and of those
 					<head>(Warrant for Arrest of <name type="person" key="jacjoh1">John Jackson,
 							Sr.</name> ; <name type="person" key="jacjoh2">John Jackson, Jr.</name>
 						; and <name type="person" key="howjoh1">John Howard</name> ) </head>
+					<figure n="B32"/>
 					<p><figure n="B32r"/>Essex/ To the Sheriff of the County of Essex or his Deputy/
 						Complaint being made this day to us by <name type="person" key="foseph"
 							>Ephraim foster</name> of Andivor &amp; <name type="person" key="tyljos"
@@ -28717,7 +28726,7 @@ Comment: --> of Cascoe, and of those
 					<head>(Recognizance of Complaint against <name type="person" key="johjac1">John
 							Jackson, Sr.</name> ; <name type="person" key="johjac2">John Jackson,
 							Jr.</name> ; and <name type="person" key="howjoh1">John Howard</name> ) </head>
-					<p><figure n="B40r"/>
+					<p><figure n="B40"/>
 						<name type="person" key="foseph">Ephriam foster</name> , of Andivor. &amp;
 							<name type="person" key="tyljos">Joseph Tyler</name> of Boxford
 						Complaine to their Majesties Justices of the Peace in Salem against <name
@@ -28752,7 +28761,7 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.134" type="examination">
 					<head>(Examination of <name type="person" key="jacjoh1">John Jackson, Sr.</name>
 						) </head>
-					<p><figure n="S032r"/>
+					<p><figure n="S032"/>
 						<name type="person" key="jacjoh1">Jno Jaxon sen'r</name> examined Before
 						their Majest's Justices In salem <date value="1692-08-27"
 							certainty="unconfirmed">August 27th 1692 </date>
@@ -28886,7 +28895,8 @@ Comment: --> of Cascoe, and of those
 				<div2 id="BoySal2-n2.136" type="examination">
 					<head>(Examination of <name type="person" key="johjac2">John Jackson, Jr.</name>
 						) </head>
-					<p><figure n="B22r"/>
+					<figure n="B22"/>
+					<p>
 						<name type="person" key="johjac2">Jno Jaxon</name> was brought into the room
 						the Afflicted persons fell down: &amp; he was asked: Can you tell why: these
 						fall down: he s'd he was bewitched by his Ant How: <!--
@@ -29046,7 +29056,7 @@ Comment: --> about
 						, <name type="person" key="engmar">Mary English</name> , <name type="person"
 							key="parali">Alice Parker</name> , and <name type="person" key="pudann"
 							>Ann Pudeator</name> .)</head>
-					<figure n="H33r"/>
+					<figure n="H33"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Keeper of theire (TORN) </name>
@@ -29237,6 +29247,8 @@ Comment: --> about
 				<div2 id="BoySal2-n2.141" type="indictment">
 					<head>(Indictment v. <name type="person" key="jacgeo1">George Jacobs, Sr.</name>
 						) </head>
+					<figure n="ecca1222r"/>
+					<figure n="ecca1222v"/>
 					<p>Anno Regis et Reginae Willm et Mariae nunc Angliae &amp;c Quarto: Essex: ss </p>
 					<p>The Jurors for our Sovereigne Lord and Lady the King and Queen prsents. That
 							<name type="person" key="jacgeo1">George Jacobs Sen'r</name> of Salem in
@@ -29891,7 +29903,7 @@ Comment: --> did kill her: and Likewise Core
 					<head>(Warrant for Arrest of <name type="person" key="anddan">Daniel
 							Andrew</name> and <name type="person" key="jacgeo2">George Jacobs,
 							Jr.</name> )</head>
-					<figure n="B37r"/>
+					<figure n="B37"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Marshall Generall or Lawfull dept of
@@ -29981,6 +29993,7 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.162" type="section">
 					<head>( <name type="person" key="derjoh">John DeRich</name> v. <name
 							type="person" key="jacmar">Margaret Jacobs</name> ) </head>
+					<figure n="ecca2118r"/>
 					<p>The testomeny of <name type="person" key="derjoh">John derech</name> Eaged
 						about sixten years testifieth and Sayeth that <name type="person"
 							key="jacmar">Margat Jacobs</name> Came and <orig reg="afflicted"
@@ -30111,6 +30124,7 @@ Comment: --> did kill her: and Likewise Core
 							<name type="person" key="jacgeo2">George Jacobs, Jr.</name> , <name
 							type="person" key="bucsar">Sarah Buckley</name> , <name type="person"
 							key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="ecca1270r"/>
 					<figure n="ecca1270v"/>
 					<opener>
 						<dateline>
@@ -30168,6 +30182,8 @@ Comment: --> did kill her: and Likewise Core
 					<p>Essex in the Province of the Massachusetts Bay in New England &rsqb; Anno R.
 						Rs &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c'a Quarto Anno'qe
 						Domini 1692 </p>
+					<figure n="ecca1271r"/>
+					<figure n="ecca1271v"/>
 					<p>The Juriors for our Sov'r Lord and Lady the King and Queen doe &Pbar;sent
 						That <name type="person" key="jacreb">Rebeccah Jacobs</name> of Salem
 						Villadge in the County of Essex afors'd husbandman In the Yeare aforesaid in
@@ -30188,6 +30204,7 @@ Comment: --> did kill her: and Likewise Core
 					<p>Essex in the Province of the Massachusett Bay in New England ss// &rsqb; Anno
 						R Rs &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c'a Quarto Anno'qe
 						Domini 1692 </p>
+					<figure n="MA098r"/>
 					<p>The Juriors for our Sov'r Lord &amp; Lady the King and Queen doe present That
 							<name type="person" key="jacreb">Rebechah Jacobs</name> Wife of <name
 							type="person" key="jacgeo2">Georg[e] Jacobs</name> of Salem Village --
@@ -30222,6 +30239,8 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.168" type="section">
 					<head>(<name type="person" key="hubeli"> Elizabeth Hubbard</name> v. <name
 							type="person" key="jacreb">Rebecca Jacobs</name> ) </head>
+					<figure n="ecca1272r"/>
+					<figure n="ecca1272v"/>
 					<p>The deposistion of <name type="person" key="hubeli">Eliz Hubbred </name> who
 						testifieth and saith that one the begining of may 1692 I was <orig
 							reg="afflicted">afflected</orig> by <name type="person" key="jacreb"
@@ -30358,7 +30377,7 @@ Comment: --> did kill her: and Likewise Core
 					<head>(Warrant for Arrest of <name type="person" key="joheli1">Elizabeth
 							Johnson, Sr.</name> and <name type="person" key="johabi">Abigail
 							Johnson</name> )</head>
-					<figure n="B34r"/>
+					<figure n="B34"/>
 					<opener>
 						<dateline>
 							<name type="recipient">Essex:/ To the Constable </name>
@@ -30421,7 +30440,7 @@ Comment: --> did kill her: and Likewise Core
 					<head>(Examination of <name type="person" key="joheli1">Elizabeth Johnson</name>
 						)</head>
 					<figure n="eia24-8r"/>
-					<figure n="eia8v"/>
+					<figure n="eia24-8v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">1692 <name type="person" key="joheli1">Eliz'th
@@ -30589,6 +30608,8 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="BoySal2-n2.174" type="examination">
 					<head>(Examination of <name type="person" key="joheli2">Elizabeth Johnson,
 							Jr.</name> ) </head>
+					<figure n="MA033r"/>
+					<figure n="MA033v"/>
 					<p>
 						<name type="person" key="joheli2">Eliz Jonsons: Jun'r</name> Confession:
 							<date value="1692-08-11" certainty="unconfirmed">August: the 11th 1692
@@ -30896,6 +30917,8 @@ Comment: --> did kill her: and Likewise Core
 				</div2>
 				<div2 id="BoySal2-n2.178" type="indictment">
 					<head>(Indictment v. <name type="person" key="johste">Stephen Johnson</name> ) </head>
+					<figure n="MA042r"/>
+					<figure n="MA042v"/>
 					<p>Province of the Massachusets Bay In New England Essex ss &rsqb;
 						An&nbar;&obar; RRs &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c Quarto
 						-- Ano'qe Do&mbar; 1692 </p>
@@ -31058,7 +31081,8 @@ book">Devills
 				<div2 id="BoySal2-n2.181" type="complaint">
 					<head>(Complaint v. <name type="person" key="lacmar1">Mary Lacey Sr.</name> ,
 						and <name type="person" key="lacmar2">Mary Lacey, Jr.</name> ) </head>
-					<p><figure n="B44r"/>
+					<figure n="B44"/>
+					<p>
 						<name type="person" key="baljos">Joseph Ballard</name> of Andover husbandman
 						Complaineth of <name type="person" key="lacmar1">Mary Lacy</name> wife of
 							<name type="person" key="laclaw">Lawrence Lacy</name> of Andover and of
@@ -31102,6 +31126,8 @@ book">Devills
 				<pb n="514"/>
 				<div2 id="BoySal2-n2.182" type="examination">
 					<head>(Examination of <name type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
+					<figure n="ecca2051r"/>
+					<figure n="ecca2051v"/>
 					<p>
 						<date value="1692-07-21" certainty="unconfirmed">21 July 1692. </date> A
 						part of <name type="person" key="lacmar1">Goody Laceyes</name> 2d
@@ -31160,6 +31186,7 @@ book">Devills
 				<div2 id="BoySal2-n2.183" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
 							type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
+					<figure n="ecca2050r"/>
 					<p>
 						<name type="person" key="hubeli">Eliz: Hubert </name> affirmd to the grand
 						Inquest: that she hath: seen <name type="person" key="lacmar">Mary lascy
@@ -31185,6 +31212,7 @@ book">Devills
 				<div2 id="BoySal2-n2.184" type="section">
 					<head>( <name type="person" key="lewmer">Mercy Lewis</name> v. <name
 							type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
+					<figure n="ecca2050r"/>
 					<p>
 						<name type="person" key="lewmer">Mercy lewis:</name> affirm[e]d to the grand
 						Inquest: that s[h]e saw: <name type="person" key="lacmar1">Mary Lascy
@@ -31206,6 +31234,8 @@ book">Devills
 				<div2 id="BoySal2-n2.185" type="section">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name
 							type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
+					<figure n="ecca2050r"/>
+					<figure n="ecca2050v"/>
 					<p>
 						<name type="person" key="warmar">Mary Warin</name> affirmd to the gran
 						Inquest: that she saw <name type="person" key="lacmar1">Mary Lascy</name>
@@ -31303,7 +31333,7 @@ book">Devills
 				<div2 id="BoySal2-n2.188" type="warrant">
 					<head>(Warrant for Arrest of <name type="person" key="lacmar2">Mary Lacey,
 							Jr.</name> )</head>
-					<figure n="B35r"/>
+					<figure n="B35"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To: The Sherriffe of the County of Essex or
@@ -31996,6 +32026,7 @@ Comment: --> shape told her, that <name type="person"
 				<div2 id="BoySal2-n2.193" type="recognizance">
 					<head>(Recognizance for <name type="person" key="lacmar2">Mary Lacey, Jr.</name>
 						) </head>
+					<figure n="MA057r"/>
 					<p>Know all men by these presents that I <name type="person" key="faufra"
 							>Francis Faulkoner</name> of andover in the County of Essex in
 						newengland husbandman &amp; I [Francis] <name type="person" key="barjoh"
