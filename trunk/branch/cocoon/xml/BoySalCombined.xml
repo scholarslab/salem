@@ -25796,8 +25796,6 @@
 					<head>(Examination of <name type="person" key="hobabi">Abigail Hobbs</name> ,
 							<date value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head>
 					<p>
-					<figure n="H54A"/>
-					<figure n="H54B"/>
 						The Examination of <name type="person"
 							key="hobabi">Abigail Hobbs</name>, at Salem Village, <date
 							value="1692-04-19" certainty="confirmed">19 April, 1692, </date> by
@@ -32166,7 +32164,8 @@ Comment: --> shape told her, that <name type="person"
 					<head>(Testimony of <name type="person" key="brawil">William Bradford</name> ,
 							<name type="person" key="brarac">Rachel Bradford</name> , and <name
 							type="person" key="raywil2">William Rayment, Jr.</name> ) </head>
-					<p><figure n="H38r"/>(TORN) <name type="person" key="brawil1">william
+					<figure n="H38"/>
+					<p>(TORN) <name type="person" key="brawil1">william
 							Bradford</name> &amp; <name type="person" key="brarac">Rachell his wife
 						</name>
 					</p>
@@ -32433,6 +32432,8 @@ Comment: --> shape told her, that <name type="person"
 
 				<div2 id="BoySal2-n2.199" type="examination">
 					<head>(Examination of <name type="person" key="marmar1">Mary Marston</name> ) </head>
+					<figure n="MA047r"/>
+					<figure n="MA047v"/>
 					<p>Before <name type="person" key="gidbar">Maj'r Gidney</name>
 						<name type="person" key="hawjoh">Mr Hauthorn</name> &amp; <name
 							type="person" key="higjoh">Cap'n Higginson</name>
@@ -32559,7 +32560,9 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.199b" type="examination">
 					<head>(Examination of <name type="person" key="marmar1">Mary
 						Marston</name>)</head>
-					<p><figure n="eia27r"/><figure n="eia27v"/>August 29th 1692 Before <name
+					<figure n="eia24-7r"/>
+					<figure n="eia24-7v"/>
+					<p> August 29th 1692 Before <name
 							type="person" key="gidbar">Majr Gedney</name>
 						<name type="person" key="harjoh">Mr Hathorne</name>
 						<name type="person" key="corjoh">Mr Corwin</name> &amp; <name type="person"
@@ -32728,6 +32731,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							<name type="person" key="duslyd">Lydia Dustin</name> , <name
 							type="person" key="hoador">Dorcas Hoar</name> , and <name type="person"
 							key="morsar">Sarah Morey</name> ) </head>
+					<figure n="ecca1177r"/>
+					<figure n="ecca1177v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To. the Keeper of theire Majests Goale </name>
@@ -32891,6 +32896,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.203" type="examination">
 					<head>(Examination of <name type="person" key="marsus">Susannah Martin</name> --
 						Second Version) </head>
+					<figure n="ecca1175r"/>
 					<p>The Examination of <name type="person" key="marsus">Susannah Martin.</name>
 						<date value="1692-05-02" certainty="confirmed">2. May. <hi rend="underline"
 								>1692 </hi>
@@ -33003,7 +33009,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>(Indictment v. <name type="person" key="marsus">Susannah Martin</name> ,
 						No. 1) </head>
 					<figure n="ecca1173r"/>
-					<figure n="ecca1173v  "/>
+					<figure n="ecca1173v"/>
 					<p>Anno Regis et Reginae Willm et Mariae . nunc Angliae &amp;c Quarto Essex ss. </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King and Queen prsents That
 							<name type="person" key="marsus">Susanna Martin</name> of Amsbury in the
@@ -33046,6 +33052,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.205" type="indictment">
 					<head>(Indictment v. <name type="person" key="marsus">Susannah Martin</name> ,
 						No. 2.) </head>
+					<figure n="ecca1172r"/>
+					<figure n="ecca1172v"/>
 					<p>Anno Regis et Reginae Willm et Mariae : nunc Angliae &amp;c Quarto Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King and Queen: prsents
 						That <name type="person" key="marsus">Susanah Martin</name> of Amsbury in
@@ -33168,6 +33176,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.207" type="section">
 					<head>( <name type="person" key="wilabi">Abigail Williams</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1178r"/>
 					<p>The Testimony of <name type="person" key="wilabi">Abigail Williams</name>
 						witnesseth &amp; saith that she hath severall times seen, &amp; been
 						afflicted by the apparition of <name type="person" key="marsus">Susannah
@@ -33254,7 +33263,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.209" type="section">
 					<head>( <name type="person" key="prejoh">John Pressey</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
-					<figure n="ecca1182v.tif"/>
+					<figure n="ecca1182r"/>
+					<figure n="ecca1182v"/>
 					<p>The Testamony of <name type="person" key="prejoh">John Pressy</name> of
 						Amsbury aged 53 years or therabouts takn before me at my house at Salsbury
 						the <date value="1692-05-11" certainty="confirmed">eleventh day of may Ano:
@@ -33462,7 +33472,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="rinjos">Joseph Ring</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> and <name
 							type="person" key="hartho">Thomas Hardy</name> ) </head>
-					<figure n="ecca1181r_bottom"/>
+					
 					<p>The deposion of <name type="person" key="rinjos">Joseph Ring</name> at
 						Salsbury aged:27: years being sworne sayth That about the Latter end of
 						september Last being in the wood with his brother <name type="person"
@@ -33625,8 +33635,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.216" type="section">
 					<head/>
-					<figure n="ecca1186r_top"/>
-					<figure n="ecca1186r_bm"/>
+					
 					<figure n="ecca1186-2"/>
 
 					<p>
@@ -33694,8 +33703,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						of all that is written on both sides of this paper <date value="1692-05-16"
 							certainty="confirmed">may the 16th 1692</date>
 					</p>
-					<p>before me <name type="person" key="pikrob">*Robt Pike .0000000.0 . ...0 .. .
-							. 0.....0......0000.00.0.</name> Asist </p>
+					<p>before me <name type="person" key="pikrob">*Robt Pike
+						</name> Asist </p>
 					<p>Jurat in Curia </p>
 					<p>
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
@@ -33706,6 +33715,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.217" type="section">
 					<head>( <name type="person" key="peaber">Bernard Peach</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1189r"/>
+					<figure n="ecca1189v"/>
 					<p>The deposion of <name type="person" key="peaber">Barnard peache</name> aged
 						42 or ther abouts testifyeth That about ten years ago this deponant living
 						with <name type="person" key="osgwil">w'm Osgood</name> of Salsbury he s'd
@@ -33734,6 +33745,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.218" type="section">
 					<head>( <name type="person" key="alljoh">John Allen</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1188r"/>
+					<figure n="ecca1188v"/>
 					<p>The deposion of Left <name type="person" key="alljoh">John Allen</name> of
 						Salsbury aged 45 years testifying sayth That in or about the year [] this
 						deponent was haling timber for <name type="person" key="cargeo">Mr Georg
@@ -33943,6 +33956,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.224" type="section">
 					<head>( <name type="person" key="puttho">Thomas Putnam</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1193r"/>
 					<p>The deposistion of <name type="person" key="puttho">Tho. putnam</name> agged
 						40 years &amp; <name type="person" key="putedw">#[Ed putnam]</name> agged 38
 						yers who testifie and say that we have ben conversant with the <orig
@@ -33983,6 +33997,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.225" type="section">
 					<head>( <name type="person" key="ingnat">Nathaniel Ingersoll</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1193r"/>
+					<figure n="ecca1193v"/>
 					<p>
 						<name type="person" key="ingnat">Nathaniel Ingrsoll</name> testifieth to all
 						the above &amp; both of them do say on Oath that they beleive it is done by
@@ -34004,6 +34020,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							type="person" key="ingnat">Nathaniel Ingersoll</name> and <name
 							type="person" key="puttho">Thomas Putnam</name> v. <name type="person"
 							key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1194r"/>
+					<figure n="ecca1194v"/>
 					<p>The Deposition of <name type="person" key="parsam">Sam: Parris</name> aged
 						about. 39 years, &amp; <name type="person" key="ingnat">Nathanael
 							Ingersoll</name> aged about fifty &amp; eight yeares and also <name
@@ -34048,6 +34066,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.227" type="section">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1196r"/>
+					<figure n="ecca1196v"/>
 					<p>The Deposistion of <name type="person" key="hubeli">Elizabeth Hubburd </name>
 						agged about: 17: years: who testifieth and saith that I have often seen the
 							<orig reg="Apparition">Apperishtion</orig> of <name type="person"
@@ -34085,6 +34105,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.228" type="section">
 					<head>(<name type="person" key="lewmer">Mercy Lewis</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1195r"/>
+					<figure n="ecca1195v"/>
 					<p>The Deposistion of <name type="person" key="lewmer">Mircy Lewes</name> aged
 						about 19 years who testifieth and sath that in the latter end of April 1692
 						there appeared to me the <orig reg="Apparition">Apperishtion</orig> of
@@ -34124,6 +34146,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
 					<figure n="ecca1198r"/>
+					<figure n="ecca1198v"/>
 					<p>The Deposistion of <name type="person" key="putann2">Ann putnam jun'r</name>
 						who testifieth and saith sume time in April 1692 there appered to me the
 							<orig reg="Apparition">Apperishtion</orig> of an old short woman that
@@ -34239,6 +34262,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.232" type="section">
 					<head>( <name type="person" key="atksar">Sarah Atkinson</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1200r"/>
 					<p>
 						<name type="person" key="atksar">Sarah Attkinson</name> aged forty Eight
 						years or thereabouts testifieth thatt Some time in the Spring of the year
@@ -34269,6 +34293,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.233" type="section">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name
 							type="person" key="marsus">Susannah Martin</name> ) </head>
+					<figure n="ecca1197r"/>
+					<figure n="ecca1197v"/>
 					<p>The Deposistion of <name type="person" key="bibsar">Sarah viber</name> agged
 						about 36 years: who testifieth and saith that on the 2: May. 1692 the <orig
 							reg="Apparition">Apperishtion</orig> of <name type="person" key="marsus"
@@ -34321,6 +34347,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.234" type="section">
 					<head>(Account of <name type="person" key="mormar">Mary Morey</name> -- Case of
 							<name type="person" key="morsar">Sarah Morey</name> ) </head>
+					<figure n="MA150r"/>
+					<figure n="MA150v"/>
 					<p>To the honered Committy Now Setting apinted by The Ginerall Court The Humbell
 						pition of <name type="person" key="mormar">Mary Morey</name> Widdow of <name
 							type="person" key="morpet">Peter Morey </name> of bavrly desert [sours]
@@ -34864,7 +34892,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				</div2>
 				<div2 id="BoySal2-n2.243" type="section">
 					<head>(Petition for <name type="person" key="nurreb">Rebecca Nurse</name> ) </head>
-					<p><figure n="H40r"/>We whose nams Are heareunto subscribed being desired by
+					<figure n="H40"/>
+					<p>We whose nams Are heareunto subscribed being desired by
 							<name type="person" key="nurfra">goodman Nurse</name> to declare what we
 						knewe concerning his wives conversation for time past: we cane testyfie to
 						all whom it may concerne that we have knowne her for: many years and
@@ -34996,8 +35025,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.244" type="section">
 					<head>( <name type="person" key="putnat">Nathaniel Putnam, Sr.</name> for <name
 							type="person" key="nurreb">Rebecca Nurse</name> ) </head>
-					<p><figure n="H39r"/>
-						<name type="person" key="putnat">Nathaniell putnam Senor </name> being
+					<figure n="H39"/>
+					<p><name type="person" key="putnat">Nathaniell putnam Senor </name> being
 						desired [TORN] by <name type="person" key="nurfra">francis nurse
 							sen'or</name> to give &amp; informa [TORN] of what i could say
 						concerning his wifeS [TORN] and conversation: if the above Sayd [TORN] known
@@ -35064,6 +35093,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="putjoh1">John Putnam, Sr.</name> and <name
 							type="person" key="putreb">Rebecca Putnam</name> for <name type="person"
 							key="nurreb">Rebecca Nurse</name> ) </head>
+					<figure n="ecca2125r"/>
 					<p>the testemony of <name type="person" key="putjoh1">John putnam </name>: sen
 						and <name type="person" key="putreb">rebecke</name> his wife saith that our
 						son in law <name type="person" key="fuljoh">John Fuller:</name> and our
@@ -35083,6 +35113,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="ingnat">Nathaniel Ingersoll</name> and <name
 							type="person" key="inghan">Hannah Ingersoll</name> v. <name
 							type="person" key="nurreb">Rebecca Nurse</name> ) </head>
+					<figure n="ecca2124r"/>
 					<p>The Deposistion of <name type="person" key="ingnat">Nathaniell
 							Ingersoll</name> and <name type="person" key="inghan">Hannah</name> his
 						wife who: testife and say that we ware conversant with <name type="person"
@@ -35114,6 +35145,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name
 							type="person" key="nurreb">Rebecca Nurse</name> ) </head>
 					<figure n="ecca1081r"/>
+					<figure n="ecca1081v"/>
 					<p>The Deposistion of <name type="person" key="putann2">Ann putnam junr </name>
 						who testifieth and saith that on the 13'th march 1691/92 I saw the <orig
 							reg="Apparition">Apperishtion</orig> of <name type="person" key="nurreb"
@@ -35417,6 +35449,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 				<div2 id="BoySal2-n2.257" type="section">
 					<head>( <name type="person" key="holsar">Sarah Holton</name> v. <name
 							type="person" key="nurreb">Rebecca Nurse</name> ) </head>
+					<figure n="ecca1084r"/>
+					<figure n="ecca1084v"/>
 					<p>The Deposition of <name type="person" key="holsar">[Sarah Holton]</name>
 						Relique of <name type="person" key="holben">Benjamine Holton</name> Deceased
 						who testifieth and saith that about this time three years my deare and
@@ -35463,6 +35497,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							key="closar">Sarah Cloyce</name> , <name type="person" key="bisbri"
 							>Bridget[?] Bishop</name> , and <name type="person" key="careli2"
 							>Elizabeth Cary</name> ) </head>
+					<figure n="ecca1083r"/>
+					<figure n="ecca1083v"/>
 					<p>The Deposistion of <name type="person" key="putann2">Ann putnam</name> the
 						wife of <name>Thomas putnam </name> who testifieth and saith that on the
 						first day of June 1692. the <orig reg="Apparition">Apperishtion</orig> of
@@ -35504,6 +35540,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							key="nurreb">Rebecca Nurse</name> , <name type="person" key="easmar"
 							>Mary Easty</name> , and <name type="person" key="closar">Sarah
 							Cloyce</name> ) </head>
+					<figure n="ecca1082r"/>
+					<figure n="ecca1082v"/>
 					<p>The Deposistion of <name type="person" key="putjoh2">John putnam </name>
 						weaver: and <name type="person" key="puthan">Hannah </name> his wife who
 						testifieth and saith that our child which dyed about the middle of April
@@ -35596,6 +35634,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="tarjoh">John Tarbell</name> and Samuel Nurse
 						<!-- Comment: --> for <name type="person" key="nurreb">Rebecca Nurse</name>
 						) </head>
+					<figure n="ecca1087r"/>
+					<figure n="ecca1087v"/>
 					<p>
 						<name type="person" key="tarjoh">John tarball</name> being at the house of
 							<name type="person" key="puttho">thomas putnams</name> upon the: 28 day
@@ -35628,6 +35668,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<head>( <name type="person" key="prereb">Rebecca Preston</name> and <name
 							type="person" key="tarmar">Mary Tarbell</name> for <name type="person"
 							key="nurreb">Rebecca Nurse</name> ) </head>
+					<figure n="ecca1085r"/>
 					<p>We whose nams are under written: can testiefie if cald to it that goodde nurs
 						have bene trobled with an Infirmity of body for many years which the Juree
 						of women seme to be Afraid it should be something elce. </p>
@@ -35767,7 +35808,8 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							type="person" key="pasmar">Margery Pasque</name> v. Rebecca Nurse, <name
 							type="person" key="closar">Sarah Cloyce</name> , and <name type="person"
 							key="blamar">Mary Black</name> ) </head>
-					<p><figure n="B21r"/>The Deposition of <name type="person" key="stesar">Sarah
+					<figure n="B21"/>
+					<p>The Deposition of <name type="person" key="stesar">Sarah
 							Stephens </name> aged [] &amp; <name type="person" key="pasmar">Margery
 							Pasque </name> aged [] testify that the 21 June Last past being improved
 						in the holding of <name type="person" key="reajem">Jemima Rea</name>
