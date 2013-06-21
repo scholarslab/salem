@@ -40471,6 +40471,7 @@ Comment: several occurances in this passage --> w'o called to said
 							type="person" key="waljoh2">Jonathan Walcott</name> , Jr. v. <name
 							type="person" key="prosar">Sarah Proctor</name> ) </head>
 					<figure n="ecca1299r"/>
+					<figure n="ecca1299v"/>
 					<p>The Deposetion of <name type="person" key="furdav">David Furneax </name> Aged
 						23 or their abouts and <name type="person" key="waljoh2">Jonathan Walcott
 							Junior </name> aged 21: who testifieth and saith that on the 20'th of
@@ -41147,6 +41148,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.3" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1264r"/>
 					<p>
 						<name type="person" key="pudann">An Puddeater: </name> examined before the
 						Majestrates of Salem <date value="1692-07-02" certainty="unconfirmed">July
@@ -41250,6 +41252,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.5" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="pudann">Ann Pudeator</name>) </head>
+					<figure n="ecca1260r"/>
+					<figure n="ecca1260v"/>
 					<p>Essex in the Province of the Massachussetts Bay In New England ss ] </p>
 					<p>Annoq'e R R's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Do[mbar ] 1692 // </p>
@@ -41282,6 +41286,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.6" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="chusar">Sarah Churchill</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1265r"/>
 					<p>
 						<name type="person" key="chusar">Sarah Churchel: </name> affirmd: to: the
 						Jury of inquest: that <name type="person" key="pudann">Ann Puddeatee:
@@ -41299,6 +41304,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.7" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name type="person" key="pudann">Ann Pudeator</name>) </head>
+					<figure n="ecca1265r"/>
 					<p>
 						<name type="person" key="warmar">Mary Warin</name> upon her oath: that she
 						hath taken affirms: to the Jury of inquest that <name type="person" key="pudann">Ann Puddeater </name> hath often: afflicted me: by biting
@@ -41322,6 +41328,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.8" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1265r"/>
 					<p>
 						<name type="person" key="hubeli">Eliz Hubberd</name> affirmd: upon: the oath
 						she hath taken thatt: she hath seen: <name type="person" key="pudann">Ann:
@@ -41342,6 +41349,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.9" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1265r"/>
 					<p>
 						<name type="person" key="putann2">An Putnam</name> affirmed: upon: her oath:
 						to: the Jury of inquest: that: she: hath seen <name type="person" key="pudann">Ann Puddeater:</name> afflict <name type="person" key="warmar">Mary Warin:</name>
@@ -41358,8 +41366,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="707"/>
 				<div2 id="BoySal3-n3.10" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
-					<p><figure n="H44r"/>
-						<figure n="H44v"/>
+					<p><figure n="ecca1265r"/>
 						<name type="person" key="bibsar">Sarah Vibber</name>: upon: her: oath
 						affirmed to the Jury of inquest that shee: hath seen: <name type="person" key="pudann">An Puddeater </name> afflict: <name type="person" key="warmar">Mary Warin:</name>
 						<name type="person" key="walmar">Mary Walcot</name> &amp; <name type="person" key="putann2">An Putnam:</name> both at the time of her
@@ -41375,6 +41382,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.11" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1265r"/>
+					<figure n="ecca1265v"/>
 					<p>
 						<name type="person" key="warmar">Mary Walcot: </name> upon oath affirmd to
 						the Jury of inquest: that: she hath seen <name type="person" key="pudann">An
@@ -41409,6 +41418,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.12" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="piksam">Samuel Pickworth</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1266r"/>
 					<p>The testimony of <name type="person" key="piksam">Samuall Pikworth</name>
 						Whou testifieth that a bout six weckes agoo: I this deponant was coming
 						along salim strete [bbar ]tween ann pudeaters hous and Captin higison
@@ -41439,6 +41449,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.13" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1266v"/>
 					<p>(Reverse) </p>
 					<p><date value="1692-09-07" certainty="confirmed">September the 7. 92</date>
 						<name type="person" key="pudann">ann Putnam</name> afarmid to the grand
@@ -41453,6 +41464,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.14" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="besjoh1">John Best, Sr.</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1268r"/>
+					<figure n="ecca1268v"/>
 					<p>The testimony of <name type="person" key="besjoh1">Jno Best Senior</name>
 						aged about 48 years Testifieth &amp; saith that some years Last past
 						that I this Deponat did often hear my wife saye that <name type="person" key="pudann">Ann pudeater </name> would not Lett her alone untill she
@@ -41486,6 +41499,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.15" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="besjoh2">John Best, Jr.</name> v. <name type="person" key="pudann">Ann Pudeator</name> ) </head>
+					<figure n="ecca1269r"/>
+					<figure n="ecca1269v"/>
 					<p>The testimony of <name type="person" key="besjoh2">John best Junear</name>
 						hou testifieth uppon his oath before the grand Inquest that his Mother did
 						severall tims in har siknis complain of <name type="person" key="pudann">ann
@@ -41510,7 +41525,7 @@ Comment: several occurances in this passage --> w'o called to said
 					</closer>
 				</div2>
 				<div2 id="BoySal3-n3.16" type="section" org="uniform" sample="complete" part="N">
-					<head>(Petition of <name type="person" key="pudann">Ann Pudeator</name> ) </head><figure n="ecca1267r"/><figure n="ecca1267v  "/>
+					<head>(Petition of <name type="person" key="pudann">Ann Pudeator</name> ) </head><figure n="ecca1267r"/><figure n="ecca1267v"/>
 					<p>The humble Petition of <name type="person" key="pudann">Ann Poodeater </name>
 						unto the honoured Judge and Bench now Setting in Judicature in Salem humbly
 						Sheweth: </p>
@@ -41599,6 +41614,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.18" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="reewil">Wilmott Reed</name> , No.
 						1) </head>
+					<figure n="ecca2005r"/>
+					<figure n="ecca2005v"/>
 					<p>Essex in the Province of the Massachusetts Bay in New England ss ] </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Annoq'e Domini 1692 </p>
@@ -41778,6 +41795,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.23" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name type="person" key="reewil">Wilmott Reed</name> ) </head>
+					<figure n="ecca2010r"/>
 					<p>The deposistion of <name type="person" key="warmar">mary warren</name> who
 						testifieth and saith that I cannot say that <name type="person" key="reewil">willmott Redd </name> ever hurt me but I saw <name type="person" key="reewil">willmott Redd </name> on the 31 may 1692 most greviously
 							<orig reg="afflict">afflect</orig> and torment <name type="person" key="walmar">mary walcott</name>
@@ -41857,6 +41875,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="717"/>
 				<div2 id="BoySal3-n3.26" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="pitcha">Charity Pitman</name> v. <name type="person" key="reewil">Wilmott Reed</name> ) </head>
+					<figure n="ecca2014r"/>
+					<figure n="ecca2014v"/>
 					<p>The Testimony of <name type="person" key="pitcha">Charity Pitman</name> of
 						Marblehead. </p>
 					<p>This deponent aged twenty nine years affirms, that about five years agoe,
@@ -41888,6 +41908,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.27" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="dodsar">Sarah Dodd</name> v. <name type="person" key="reewil">Wilmott Reed</name> ) </head>
+					<figure n="ecca2015r"/>
+					<figure n="ecca2015v"/>
 					<p>
 						<name type="person" key="dodsar">Sarah Dod:</name> Affirmed:upon her oath to
 						the grand Inquest: that: she heard <name type="person" key="simmsm">Mrs
@@ -41909,6 +41931,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="718"/>
 				<div2 id="BoySal3-n3.28" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="galamb">Ambrose Gale</name> v. <name type="person" key="reewil">Wilmott Reed</name> ) </head>
+					<figure n="ecca2015r"/>
 					<p>Mr <name type="person" key="galamb">Ambros Gale:</name> Affirmd that: <name type="person" key="simmsm">Mrs Simse </name> was:abo't that time: or
 						soon after so: <orig reg="afflicted">aflicted</orig>: as was then Reported
 							<date value="1692-09-14" certainty="confirmed">Septem'r 14, 1692 </date>
@@ -41942,6 +41965,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.29" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="ricsar">Sarah Rice</name>
 						) </head>
+					<figure n="ecca2108r"/>
+					<figure n="ecca2108v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Constables </name>
@@ -41977,6 +42002,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="720"/>
 				<div2 id="BoySal3-n3.30" type="section" org="uniform" sample="complete" part="N">
 					<head>(Petition of <name type="person" key="ricnic">Nicholas Rice</name> ) </head>
+					<figure n="MA063r"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the honoured Generall Court now Sitting </name>
@@ -42039,6 +42065,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.31" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="roosus">Susannah
 						Roots</name> ) </head>
+					<figure n="ecca1305r"/>
+					<figure n="ecca1305v"/>
 					<p>Salem <date value="1692-05-21" certainty="confirmed">May 21-1692 </date>
 					</p>
 					<p>To the Constables of Beverly. </p>
@@ -42129,7 +42157,7 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.33" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="salhen">Henry Salter</name> ) </head>
-					<p><figure n="S000r"/><figure n="S000v"/>The Examination of <name type="person" key="salhen">Henry Salters. </name> Taken before <name type="person" key="hawjoh">Jno Hauthorn </name> Esq'r &amp; other their Majesties
+					<p><figure n="S026A"/><figure n="S026B"/>The Examination of <name type="person" key="salhen">Henry Salters. </name> Taken before <name type="person" key="hawjoh">Jno Hauthorn </name> Esq'r &amp; other their Majesties
 						Justices. </p>
 					<p>In the tyme of his Examination He struck down with his eye <name type="person" key="warmar"> Warrin</name>
 						<name type="person" key="walmar">Mary Walcot</name>
@@ -42249,6 +42277,7 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.35" type="recognizance" org="uniform" sample="complete" part="N">
 					<head>(Recognizance for <name type="person" key="sawjoh">John Sawdy</name> ) </head>
+					<figure n="MA055r"/>
 					<p>Know all Men By these presents that I <name type="person" key="wriwal">Walter
 							Wright</name> Weaver of Andover in the Cownty of Essex in New England
 						and I <name type="person" key="faufra">Francis Faukner</name> of the Same
@@ -42323,6 +42352,8 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.36" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wycfra">Frances Wycom</name> v. <name type="person" key="scomar">Margaret Scott</name> ) </head>
+					<figure n="ecca2094r"/>
+					<figure n="ecca2094v"/>
 					<p>The deposistion of <name type="person" key="wycfra">frances wycum</name> who
 						testifyeth and saith that quickly after the first court at [Salem] about
 							<orig reg="witchcraft">wicthcraft</orig>
@@ -42349,6 +42380,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.37" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="nelphi">Phillip Nelson</name> and <name type="person" key="nelsar">Sarah Nelson</name> v. <name type="person" key="scomar">Margaret Scott</name> ) </head>
+					<figure n="ecca2095r"/>
 					<p>#[also] <name type="person" key="nelphi">phillip Nellson </name> and <name type="person" key="nelsar">Sarah</name> his wife doe testifie and say
 						that for Two or three years be fore #[the said] <name type="person" key="shirob">Robert Shilleto </name> dyed we have often hard him
 						complaining of <name type="person" key="scomar">margerit Scott </name> for
@@ -42623,6 +42655,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.38" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="seaann">Ann Sears</name> ,
 							<name type="person" key="carbet1">Bethiah Carter, Sr.</name> , and <name type="person" key="carbet2">Bethiah Carter, Jr.</name> ) </head>
+					<figure n="ecca2100r"/>
 					<p>Whereas Complaint hath benne this day Exhibited (before us) by <name type="person" key="puttho">Thomas putnam</name> and<name type="person" key="putjoh2"> John putnam </name> Jun'r both of Salem Village Yeoman on
 						behalfe of theire Majesties Against <name type="person" key="seaann">Ann
 							Seeres </name> the wife of <name type="person" key="seajoh">John Seeres
@@ -42717,6 +42750,7 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.40" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="mourob">Robert Moulton</name> v. <name type="person" key="shesus">Susannah Sheldon</name>) </head>
+					<figure n="ecca2128r"/>
 					<p>the testimony of <name type="person" key="mourob">Robart Moulton sener</name>
 						who testifith and saith that I waching with <name type="person" key="shesus">Susannah sheldon</name> sence she was afflicted I heard her say that
 						the witches halled her Upone her bely through the yeard like a snacke and
@@ -42748,6 +42782,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.41" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="somabi">Abigail
 						Somes</name> ) </head>
+					<figure n="ecca2103r"/>
+					<figure n="ecca2103v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To Constable <name type="person" key="osgpet">peter Osgood</name>
@@ -42889,7 +42925,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.43" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name type="person" key="somabi">Abigail Somes</name> ) </head>
-					<p><figure n="S028r"/>The Deposition of <name type="person" key="warmar">Mary
+					<p><figure n="S028"/>The Deposition of <name type="person" key="warmar">Mary
 							Warren</name> who Testifieth &amp; saith that <name type="person" key="somabi">Abigaill Somes </name> of Gloster hath often <orig reg="afflicted">aflickted</orig> mee by bitting pricking &amp;
 						pinching of mee &amp; halling me about under the Table &amp; s'd
 							<name type="person" key="somabi">Somes </name> s'd she had been bed
@@ -43148,7 +43184,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.48" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="parjoh">John Parker</name> and <name type="person" key="eatjos2">Josiah Eaton</name> v. <name type="person" key="taymar">Mary Taylor</name> ) </head>
-					<p><figure n="S043r"/>Sworne in Court [ </p>
+					<p><figure n="S043"/>Sworne in Court [ </p>
 					<p>
 						<name type="person" key="parjoh">Jno Parker</name>
 						<lb/>
@@ -43216,6 +43252,7 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.50" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant vs. <name type="person" key="tituba">Tituba</name> and <name type="person" key="osbsar">Sarah Osborne</name> ) </head>
+					<figure n="ecca1033r"/>
 					<p>Salem <date value="1692-02-29" certainty="confirmed">febr' the 29'th day.
 							1691/2 </date>
 					</p>
@@ -43261,6 +43298,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="746"/>
 				<div2 id="BoySal3-n3.51" type="section" org="uniform" sample="complete" part="N">
 					<head>(Officer's Return) </head>
+					<figure n="ecca1033v"/>
 					<p>according to this warrant I have apprehended the persons with in mentioned
 						and have brought them accordingly and have mad diligent sarch for Images and
 						such like but can find non </p>
@@ -43321,6 +43359,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.53" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="tituba">Tituba</name> ) </head>
+					<figure n="ecca1011v"/>
 					<p>The Examination of <name type="person" key="tituba">Titibe </name>
 					</p>
 					<p>(H) <name type="person" key="tituba">Titibe</name> what evil spirit have you
@@ -43452,6 +43491,9 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.54" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="tituba">Tituba</name> -- A Second
 						Version) </head>
+					<figure n="NYPL03A"/>
+					<figure n="NYPL03B"/>
+					<figure n="NYPL04A"/>
 					<p>
 						<name type="person" key="tituba">Tittuba </name> the Ind'n Woem'ns Examn
 							<date value="1692-03-01" certainty="confirmed">March. 1. 1691/2 </date>
@@ -43580,6 +43622,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.55" type="examination" org="uniform" sample="complete" part="N">
 					<head>Second Examination. <date value="1692-03-02" certainty="confirmed">March.
 							2 1691/2</date>
+					<figure n="NYPL04A"/>
+					<figure n="NYPL04B"/>
 					</head>
 					<p>Q. What Covenant did you make w'th that man that Came to you? What did he
 						tell you. A. he Tell me he god, &amp; I must beleive him &amp; Serve
@@ -43691,6 +43735,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<pb n="756"/>
 				<div2 id="BoySal3-n3.57" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name type="person" key="tituba">Tituba</name> ) </head>
+					<figure n="ecca1032r"/>
+					<figure n="ecca1032v"/>
 					<p>The Deposistion of <name type="person" key="hubeli">Elizabeth Hubbard</name>
 						agged about 17 years who testifieth that on the 25'th february 1691/92 I saw
 						the Apperishtion of <name type="person" key="tituba">Tituba </name> Indian
@@ -43708,6 +43754,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.58" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="putann2">Ann Putnam, Jr.</name> v. <name type="person" key="tituba">Tituba</name> ) </head>
+					<figure n="ecca1035r"/>
+					<figure n="ecca1035v"/>
 					<p>The deposition of <name type="person" key="putann2">Ann putnam</name> who
 						testifieth and saith that on the 25'th of february 1691/92 I saw the
 						Apperishtion of <name type="person" key="tituba">Tituba </name>
@@ -43724,6 +43772,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.59" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="parsam">Samuel Parris</name> v. <name type="person" key="tituba">Tituba</name> ) </head>
+					<figure n="ecca1034r"/>
 					<p>The Deposition of <name type="person" key="parsam">Sam: Parris </name> aged
 						about thirty &amp; nine years testifyeth &amp; saith that <name type="person" key="pareli">Eliz: Parris junr </name> &amp; <name type="person" key="wilabi">Abigail Williams </name> &amp; <name type="person" key="putann2">Ann Putnam junr </name> &amp; <name type="person" key="hubeli">Eliz: Hubbard</name> were most grevously
 						&amp; severall times tortured during the examination of <name type="person" key="goosar">Sarah Good,</name>
@@ -43739,6 +43788,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.60" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="puttho">Thomas Putnam</name> &amp; <name type="person" key="cheeze">Ezekiel Cheever</name> v. <name type="person" key="tituba">Tituba</name> ) </head>
+					<figure n="ecca1034r"/>
+					<figure n="ecca1034v"/>
 					<p>Also <name type="person" key="puttho">Tho: Putman </name> aged about fourty
 						years &amp; <name type="person" key="cheeze">Ezek: Cheevers</name> aged
 						about thirty &amp; six years testify to the whole of the aboves'd
@@ -43789,6 +43840,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.61" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="warmar">Mary Warren</name>, <name type="person" key="shesus">Susannah Sheldon</name>, <name type="person" key="putann2">Ann Putnam, Jr.</name>, <name type="person" key="bibsar">Sarah
 						Bibber</name>, <name type="person" key="walmar">Mary Walcott</name>, <name type="person" key="hubeli">Elizabeth Hubbard</name>, and <name type="person" key="booeli">Elizabeth Booth</name> v. <name type="person" key="toojob">Job Tookey</name> ) </head>
+					<figure n="MA026r"/>
 					<p>
 						<date value="1692-06-04" certainty="unconfirmed">June the 4. 1692 </date>
 					</p>
@@ -43818,6 +43870,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.62" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="toojob">Job Tookey</name> ) </head>
+					<figure n="MA026r"/>
 					<p>present <name type="person" key="gidbar">Maj'r Bart' Gedney</name>
 						<name type="person" key="corjoh">Jonat' Corwin</name>
 						<name type="person" key="hawjoh">Jno Hathorne</name> ] </p>
@@ -43900,6 +43953,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.65" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="stajoh">John Stacy</name> and <name type="person" key="putjoh3">John Putney, Jr.</name> v. <name type="person" key="toojob">Job Tookey</name> ) </head>
+					<figure n="MA027v"/>
 					<p>
 						<name type="person" key="stajoh">John Stacy </name> aged aboute 30
 						Testifieth and sayth that this day wee heard <name type="person" key="tucjob">Job Tuckey</name> of Beverly Labourer say that he would
@@ -43928,6 +43982,7 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<div2 id="BoySal3-n3.66" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="toojoh">Job Tookey</name> ) </head>
+					<figure n="MA028r"/>
 					<p>
 						<date value="1692-06-07" certainty="unconfirmed">7 June 1692 </date> Before
 							<name type="person" key="gidbar">Major Gidney</name>
@@ -44044,6 +44099,7 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.69" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="toojob">Job. Tookey</name> , No.
 						3) </head>
+					<figure n="MA032r"/>
 					<p>Annoq R Rs &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Do[mbar ] 1692 </p>
 					<p>[Torn] </p>
@@ -44424,6 +44480,8 @@ Comment: several occurances in this passage --> w'o called to said
 
 				<div2 id="BoySal3-n3.73" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant v. <name type="person" key="toorog">Roger Toothaker</name> ) </head>
+					<figure n="ecca1273r"/>
+					<figure n="ecca1273v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To: the Marshall of Essex or his dept or
@@ -44471,6 +44529,8 @@ Comment: several occurances in this passage --> w'o called to said
 				<div2 id="BoySal3-n3.74" type="mittimus" org="uniform" sample="complete" part="N">
 					<head>(Mittimus for <name type="person" key="toorog">Roger Toothaker</name> ,
 							<name type="person" key="wiljoh">John Willard</name> , <name type="person" key="fartho">Thomas Farrar</name> , and <name type="person" key="hareli">Elizabeth Hart</name> ) </head><figure n="ecca1274v  "/>
+					<figure n="ecca1274r"/>
+					<figure n="ecca1274v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Keeper of Theire Majest's Goale </name>
@@ -44683,6 +44743,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.79" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="tyljoh">Johanna Tyler</name> ) </head>
+					<figure n="MA053r"/>
+					<figure n="MA053v"/>
 					<p>Province of the Massachusetts Bay in New England Essex ss ] </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae &amp;c Quarto
 						Annoq'e Do[mbar ] 1692. </p>
@@ -44875,6 +44937,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.83" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
+					<figure n="MA101r"/>
+					<figure n="MA101v"/>
 					<p>Province of the Massachusetts Bay in New England Essex ss ] </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Anoq'e Do[mbar ] 1692 </p>
@@ -44908,6 +44972,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 
 				<div2 id="BoySal3-n3.84" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2059r"/>
 					<p>The Examination and Confession of <name type="person" key="warsam">Sam'll
 							wardwell. </name> taken <date value="1692-09-01" certainty="confirmed">Sept 1st 92. </date> before <name type="person" key="higjoh">John
 							Higginson</name> Esq one of theire majties Justices of peace for the
@@ -44974,6 +45039,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<div2 id="BoySal3-n3.85" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v <name type="person" key="warsam">Samuel Wardwell</name> ,
 						No. 1) </head>
+					<figure n="ecca2056r"/>
+					<figure n="ecca2056v"/>
 					<p>Essex in the Province of the Massachusetts Bay in New England ] </p>
 					<p>Anno R R's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Domini 1692. </p>
@@ -45002,6 +45069,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<div2 id="BoySal3-n3.86" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="warsam">Samuel Wardwell</name> ,
 						No. 2) </head>
+					<figure n="ecca2055r"/>
+					<figure n="ecca2055v"/>
 					<p>Essex in the province of the Massachusetts bay in New England ss ] </p>
 					<p>Ano R R's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto, Anoq'e D[obar ][mbar ]. <hi rend="underline">1692 </hi> -- </p>
@@ -45027,6 +45096,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<pb n="786"/>
 				<div2 id="BoySal3-n3.87" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="sprmar">Martha Sprague</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2057r"/>
 					<p>
 						<name type="person" key="sprmar">Martha Spreag </name>: Aged 16 years
 						Affirmd to the grand Inquest: that <name type="person" key="warsam">Sam'll
@@ -45055,6 +45125,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.88" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="warmar">Mary Warren</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2057r"/>
 					<p>
 						<name type="person" key="warmar">Mary Warin</name> affirmd: to: Jury of
 						Inquest that <name type="person" key="warsam">Sam'll Wardwell: </name> hath:
@@ -45078,6 +45149,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.89" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="walmar">Mary Walcott</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2057r"/>
 					<p>
 						<name type="person" key="walmar">Mary Walcot </name> affirmd to the grand
 						Inquest: that she saw <name type="person" key="warsam">Sam'll Wardwell
@@ -45094,6 +45166,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<div2 id="BoySal3-n3.90" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="foseph">Ephraim Foster</name> v. Samuel
 						Wardwell) </head>
+					<figure n="ecca2058r"/>
 					<p>The deposetion of <name type="person" key="foseph">Ephraim foster</name> of
 						Andovr: aged about thirty four years this deponant testifyeth and sayeth:
 						that he heard: <name type="person" key="warsam">Samuell Wordwell: </name>
@@ -45120,6 +45193,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.91" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="chatho">Thomas Chandler</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2060r"/>
+					<figure n="ecca2060v"/>
 					<p>The tistimony of <name type="person" key="chatho">Thomas Chandler</name> aged
 						about 65 who saith that I have often hard <name type="person" key="warsam">Samuell wardle </name> of Andovr till yung person thire fortine and he
 						was much adicted to that and mayd sport of it and farther said not </p>
@@ -45138,6 +45213,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.92" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="baljos">Joseph Ballard</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2061r"/>
+					<figure n="ecca2061v"/>
 					<p>the testimony of <name type="person" key="baljos">Joseph Ballard</name> of
 						andover eaged about 41 yeares saith that my brother <name type="person" key="baljos">John ballard</name> told me that <name type="person" key="warsam">Samuel wardel </name> told him that I had reported that he
 						had <orig reg="bewitched">bewiched</orig> my wife these wordes <pb n="788"/>
@@ -45161,6 +45238,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.93" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="marabi">Abigail Martin</name> and <name type="person" key="brijoh">John Bridges</name> v. <name type="person" key="warsam">Samuel Wardwell</name> ) </head>
+					<figure n="ecca2062r"/>
+					<figure n="ecca2062v"/>
 					<p>the deposetion of <name type="person" key="marabi">Abigell Marten </name> of
 						Andavr Aged about sixteen years this deponant Testifyeth and sayeth that
 						some time last winter: <name type="person" key="warsam">Samuel wordwall
@@ -45197,6 +45276,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<pb n="789"/>
 				<div2 id="BoySal3-n3.94" type="section" org="uniform" sample="complete" part="N">
 					<head>(Petition from Andover Selectmen) </head>
+					<figure n="ecca2096r"/>
+					<figure n="ecca2096v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Honored Court now sitting at Ipswich The
@@ -45318,7 +45399,9 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<!-- <ID>n135</ID> -->
 
 				<div2 id="BoySal3-n3.96" type="examination" org="uniform" sample="complete" part="N">
-					<head>(Examination of <name type="person" key="warmar">Mary Warren</name>, <date value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head><figure n="ecca1111v"/>
+					<head>(Examination of <name type="person" key="warmar">Mary Warren</name>, <date value="1692-04-19" certainty="confirmed">April 19, 1692</date>) </head>
+					<figure n="ecca1111r"/>
+					<figure n="ecca1111v"/>					
 					<p>The Examination of <name type="person" key="warmar">Mary Warren </name> At a
 						Court held at Salem Village by </p>
 					<p>
@@ -45722,6 +45805,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<div2 id="BoySal3-n3.100" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="bisedw2">Edward Bishop</name> , <name type="person" key="bissar">Sarah Bishop</name> , and <name type="person" key="easmar">Mary Eastey</name> v. <name type="person" key="warmar">Mary
 							Warren</name> ) </head>
+					<figure n="ecca1120r"/>
+					<figure n="ecca1120v"/>
 					<p>
 						<name type="person" key="bisedw">Edward Bisshop </name> Aiged Aboute 44:
 						Yeares <name type="person" key="bissar">Sarah Bisshop </name> Aiged Aboute
@@ -45746,6 +45831,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.101" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="engmar">Mary English</name> v. <name type="person" key="warmar">Mary Warren</name>) </head>
+					<figure n="ecca1119r"/>
+					<figure n="ecca1119v"/>
 					<p>
 						<date value="1692-06-01" certainty="unconfirmed">1. June 1692 </date>
 						<name type="person" key="engmar">Mary English</name> Aged about 39 years.
@@ -45769,7 +45856,9 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					</p>
 				</div2>
 				<div2 id="BoySal3-n3.102" type="section" org="uniform" sample="complete" part="N">
-					<head>(<name type="person" key="booeli">Elizabeth Booth</name> v. <name type="person" key="warmar">Mary Warren</name> and <name type="person" key="anddan">Daniel Andrew</name> )</head><figure n="ecca1118v"/>
+					<head>(<name type="person" key="booeli">Elizabeth Booth</name> v. <name type="person" key="warmar">Mary Warren</name> and <name type="person" key="anddan">Daniel Andrew</name> )</head>
+					<figure n="ecca1118r"/>
+					<figure n="ecca1118v"/>
 					<p>Salem <date value="1692-05-18" certainty="confirmed">May the 18'th 1692
 						</date>
 					</p>
@@ -45868,6 +45957,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.105" type="section" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
+					<figure n="ecca1164r"/>
 					<p>The examination of <name type="person" key="wilsar">Sarah Wilds</name> At a
 						Court held at Salem Village [torn] <date value="1692-04-22" certainty="confirmed">
 							<hi rend="underline">1692 </hi>
@@ -45992,6 +46082,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				</div2>
 				<div2 id="BoySal3-n3.109" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wileph">Ephraim Wilds</name> for <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
+					<figure n="ecca1165r"/>
+					<figure n="ecca1165v"/>
 					<p>This may inform this Honred cort that I: <name type="person" key="wileph">Ephraim Willdes</name> being constabell for topsfelld this yere and the
 						marshall of sallem coming to fetch away my mother he then shued me a warrant
 						from athority derected to the constabell of tops felld wherin was <name type="person" key="hobwil">william hobs</name> and deliveranc his wife
@@ -46021,7 +46113,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<pb n="810"/>
 				<div2 id="BoySal3-n3.110" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="haljoh">Rev. John Hale</name> v. <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure n="eia21r"/><figure n="eia21v"/>I <name type="person" key="haljoh">John Hale </name> of Beverly aged 56 years beeing su[mbar ]oned to
+					<p><figure n="eia21v"/>I <name type="person" key="haljoh">John Hale </name> of Beverly aged 56 years beeing su[mbar ]oned to
 						appeare &amp; give evidence against <name type="person" key="wilsar">Sarah Wiles</name> of Topsfeild <date value="1692-07-02" certainty="unconfirmed">July.2. 1692; </date> Testify that about 15 or
 						16 yeares agoe came to my house the wife of <name type="person" key="herjoh">John Hirrek </name> of Beverly w'th an aged woeman she said was her
 						mother. <name type="person" key="redmar">Goody Reddington</name> of
@@ -46125,7 +46217,7 @@ Comment: --> &amp; others at Ipswich to advise &amp; pray for
 				<pb n="812"/>
 				<div2 id="BoySal3-n3.113" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="ingnat">Nathaniel Ingersoll</name> v. <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
-					<p><figure n="eia09r"/><figure n="eia09v"/>The Deposistion of <name type="person" key="ingnat">Nathaniell Ingersoll</name> agged about 58
+					<p>The Deposistion of <name type="person" key="ingnat">Nathaniell Ingersoll</name> agged about 58
 						years and <name type="person" key="puttho">Thomas putnam </name> aged about
 						40 years who testifieth and saith that wee haveing been conversant with
 						severall of the <orig reg="afflicted">afflected</orig> parsons as namely
