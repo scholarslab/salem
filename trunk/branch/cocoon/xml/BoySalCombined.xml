@@ -46520,6 +46520,8 @@ who this is?-->
 				<div2 id="BoySal3-n3.119" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="wiljoh4">John
 						Willard</name> ) </head>
+					<figure n="ecca1231r"/>
+					<figure n="ecca1231v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Constable </name>
@@ -46565,6 +46567,8 @@ who this is?-->
 				<div2 id="BoySal3-n3.120" type="warrant" org="uniform" sample="complete" part="N">
 					<head>(Warrant for Arrest of <name type="person" key="wiljoh4">John
 						Willard</name> ) </head>
+					<figure n="ecca1238r"/>
+					<figure n="ecca1238v"/>
 					<opener>
 						<dateline>
 							<name type="recipient">To the Marshall of the County of Essex or to the
@@ -46754,7 +46758,10 @@ who this is?-->
 				<pb n="823"/>
 				<div2 id="BoySal3-n3.123" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="wiljoh">John Willard</name> ) </head>
-					<p><figure n="B02r"/>The Examination of <name type="person" key="wiljoh4">John
+					<figure n="B02C"/>
+					<figure n="B03C"/>
+					<figure n="B03D"/>
+					<p>The Examination of <name type="person" key="wiljoh4">John
 							Willard. </name>
 						<date value="1692-05-18" certainty="confirmed">18 May <hi rend="underline">1692 </hi>
 						</date>
@@ -46893,7 +46900,7 @@ who this is?-->
 				<div2 id="BoySal3-n3.124" type="examination" org="uniform" sample="complete" part="N">
 					<head>(Examination of <name type="person" key="wiljoh4">John Willard</name> --
 						Second Version) </head>
-					<p><figure n="B00r"/><figure n="B00v"/>The Examination of <name type="person" key="wiljoh4">John Willard </name>
+					<p><figure n="B02A"/><figure n="B02D"/>The Examination of <name type="person" key="wiljoh4">John Willard </name>
 						<date value="1692-05-18" certainty="confirmed">18. May <hi rend="underline">1692 </hi>
 						</date>
 					</p>
@@ -47085,6 +47092,8 @@ who this is?-->
 				<div2 id="BoySal3-n3.125" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
 						1) </head>
+					<figure n="ecca1234r"/>
+					<figure n="ecca1234v"/>
 					<p>Anno Regni Regis et Reginae &amp; et </p>
 					<p>Mariae nunc Angliae &amp;c Quarto: </p>
 					<p>Essex ss </p>
@@ -47137,7 +47146,9 @@ who this is?-->
 				<pb n="831"/>
 				<div2 id="BoySal3-n3.126" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						2) </head><figure n="ecca1233r"/>
+						2) </head>
+					<figure n="ecca1233r"/>
+					<figure n="ecca1233v"/>
 					<p>Anno Regni Regis et Reginae Wellim et [] nunc Angliae &amp;c Quarto </p>
 					<p>Essex ss. </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King [] pr'sents That
@@ -47188,7 +47199,9 @@ who this is?-->
 				<pb n="832"/>
 				<div2 id="BoySal3-n3.127" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						3) </head><figure n="ecca1232r"/>
+						3) </head>
+					<figure n="ecca1232r"/>
+					<figure n="ecca1232v"/>
 					<p>Anno Regni Regis et Reginae Willim et Mariae nunc Angliae &amp;c Quarto: </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -47244,7 +47257,9 @@ separately?-->
 				<pb n="833"/>
 				<div2 id="BoySal3-n3.128" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						4) </head><figure n="ecca1236r"/>
+						4) </head>
+					<figure n="ecca1236r"/>
+					<figure n="ecca1236v"/>
 					<p>Anno Regni Regis et Reginae Willim et Mariae nunc Angliae et Quarto: </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -47297,7 +47312,9 @@ separately?-->
 				<pb n="834"/>
 				<div2 id="BoySal3-n3.129" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="wiljoh4">John Willard</name> , No.
-						7) </head><figure n="ecca1235r-1"/>
+						7) </head>
+					<figure n="ecca1235r"/>
+					<figure n="ecca1235v"/>
 					<p>Anno Regni Regis et Reginae [Willm] et Mariae nunc. Angliae &amp;c Quarto </p>
 					<p>Essex ss </p>
 					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen
@@ -47350,6 +47367,8 @@ separately?-->
 				<div2 id="BoySal3-n3.130" type="summons" org="uniform" sample="complete" part="N">
 					<head>(Summons for Witnesses v. <name type="person" key="wiljoh">John
 						Willard</name> ) </head>
+					<figure n="ecca1237r"/>
+					<figure n="ecca1237v"/>
 					<p> William &amp; Mary by the Grace of God of England &amp;c King
 						&amp;c. To <name type="person" key="wilabi">Abigall Williams</name>
 						<name type="person" key="walmar">Mary Walcott</name>
@@ -47416,7 +47435,9 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.132" type="section" org="uniform" sample="complete" part="N">
 					<head>(List of Evidence v. <name type="person" key="wiljoh4">John Willard</name>
-						.) </head><figure n="ecca1239v"/>
+						.) </head>
+					<figure n="ecca1239r"/>
+					<figure n="ecca1239v"/>
 					<p>Evidences ag't <name type="person" key="wiljoh4">John Willard. </name>
 					</p>
 					<p>Exa[ibar ][ibar ]on vide. </p>
@@ -47499,6 +47520,7 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.134" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="shesus">Susannah Sheldon</name> v. <name type="person" key="wiljoh4">John Willard</name> and <name type="person" key="coleli">Elizabeth Colson</name> ) </head>
+					<figure n="ecca1244v"/>
 					<p>The second to be Read </p>
 					<p>the Evening of the same day Came to mee the <orig reg="Apparition">Appariton</orig> of these three <name type="person" key="wiljoh4">John
 							Willard</name>
@@ -47559,6 +47581,7 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.136" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="putann1">Ann Putnam, Sr</name> . v. <name type="person" key="johwil2">John Willard</name> , <name type="person" key="hobwil">William Hobbs</name> , and <name type="person" key="cormar">Martha Corey</name>) </head><figure n="ecca1240r"/>
+					<figure n="ecca1240v"/>
 					<p>
 						<name type="person" key="puthan">Hanah Putnam </name> aged 30 years Saith
 						that the shape of <name type="person" key="fulsam">Sam'll Fuller</name>
@@ -47608,6 +47631,8 @@ separately?-->
 					<head>(Samuel Parris, <name type="person" key="ingnat">Nathaniel
 						Ingersoll</name> , and <name type="person" key="puttho">Thomas Putnam</name>
 						v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1242r"/>
+					<figure n="ecca1242v"/>
 					<p>The deposition of <name type="person" key="parsam">Samuel Parris </name> aged
 						about. 39. years, &amp; <name type="person" key="ingnat">Nathanell
 							Ingersoll</name> aged about fifty &amp; eight yeares &amp; also
@@ -47650,6 +47675,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.138" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="bibsar">Sarah Bibber</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1245r"/>
+					<figure n="ecca1245v"/>
 					<p>
 						<date value="1692-06-03" certainty="confirmed">june the. 3. 1692: </date>
 					</p>
@@ -47677,6 +47704,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.139" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="hubeli">Elizabeth Hubbard</name> v. <name type="person" key="wiljoh4"> John Willard</name> ) </head>
+					<figure n="ecca1246r"/>
+					<figure n="ecca1246v"/>
 					<p>The deposistion of <name type="person" key="hubeli">Elizabeth Hubburd</name>
 						agged about 17 years who testifieth and saith that on the 11 may 1692 I saw
 						the Apperishtion of <name type="person" key="wiljoh4">John willard </name>
@@ -47707,6 +47736,7 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.140" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="booeli">Elizabeth Booth</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1247r"/>
 					<p>The Deposistion of <name type="person" key="booeli">Eliz: Booth</name> agged
 						about 18 years who testifieth and saith that severall times sence the later
 						end of June 1692 I have ben most greviously <orig reg="afflicted">afflected</orig> and tormented by <name type="person" key="wiljoh4">John
@@ -47725,6 +47755,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.141" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="niclyd">Lydia Nichols</name> and <name type="person" key="knimar">Margaret Knight</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1248r"/>
+					<figure n="ecca1248v"/>
 					<p>The deposition of <name type="person" key="niclyd">Ledia Nicoles </name>
 						aged. 46 yeares and of <name type="person" key="knimar">Margaret
 						knight</name> . aged. 20. yeares who testefy and say. That the wife of <name type="person" key="wiloh2">John Willard </name> being at her fathers
@@ -47749,6 +47781,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.142" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wilsam">Samuel Wilkins</name> v. <name type="person" key="wiljoh3">John Willard</name> ) </head>
+					<figure n="ecca1249r"/>
+					<figure n="ecca1249v"/>
 					<p>The Deposistion of <name type="person" key="wilsam">Samuell Wilknes</name>
 						aged about 19 years who testifieth and saith that sence <name type="person" key="wiljoh4">Jno: willard </name> has ben in prizson I have been <orig reg="afflicted">afflected</orig> in a strange kind of maner for about
 						the later end of June or begining of July as I was a weaveing the yarn broak
@@ -47784,6 +47818,8 @@ separately?-->
 				<pb n="844"/>
 				<div2 id="BoySal3-n3.143" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="baitho">Thomas Bailey</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1250r"/>
+					<figure n="ecca1250v"/>
 					<p>The deposition of <name type="person" key="baitho">Thomas Baly</name> aged 36
 						yeares who testefieth and sayth </p>
 					<p>That I being at Groaton some short tyme after <name type="person" key="wiljoh4">John Willard</name> as the report went had beaten his wife
@@ -47839,6 +47875,8 @@ separately?-->
 				<pb n="845"/>
 				<div2 id="BoySal3-n3.145" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wilreb">Rebecca Wilkins</name> v. <name type="person" key="wiljoh3">John Willard</name> ) </head>
+					<figure n="ecca1252r"/>
+					<figure n="ecca1252v"/>
 					<p>The testomony of <name type="person" key="wilreb">Rebeckah wilkins</name>
 						aged ninteen years Doe testifie that 29'th July at night shee se <name type="person" key="wiljoh3">John wilard</name> seting in the Corner and
 						hee said that hee wold <orig reg="afflict">afflick</orig> me that night and
@@ -47865,6 +47903,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.146" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="puttho">Thomas Putnam</name> and <name type="person" key="putedw">Edward Putnam </name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1253r"/>
+					<figure n="ecca1253v"/>
 					<p>The deposistion of <name type="person" key="puttho">Thomas putnam </name>
 						agged 40. years and <name type="person" key="putedw">Edward putnam</name>
 						agged 38 years who testifie and say that we haveing been conversant with
@@ -47903,7 +47943,8 @@ separately?-->
 				</div2>
 				<pb n="846"/>
 				<div2 id="BoySal3-n3.147" type="section" org="uniform" sample="complete" part="N">
-					<head>( <name type="person" key="wilhen">Henry Wilkins, Sr.</name> v. <name type="person" key="wiljoh3">John Willard</name> ) </head><figure n="ecca1254 r"/>
+					<head>( <name type="person" key="wilhen">Henry Wilkins, Sr.</name> v. <name type="person" key="wiljoh3">John Willard</name> ) </head><figure n="ecca1254r"/>
+					<figure n="ecca1254v"/>
 					<p>Thwe Deposition of <name type="person" key="wilhen">Henery Wilkins sen</name>
 						aged 41 yeares who testifieth and sayth that upon the third of may last
 							<name type="person" key="wiljoh4">John Willard </name> came to my house:
@@ -47936,6 +47977,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.148" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wilben">Benjamin Wilkins</name> and <name type="person" key="flitho">Thomas Flint</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1255r"/>
+					<figure n="ecca1255v"/>
 					<p>The Testimony of <name type="person" key="wilben">benjamin wilkins</name> ged
 						about [36 years] and <name type="person" key="flitho">Thomas Flint</name>
 						aged about: 46: years Testifieth [that] one the 16. day of may last: 1692:
@@ -47966,6 +48009,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.149" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wilbra">Bray Wilkins</name> v. <name type="person" key="wiljoh3">John Willard</name> ) </head>
+					<figure n="ecca1258r"/>
+					<figure n="ecca1258v"/>
 					<p>The Deposition of <name type="person" key="wilbra">Bray Wilkins</name> of
 						Salem Village aged about eighty &amp; one years with reference to <name type="person" key="wiljoh4">John Willard </name> of s'd Salem, lately
 						charged with Witchcraft when he was at first complained of by the afflicted
@@ -48028,6 +48073,8 @@ separately?-->
 				</div2>
 				<div2 id="BoySal3-n3.150" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="kniphi">Philip Knight</name> and <name type="person" key="nictho">Thomas Nichols</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1256r"/>
+					<figure n="ecca1256v"/>
 					<p>The deposition of <name type="person" key="kniphi">Philip knight</name> aged
 						46 yeares and of <name type="person" key="nictho">Thomas Nichols</name> 22
 						yeares who do testify and say That sometymes in Aprillast there was
@@ -48045,6 +48092,7 @@ separately?-->
 				<pb n="849"/>
 				<div2 id="BoySal3-n3.151" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="wilben">Benjamin Wilkins</name> v. <name type="person" key="wiljoh3">John Willard</name> and <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="ecca1257r"/>
 					<p>The Testimony of <name type="person" key="wilben">benjamin wilkns</name> aged
 						about. 36: years saith That about the 12: of may last marcy lues being at my
 						fathers hous tould us that she saw <name type="person" key="wiljoh3">john
@@ -48061,6 +48109,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				</div2>
 				<div2 id="BoySal3-n3.152" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="putjoh2">John Putnam, Jr.</name> v. <name type="person" key="wiljoh3">John Willard</name> and <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
+					<figure n="ecca1257r"/>
+					<figure n="ecca1257v"/>
 					<p>
 						<name type="person" key="putjoh2">John putnam </name> testifieth to the same
 						above written </p>
@@ -48073,6 +48123,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				</div2>
 				<div2 id="BoySal3-n3.153" type="section" org="uniform" sample="complete" part="N">
 					<head>(<name type="person" key="lewmer">Mercy Lewis</name> v. <name type="person" key="wiljoh4">John Willard</name> ) </head>
+					<figure n="ecca1259r"/>
+					<figure n="ecca1259v"/>
 					<p>The Deposistion of <name type="person" key="lewmer">Mircy Lewes</name> who
 						testifieth and saith that I have often seen the Apperishtion of <name type="person" key="wiljoh4">John Willard </name> amongst the <orig reg="witches">wicthes</orig> with in this three weeks: but he did not
 						doe me much hurt tell the 11'th of may 1692 and then he fell upon me most
@@ -48112,6 +48164,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 				<div2 id="BoySal3-n3.154" type="section" org="uniform" sample="complete" part="N">
 					<head>(Evidence of <name type="person" key="wilben">Benjamin Wilkins</name> ,
 							<name type="person" key="wiljoh2">John Wilkins</name> , and <name type="person" key="ricnat">Nathaniel Richardson</name> ) </head>
+					<figure n="ecca2127r"/>
 					<p>The deposition of <name type="person" key="wilben">benjamin Wilkins</name>
 						aged 36 years and <name type="person" key="wiljoh2">John Wilkins</name> aged
 						26 years these deponents testifieth and say that <name type="person" key="willyd">Lidia Wilkins</name> wiffe of <name type="person" key="wiljoh2">John Wilkins</name> was well delivered with child. and was
@@ -48247,7 +48300,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 
 				<div2 id="BoySal3-n3.158" type="section" org="uniform" sample="complete" part="N">
 					<head>( <name type="person" key="hutjos">Joseph Hutchinson</name> v. <name type="person" key="wilabi">Abigail Williams</name> ) </head>
-					<p><figure n="H47r"/>The deposition of <name type="person" key="hutjos">Joseph
+					<p><figure n="H47"/>The deposition of <name type="person" key="hutjos">Joseph
 							Hutchinson</name> aged 59: year doe testifie as fourth </p>
 					<p>
 						<name type="person" key="wilabi">Abigaill Williams</name> I have heard you
@@ -48351,6 +48404,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 
 				<div2 id="BoySal3-n3.161" type="indictment" org="uniform" sample="complete" part="N">
 					<head>(Indictment v. <name type="person" key="witmar">Mary Witheridge</name> ) </head>
+					<figure n="MA021r"/>
+					<figure n="MA021v"/>
 					<p>Essex in the Province of the Massachusetts Bay in New England: ss ] </p>
 					<p>Anno RR's &amp; Reginae Gulielmi &amp; Mariae Angliae &amp;c
 						Quarto Annoq'e Domini 1692 </p>
@@ -48624,6 +48679,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="letter" id="d1e22334">
 						<head>(Letter of <name type="person" key="newtho1">Thomas Newton</name> to
 								<name type="person" key="addisa">Isaac Addington</name> ) </head>
+						<figure n="MA025v"/>
 						<opener>
 							<dateline>
 								<name type="place">Salem </name>
@@ -48700,6 +48756,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="section" id="d1e22479">
 						<head>(Oath of <name type="person" key="newtho1">Thomas Newton</name> as
 							Attorney General) </head>
+						<figure n="ecca1002r"/>
 						<p>You <name type="person" key="newtho1">Thomas Newton</name> Gent' being
 							apointed to perform the Office of their Maj'ts Attorny-Gen'l in the
 							prosecution of the several persons to be indicted and Tryed before their
@@ -48725,6 +48782,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="section" id="d1e22524">
 						<head>(Oath of <name type="person" key="sewell">Stephen Sewall</name> as
 							Clerk) </head>
+						<figure n="ecca1002r"/>
+						<figure n="ecca1002v"/>
 						<p>You being Appointed to officiat as Clerk of this Court, Do Swear #[by
 							the] that you will carefully, uprightly &amp; truly execute and
 							perform whatsoever unto your Duty in that Place of a Clerk doth
@@ -48745,6 +48804,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="warrant" id="d1e22571">
 						<head>(Warrant for Jurors) </head>
+						<figure n="ecca1001r"/>
+						<figure n="ecca1001v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Sherriffe of the County of Essex./
@@ -48869,6 +48930,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<head>Death Warrants Folder and Census of Prisoners (May - July 1692) </head>
 					<div3 type="Deathwarrant" id="d1e22858">
 						<head>(Death Warrants Folder) </head>
+						<figure n="ecca2135r"/>
 						<p>Warrant for Execuion of <name type="person" key="goosar">Sarah Good</name>
 							<name type="person" key="nurreb">Rebecka Nurse</name>
 							<name type="person" key="howeli">Eliz. How</name>
@@ -48881,6 +48943,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="section" id="d1e22895">
 						<head>(Census of Prisoners) </head>
+						<figure n="ecca2134r"/>
+						<figure n="ecca2134v"/>
 						<p>Severall sent to Boston </p>
 						<p>Goale on acco' of witchcraft </p>
 						<p>Salem <date value="1692-03-01" certainty="questionable">March 1'd</date>
@@ -49025,6 +49089,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="section" id="d1e23293">
 						<head>(Petition of <name type="person" key="osgjoh">John Osgood</name> and
 							Eight Others -- October 1692) </head>
+						<figure n="MA059v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honored Generall Court Now sitting in
@@ -49252,6 +49317,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="section" id="d1e23625">
 						<head>(Petition of <name type="person" key="osgjoh">John Osgood</name> and
 							Seven Others -- December 1692) </head>
+						<figure n="MA066v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To his Excellency the Governour, and Council
@@ -49314,6 +49380,8 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<div3 type="section" id="d1e23724">
 						<head>(Petition of <name type="person" key="hergeo">George Herrick</name> --
 							December 1692) </head>
+						<figure n="MA067r"/>
+						<figure n="MA067v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To his Excelency <name type="person" key="phiwil">S'r William Phipps</name> Knight Capt Gen'll
@@ -49369,6 +49437,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="section" id="d1e23800">
 						<head>(Petition of Ten Prisoners at Ipswich) </head>
+						<figure n="LC01"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honourable Governer and Councell and
@@ -49410,7 +49479,9 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="section" id="d1e23863">
 						<head>(Statement by the <name type="person" key="danfra1">Rev. Francis
-							Dane</name> on the Andover Outbreak -- January 1693) </head><figure n="ecca1319r"/><figure n="ecca1319r-detail                                                                                                                                                                                                                                                                                                     0"/>
+							Dane</name> on the Andover Outbreak -- January 1693) </head>                                                                                                                                                                                                                                                                                                    
+						<figure n="ecca1319r"/>
+						<figure n="ecca1319v"/>
 						<p>R'nd Sr; Whereas there have been divers reports raysed, how, and, by what
 							hands I know not, of the Towne of Andover, and the Inhabitants, I
 							thought it my bounden duty to give an account to others, so farr as I
@@ -49483,6 +49554,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					<head>A Bill Against Conjurations, Witchcraft, and Dealing with Evil and Wicked
 						Spirits (December 1692) </head>
 					<div3 type="bill" id="d1e23945">
+						<figure n="MA068r"/>
 						<head>(A Bill against Conjuration, Witchcraft and Dealing with Evil and
 							Wicked Spirits) </head>
 						<p>For more particular direction in the Execution of the Law against
@@ -49587,6 +49659,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 					</div3>
 					<div3 type="warrant" id="d1e24093">
 						<head>(Warrant to the Town of Ipswich) </head>
+						<figure n="MA079r"/>
 						<p>These are in their Maj'ties Names to require you forthwith to Assemble
 							the free holders and other the Inhabitants of your towne who are hereby
 							also required to Choose eleven good &amp; lawfull men of the same
@@ -49808,6 +49881,7 @@ Comment: -->
 					</div3>
 					<div3 type="warrant" id="d1e24573">
 						<head>(Warrant to The Town of Marblehead) </head>
+						<figure n="MA084r"/>
 						<p>These are in their Maj'ties Names to require you forthwith to Assemble
 							the free holders and other the Inhabitants of your towne who are hereby
 							also required to Choose foure good and lawfull men of the same towne
@@ -49892,6 +49966,7 @@ Comment: -->
 					</div3>
 					<div3 type="warrant" id="d1e24746">
 						<head>(Warrant to the Town of Beverly) </head>
+						<figure n="MA088r"/>						
 						<p>These are in their Maj'ties Names to requrie you forthwith to assemble
 							the free Holders and others the Inhabitants of your Towne who are
 							hereby, allso required to Choose foure Good and Lawfull men of <pb n="895"/> the same Towne Each whereof to have a reall Estate of
@@ -49936,6 +50011,7 @@ Comment: -->
 					<pb n="896"/>
 					<div3 type="warrant" id="d1e24833">
 						<head>(Warrant to the Town of Haverhill) </head>
+						<figure n="MA090r"/>
 						<p>These are in their Maj' <hi rend="underline">ties </hi> Names to Require
 							You forthwith to Assemble the free. holders and other the Inhabitants of
 							yo'r Towne, who are hereby allso required to Choose. Three good and
@@ -50037,6 +50113,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e25004">
 						<head>(Return of the Town of Newbury) </head>
+						<figure n="MA097r"/>
 						<p>To the High Sheriff of the County of essex Esqu'r <date value="1692-12-29" certainty="questionable">29 desember 1692</date>,
 							then I warned the freeholders &amp; other inhabi'ts of Newbury to
 							assemble to gether to Choose nine Jurars men and according to warning
