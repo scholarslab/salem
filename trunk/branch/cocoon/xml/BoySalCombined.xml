@@ -50429,6 +50429,8 @@ Comment: -->
 							<name type="person" key="barwil2">William Barker, Jr.</name>
 						</hi>
 					</p>
+					<figure n="01D"/>
+					<figure n="01L"/>
 					<p>Suffolk ss. </p>
 					<p>Att Their Maj'ties Superiour Court of Judicature Court of Assizes &amp;
 						Generall Goal Delivery Holden at Sallem In The County of Essex in their
@@ -50506,6 +50508,8 @@ Comment: -->
 						Clock next morning. </p>
 					<div3 type="section" id="d1e25794">
 						<head>(Case of <name type="person" key="jacreb">Rebecca Jacobs</name> ) </head>
+						<figure n="01D"/>
+						<figure n="01L"/>
 						<p>10 Jury of Tryalls Sworn </p>
 						<p>
 							<name type="person" key="fliedw">Edward Flint</name> fore[mbar ] </p>
@@ -50570,6 +50574,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e25916">
 						<head>(Case of <name type="person" key="jacmar">Margaret Jacobs</name> ) </head>
+						<figure n="02D"/>
+						<figure n="02L"/>
 						<p>Jury Swoarn </p>
 						<p>
 							<name type="person" key="frijam">James Freind</name> foreman </p>
@@ -50651,6 +50657,11 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e26047">
 						<head>(Case of <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
+						<figure n="02D"/>
+						<figure n="02L"/>
+						<figure n="03D"/>
+						<figure n="03L"/>
+						<figure n="04"/>
 						<p>
 							<name type="person" key="bucsar">Sarah Buckley</name> the wife of <name type="person" key="bucsar">William Buckley</name> of Salem in the
 							County of Essex Shoomaker Was Indicted by the Jur'rs for our Soveraigne
@@ -50701,6 +50712,10 @@ Comment: -->
 					<pb n="908"/>
 					<div3 type="section" id="d1e26114">
 						<head>(Case of <name type="person" key="witmar">Mary Witheridge</name> ) </head>
+						<figure n="03D"/>
+						<figure n="03L"/>
+						<figure n="04"/>
+						<figure n="05"/>
 						<p>
 							<name type="person" key="witmar">Mary Witheridge</name> was Sett to the
 							Barr and was Indicted by the Jurors for our Soveraigne Lord &amp;
@@ -50783,6 +50798,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e26258">
 						<head>(Case of <name type="person" key="toojob">Job Tookey</name> ) </head>
+						<figure n="05"/>
 						<p>
 							<date value="1693-01-05" certainty="questionable">January 5th</date>
 						</p>
@@ -50853,6 +50869,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e26384">
 						<head>(Case of <name type="person" key="tyljoh">Johannah Tyler</name> ) </head>
+						<figure n="06"/>
 						<p>
 							<name type="person" key="tylhan">Hannah Tyler</name> of Andover in the
 							County of Essex Singlewom being Indicted by the Jurors for our
@@ -50939,6 +50956,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e26531">
 						<head>(Case of <name type="person" key="candy">Candy</name> ) </head>
+						<figure n="07"/>
+						<figure n="08"/>
 						<p>
 							<date value="1693-01-06" certainty="questionable">January 6'th</date>
 						</p>
@@ -51065,6 +51084,8 @@ Comment: -->
 					<pb n="913"/>
 					<div3 type="section" id="d1e26796">
 						<head>(Case of <name type="person" key="marmar1">Mary Marston</name> ) </head>
+						<figure n="08"/>
+						<figure n="09"/>
 						<p>
 							<name type="person" key="marmar1">Mary Marston</name> #[wife of <name type="person" key="marjoh">John Marston</name> ] wife of <name type="person" key="marjoh">John Marston Jun'r</name> of Andover In
 							the County of Essex, husbandman being Indicted by the Jurors for our
@@ -51145,6 +51166,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e26946">
 						<head>(Case of <name type="person" key="joheli">Elizabeth Johnson</name> ) </head>
+						<figure n="09"/>
+						<figure n="10"/>
 						<p>
 							<name type="person" key="joheli">Elisabeth Johnson</name> of Andivor in
 							the County of Essex Widdow, being Indicted by the Jurors for our
@@ -51226,6 +51249,9 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e27084">
 						<head>(Case of <name type="person" key="barabi">Abigail Barker</name> ) </head>
+						<figure n="10"/>
+						<figure n="11"/>
+						<figure n="12"/>
 						<p>
 							<name type="person" key="barabi">Abigail Barker</name> wife of <name type="person" key="barebe">Ebenezar Barker</name> of Andover in the
 							County of Essex, being indicted by the Jurors, for our Soveraigne Lord
@@ -51325,6 +51351,9 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e27261">
 						<head>(Case of <name type="person" key="tylmar">Mary Tyler</name> ) </head>
+						<figure n="12"/>
+						<figure n="13"/>
+						<figure n="14"/>
 						<p><date value="1693-01-07" certainty="questionable">January 7'th</date>
 							<name type="person" key="tylmar">Mary Tyler</name> wife of <name type="person" key="tylhop">hopestill Tyler</name> of Andover,
 							Blacksmith, being Indicted by the Jurors for o'r Soveraigne Lord and
@@ -51425,6 +51454,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e27445">
 						<head>(Case of <name type="person" key="warsar">Sarah Wardwell</name> ) </head>
+						<figure n="14"/>
+						<figure n="15"/>
 						<p><date value="1693-01-10" certainty="questionable">January 10'th</date>
 							All the Judges present Except <name type="person" key="winwai">Wait
 								Winthrop</name> who was not at any of the following Tryalls -- </p>
@@ -51512,6 +51543,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e27600">
 						<head>(Case of <name type="person" key="hawsar">Sarah Hawkes</name> ) </head>
+						<figure n="15"/>
+						<figure n="16"/>
 						<p>
 							<name type="person" key="hawsar">Sarah Hawkes</name> of Andover in the
 							County of Essex being Indicted by the Jurors, for our Sovereigne Lord
@@ -51595,6 +51628,10 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e27750">
 						<head>(Case of <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
+						<figure n="16"/>
+						<figure n="17D"/>
+						<figure n="17L"/>
+						<figure n="18"/>
 						<p>
 							<name type="person" key="warmer">Marcy Wardwell</name> , daughter of
 							Samuell Wardwell, of Andover, in the County of Essex, being Indicted by
@@ -51684,6 +51721,8 @@ Comment: -->
 					<div3 type="section" id="d1e27906">
 						<head>(Case of <name type="person" key="joheli2">Elizabeth Johnson,
 							Jr.</name> ) </head>
+						<figure n="18"/>
+						<figure n="19"/>
 						<p><date value="1693-01-11" certainty="questionable">11'th [J'y]</date>
 							<name type="person" key="joheli2">Elisabeth Johnson Junior</name> of
 							Andover, in the County of Essex, Single Woman, being indicted by the
@@ -51773,6 +51812,9 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e28052">
 						<head>(Case of <name type="person" key="brimar1">Mary Bridges</name> ) </head>
+						<figure n="19"/>
+						<figure n="20"/>
+						<figure n="21"/>
 						<p><date value="1693-01-12" certainty="questionable">12'th [J'y]</date>
 							<name type="person" key="brimar1">Mary Bridges</name> wife of <name type="person" key="brijoh">John Bridges</name> , of Andover in the
 							County of Essex Blaksmith, being Indicted, by the Jurors for our
@@ -51860,6 +51902,9 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e28213">
 						<head>(Case of <name type="person" key="posmar">Mary Post</name> ) </head>
+						<figure n="21"/>
+						<figure n="22D"/>
+						<figure n="22L"/>
 						<p>
 							<name type="person" key="posmar">Mary Post</name> of Rowley, in the
 							County of Essex, Single woman, being Indicted, by the Jurors, for our
@@ -51945,6 +51990,12 @@ Comment: -->
 					<pb n="927"/>
 					<div3 type="section" id="d1e28359">
 						<head>(Case of <name type="person" key="poshan">Hannah Post</name> ) </head>
+						<figure n="22D"/>
+						<figure n="22L"/>
+						<figure n="23D"/>
+						<figure n="23L"/>
+						<figure n="24D"/>
+						<figure n="24L"/>
 						<p>
 							<name type="person" key="poshan">Hannah Post</name> , of Boxford, in the
 							County of Essex, being Indicted by the Jurors, for our Soveraigne Lord
@@ -52026,6 +52077,9 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e28501">
 						<head>(Case of <name type="person" key="brisar">Sarah Bridges</name> ) </head>
+						<figure n="24D"/>
+						<figure n="24L"/>
+						<figure n="25"/>
 						<p>
 							<name type="person" key="brisar">Sarah Bridges</name> of Andover, in the
 							County of Essex, Single woman, being Indicted by the Jurors for o'r
@@ -52112,6 +52166,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e28644">
 						<head>(Case of <name type="person" key="osgmar">Mary Osgood</name> ) </head>
+						<figure n="26"/>
+						<figure n="27"/>
 						<p>
 							<name type="person" key="osgmar">Mary Osgood</name> wife of <name type="person" key="osgjoh">Capn John Osgood</name> of Andover, in
 							the County of Essex. being Indicted by the Jurors, for our Soveraigne
@@ -52200,6 +52256,10 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e28808">
 						<head>(Case of <name type="person" key="lacmar2">Mary Lacey, Jr.</name> ) </head>
+						<figure n="27"/>
+						<figure n="28D"/>
+						<figure n="28L"/>
+						<figure n="29"/>
 						<p><date value="1693-01-13" certainty="questionable">13'th Janu'y</date>
 							<name type="person" key="lacmar2">Mary Lacey Junior</name> of Andover in
 							the County of Essex, being Indicted by the Jurors, for o'r soveraign
@@ -52283,6 +52343,7 @@ Comment: -->
 							aforesaid to be discharged paying her fees -- </p>
 						<pb n="932"/>
 						<p> </p>
+						<figure n="31"/>
 						<p>Midlesex. ss. </p>
 						<p>At a Superiour Court of Judicature Court of Assize &amp; Generall
 							Goall Delivery holden at Charles Towne in the Count [of] Middlesex in
@@ -52352,6 +52413,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29094">
 						<head>(Case of <name type="person" key="toomar">Mary Toothaker</name>) </head>
+						<figure n="32"/>
+						<figure n="33"/>
 						<p><name type="person" key="toomar">Mary Toothaker</name> of Billerica in
 							the County of Mid'x Widow being Indicted by the Jurors for our
 							Soveraigne Lord and Lady the King and Queen upon their oaths by one
@@ -52493,6 +52556,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29385">
 						<head>(Case of <name type="person" key="taymar">Mary Taylor</name> ) </head>
+						<figure n="33"/>
+						<figure n="34"/>
 						<p>
 							<name type="person" key="taymar">Mary Taylor</name> of Reding wife of
 								<name type="person" key="tayseb">Sebread Taylor</name> of Reding
@@ -52564,6 +52629,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29526">
 						<head>(Case of <name type="person" key="colsar">Sarah Cole</name> [of Lynn]) </head>
+						<figure n="34"/>
+						<figure n="35"/>
 						<p>Sarah Cole Wife of <name type="person" key="coljoh">John Cole</name> of
 							Lynn in the County of Essex being Indicted by the Jurors for our
 							Soveraign Lord and Lady the King and Queen upon their Oathes by one
@@ -52635,6 +52702,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29656">
 						<head>(Case of <name type="person" key="duslyd">Lydia Dustin</name> ) </head>
+						<figure n="35"/>
 						<p>
 							<name type="person" key="duslyd">Lidiah Dastin</name> of Reding in the
 							County of Midlesex widow being Indicted by the Jurors for our Soveraigne
@@ -52706,6 +52774,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29784">
 						<head>(Case of <name type="person" key="dussar">Sarah Dustin</name> ) </head>
+						<figure n="35"/>
+						<figure n="36"/>
 						<p>
 							<name type="person" key="dussar">Sarah Dastin</name> of Reding in the
 							County of Midlesex being Indicted by the Jurors for our Soveraigne Lord
@@ -52790,6 +52860,8 @@ Comment: -->
 					<pb n="938"/>
 					<div3 type="section" id="d1e29941">
 						<head>(Case of <name type="person" key="aldjoh">John Alden</name> ) </head>
+						<figure n="37D"/>
+						<figure n="37L"/>
 						<p>
 							<name type="person" key="aldjoh">John Alden</name> of Boston Marriner
 							who stood Recognized for his Appearance at this Court upon suspition of
@@ -52798,6 +52870,10 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e29956">
 						<head>(Case of <name type="person" key="watmar">Mary Watkins</name> ) </head>
+						<figure n="37D"/>
+						<figure n="37L"/>
+						<figure n="38D"/>
+						<figure n="38L"/>
 						<p>
 							<name type="person" key="watmar">Mary Watkins</name> Single woman Being
 							accused of falce and Scandalous reports she had made and forged against
@@ -52874,6 +52950,7 @@ Comment: -->
 					<pb n="939"/>
 					<div3 type="section" id="d1e30113">
 						<head>(Release of <name type="person" key="watmar">Mary Watkins</name>)</head>
+						<figure n="mehs_2"/>
 						<p> To Mr. <name type="person" key="raycal">Caleb Ray</name> Keeper of the
 							Prison in Boston<lb/> Greeting.</p>
 						<p> Whereas <name type="person" key="watmar">Mary Watkins</name> Single
@@ -52911,6 +52988,10 @@ Comment: -->
 
 					<div3 type="section" id="d1e30200">
 						<head>(Case of <name type="person" key="possus">Susannah Post</name> ) </head>
+						<figure n="38D"/>
+						<figure n="38L"/>
+						<figure n="39"/>
+						<figure n="40"/>
 						<p>1 Jury of Tryalls </p>
 						<p>
 							<name type="person" key="burtho">Thomas Burnamm ff.</name>
@@ -53029,6 +53110,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e30427">
 						<head>(Case of <name type="person" key="fryeun">Eunice Fry</name> ) </head>
+						<figure n="40"/>
+						<figure n="41"/>
 						<p>
 							<name type="person" key="fryeun">Eunice frie</name> wife of <name type="person" key="fryjoh">John frie</name> of Andov'r in the County
 							of Essex being Indicted by the Jurors of our Soveraigne Lord and Lady
@@ -53073,6 +53156,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e30480">
 						<head>(Case of <name type="person" key="brimar2">Mary Bridges, Jr.</name> ) </head>
+						<figure n="41"/>
+						<figure n="42"/>
 						<p>
 							<name type="person" key="brimar2">Mary Bridges Junior</name> of Andover
 							in the County of Essex Single woman being Indicted by the Jurors of our
@@ -53120,6 +53205,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e30549">
 						<head>(Case of <name type="person" key="barmar">Mary Barker</name> ) </head>
+						<figure n="42"/>
+						<figure n="43"/>
 						<p>
 							<name type="person" key="barmar">Mary Barker</name> of Andover in the
 							County of Essex Single woman being Indicted by the jurors of our
@@ -53169,6 +53256,8 @@ Comment: -->
 					<div3 type="section" id="d1e30608">
 						<head>(Case of <name type="person" key="barwil2">William Barker, Jr.</name>
 							) </head>
+						<figure n="43"/>
+						<figure n="44"/>
 						<p>
 							<name type="person" key="barwil2">William Barker Jun'r</name> of Andover
 							in the County of Essex Being Indicted by the Jurors of o'r Sovereigne
@@ -53226,6 +53315,8 @@ Comment: -->
 
 					<div3 type="section" id="d1e30697">
 						<head>(Order of the Superior Court of Judicature) </head>
+						<figure n="ecca2178r"/>
+						<figure n="ecca2178v"/>
 						<p>At a Superiour Court of Judicature holden at Salem for the County of
 							Essex the <date value="1693-12-12" certainty="questionable">12'th
 								December</date> by Adjournem't from the last Tuesday in November
@@ -53258,6 +53349,8 @@ Comment: -->
 					<pb n="946"/>
 					<div3 type="section" id="d1e30739">
 						<head>(Superior Court of Judicature: Statement of Sums Due) </head><figure n="ecca2179r"/><figure n="ecca2179v"/>
+						<figure n="ecca2179r"/>
+						<figure n="ecca2179v"/>
 						<p>An account of what is due to the severall persons hereafter named from
 							the publique for their respective disbursem'ts and services according to
 							their acco'ts Given in and &amp; Examined by the Superiour Court
@@ -53407,6 +53500,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e31062">
 						<head>( <name type="person" key="perabr">Abraham Perkins'</name> Account) </head>
+						<figure n="ecca2129r"/>
+						<figure n="ecca2129v"/>
 						<p>An Accompt of what was taken upon their Majesties accompt in the yeare
 							1692 </p>
 						<p>
@@ -53460,6 +53555,8 @@ Comment: -->
 					<div3 type="section" id="d1e31174">
 						<head>( <name type="person" key="ingnat">Nathaniel Ingersoll's</name>
 							Account) </head>
+						<figure n="ecca2131r"/>
+						<figure n="ecca2131v"/>
 						<p>
 							<date value="1692-03-01" certainty="unconfirmed">March the 1'st
 							1691/2</date>
@@ -53694,6 +53791,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e31671">
 						<head>( <name type="person" key="mantho">Thomas Manning's</name> Account) </head>
+						<figure n="ecca2130r"/>
+						<figure n="ecca2130v"/>
 						<p>
 							<name type="person" key="mantho">Thomas Manning</name> his Accumpt of
 							work doun by him for the County of in that yare 1692 </p>
@@ -53740,6 +53839,8 @@ Comment: -->
 					<div3 type="section" id="d1e31779">
 						<head>(Account of <name type="person" key="litisa">Isaac Little</name> and
 								<name type="person" key="harjoh7">John Harris</name> ) </head>
+						<figure n="ecca2133r"/>
+						<figure n="ecca2133v"/>
 						<p>The County of Essex is Dr 1692: </p>
 						<p>
 							<table rows="2" cols="2">
@@ -53865,6 +53966,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e32045">
 						<head>( <name type="person" key="fuljos">Joseph Fuller's</name> Account) </head>
+						<figure n="ecca2132r"/>
+						<figure n="ecca2132v"/>
 						<p>
 							<table rows="8" cols="2">
 								<row role="data">
@@ -53937,6 +54040,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e32196">
 						<head>( <name type="person" key="arnjoh">John Arnold's</name> Account) </head>
+						<figure n="MA024r"/>
 						<p>
 							<table rows="18" cols="2">
 								<row role="data">
@@ -54235,6 +54339,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e32912">
 						<head>( <name type="person" key="fostho">Thomas Fossey's</name> Account) </head>
+						<figure n="ecca2186r"/>
 						<p>The Acco't of <name type="person" key="fostho">Thomas fossey</name>
 							Prison Keeper of Ipswich </p>
 						<p>
@@ -54341,6 +54446,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e33141">
 						<head>( <name type="person" key="grasam">Samuel Graves'</name> Account) </head>
+						<figure n="ecca2187r"/>
+						<figure n="ecca2187v"/>
 						<p>
 							<table rows="6" cols="2">
 								<row role="data">
@@ -54416,6 +54523,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e33301">
 						<head>( <name type="person" key="bakwil">William Baker's</name> Account) </head>
+						<figure n="ecca2188r"/>
+						<figure n="ecca2188v"/>
 						<p>
 							<date value="1692-06-28" certainty="unconfirmed">June th 28 92</date>
 						</p>
@@ -54673,6 +54782,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e33896">
 						<head>(The Account of The Sheriff of Middlesex County) </head>
+						<figure n="m02"/>
 						<p>
 							<table rows="5" cols="2">
 								<row role="data">
@@ -54766,6 +54876,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e34095">
 						<head>( <name type="person" key="lorrob">Robert Lord's</name> Account) </head>
+						<figure n="ecca2180r"/>
+						<figure n="ecca2180v"/>
 						<p>County Essix Dito July 92: </p>
 						<p>Ittm for making fouer payer of Iron fetters and two payer of hand Cuffs
 							and puting them on to the Legs and hands of Goodwife Cloys estes,
@@ -54812,6 +54924,8 @@ Comment: -->
 					<div3 type="section" id="d1e34204">
 						<head>( <name type="person" key="stawil1">William Starling's</name> Petition
 							and Account) </head>
+						<figure n="ecca2137r"/>
+						<figure n="ecca2137v"/>
 						<p>haverhill datt <date value="1694-03-26" certainty="unconfirmed">march 26:
 								1694</date>
 						</p>
@@ -54894,6 +55008,8 @@ Comment: -->
 					<pb n="963" id="p929-272"/>
 					<div3 type="section" id="d1e34389">
 						<head>(Account of <name type="person" key="cheisr">Israel Cheever</name>)</head>
+						<figure n="m01a"/>
+						<figure n="m01an"/>
 						<p>
 							<table rows="10" cols="2">
 								<row role="data">
@@ -54999,6 +55115,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e34666">
 						<head>(An Additional Account of the Sheriff of Middlesex County)</head>
+						<figure n="m02"/>
 						<p>
 							<table rows="14" cols="2">
 								<row role="data">
@@ -55086,6 +55203,8 @@ Comment: -->
 					<div3 type="section" id="d1e34879">
 						<head>(Account of Charges of <name type="person" key="phitim">Timothy
 								Phillips</name>)</head>
+						<figure n="m04"/>
+						<figure n="m04n"/>
 						<p>
 							<table rows="13" cols="3">
 								<row role="data">
