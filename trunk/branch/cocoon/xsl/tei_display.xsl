@@ -522,7 +522,8 @@
 					<xsl:apply-templates/>
 				</xsl:when>
 				<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'eia']">
-					<div class="figures">
+          <div class="figures">
+            eia
 						<xsl:apply-templates
 							select="descendant::figure[substring(@n, 1, 3) = 'eia']" mode="mss">
 							<xsl:with-param name="source">
