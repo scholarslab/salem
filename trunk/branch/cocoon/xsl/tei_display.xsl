@@ -564,6 +564,17 @@
 						</xsl:apply-templates>
 					</div>
 					<xsl:apply-templates/>
+        </xsl:when>
+        <xsl:when test="descendant::figure[substring(@n, 1, 3) = 'SCJ']">
+					<div class="figures">
+						<xsl:apply-templates
+							select="descendant::figure[substring(@n, 1, 3) = 'SCJ']" mode="mss">
+							<xsl:with-param name="source">
+								<xsl:text>scj</xsl:text>
+							</xsl:with-param>
+						</xsl:apply-templates>
+					</div>
+					<xsl:apply-templates/>
 				</xsl:when>
 				<xsl:otherwise>
 					<xsl:apply-templates/>
@@ -666,6 +677,15 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/NYPL/LARGE/{$filename}.jpg" target="_blank">
+						Enlarge<br/>Manuscript
+					</a>
+        </xsl:when>
+        <xsl:when test="$source='scj'">
+					<a href="{$path}archives/SCJ/small/{$filename}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/SCJ/small/{$filename}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/SCJ/large/{$filename}.jpg" target="_blank">
 						Enlarge<br/>Manuscript
 					</a>
 				</xsl:when>
