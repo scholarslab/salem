@@ -7070,6 +7070,7 @@
 					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
 						No. 1) </head>
 					<figure n="ecca1121r"/>
+					<figure n="ecca1121v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae W[illm et] <lb/> Mariae nunc
 							Angliae &amp;c Quarto: </foreign>
@@ -7528,29 +7529,7 @@
 				<div2 id="BoySal1-n13.10" type="section">
 					<head>(The <name type="person" key="haljoh">Rev. John Hale</name> et al. v.
 							<name type="person" key="bisbri">Bridget Bishop</name> ) </head>
-					<figure
-						n="ecca1142r-top
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        "/>
+					<figure n="ecca1142r-top"/>
 					<figure n="ecca1142r-bm"/>
 					<figure n="ecca1142-3v"/>
 					<figure n="ecca1143r"/>
@@ -11282,6 +11261,8 @@
 				</div2>
 				<div2 id="BoySal1-n22.9" type="summons">
 					<head>(Summons for <name type="person" key="rucjoh">John Ruck</name> et al.) </head>
+					<figure n="ecca2029r"/>
+					<figure n="ecca2029v"/>
 					<p>William &amp; Mary by the Grace of God of England Scotland France <lb/> &amp;
 						Ireland King &amp; Queen defend'rs of the faith &amp;ca </p>
 					<p>
@@ -55573,6 +55554,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e35589">
 						<head>(Response of the General Court to <name type="person" key="phitim">Timothy Phillips'</name> Petition) </head>
+						<figure n="m03"/>
 						<p>Province of the Massachusetts Bay Anno RR Gulielmi Tertii Angliae nono </p>
 						<p>At a Great and General Court or Assembly begun and held at Boston upon
 							Wednesday the <date value="1697-05-27" certainty="unconfirmed">26th of
@@ -55601,6 +55583,7 @@ Comment: -->
 					<div3 type="section" id="d1e35641">
 						<head>(Order for Payment to <name type="person" key="phitim">Timothy
 								Phillips</name> ) </head>
+						
 						<p><date value="1697-12-17" certainty="unconfirmed">Decemb'r. 17th
 							1697</date> In the House of Representatives </p>
 						<p>Ordered, </p>
@@ -56121,6 +56104,8 @@ Comment: -->
 					<pb n="975" id="p929-284"/>
 					<div3 type="section" id="d1e36555">
 						<head>(Response of the General Court to <name type="person" key="phitim">Timothy Phillips</name> Petition)</head>
+						<figure n="m03"/>
+						<figure n="m03n"/>
 						<p>Province of the<lb/> Massachusetts Bay<lb/> Anno RR Gulielmi Tertii
 							Angliae &amp;c nono [?]</p>
 						<p>At a Great and General Court or Assemby begun<lb/> and held at Boston
