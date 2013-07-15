@@ -29,8 +29,8 @@
 						<persname id="jacreb">Rebecca Jacobs</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="01D" label="Dark"/>
-						<daoloc id="01L" label="Light"/>
+						<daoloc id="SCJ01D" label="Dark"/>
+						<daoloc id="SCJ01L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -44,8 +44,8 @@
 						<persname id="">Margaret Jacobs</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="02D" label="Dark"/>
-						<daoloc id="02L" label="Light"/>
+						<daoloc id="SCJ02D" label="Dark"/>
+						<daoloc id="SCJ02L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -59,8 +59,8 @@
 						<persname id="bucsar">Sarah Buckley</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="03D" label="Dark"/>
-						<daoloc id="03L" label="Light"/>
+						<daoloc id="SCJ03D" label="Dark"/>
+						<daoloc id="SCJ03L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -74,7 +74,7 @@
 						<persname id="witmar">Mary Witheridge</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="04"/>
+						<daoloc id="SCJ04"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -88,7 +88,7 @@
 						<persname id="toojob">Job Tookey</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="05"/>
+						<daoloc id="SCJ05"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -102,7 +102,7 @@
 						<persname id="tyljoh">Johanna Tyler</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="06"/>
+						<daoloc id="SCJ06"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -116,7 +116,7 @@
 						<persname id="candy">Candy</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="07"/>
+						<daoloc id="SCJ07"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -130,7 +130,7 @@
 						<persname id="marmar1">Mary Marston</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="08"/>
+						<daoloc id="SCJ08"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -144,7 +144,7 @@
 						<persname id="">Elizabeth Johnston, Sr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="09"/>
+						<daoloc id="SCJ09"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -158,8 +158,8 @@
 						<persname id="barabi">Abigail Barker</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="10"/>
-						<daoloc id="11"/>
+						<daoloc id="SCJ10"/>
+						<daoloc id="SCJ11"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -173,8 +173,8 @@
 						<persname id="">Mary Tyler</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="12"/>
-						<daoloc id="13"/>
+						<daoloc id="SCJ12"/>
+						<daoloc id="SCJ13"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -188,7 +188,7 @@
 						<persname id="warsar1">Sarah Wardwell</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="14"/>
+						<daoloc id="SCJ14"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -202,7 +202,7 @@
 						<persname id="hawsar">Sarah Hawkes</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="15"/>
+						<daoloc id="SCJ15"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -216,9 +216,9 @@
 						<persname id="wrimarwarmer">Mercy Wardwell</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="16"/>
-						<daoloc id="17D" label="Dark"/>
-						<daoloc id="17L" label="Light"/>
+						<daoloc id="SCJ16"/>
+						<daoloc id="SCJ17D" label="Dark"/>
+						<daoloc id="SCJ17L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -232,7 +232,7 @@
 						<persname id="">Elizabeth Johnston, Jr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="18"/>
+						<daoloc id="SCJ18"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -246,8 +246,8 @@
 						<persname id="brimar1">Mary Bridges Sr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="19"/>
-						<daoloc id="20"/>
+						<daoloc id="SCJ19"/>
+						<daoloc id="SCJ20"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -261,7 +261,7 @@
 						<persname id="posmar">Mary Post</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="21"/>
+						<daoloc id="SCJ21"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -275,10 +275,10 @@
 						<persname id="poshan">Hannah Post</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="22D" label="Dark"/>
-						<daoloc id="22L" label="Light"/>
-						<daoloc id="23D" label="Dark"/>
-						<daoloc id="23L" label="Light"/>
+						<daoloc id="SCJ22D" label="Dark"/>
+						<daoloc id="SCJ22L" label="Light"/>
+						<daoloc id="SCJ23D" label="Dark"/>
+						<daoloc id="SCJ23L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -292,9 +292,9 @@
 						<persname id="brisar">Sarah Bridges</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="24D" label="Dark"/>
-						<daoloc id="24L" label="Light"/>
-						<daoloc id="25"/>
+						<daoloc id="SCJ24D" label="Dark"/>
+						<daoloc id="SCJ24L" label="Light"/>
+						<daoloc id="SCJ25"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -308,7 +308,7 @@
 						<persname id="osgmar">Mary Osgood</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="26"/>
+						<daoloc id="SCJ26"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -322,11 +322,11 @@
 						<persname id="lacmar2">Mary Lacey Jr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="27"/>
-						<daoloc id="28D" label="Dark"/>
-						<daoloc id="28L" label="Light"/>
-						<daoloc id="29"/>
-						<daoloc id="31"/>
+						<daoloc id="SCJ27"/>
+						<daoloc id="SCJ28D" label="Dark"/>
+						<daoloc id="SCJ28L" label="Light"/>
+						<daoloc id="SCJ29"/>
+						<daoloc id="SCJ31"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -340,7 +340,7 @@
 						<persname id="toomar">Mary Toothaker</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="32"/>
+						<daoloc id="SCJ32"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -354,7 +354,7 @@
 						<persname id="taymar">Mary Taylor</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="33"/>
+						<daoloc id="SCJ33"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -368,7 +368,7 @@
 						<persname id="">Sarah Cole</persname> (of Lynn)
 					</unittitle>
 					<daogrp>
-						<daoloc id="34"/>
+						<daoloc id="SCJ34"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -382,7 +382,7 @@
 						<persname id="duslyd">Lydia Dustin</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="35"/>
+						<daoloc id="SCJ35"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -396,7 +396,7 @@
 						<persname id="dussar">Sarah Dustin</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="36"/>
+						<daoloc id="SCJ36"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -410,8 +410,8 @@
 						<persname id="aldjoh">John Alden</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="37D" label="Dark"/>
-						<daoloc id="37L" label="Light"/>
+						<daoloc id="SCJ37D" label="Dark"/>
+						<daoloc id="SCJ37L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -425,8 +425,8 @@
 						<persname id="watmar">Mary Watkins</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="38D" label="Dark"/>
-						<daoloc id="38L" label="Light"/>
+						<daoloc id="SCJ38D" label="Dark"/>
+						<daoloc id="SCJ38L" label="Light"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -440,7 +440,7 @@
 						<persname id="possus">Susannah Post</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="39"/>
+						<daoloc id="SCJ39"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -454,7 +454,7 @@
 						<persname id="fryeun">Eunice Fry</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="40"/>
+						<daoloc id="SCJ40"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -468,7 +468,7 @@
 						<persname id="brimar2">Mary Bridges Jr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="41"/>
+						<daoloc id="SCJ41"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -482,7 +482,7 @@
 						<persname id="barmar">Mary Barker</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="42"/>
+						<daoloc id="SCJ42"/>
 					</daogrp>
 				</did>
 				<bibliography>
@@ -496,8 +496,8 @@
 						<persname id="barwil2">William Barker Jr.</persname>
 					</unittitle>
 					<daogrp>
-						<daoloc id="43"/>
-						<daoloc id="44"/>
+						<daoloc id="SCJ43"/>
+						<daoloc id="SCJ44"/>
 					</daogrp>
 				</did>
 				<bibliography>
