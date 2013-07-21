@@ -56331,6 +56331,8 @@ Comment: -->
 					<div3 type="section" id="d1e37039">
 						<head>(Account of <name type="person" key="barebe">Ebenezer Barker</name> --
 							Case of <name type="person" key="barabi">Abigail Barker</name> ) </head>
+						<figure n="MA146r"/>
+						<figure n="MA146v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honorable Comittee </name>
@@ -56421,6 +56423,8 @@ Comment: -->
 					<div3 type="section" id="d1e37259">
 						<head>(Account of <name type="person" key="barjoh">John Barker</name> --
 							Case of <name type="person" key="barwil2">William Barker, Jr.</name> ) </head>
+						<figure n="MA149r"/>
+						<figure n="MA149v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honourable Committee </name>
@@ -56549,6 +56553,8 @@ Comment: -->
 					<div3 type="section" id="d1e37488">
 						<head>(Account of <name type="person" key="presar">Sarah Preston</name> --
 							Case of <name type="person" key="brisar">Sarah Bridges</name> ) </head>
+						<figure n="MA140r"/>
+						<figure n="MA140v"/>
 						<p>To the Honourable Committee appointed by the Generall Court to Consider
 							the Loss of dammage Sustained by those who Suffered upon the Account of
 							the Supposed witchcraft in the year 1692 </p>
@@ -56580,6 +56586,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e37552">
 						<head>(Account of William Buckley, Jr. -- Cases of <name type="person" key="bucsar">Sarah Buckley</name> and <name type="person" key="witmar">Mary Witheridge</name> ) </head>
+						<figure n="MA160r"/>
+						<figure n="MA160v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To The Honourable Committee </name>
@@ -56620,6 +56628,8 @@ Comment: -->
 					<div3 type="section" id="d1e37631">
 						<head>(Account of <name type="person" key="burcha">Charles Burroughs</name>
 							-- Case of <name type="person" key="burgeo">George Burroughs</name> ) </head>
+						<figure n="MA136r"/>
+						<figure n="MA136v"/>
 						<p>To the Honoured Comitte apoined by the Gennarll Court to Inquire into the
 							Names of Such as may be Meet for takeing of the atta[nbar ]der <pb n="983"/> for the Makeing Some Restitucon &amp; these Humbly
 							&amp; Sorroufully Shew that our Dear &amp; Honourd father <name type="person" key="burgeo">Mr George Burrough</name> was aprehened
@@ -56653,6 +56663,7 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e37682">
 						<head>(Account of Thomas Carrier -- Case of <name type="person" key="carmar1">Martha Carrier</name> ) </head>
+						<figure n="MA163r"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honorable Committe Sitting at Salem
@@ -56687,6 +56698,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e37751">
 						<head>(Account of <name type="person" key="colsar1">Sarah Cole</name> ) </head>
+						<figure n="MA155r"/>
+						<figure n="MA155v"/>
 						<p>Salem -- <date value="1710-09-13" certainty="unconfirmed">Sept 13:
 							1710</date>
 						</p>
@@ -56742,6 +56755,8 @@ Comment: -->
 					<div3 type="section" id="d1e37863">
 						<head>(Account of <name type="person" key="moujoh">John Moulton</name> --
 							Cases of <name type="person" key="corgil">Giles</name> and <name type="person" key="cormar">Martha Corey</name>) </head>
+						<figure n="MA161r"/>
+						<figure n="MA161v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Hon'rable Commite Apointed by the
@@ -56804,6 +56819,8 @@ Comment: -->
 					<div3 type="section" id="d1e37951">
 						<head>(Account of <name type="person" key="dannat">Nathaniel Dane</name> --
 							Case of <name type="person" key="dandel">Deliverance Dane</name> ) </head>
+						<figure n="MA147r"/>
+						<figure n="MA147v"/>
 						<p>An Account of the Expences of <name type="person" key="dannat">Nathaniel
 								Dane</name> of Andover for his wife Deliverance who was accused of
 							witchcraft and Suffered Imprisonment 13 weeks in the year 1692 And for
@@ -56830,6 +56847,8 @@ Comment: -->
 					</div3>
 					<div3 type="section" id="d1e38022">
 						<head>(Account of <name type="person" key="eamreb">Rebecca Eames</name> ) </head>
+						<figure n="MA151r"/>
+						<figure n="MA151v"/>
 						<p>Boxford <date value="1710-09-12" certainty="unconfirmed">Septem
 							12-1710</date></p>
 						<p>to the honred Jentlmen of the commitey greating It having pleased the
@@ -56854,7 +56873,7 @@ Comment: -->
 							<salute>your humbell sarvant </salute>
 							<signed>Rebeckah Emes </signed>
 							<seg part="N">(Reverse) <name type="person" key="eamreb">Rebeccah Eames</name>
-								not Executed Extraordinary Confessor </seg>
+								not Executed an Extraordinary Confessor </seg>
 							<seg part="N">
 								<ref targOrder="U">( <hi rend="italics">Mass. Archives, Vol. 135 No. 151 </hi>)
 								</ref>
@@ -57268,6 +57287,8 @@ Comment: -->
 					<div3 type="section" id="d1e38905">
 						<head>(Account of <name type="person" key="fauabi1">Abigail Faulkner,
 							Sr.</name> ) </head>
+						<figure n="MA154r"/>
+						<figure n="MA154v"/>
 						<p>To the Honourable Committee Sitting in Salem <date value="1710-09-13" certainty="unconfirmed">Sept. 13, 1710 </date>An Account of the
 							Sufferings of <name type="person" key="fauabi">Abigail Faulkner</name>
 							of Andover and of <pb n="992"/> 2 of her children for supposed
@@ -57306,6 +57327,8 @@ Comment: -->
 					<div3 type="section" id="d1e38966">
 						<head>(Account of <name type="person" key="fosabr">Abraham Foster</name> --
 							Case of <name type="person" key="fosann">Ann Foster</name> ) </head>
+						<figure n="MA159r"/>
+						<figure n="MA159v"/>
 						<p>The Honorable Committee now Sitting at Salem <date value="1710-09-13" certainty="unconfirmed">Sept. 13, 1710</date> Whereas my Mother
 								<name type="person" key="fosann">Anne Foster</name> of Andover
 							suffered Imprisonment 21 weeks and upon her Tryall was condemned for
@@ -57424,6 +57447,7 @@ Comment: -->
 					<div3 type="section" id="d1e39221">
 						<head>(Account of <name type="person" key="grepet">Peter Green</name> --
 							Case of <name type="person" key="gremar">Mary Green</name> ) </head>
+						<figure n="MA170r"/>
 						<p>
 							<date value="1710-09-15" certainty="unconfirmed">September 15 --
 							1710</date>
@@ -57470,6 +57494,8 @@ Comment: -->
 					<div3 type="section" id="d1e39321">
 						<head>(Account of <name type="person" key="johfra">Francis Johnson</name> --
 							Case of <name type="person" key="hawsar">Sarah Hawkes</name> ) </head>
+						<figure n="MA166r"/>
+						<figure n="MA166v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Honorable Comittee Sitting in Salem </name>
@@ -57561,6 +57587,8 @@ Comment: -->
 					<div3 type="section" id="d1e39527">
 						<head>(Account of <name type="person" key="hobwil">William Hobbs</name> --
 							Case of <name type="person" key="hobabi">Abigail Hobbs</name> ) </head>
+						<figure n="MA156r"/>
+						<figure n="MA156v"/>
 						<p>Topsfield <date value="1710-09-13" certainty="unconfirmed">13 of
 								September 1710</date>
 						</p>
@@ -57626,6 +57654,8 @@ Comment: -->
 						<head>(Account of <name type="person" key="jacgeo2">George Jacobs,
 							Jr.</name> -- Case of <name type="person" key="jacgeo1">George Jacobs,
 								Sr.</name> ) </head>
+						<figure n="MA144r"/>
+						<figure n="MA144v"/>
 						<p>An a compt of what was seised and taken a way from my fathers Estate
 								<name type="person" key="jacgeo1">George Jacobs Sen'r</name> Late of
 							Salem dec'd by Sherif <name type="person" key="corjoh">Corwin</name>
@@ -57707,7 +57737,7 @@ Comment: -->
 							<name type="person" key="jacgeo1">George Jacobs Sen'r</name> of Salem
 							Condemned &amp; Executed. </p>
 						<p>
-							<ref targOrder="U">( <hi rend="italics">Mass. Archives Vol. 135 Nos. 133, 144 </hi>)
+							<ref targOrder="U">( <hi rend="italics">Mass. Archives Vol. 135 No. 144 </hi>)
 							</ref>
 						</p>
 					</div3>
@@ -59606,7 +59636,7 @@ Comment: -->
 						</p>
 					</div3>
 					<div3 type="section" id="d1e43903">
-						<head>(Order of <name type="person" key="eamreb">Rebecca Eames</name> ) </head><figure n="ecca2166r"/><figure n="ecca2166  v"/>
+						<head>(Order of <name type="person" key="eamreb">Rebecca Eames</name> ) </head><figure n="ecca2166r"/><figure n="ecca2166v"/>
 						<opener>
 							<dateline>
 								<name type="recipient">To the Gentlemen of the Committee appointed
@@ -59949,7 +59979,7 @@ Comment: -->
 						</closer>
 					</div3>
 					<div3 type="section" id="d1e44563">
-						<head>(Order of <name type="person" key="nurjoh">John Nurse</name> et al.) </head><figure n="ecca2148r"/><figure n="ecca2148 v"/>
+						<head>(Order of <name type="person" key="nurjoh">John Nurse</name> et al.) </head><figure n="ecca2148r"/><figure n="ecca2148v"/>
 						<p>Wheareas wee are Informed the Generall Court hath apointed a Committe to
 							ditribute to the parties Concearnd what the s'd Court hath alowed to
 							make Reparatian to the Sufferers in the year 1692 Therefore wee doe
