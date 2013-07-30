@@ -477,6 +477,33 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+	
+	<xsl:template name="figures2">
+		<xsl:choose>
+			<xsl:when test="self::figure[substring(@n, 1, 1) = 'H']">
+				<div class="figures">
+					<xsl:apply-templates select="self::figure[substring(@n, 1, 1) = 'H']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>mh</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="self::figure[substring(@n, 1, 2) = 'MA']">
+				<div class="figures">
+					<xsl:apply-templates select="self::figure[substring(@n, 1, 2) = 'MA']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>ma135</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+		</xsl:choose>
+	</xsl:template>
 
 	<xsl:template name="figures">
 		<xsl:choose>
@@ -632,11 +659,6 @@
 					<a href="{$path}archives/BPL/LARGE/{$filename}.jpg" target="_blank"
 						>Enlarge<br/>Manuscript</a>
 				</xsl:when>
-				<!--<xsl:when test="contains($source, 'Boy')">
-					<a href="{$path}archives/upham/medium/{@id}.jpg" class="jqueryLightbox">
-						<img src="{$path}archives/upham/gifs/{@id}.gif"/>
-					</a>
-					</xsl:when>-->
 				<xsl:when test="$source='ecca'">
 					<a href="{$path}archives/ecca/medium/{$filename}.jpg" class="jqueryLightbox">
 						<img src="{$path}archives/ecca/thumb/{$filename}.jpg"/>
@@ -772,7 +794,10 @@
 				</xsl:when>
 			</xsl:choose>
 		</xsl:if>
+		<xsl:call-template name="figures2" />
 	</xsl:template>
+	
+	
 
 	<xsl:template match="pb">
 		<a name="{@id}"/>
