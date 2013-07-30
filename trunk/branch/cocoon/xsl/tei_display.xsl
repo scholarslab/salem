@@ -718,9 +718,6 @@
 			</xsl:choose>
 
 		</div>
-
-
-
 	</xsl:template>
 
 	<xsl:template match="term" mode="contents_terms">
@@ -794,7 +791,32 @@
 				</xsl:when>
 			</xsl:choose>
 		</xsl:if>
-		<xsl:call-template name="figures2" />
+		
+		<div class="figures">
+		<xsl:choose>
+			
+				<xsl:when test="substring(@n, 1, 1) = 'H'">
+
+					<!-- <xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>mh</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates> -->
+
+					<xsl:apply-templates/>
+				</xsl:when>
+				<xsl:when test="substring(@n, 1, 2) = 'MA'">
+					<a href="{$path}archives/MA135/small/{@n}.jpg" class="jqueryLightbox">
+						<img src="{$path}archives/MA135/small/{@n}.jpg"/>
+					</a>
+					<br/>
+					<a href="{$path}archives/MA135/large/{@n}.jpg" target="_blank">
+						Enlarge<br/>Manuscript </a>
+				</xsl:when>
+		</xsl:choose>
+			</div>
+		
 	</xsl:template>
 	
 	
