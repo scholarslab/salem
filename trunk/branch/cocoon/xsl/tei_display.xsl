@@ -131,22 +131,24 @@
 					</xsl:when>
 					<xsl:when test="/TEI.2/@id = 'BoySal4R'">
 						<xsl:text>4</xsl:text>
-          </xsl:when>
-          <xsl:when test="/TEI.2/@id = 'BoySalCombined'">
-            <xsl:text>Combined</xsl:text>
-          </xsl:when>
+					</xsl:when>
+					<xsl:when test="/TEI.2/@id = 'BoySalCombined'">
+						<xsl:text>Combined</xsl:text>
+					</xsl:when>
 				</xsl:choose>
 			</xsl:variable>
 			<xsl:choose>
 				<xsl:when test="string-length($volume) &gt; 0">
-					<h3> The Salem witchcraft papers, original volumes <!-- <xsl:value-of select="$volume"/>:--> edited by
-						Paul Boyer and Stephen Nissenbaum (1977) / revised, corrected, and augmented by
-						Benjamin C. Ray and Tara S. Wood (2010)</h3>
+					<h3> The Salem witchcraft papers, original volumes
+						<!-- <xsl:value-of select="$volume"/>:--> edited by Paul Boyer and Stephen
+						Nissenbaum (1977) / revised, corrected, and augmented by Benjamin C. Ray and
+						Tara S. Wood (2010)</h3>
 				</xsl:when>
 				<xsl:otherwise>
 					<h3>
-						<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']" />
-						<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/author" />
+						<xsl:value-of
+							select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']"/>
+						<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/author"/>
 					</h3>
 				</xsl:otherwise>
 			</xsl:choose>
@@ -156,8 +158,8 @@
 				<li>Title Page: <a href="{/TEI.2/@id}">Volume <xsl:value-of select="$volume"
 					/></a></li>
 			</ul>
-      <xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
-      
+			<xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
+
 		</div>
 	</xsl:template>
 
@@ -287,12 +289,14 @@
 							<xsl:choose>
 								<xsl:when test="@id = $div_id or @id = $chapter_id">
 									<b>[No title]</b>
-                </xsl:when>
-                <xsl:when test="@type = 'year'">
-                  <a href="?div_id={@id}"><xsl:value-of select="@n" /></a>
-                </xsl:when>
+								</xsl:when>
+								<xsl:when test="@type = 'year'">
+									<a href="?div_id={@id}">
+										<xsl:value-of select="@n"/>
+									</a>
+								</xsl:when>
 								<xsl:otherwise>
-                  <a href="?div_id={@id}">[No title]</a>
+									<a href="?div_id={@id}">[No title]</a>
 								</xsl:otherwise>
 							</xsl:choose>
 
@@ -474,115 +478,117 @@
 		</xsl:choose>
 	</xsl:template>
 
+	<xsl:template name="figures">
+		<xsl:choose>
+			<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>mh</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'B']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'B']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>bpl</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'S']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'S']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>suffolk</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 2) = 'MA']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 2) = 'MA']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>ma135</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'eia']">
+				<div class="figures">
+
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 3) = 'eia']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>eia</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'ecca']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 4) = 'ecca']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>ecca</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'mehs']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 4) = 'mehs']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>mehs</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>
+			</xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'NYPL']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 4) = 'NYPL']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>nypl</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>: </xsl:when>
+			<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'SCJ']">
+				<div class="figures">
+					<xsl:apply-templates select="descendant::figure[substring(@n, 1, 3) = 'SCJ']"
+						mode="mss">
+						<xsl:with-param name="source">
+							<xsl:text>scj</xsl:text>
+						</xsl:with-param>
+					</xsl:apply-templates>
+				</div>
+				<xsl:apply-templates/>: </xsl:when>
+
+			<xsl:otherwise>
+				<xsl:apply-templates/>
+			</xsl:otherwise>
+		</xsl:choose>
+		<hr style="width:80%;margin-left:auto;margin-right:auto;margin-top:20px;"/>
+	</xsl:template>
+
 	<xsl:template match="div2">
 		<div class="div2">
-			<xsl:choose>
-				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'H']">
-					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'H']"
-							mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>mh</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'B']">
-					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'B']"
-							mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>bpl</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 1) = 'S']">
-					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 1) = 'S']"
-							mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>suffolk</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 2) = 'MA']">
-					<div class="figures">
-						<xsl:apply-templates select="descendant::figure[substring(@n, 1, 2) = 'MA']"
-							mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>ma135</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'eia']">
-          <div class="figures">
-            eia
-						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 3) = 'eia']" mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>eia</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'ecca']">
-					<div class="figures">
-						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 4) = 'ecca']" mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>ecca</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'mehs']">
-					<div class="figures">
-						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 4) = 'mehs']" mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>mehs</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 4) = 'NYPL']">
-					<div class="figures">
-						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 4) = 'NYPL']" mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>nypl</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>:
-				</xsl:when>
-				<xsl:when test="descendant::figure[substring(@n, 1, 3) = 'SCJ']">
-					<div class="figures">
-						<xsl:apply-templates
-							select="descendant::figure[substring(@n, 1, 3) = 'SCJ']" mode="mss">
-							<xsl:with-param name="source">
-								<xsl:text>scj</xsl:text>
-							</xsl:with-param>
-						</xsl:apply-templates>
-					</div>
-					<xsl:apply-templates/>:
-				</xsl:when>
-
-				<xsl:otherwise>
-					<xsl:apply-templates/>
-				</xsl:otherwise>
-			</xsl:choose>
-			<hr style="width:80%;margin-left:auto;margin-right:auto;margin-top:20px;"/>
+			<xsl:call-template name="figures"/>
 		</div>
 	</xsl:template>
 
@@ -661,8 +667,7 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/Suffolk/large/{$filename}.jpg" target="_blank">
-						Enlarge<br/>Manuscript
-					</a>
+						Enlarge<br/>Manuscript </a>
 				</xsl:when>
 				<xsl:when test="$source='ma135'">
 					<a href="{$path}archives/MA135/small/{$filename}.jpg" class="jqueryLightbox">
@@ -670,8 +675,7 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/MA135/large/{$filename}.jpg" target="_blank">
-						Enlarge<br/>Manuscript
-          			</a>
+						Enlarge<br/>Manuscript </a>
 				</xsl:when>
 				<xsl:when test="$source='nypl'">
 					<a href="{$path}archives/NYPL/SMALL/{$filename}.jpg" class="jqueryLightbox">
@@ -679,17 +683,15 @@
 					</a>
 					<br/>
 					<a href="{$path}archives/NYPL/LARGE/{$filename}.jpg" target="_blank">
-						Enlarge<br/>Manuscript
-					</a>
-        </xsl:when>
-        <xsl:when test="$source='scj'">
+						Enlarge<br/>Manuscript </a>
+				</xsl:when>
+				<xsl:when test="$source='scj'">
 					<a href="{$path}archives/SCJ/small/{$filename}.jpg" class="jqueryLightbox">
 						<img src="{$path}archives/SCJ/small/{$filename}.jpg"/>
 					</a>
 					<br/>
 					<a href="{$path}archives/SCJ/large/{$filename}.jpg" target="_blank">
-						Enlarge<br/>Manuscript
-					</a>
+						Enlarge<br/>Manuscript </a>
 				</xsl:when>
 			</xsl:choose>
 
@@ -757,21 +759,23 @@
 			<xsl:choose>
 				<xsl:when test="contains($doc_id, 'Uph')">
 					<div class="figure">
-						<a href="{$path}archives/upham/medium/{@id}.jpg" id="{@id}" class="jqueryLightbox" title="{figDesc}">
+						<a href="{$path}archives/upham/medium/{@id}.jpg" id="{@id}"
+							class="jqueryLightbox" title="{figDesc}">
 							<img src="{$path}archives/upham/gifs/{@id}.gif"/>
 						</a>
 						<br/>
-						<a href="{$path}archives/upham/large/{@id}.jpg" target="_blank">Enlarge Image</a>
+						<a href="{$path}archives/upham/large/{@id}.jpg" target="_blank">Enlarge
+							Image</a>
 						<br/>
 						<xsl:apply-templates select="figDesc"/>
 					</div>
 				</xsl:when>
-			</xsl:choose>			
+			</xsl:choose>
 		</xsl:if>
 	</xsl:template>
-	
+
 	<xsl:template match="pb">
-		<a name="{@id}" />
+		<a name="{@id}"/>
 	</xsl:template>
 
 	<!-- removed pb milestones, no longer necessary since content has been changed versus printed edition -->
@@ -1080,7 +1084,7 @@
 		</a>
 
 	</xsl:template>-->
-	
+
 	<xsl:template match="ref">
 
 		<xsl:variable name="docId">
