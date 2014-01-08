@@ -5270,9 +5270,9 @@
 						William &amp; Mary now King and Queen <lb/> over England &amp;c </p>
 					<closer>
 						<signed> &Pbar; us <name type="person" key="hawjoh">* John Hathorne</name>
-							<lb/>																&lcub; <lb/> Assis'ts </signed>
-							<name type="person" key="corjoh">*                Jonathan. Corwin</name> 
-							
+							<lb/>																
+							<name type="person" key="corjoh">* Jonathan. Corwin</name> &lcub; <lb/>
+						Assis'ts </signed>	
 						<pb n="52"/>
 						<seg>
 							<table>
@@ -5315,8 +5315,8 @@
 								type="person" key="aldjoh">Cap't John Alden</name> accordeing to the
 							tener of <lb/> this warant </seg>
 						<seg>(In right margin) <name type="person" key="aldjoh">John Alden</name>
-				
-							<ref>( <hi rend="italics">Essex County Archives, Witchcraft Vol.
+						
+						<ref>( <hi rend="italics">Essex County Archives, Witchcraft Vol.
 									2, no. 107 </hi>) </ref>
 						</seg>
 					</closer>
