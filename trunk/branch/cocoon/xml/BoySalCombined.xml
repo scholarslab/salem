@@ -5252,17 +5252,17 @@
 						<salute>To the Constable of Salem </salute>
 					</opener>
 					<p>Essex Ss Whereas Complaint hath been made unto us <name type="person"
-							key="hawjoh">John <orig reg="Hathorne">Ha- <lb/> thorne </orig></name>
+							key="hawjoh">John <orig reg="Hathorne">Hathorne </orig></name>
 						&amp; <name type="person" key="corjoh">Jonathan Corwin</name> Esq'rs by
-						severall persons of Salem <orig reg="Village">Vil- <lb/> lage </orig> that
+						severall persons of Salem <orig reg="Village">Village </orig> that
 						Cap't <name type="person" key="aldjoh">John Alden</name> of Boston Marrin'r
-						# [that he] is guilty <lb/> of Witchcraft in cruelly <orig reg="torturing"
+						# [that he] is guilty <lb/> of witchcraft in cruelly <orig reg="torturing"
 							>tortureing</orig> &amp; afflicting several of their <orig
 							reg="Children">Chil- <lb/> dren </orig> &amp; others these are therefore
 						in their Maj'ties King William <lb/> &amp; Queen Maryes name to Authorize
-						&amp; Comand you forwith to <orig reg="Apprehend">Appre- <lb/> hend </orig>
+						&amp; Comand you forthwith to <orig reg="Apprehend">Appre- <lb/> hend </orig>
 						the body of the said <name type="person" key="aldjoh">John Alden</name> and
-						imediately bring him <lb/> before us to answer what shall be objected ag't
+						Imediately bring him <lb/> before us to Answer what shall be objected ag't
 						him in that behalfe <lb/> and this shall be yo'r sufficient warrant Given
 						under our hands the <lb/>
 						<date value="1692-05-31" certainty="confirmed">31st day of May 1692 </date>
@@ -5270,9 +5270,9 @@
 						William &amp; Mary now King and Queen <lb/> over England &amp;c </p>
 					<closer>
 						<signed> &Pbar; us <name type="person" key="hawjoh">* John Hathorne</name>
-							<lb/>
-							<name type="person" key="corjoh">* Jonathan. Corwin</name> &lcub; <lb/>
-							Assis'ts </signed>
+							<lb/>																&lcub; <lb/> Assis'ts </signed>
+							<name type="person" key="corjoh">*                Jonathan. Corwin</name> 
+							
 						<pb n="52"/>
 						<seg>
 							<table>
@@ -5313,10 +5313,11 @@
 						<seg>(Reverse) In obediance to the within written warant I have <orig
 								reg="Apprehended">Appre- <lb/> hended </orig> the Body of <name
 								type="person" key="aldjoh">Cap't John Alden</name> accordeing to the
-							tener of <lb/> this warrant </seg>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol
-									2. p. 107 </hi>) </ref>
+							tener of <lb/> this warant </seg>
+						<seg>(In right margin) <name type="person" key="aldjoh">John Alden</name>
+				
+							<ref>( <hi rend="italics">Essex County Archives, Witchcraft Vol.
+									2, no. 107 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
