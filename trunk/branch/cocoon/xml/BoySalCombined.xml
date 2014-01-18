@@ -5247,7 +5247,7 @@
           <div2 id="n6.1" type="warrant">
             <figure n="ecca2107r"/>
             <figure n="ecca2107v"/>
-            <head>(Warrant for Arrest of <name type="person" key="adjoh">John Alden</name> ) </head>
+            <head>(Warrant for the Apprehension of <name type="person" key="adjoh">John Alden</name> ) </head>
 					<opener>
 						<salute>To the Constable of Salem </salute>
 					</opener>
@@ -5334,7 +5334,7 @@
 				</div2>
 
 				<div2 id="n6.3" type="examination">
-					<head>( <name type="person" key="aldjoh">John Alden's</name> Account of his
+					<head>(Examination of <name type="person" key="aldjoh">John Alden</name>
 						Examination) </head>
 					<p>
 						<name type="person" key="aldjoh">John Aldin Senior</name> , of Boston, in
@@ -5427,7 +5427,7 @@
 				</div2>
 
 				<div2 id="n6.4" type="mittimus">
-					<head>[Mittimus] To Mr. <name type="person" key="arnjoh">John Arnold</name> ,
+					<head>[Mittimus for <name type="person" key="arnjoh">John Arnold</name> and <name type="person" key="ricsar">Sarah Rice</name>] <lb/> To Mr. <name type="person" key="arnjoh">John Arnold</name> ,
 						Keeper of the Prison in Boston, in the County <lb/> of Suffolk. </head>
 					<p>Whereas Captain John <name type="person" key="aldjoh">Aldin</name> of Boston,
 						Marriner, and <name type="person" key="ricsar">Sarah Rice</name> , <lb/>
@@ -5484,39 +5484,38 @@
 					<figure n="B38r"/>
 					<p>Suffolk Ss. </p>
 					<p>Memorandum, That on the <date value="1692-12-31" certainty="confirmed">Thirty
-							First day of Decemb'r 1692 </date>. <lb/> In the Fourth year of the
+							First day of Decemb'r 1692</date>. <lb/> In the Fourth year of the
 						Reign of our Sovereign Lord &amp; Lady <lb/> William and Mary by the grace
 						of God of England Scotland France <lb/> and Ireland King and Queen &amp;c
-						formally came and appeared Before <lb/> me <name type="person" key="ricjoh"
+						&Pbar;sonally came and appeared Before <lb/> me <name type="person" key="ricjoh"
 							>John Richards</name> Esq'r One of their Ma'ties Justices of the
-						Superior <lb/> Court of Judicature within the Province of the Massachusetts
+						Superiour <lb/> Court of Judicature within the Province of the Massachusetts
 						Bay in <lb/> New England, <name type="person" key="aldjoh">John Alden</name>
 						#[of] Marrin'r <name type="person" key="wilnat">Nathanael Williams</name>
 						&amp; <lb/>
 						<pb n="55"/>
-						<name type="person" key="chesam1">Samuel Checkley</name> , shopkeepers all
-						of Boston within the said County <lb/> of Suffolk. -- and acknowledged
-						themselves and each of them to be <lb/> indebted unto our said Lord and Lady
-						the King and Queen, and the <lb/> Survivor of them, their heires and
+						<name type="person" key="chesam1">Samuel Chechley</name>, Shopkeepers all
+						of Boston within the said County <lb/> of Suffolk. </p>
+					<p>and acknowledged themselves and each of them to be <lb/> indebted unto our said Lord and Lady
+						the King and Queen, and the <lb/> Survivour of them, their heires and
 						Successors in the Sum of Two <lb/> hundred pounds To be levied on their or
 						either of their Goods, <lb/> Chattels, Lands or Tenements for the use of our
-						said Lord &amp; Lady <lb/> the King and Queen or the Survivors of them, if
-						default be made <lb/> in the performance of the condition underwritten. </p>
-					<p>The Condition of the above Recogniscance is such that whereas <lb/> the above
-						bounded <name type="person" key="aldjoh">John Alden</name> , being accused
+						said Lord &amp; Lady <lb/> the King and Queen or the Survivour of them, if
+						default be made <lb/> in the performance of the Condition underwritten. </p>
+					<p>The Condition of the above Recogniscance is such That whereas <lb/> the abovebounden <name type="person" key="aldjoh">John Alden</name> , being accused
 						and Suspected of <orig reg="perpetrating">per- <lb/> petrating </orig>
 						divers Acts of Witchcrafts contrary to the forme of the <lb/> Statute in
 						that case made and provided, was taken up and committed <lb/> for the same
-						unto their Ma'ties Goal in Boston, from whence he <lb/> made his Escape --
+						unto their Ma'ties Goal in Boston, from whence he <lb/> made his Escape
 						If Therefore the said <name type="person" key="aldjoh">John Alden</name>
 						shall personally <lb/> appear before their Ma'ties Justices, at the next
-						Superior Court of <lb/> Judicature and Court of Assize to be held at Boston
-						within the said <lb/> County of Suffolk, to answer what shall be objected
-						against him on <lb/> their Maj'ties behalfe referring unto the premises, and
-						shall do and <lb/> receive that which by the said court shall then &amp;
-						there be Enjoyned <lb/> him, then this abovewritten Recogniseance to be void
-						and of no no <lb/> [ <hi rend="italics">sic </hi>] Effect; Or else to abide
-						and remain in full force and virtue. </p>
+						Superiour Court of <lb/> Judicature and Court of Assize to be held at Boston
+						within the said <lb/> County of Suffolke, to answer what shall be objected
+						against him on <lb/> their Maj'ties behalfe referring unto the p'rmisses, And
+						shall do and <lb/> receive that which by the said Court shall then &amp;
+						there be Enjoyned <lb/> him, Then this abovewritten Recogniscance to be void
+						and of none <lb/> Effect; Or else to abide
+						and remain in full force and virtue./. </p>
 					<closer>
 						<dateline>Recognit die predict. </dateline>
 						<lb/>
@@ -5553,34 +5552,36 @@
 						<table>
 							<row>
 								<cell>Essex in the Province <lb/> of the Massachusetts bay <lb/> In
-									New England Ss// </cell>
+									New England ss// </cell>
 								<cell>
-									<foreign lang="lat">Anno R R's &amp; Reginae Gulielmi <lb/>&amp;
+									<foreign lang="lat">Anno RR&rbar;'s &amp; Reginae Gulielmi <lb/>&amp;
 										Mariae Angliae &amp;c Quarto Anoq'e <lb/> \ Do&mbar; : 1692
 									</foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
-					<p>The Jurors for o'r Sov'r: lord and Lady the King and Queen present... </p>
-					<p>That <name type="person" key="barabi">Abigaill Barker</name> Wife of <name
+					<p>The Jur'rs for o'r Sov'r lord and Lady the King and Queen present <lb/> 
+						That <name type="person" key="barabi">Abigaill Barker</name> Wife of <name
 							type="person" key="barebe">Ebenezer Barker</name> of Andivor In <lb/>
-						&amp; upon the Eighth day of September last in the Yeare aforesaid <lb/>
+						&amp; upon the Eighth day of September last in the yeare aforesaid <lb/>
 						&amp; divers other days &amp; Times as well before as after Certaine <orig
 							reg="detestable">detes- <lb/> table </orig> arts Called Witchcrafts
-						&amp; Sorcerys Wickedly Mallitously <lb/> &amp; felloniously hath used
-						practised &amp; Exersised at &amp; in the Town of <lb/> Andivor aforesaid in
-						the County of Essex aforesaid upon &amp; Against <lb/> One <name
-							type="person" key="fosros">Rose foster</name> of Andivor by which Said
+						&amp; Sorcerys wickedly mallitiously <lb/> &amp; felloniously hath used
+						practised &amp; Exersised at &amp; in the Towne of <lb/> Andivor aforesaid in
+						the County of Essex aforesaid #[in] upon &amp; Against <lb/> One <name
+							type="person" key="fosros">Rose foster</name> of Andivor [ ] by which Said
 						Wicked Arts the Said <lb/>
 						<name type="person" key="fosros">Rose foster</name> the day &amp; year
 						afo&rbar;s'd &amp; divers others days &amp; times <lb/> both before &amp;
-						after, was &amp; is Tortured Afflicted Consumed pined <lb/> Wasted and
+						after was &amp; is Tortured Aflicted Consumed pined <lb/> Wasted and
 						Tormented Against the peace of o'r Sov'r lord &amp; lady <lb/> the King
 						&amp; Queen their Crowne &amp; dignity &amp; the laws &amp; Acts in <lb/>
 						that Case made &amp; provided </p>
-					<p>
+					<p>(Reverse) Abigaill Barker for bewitching Rose foster
+						<seg>
 						<ref>( <hi rend="italics">Mass. Archives Vol. 135 No. 54 </hi>) </ref>
+						</seg>
 					</p>
 				</div2>
 			</div1>
@@ -5606,44 +5607,44 @@
 					<figure n="eia24-6v"/>
 					<head>(Examination of <name type="person" key="barmar">Mary Barker</name> ) </head>
 					<figure n="S014r"/>
-					<p>1st Paper </p>
 					<p>
-						<date value="1692-08-29" certainty="unconfirmed">29 August 1692 </date>
+						<date value="1692-08-29" certainty="unconfirmed">29 August 1692. </date>
 						Before <name type="person" key="gidbar">Maj'r Gidney</name>
 						<name type="person" key="hawjoh">Mr. Hauthorn</name> and <name type="person"
-							key="corjoh">Mr. <orig reg="Corwin">Cor- <lb/> win </orig></name> The
-						Examination and Confession of <name type="person" key="barmar">Mary
-							Barker</name> of Andover. <lb/> After severall questions propounded and
-						negative answ'rs Returned <lb/> she at last acknowledged that Goody Johnson
-						<!-- Comment: --> made her a witch, And <lb/> sometime last sumer she made a
-						red mark in the devils book with the <lb/> fore finger of her Left hand, And
+							key="corjoh">Mr. <orig reg="Corwin">Corwin </orig></name> </p>
+					<p>The Examination and confession of <name type="person" key="barmar">Mary
+						Barker</name> of Andover </p>
+					<p>After severall questiones propounded and negative answe'rs Returned <lb/> she at 
+						last acknowledged that Goody Johnson <!-- Comment: --> made her a witch, And <lb/>
+						that #[this] sometine last #[spring] sumer she made a
+						red mark in the devils book with the <lb/> forefinger of her Left hand, And
 						the Devil would have her hurt <lb/>
-						<name type="person" key="sprmar">Martha Sprague</name> , <name type="person"
-							key="fosros">Rose Foster</name> and <name type="person" key="marabi"
-							>Abigail martin</name> which she did upon <lb/> saturday and sabath Day
+						<name type="person" key="sprmar">martha Sprague</name> <name type="person"
+							key="fosros">Rose foster</name> and <name type="person" key="marabi"
+							>Abigail martin</name> which she did upon <lb/> Saturnday and Sabath day
 						last, she said she was not above a quarter of <lb/> an hour in comeing down
-						from Andover to Salem: to afflict, she <lb/> sayes she afflicted the above
-						three persons by squeezing her hands. <lb/> She confesses she was at the
+						from Andover to Salem to afflict, she <lb/> sayes she afflicted the above
+						three persones bye squeezeing her hands. <lb/> she confesses she was at the
 						witch meeting at Salem Village with her <lb/> unkle, there was a great many
-						there, and of her company there was <lb/> only her unkle, <name
-							type="person" key="barwil1">Wm. Barker</name> and <name type="person"
-							key="marmar1">Mary Marston</name> . <name type="person" key="sprmar"
+						theire, and of her company their was <lb/> only her unkle, <name
+							type="person" key="barwil1">W'm Barker</name> and <name type="person"
+							key="marmar1">mary marston</name> <name type="person" key="sprmar"
 							>Martha Sprague</name> said <lb/> that <name type="person" key="barmar"
-							>Mary Barkers</name> apparition told that she was Baptisied at five myle
+							>Mary Barkers</name> apparition told that she was baptised at five myle
 						<lb/> pond. </p>
 					<p>said <name type="person" key="barmar">Mary Barker</name> said there was such
-						aload &amp; weight at her <orig reg="stomach">stom- <lb/> ach </orig> that
-						hindered her from speaking. And is afrayd she has given up <lb/> herself
-						soul and body to the Devil. she sayes she promised to serve <lb/> worship
-						and believe in him and he promesed to perdone her sins, <lb/> but finds he
-						has [dowtbed] her, and that she was Lost of God and <lb/> all good people,
-						That Goody Johnson <!-- Comment: --> and Goody falkner <!-- Comment: -->
-						appeared <lb/> at the same tyme and threatened to teare her in peeces if she
-						did <lb/> not doo what she then did. she further Sayth that she has seen no
+						a load &amp; weight at her <orig reg="stomach">stom- <lb/> ack </orig> that
+						hindered her from speakeing And is afrayd she hes given up <lb/> her self
+						soul &amp; body to the devil she sayes she promised to serve <lb/> worship
+						and beleeve in him And he promessed to pardone her sins, <lb/> but finds he
+						hes deserved her, and that she was Lost of god and <lb/> all good people,
+						That Goody Jonson <!-- Comment: --> and Goody falkner <!-- Comment: -->
+						appeared <lb/> at the same tyme and threatned to teare her in peeces if she
+						did <lb/> not doo what she then did. she further sayth that she hes seen no
 						<lb/> appearance since but a fly which did speake to her, and bid her <lb/>
-						afflict these poor creatures. which she did by pinching with, and <lb/>
-						Clincheing of her hands for which she is sorry And further the Devil <lb/>
-						<pb n="60"/> told her it would be very brave and clever for her to come down
+						afflict these poor creatu'rs. which she did by pincheing with, and <lb/>
+						Clincheing of her hands for which she is sorry, And further the Devil <lb/>
+						<pb n="60"/> told her it would be very brave and cliver for her to come down
 						<lb/> here to Salem among these accused persones. And that she should <lb/>
 						never be brought out. She promises to confess what more she shall <lb/>
 						hereafter remember. </p>
@@ -5652,15 +5653,15 @@
 							<row>
 								<cell>
 									<name type="person" key="barmar">Mary Barker</name> Signed and
-									owned <lb/> the above said Examination <lb/>&amp; Confession </cell>
+									owned <lb/> the abovesaid Examination <lb/>&amp; Confesion </cell>
 								<cell>THE MARKE <lb/> of <lb/>
-									<name type="person" key="barmar">Mary Barker</name>
+									<name type="person" key="barmar">Mary. Barker:</name>
 								</cell>
 							</row>
 						</table>
 					</p>
 					<closer>
-						<dateline> /<date value="1692-09-17" certainty="unconfirmed">17 Sep't
+						<dateline> <date value="1692-09-17" certainty="unconfirmed">17 Sep't
 								1692</date> before me </dateline>
 						<lb/>
 						<signed>
