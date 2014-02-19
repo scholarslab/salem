@@ -3905,6 +3905,8 @@
 					<term id="henela">Elanor Henderson</term>
 					<term id="heneli">Elias Henly Jr.</term>
 					<term id="henisr">Israel Henry</term>
+					<term id="hewjoh">John Hewes</term>
+					<term id="hewbet">Betty Hews</term>
 					<term id="hergeo">George Herrick</term>
 					<term id="herhen">Henry Herrick</term>
 					<term id="herjoh">John Herrick</term>
@@ -5317,7 +5319,7 @@
 						<seg>(In right margin) <name type="person" key="aldjoh">John Alden</name> <lb/> 
 						
 						<ref>( <hi rend="italics">Essex County Archives, Witchcraft Vol.
-									2, no. 107 </hi>) </ref>
+									2 No. 107 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
@@ -5675,7 +5677,7 @@
 						<name type="person" key="fosros">Rose Foster</name> <lb/>
 						<name type="person" key="marabi">Abigall Martin</name> <lb/>
 						<seg>
-							<ref>( <hi rend="italics">Suffolk Court Files, vol. 32, docket 2678, p. 10
+							<ref>( <hi rend="italics">Suffolk Court Files Vol. 32 Case No. 2678 Page 10
 								</hi>) </ref>
 						</seg>
 					</closer>
@@ -5742,8 +5744,7 @@
 							<name type="person" key="barmar">Mary Barker</name>
 						</seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex Institute Collection, 
-									no. 24, 6v-7r </hi>) </ref>
+							<ref>( <hi rend="italics">Essex Institute Collection No. 24 6v-7r </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
@@ -5774,9 +5775,9 @@
 						Exercised in &amp; upon <lb/> the Body of <name type="person" key="marabi"
 							>Abigaill Martin</name> of Andivor #[] at and within the Township <lb/> of Andivor
 						aforesaid, by which said Wicked Acts the said <name type="person" key="marabi"
-							>Abigaill Martin</name> <lb/> the day aforsaid in the yeare aforesaid And at Divers <lb/> 
-						other days and times as well before as After was and is Tortured <orig reg="afflicted">aflicted</orig> <lb/> and
-						Tormented. And injured ["And Injured" written over "and thereby"] consumed pined and <lb/> 
+							>Abigaill Martin</name> <lb/> the day aforsaid in the yeare aforesaid And at Divers  
+						other days and <lb/> times as well before as After was and is Tortured <orig reg="afflicted">aflicted</orig> and
+						Tormented. <lb/> And injured ["And Injured" written over "and thereby"] consumed pined and <lb/> 
 						wasted, Against the peace of our
 						Soveraigne Lord and Lady King and <lb/> Queen theire Crowne and dignity and
 						the Statute of the first of <lb/> King James #[in] the first in that Case made and
@@ -5790,7 +5791,7 @@
 						<name type="person" key="payrob">*Robert Payne</name>
 						foreman: <lb/> ponet se <lb/> Not Guilty </p>
 					<p>
-						<ref>( <hi rend="italics">Suffolk Court Files, vol. 32, docket 2670, p. 10 </hi>)
+						<ref>( <hi rend="italics">Suffolk Court Files Vol. 32 Case No. 2670 Page 10 </hi>)
 						</ref>
 					</p>
 				</div2>
@@ -5805,36 +5806,38 @@
 						<table>
 							<row>
 								<cell>Essex in the Province <lb/> of the Massachusetts <lb/> Bay in
-									New England <lb/> Ss . . . </cell>
+									New England <lb/> ss/ </cell>
 								<cell>
-									<foreign lang="lat">Anno R.R.'s &amp; Reginae Gulielmi
-										<lb/>&amp; Mariae Angliae &amp;ca Quarto Annoq'e <lb/>
+									<foreign lang="lat">Anno R&rbar;s &amp; Reginae Gulielmi
+										<lb/>&amp; Mariae Angliae &amp;c'a Quarto Annoq'e <lb/>
 										Domini 1692// </foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
 					<p>The Jurors for our Sov'r Lord and Lady the King &amp; Queen doe <lb/> &pbar;
-						sent that <name type="person" key="barmar">Mary Barker</name> of Andvor </p>
-					<p>In the County of Essex - - On or about the 29'th day of August <lb/> last - -
-						In the yeare aforesaid and Divers other days and times as well <lb/> before
-						as after Certaine detestable arts Called Witchcraft and <orig
+						sent That <name type="person" key="barmar">Mary Barker</name> of Andvor - - -
+						In the County of Essex - - On or about the 29'th day of August <lb/> last #[1692] - -
+						In the Yeare aforesaid and divers other days and times as well <lb/> before
+						as after Certaine detestable Arts Called Witchcraft and <orig
 							reg="Sorceries">Sorce- <lb/> ries </orig> Wickedly Mallitiously and
 						felloniously hath used practised and <lb/> Exercised At and in the Towne of
-						Andvor in the County of Essex - - <lb/> aforesaid in upon and against one
+						Andivo'r in the County of Essex - - <lb/> aforesaid in upon and against one
 							<name type="person" key="fosros">Rose foster</name> of [- - - -] <orig
 							reg="aforesaid">afore- <lb/> said </orig> - - - by which said Wicked
-						Acts the said <name type="person" key="fosros">Rose foster</name> the Day
-						<lb/> &amp; Yeare - - aforesaid &amp; Divers other Days and times both
+						Acts the said <name type="person" key="fosros">Rose foster</name> the day
+						<lb/> &amp; yeare - - aforesaid &amp; divers other days and times both
 						before and <lb/> after was and is Tortured <orig reg="Afflicted"
-							>Aflicted</orig> Consumed Pined Wasted and <orig reg="Tormented">Tor-
-							<lb/> mented </orig>. Against the Peace of our Sov'r Lord and Lady the
+						>Aflicted</orig> Consumed Pined Wasted and <orig reg="Tormented">Tor-
+						<lb/> mented #[and also for Sundry other Acts of Witchcraft by the said [ ] Comitted <lb/>
+						and done before and Since that time] </orig> Against ["A" written over "a"] <lb/>
+						the Peace of our Sov'r Lord and Lady the
 						King and <lb/> Queen theire Crowne and Dignity and the forme of the Stattute
 						In <lb/> that case made &amp; Provided. </p>
-					<p>(Reverse) </p>
-					<p rend="center">Billa Vera <lb/> foreman <lb/> ponet se <lb/> Not Guilty </p>
+					<p>(Reverse) Mary Barker: bewitching Rose foster </p>
+					<p rend="center">Billa vera <lb/> foreman <lb/> ponet se <lb/> Not Guilty </p>
 					<p>
-						<ref>( <hi rend="italics">Suffolk Court Files Case No. 2678 Page 9 </hi>)
+						<ref>( <hi rend="italics">Suffolk Court Files Vol. 32 Case No. 2678 Page 9 </hi>)
 						</ref>
 					</p>
 				</div2>
@@ -5858,32 +5861,32 @@
 						<table>
 							<row>
 								<cell>Province of the Massachusetts <lb/> Bay Essex In New England
-									Ss </cell>
+									ss </cell>
 								<cell>
-									<foreign lang="lat">Anno R R's &amp; Regina Gulielmi <lb/>&amp;
-										Mariae Angliae &amp; Quarto Anoq'e <lb/> \ Do&mbar; 1692
+									<foreign lang="lat">Anno R&rbar;s &amp; Reginae Gulielmi <lb/>&amp;
+										Mariae Angliae &amp;c Qua'rto Anoq'e <lb/> Do&mbar; 1692
 									</foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
-					<p>The Jurors for our Sov'r Lord &amp; Lady the King &amp; Queen
-						&pbar;&rbar;'sent <lb/> that <name type="person" key="barwil1">William
-							Barker Senior</name> of Andivor In the County of Essex afo&rbar;sd <lb/>
-						Husbandman About Three Years past in the Towneship of Andivo'r <lb/>
-						afores'd Wickedly, Mallitiously &amp; felloniously a Covenant with the <lb/>
-						<orig reg="Devil">Devill</orig> did Make, And did Signe the <orig
+					<p>The Juro'rs for our Sov'r lord &amp; lady the King &amp; Queen
+						p'rsent <lb/> That <name type="person" key="barwil1">William
+							Barker senior</name> of Andivo'r In the County of Essex afo&rbar;&sbar;d <lb/>
+						Husbandman About Three years past in the Towneship of Andivo'r <lb/>
+						afo&rbar;&ebar;&sbar;d Wickedly mallitiously &amp; felloniously A Covenant with the <lb/>
+						<orig reg="Devil">Devill</orig> did make, And did Signe the <orig
 							reg="Devil's book">Devills Booke</orig> with Blood, <lb/> &amp; gave
-						himselfe Soule &amp; body to the <orig reg="Devil">Devill</orig>, By Which
+						himselfe Soule &amp; body to the <orig reg="Devil">Devill</orig>, By which
 						Wicked &amp; <orig reg="diabollicall">diabol- <lb/> licall </orig> Covenant
 						with the <orig reg="Devil">Devill</orig> made in maner &amp; forme Aforesaid
 						The <lb/> Said <name type="person" key="barwil1">William Barker</name> is
-						become A [A] detestable Witch Against the <lb/> peace of o'r Sover' Lord
+						become A A detestable Witch Against the <lb/> peace of o'r Sove'r lord
 						&amp; Lady the King &amp; Queen their Crowne <lb/> &amp; dignity &amp; the
-						Laws in that Case made &amp; provided, </p>
-					<p>(Reverse) <name type="person" key="barwil1">William Barker Senior</name> for
-						Covenanting with <orig reg="Devil">Devill</orig>. </p>
-					<p rend="center">Billa vera <name type="person" key="payrob">*Robert
+						laws in that Case made &amp; provided. </p>
+					<p>(Reverse) <name type="person" key="barwil1">William Barker Senio'r</name> for
+						Covenanting with the <orig reg="Devil">Devill</orig> </p>
+					<p rend="center">Billa vera <lb/> <name type="person" key="payrob">*Robert:
 							Payne</name> foreman </p>
 					<p>
 						<ref>( <hi rend="italics">Massachusetts Archives Vol. 135 No. 38 </hi>)
@@ -5900,16 +5903,16 @@
 					<figure n="B26v"/>
 
 					<opener>
-						<salute>Essex <lb/> To the Constables of Andov'r: </salute>
+						<salute>Essex To the Constables of Andov'r </salute>
 					</opener>
 					<p>Complaint being made to me this day, by <name type="person" key="marsam1"
 							>Sam'l Martin</name> of Andover <lb/> &amp; <name type="person"
-							key="tylmos">Moses Tyler sen'r</name> of Boxford, against Will&abar;a
+							key="tylmos">Moses Tyler sen'r</name> of Boxford, against Willi&abar;
 							<name type="person" key="barwil1">Barker sen'r</name>
 						<name type="person" key="marmar1">Mary <lb/> Marstone</name> the wife of
 							<name type="person" key="marjoh">John Marstone jun'r</name> &amp; <name
 							type="person" key="barwil1">Mary Barker</name> the <orig reg="Daughter"
-							>Daugh- </orig>
+							>daugh- </orig>
 						<lb/>
 						<pb n="64"/>
 						<orig>ter </orig> of Lef't <name type="person" key="barjoh">John
@@ -5917,39 +5920,45 @@
 							key="barwil1">William <lb/> Barker</name>
 						<name type="person" key="marmar1">Mary Marstone</name> &amp; <name
 							type="person" key="barmar">Mary Barker</name>, have woefully afflicted
-						<lb/> &amp; Abused, <name type="person" key="marabi">Abigail Martin</name>
+						<lb/> &amp; abused, <name type="person" key="marabi">Abigail Martin</name>
 						&amp; <name type="person" key="fosros">Rose foster</name> of Andov'r, &amp;
 							<name type="person" key="sprmar">Martha Sprague</name>
-						<lb/> of Boxford by witchcraft, Contrary to the peace of O'r Sovereigne
-						<lb/> Lord &amp; Lady William &amp; Mary King &amp; Queen of England &amp;c:
+						<lb/> of Boxford by witchcraft, Contrary to the peace of o'r sovereigne
+						<lb/> Lord &amp; Lady #[King] William &amp; Mary King &amp; Queen of England &amp;c:
 						&amp; to <lb/> their Majes'ts Laws in that Case provided: </p>
-					<p>These therefore require you in their Majes'ts names upon sight </p>
-					<p>hereof, to apprehend &amp; seize the bodies of <name type="person"
+					<p>These therefore require you in their Majes'ts names upon sight 
+						hereof, to apprehend &amp; seize the bodies of <name type="person"
 							key="barwil1">William Barker sen'r</name>
 						<lb/>
 						<name type="person" key="marmar1">Mary Marstone</name> the wife of <name
 							type="person" key="marjoh">John Marstone jun'r</name> &amp; <name
-							type="person" key="barmar">Mary Barker</name> the <lb/> Daughter of
+							type="person" key="barmar">Mary Barker</name> the <lb/> daughter of
 						Lef't <name type="person" key="barjoh">John Barker</name> all of Andov'r
 						&amp; them safely Convey <lb/> to Salem, before their Majes'ts justices of
-						the Peace there, to be <orig reg="examined">ex- <lb/> amined </orig> &amp;
-						Proceeded with according to law, for which this shall be <lb/> the warrant:
-						given und'r my hand &amp; seal this <date value="1692-08-25"
+						the peace there, to be <orig reg="examined">ex- <lb/> amined </orig> &amp;
+						proceeded with according to law, for which this shall be <lb/> yo'r warrant:
+						given und'r my hand &amp; seal this #[eighteenth] <date value="1692-08-25"
 							certainty="unconfirmed">25'th [25] day of <lb/> August Anno Domini
 							1692</date>: in the fourth year of their Majes'ts <lb/> Reigne:/ </p>
 					<closer>
 						<signed>
 							<name type="person" key="bradud">*Dudley Bradstreet</name> justice of
-							Peace </signed>
-						<seg>the S'd <name type="person" key="marsam">Martin</name> &amp; <name
-								type="person" key="tylmos">Tyler</name> have given sufficient bond
+							Peace </signed> 
+						<lb/>
+						<seg>The s'd <name type="person" key="marsam">Martin</name> &amp; <name
+								type="person" key="tylmos">Tyler</name> have given suffitient bond
 							to prosecute s'd <lb/> persons to effect, which bond remains with me: </seg>
 						<seg>(Reverse) [torn] </seg>
-						<seg>persons and have brought them to Salem the <date value="1692-08-29"
+						<seg>In Obediance Two this warant I have aprehended the within Riten <lb/> 
+							persons and have brought them to Salom the <date value="1692-08-29"
 								certainty="unconfirmed">29'th of August 1692</date>
-							<lb/> Before their. honours mentined in the Rit: </seg>
-						<seg> &pbar;'r <name type="person" key="foseph">*Ephriam Foster</name>
-							<lb/> Constable <lb/> of Andover </seg>
+							<lb/> Before #[y] their honours mentined in the Rit: </seg>
+						<seg> &pbar; me <name type="person" key="foseph">*Ephraim Foster</name>
+							<lb/> Constable of Andover </seg> <lb/>
+						<lb/> W'm Barker <lb/>
+						Mary Marston <lb/>
+						Mary Barker <lb/>
+						Exa'd 29: 6. 92
 						<seg>
 							<ref>( <hi rend="italics">Boston Public Library -- Dept. of Rare Books
 									and Manuscripts </hi>) </ref>
@@ -5966,39 +5975,40 @@
 							<row>
 								<cell>Province of the Massathutetts <lb/> Bay in New England Essex </cell>
 								<cell>
-									<foreign lang="lat">Anno R R's &amp; Reginae Gulielmi <lb/>&amp;
-										Mariae Angliae &amp;c Quarto: Annoq'e d&mbar; : 1692
+									<foreign lang="lat">Anno RRs &amp; Reginae Gulielmi <lb/>&amp;
+										Mariae Angliae &amp;'c Quarto: Annoq'e D&mbar;: 1692
 									</foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
-					<p>The Juror for our Sov'r Lord and Lady the King &amp; Queen Presents <lb/>
-						That <name type="person" key="barwil1">William Barker Seinor</name> of
+					<p>The Juro'r for our Sov'r Lord and Lady the King &amp; Queen Presents <lb/>
+						That <name type="person" key="barwil1">William Barker Seino'r</name> of
 						Adivor in the County of Essex <orig reg="aforesaid">afore- <lb/> said
 						</orig> Husband&mbar; Sometime in August last 1692 afors'd - - - - - And <lb/>
 						<pb n="65"/> Divers other Dayes &amp; times as well before as after Certaine
 						Detestable <lb/> Arts called Witchcrafts &amp; Sorceryes Wickedly
-						Mallishously &amp; <orig reg="felloniously">fellon- <lb/> iously </orig>
-						hath Used Practised &amp; Exercised at and in the Towne of <orig
-							reg="Andivor">An- <lb/> divor </orig> -- in the County of Essex afores'd
-						Upon &amp; against one <name type="person" key="marabi">Abagaiele <lb/>
-							Martin</name> of Andivor SingleWoman By which Wicked Arts the said <lb/>
-						<name type="person" key="marabi">Abagaile Martin</name> -- the Day and year
-						afores'd and Divers other Dayes <lb/> and Times as well before as after, was
-						and is Tortured Afflicted <lb/> Tormented Consumed Pined &amp; wasted ag't
+						Mallishiously &amp; <orig reg="felloniously">felon- <lb/> iously </orig>
+						hath used Practised &amp; Excercised at and in the Towne of <orig
+							reg="Andivor">An- <lb/> divor </orig> -- in the County of Essex afore&sbar;'d
+						upon &amp; against one <name type="person" key="marabi">Abagaiele <lb/>
+							Martin</name> of Andivo'r Single Woman By which Wicked Arts the said <lb/>
+						<name type="person" key="marabi">Abagaill Martin</name> -- the Day and Year
+						afo&rbar;&ebar;&sbar;'d and Divers other Dayes <lb/> and Times as well before as after, was
+						and is Tortured Afflicted. <lb/> Tormented Consumed Pined &amp; wasted ag't
 						the Peace of Sov'r Lord <lb/> &amp; Lady the King and Queen their Crowne and
 						Dignity &amp; the Lawes <lb/> in that case made &amp; Provided: </p>
 					<closer>
 						<signed>Wittnesses: <name type="person" key="fosros">Rose foster</name> -- <lb/>
 							<name type="person" key="tylmar">Matha Tyler</name>
-						</signed>
+						</signed> <lb/>
+						<lb/>
 						<seg>(Reverse) <name type="person" key="barwil1">William Barker
-								Senior</name> for afflicting <name type="person" key="marabi"
+								Seino'r</name> for afflicting <name type="person" key="marabi"
 								>Abigaill Martin</name>
 							<lb/> Billa Vera </seg>
 						<seg>
-							<name type="person" key="payrob">*Robert Payne</name> foreman <lb/> fled
+							<name type="person" key="payrob">*Robert Payne</name> foreman: <lb/> fled
 							<lb/> fled Persons fled </seg>
 						<seg>
 							<ref>( <hi rend="italics">Massachusetts Archives Vol. 135 No. 37 </hi>)
@@ -6014,87 +6024,89 @@
 					<p>
 						<date value="1692-08-29" certainty="unconfirmed">29. agust. 92. </date>
 						<lb/> Coram <lb/>
-						<name type="person" key="gidbar">Maj'r Gidney</name>
+						<name type="person" key="gidbar">Mag'r Gidney</name>
 						<lb/>
-						<name type="person" key="hawjoh">Mr. hathorn</name>
+						<name type="person" key="hawjoh">m'r hathorn</name>
 						<lb/>
-						<name type="person" key="corjoh">Mr. Corwin</name>
+						<name type="person" key="corjoh">m'r Corwin</name>
 						<lb/>
-						<name type="person" key="higjoh">Capt higginson</name>
+						<name type="person" key="higjoh">Cap't higginson</name>
 					</p>
 					<p>
-						<name type="person" key="barwil1">William Barker</name> of Andovers
+						<name type="person" key="barwil1">William Barker</name> of Andove'rs
 						examination <lb/> &amp; confession </p>
-					<p>He confesses he has been in the snare of the <lb/> devil three years, that
+					<p>He confesses he hes been in the snare of the <lb/> devil three yeares, that
 						the devil first appeared <lb/> to him lyke a black man and perceived he had
 						<lb/> a cloven foot, That the devil demanded of <lb/> him to give up himself
-						soul &amp; Body unto him, which he promesed to <lb/> doe. He said he had a
+						soul &amp; Body unto him, which he promesed to <lb/> doe, He said he had a
 						great family, the world went hard with him and <lb/> was willing to pay
 						every man his own, And the devil told him he <lb/> would pay all his debts
-						and he should live comfortably -- He confesses <lb/> he has afflicted <name
+						and he should live comfortably. -- He confesses <lb/> he hes afflicted #[?]sed <name
 							type="person" key="sprmar">Sprague</name>
 						<name type="person" key="fosros">foster</name> and <name type="person"
-							key="marabi">martin</name> , his three accusers. That <lb/> he did syne
+							key="marabi">martin</name>, his three accusers. That <lb/> he did syne
 						the devils book with blood brought to him in a thing <lb/> lyke an Inkhorn
-						that he dip't his fingers there in and made a blott in <lb/> the book which
-						was a confirmation of the Covenent with the devil. </p>
-
-					<pb n="66"/>
-
-					<p>He confesses he was at a meeting of witches at Salem Village <lb/> where he
+						that he dipt his finger therein and made a blott in <lb/> the book which
+						was a confirmation of the Covenant with the devil. <lb/> He confesses he was at a meeting of witches at Salem Village <lb/> where he
 						judges there was about a hundred of them, that the meeting <lb/> was upon a
-						green peece of ground neare the ministers house, He said <lb/> they mett
+						green peece of ground neare the ministe'rs house, He said <lb/> they mett
 						there to destroy that place by reason of the peoples being <lb/> divided
-						&amp; theire differing with their ministers </p>
+						&amp; theire differing with their ministe'rs </p>
 					<p>Satans design was to set up his own worship, abolish all the <lb/> churches
 						in the land, to fall next upon Salem and soe goe through <lb/> the countrey,
 						He sayth the devil promeised that all his people should <lb/> live bravely
 						that all persones should be equall; that their should be no <lb/> day of
-						resurection or of judgement, and neither punishment nor <lb/> shame for sin
-						-- He sayth there was a Sacrament at that meeting, <lb/> there was also
-						bread &amp; wyne <name type="person" key="burse">Mr. Burse</name>
+						resurection or of judgement, and neither punishment nor <lb/> shame for sin.
+						-- He sayth there was a Sacrament at that meeting, <lb/> theire was also
+						bread &amp; wyne <name type="person" key="burse">m'r Burse</name>
 						<!-- Comment: is this George Burroughs? if so, shange all "burse" tags in tis section.-->
 						was a ringleader in that <orig reg="meeting">meet- <lb/> ing </orig> and
-						name several persones that were there at the meeting, It was <lb/> proposed
-						at the meeting to make as many witches as they could, <lb/> and they were
-						all by <name type="person" key="burse">Mr. Burse</name> and the black man
-						exhorted to pull <lb/> down the Kingdome of christ and set up the kingdome
-						of the devil, <lb/> He said he knew <name type="person" key="burgeo">Mr.
+						named several persones that were there at the meeting, It was <lb/> proposed
+						at the meeting to make as many witches as they could, <lb/> And they were
+						all by <name type="person" key="burse">m'r Burse</name> and the black man
+						exhorted to pull <lb/> down the Kingdome of christ and set up the Kingdome
+						of the devil, <lb/> He said he knew <name type="person" key="burgeo">mr
 							Burroughs</name> and <name type="person" key="howeli">Goody How</name>
 						to be such persones, <lb/> And that he heard a trumpet sounded at the
 						meeting and thinks it <lb/> was <name type="person" key="burse">Burse</name>
-						that did it, the sound is heard many myles off and then <lb/> they all come
-						one after another -- In the spring of the yeare the <orig reg="witches">wit-
+						that did it, The sound is heard many myles off, And then <lb/> they all come
+						one efter another -- In the spring of the yeare the <orig reg="witches">wit-
 							<lb/> ches </orig> came from Connecticut to afflict at Salem Village but
-						now <lb/> they have left it off And that he has been informed by some of the
+						now <lb/> they have left it off And that he hes been informed by some of the
 						<lb/> grandees that there is about 307 witches in the country, -- He sayth
 						<lb/> the witches are much disturbed with the afflicted persones because
-						<lb/> they are descovered by them, They curse the judges Because their <lb/>
+						<lb/> they are discovered by them, They curse the judges because their <lb/>
 						Society is brought under, They wold have the afflicted persones <orig
-							reg="counted">count- <lb/> ed </orig> as witches but he thinks the
+							reg="counted">count- <lb/> ed </orig> as witches But he thinks the
 						afflicted persones are Innocent <lb/> &amp; that they doe god good service
-						And that he has not known or <lb/> heard of one innocent persone taken up
+						And that he hes not known or <lb/> heard of one Innocent persone taken up
 						&amp; put in prisone -- He saith <lb/> he is heartily sorry for what he has
-						done and for hurting the afflicted <lb/> persones his accusers, prayes their
-						forgiveness, desyres pray'rs for <lb/> himself, promises to renounce the
+						done and for hurting the afflicted <lb/> persones his accuse'rs, prayes their
+						forgiveness, desyres praye'rs for <lb/> himself, promises to renounce the
 						devil and all his works, And then <lb/> he could take them all by the hand
-						without any harme by his eye or <lb/> any otherwise -- </p>
-					<p>5. 7: 92 the aboveSaid is the Truth as wittnese my hand: </p>
+						without any harme by his eye or <lb/> any otherwise <lb/>
+						5.7:92 the above Said is the Truth as wittnese my hand: </p>
 					<closer>
 						<signed>
 							<name type="person" key="barwil1">*William Barker</name>
 						</signed>
 						<pb n="67"/>
-						<seg>(In left margin) he owned this in the Court of Oyre &amp; Terminer as
+						<seg>(In left margin) he owned this is the Court of Oyre &amp; Terminer as
 							<lb/> on the back Side </seg>
-						<seg>(Reverse) At a court of Oyer &amp; Terminer held at Salem <date
-								value="1692-09-16" certainty="unconfirmed">Sep'r 16. 92</date>:
-							<lb/> Owned in Court at Salem <date value="1692-09-16"
-								certainty="unconfirmed">Sept'r 16. 1692</date>
+						<seg>(Reverse) Wm Barkers Ex&abar;. <lb/> acused. <lb/> 
+							<name type="person" key="burse"> mr Buse</name> <lb/> <name type="person" key="burgeo">mr
+								Buroughs</name> <lb/> <name type="person" key="howeli">Goody How</name> <lb/>
+							Coneticut witches <lb/> &amp; Severall others <lb/>
+							aflicted <lb/> <name
+								type="person" key="sprmar">martha Sprage</name> <lb/> <name type="person" key="fosros">Rose foster</name> <lb/> <name type="person"
+									key="marabi">Abigall martin</name> <lb/>
+							at A Court of Oyer &amp; Termine'r held at Salem <date
+								value="1692-09-16" certainty="unconfirmed">Sep'r 16 92.</date>:
+							<lb/> owned in Court at Salem <date value="1692-09-16"
+								certainty="unconfirmed">Sepr. 16. 1692</date>
 						</seg>
-						<seg>Attest <name type="person" key="sewall">* St Sewall</name>
+						<seg>attest <name type="person" key="sewall">* St: Sewall</name>
 							<lb/>
-							<name type="person" key="barwil1">* *William Barker </name>
 						</seg>
 						<seg>
 							<ref>( <hi rend="italics">Massachusetts Archives Vol. 135 No. 39 </hi>)
@@ -6108,73 +6120,73 @@
 							Sr.</name> , Second Version) </head>
 
 					<p><figure n="eia24-7r"/>
-						<date value="1692-08-29" certainty="unconfirmed">29 August 1692 </date>.
-							<name type="person" key="barwil1">W'm Barker Sen'r</name> of Andivers
-						Examination <lb/> &amp; Confession </p>
-					<p>Before <name type="person" key="gidbar">Maj'r Gidney</name>
-						<name type="person" key="hawjoh">Mr. Hathorne</name>
-						<name type="person" key="corjoh">Mr. Corwin</name>
-						<name type="person" key="higjoh">Jno Higginson</name> Esq'r -- <lb/> He
-						Conffesses he has been in the Snare of the <corr sic="Devil">Divel</corr>
-						[@'bt] Three <lb/> Years that the first apeared to Him in the Shape of a
-						black man <lb/> &amp; perceived he had a Cloven foott that the <corr
-							sic="Devil">Divel</corr> deman'd of him to <lb/> give up himself Soul
+						<date value="1692-08-29" certainty="unconfirmed">29 August 1692 </date>
+						<name type="person" key="barwil1">W&mbar; Barker Sen'r</name> of Andivers
+						Examination <lb/> &amp; Confession <lb/> Before <name type="person" key="gidbar">Maj'r Gidney</name>
+						<name type="person" key="hawjoh">M'r Hathorne</name>
+						<name type="person" key="corjoh">M'r Corwin#[e]</name>
+						<name type="person" key="higjoh">Jn'o Higginson</name> Esq'rs <lb/> He
+						Confesses he has been in the Snare of the <corr sic="Devil">Divel</corr>
+						@ Three <lb/> Years that the <corr
+							sic="Devil">Divel</corr> first apeared to Him ["im" written over "er"] in the Shape of a
+						black man <lb/> &amp; perceived he had a Cloven ["n" written over "d"] foott that the <corr
+							sic="Devil">Divel</corr> demand of him to <lb/> give up himself Soul
 						&amp; body to him w'ch he promised to doe he <lb/> Said he had a greate
 						family the world went hard w'th him &amp; was <lb/> willing to pay Every Man
 						his owne &amp; the <corr sic="Devil">Divel</corr> told him he would <lb/>
-						pay all his Debts &amp; he Should live Comfortably -- He Conffesses <lb/> he
+						pay all his Debts &amp; he Should live Comfortably He Confesses <lb/> he
 						has afflicted <name type="person" key="sprmar">Sprauge</name>
 						<name type="person" key="fosros">fostter</name> &amp; <name type="person"
 							key="marabi">Martin</name> his three akusers that he <lb/> did Sign the
-							<orig reg="Devil book">Divel book</orig> w'th blood brought to him in a
-						thing like <lb/> an Inkhorn that he dipt his finger therein and made a bloot
-						in the <lb/> book w'ch was a Confermation of a Covenant made w'th the <orig
-							reg="devil">divel</orig> -- <lb/> He Conffesses he was at a metting of
+							<orig reg="Devil book">Divel book</orig> w'th blood brought to him In a
+						thing like <lb/> an Inkhorn that he dipt his finger therin and made a bloot #[therein]
+						in the <lb/> book w'ch was a Confermation of the Covenant Made w'th the <orig
+							reg="devil">divel</orig> -- <lb/> He Confesses he was at a metting of
 						the witches at Salem Village <lb/> where he Judges there was about a hundred
-						of them that the <orig reg="meeting">meet- <lb/> ing </orig> was upon a
+						of them that the <orig reg="meeting">Mett- <lb/> ing </orig> was Upon a
 						green peice of ground Near the Ministers house he <lb/> Says they Meet their
 						to destroy that place by reason of the peoples <lb/> being devided &amp;
 						their differing w'th there Ministers -- Satans desire <lb/> was to Sett up
-						his own worship, abolish all the Churches in the land <lb/> to fall next
-						upon Salem &amp; Soe goe through the Country he Saith <lb/> the <orig
-							reg="Devil">Divel</orig> promised al his people should live Bravely that
-						al persons <lb/> Should be Equal that their Should be no day of resurection
+						his one worship, abolish all the Churches in the Land <lb/> to fall next
+						Upon Salem &amp; Soe goe through the Country he Saith <lb/> the <orig
+							reg="Devil">Divel</orig> promised al his people Should live Bravely that
+						al p'rsons <lb/> Should be Equal that their Should be no day of resurection
 						or <lb/> Judgment And Nither Punishment nor Shame for Sin -- he Saith <lb/>
-						their was a Sacrement at the Metting there was also bread &amp; wine Mr
-						<lb/> Burse was a Ring Leader in that Metting &amp; named several persons
-						<lb/> that Ware there at the Metting It was proposed at the Metting to <lb/>
-						<pb n="68"/> make as Many witches as they Could &amp; they were al by <name
-							type="person" key="burse">Mr. Burse</name>
-						<lb/> &amp; the black Man Exhorted to pull dwone ye Kingdom of Christ <lb/>
+						their was a Sacrement at the Metting there was also bread &amp; wine M'r
+						<lb/> Burse#[ughs] was a Ring Leader in that Metting &amp; Named Several p'rsons
+						<lb/> that ware there at the Metting It was proposed at the Metting to <lb/>
+						<pb n="68"/> Make as Many witches as they Could &amp; they were al by <name
+							type="person" key="burse">M'r Burse#[ughs]</name>
+						<lb/> &amp; the black Man Exhorted to pull dwone ye Kingdome of of Christ <lb/>
 						&amp; Sett Up the Kingdome of the <orig reg="Devil">Divel</orig>, He S'd he
-						knew <name type="person" key="burgeo">Mr. Burroughs</name>
-						<lb/> &amp; <name type="person" key="howeli">Goody How</name> to be such
-						persons &amp; that he heard a trumpet Sounded <lb/> at the Metting &amp;
-						thinks it was Burse that did it the Sound is heard <lb/> Many Miles of and
+						knew <name type="person" key="burgeo">M'r Burooughs</name>
+						<lb/> &amp; <name type="person" key="howeli">Goode How</name> to be Such
+						p'rsons &amp; that he heard a trumpet Sounded <lb/> at the Metting &amp;
+						thinks it Was Burse that did it the Sound is heard <lb/> Many miles of and
 						then they all Come one after another -- In the <lb/> Spring of the Year the
 						witches Came from Connecticut to afflict at <lb/> Salem Village butt now
 						they have left it of, &amp; that he has been <orig reg="Informed">In- <lb/>
 							formed </orig> by Some of the Grandees that there is @ 307 witches in
-						<lb/> the Country -- He Saith the witches are much disturbed w'th the <lb/>
-						afflicted persons because they are Discovered by th'm, they Curse <lb/> the
+						<lb/> the Country <lb/> He Saith the witches are much disturbed w'th the <lb/>
+						afflicted p'rsons because they are Discovered by them, they Curse <lb/> the
 						Judges because their Society is brought under they would have <lb/> the
-						afflicted persons Counted as witches but he thinks the afflicted <lb/>
-						persons are Inocent &amp; that they doe god good Service &amp; that he has
-						<lb/> not knowne or heard of one Inocent person taken up And putt in <lb/>
-						prison -- he Saith he is hartyly Sorry for W't he has done &amp; for <lb/>
-						hurting the afflicted persons his accusers, prays there forgivenes, <lb/>
+						afflicted p'rsons Counted as witches but hee thinks #[they] the afflicted <lb/>
+						p'rsons are Inocent &amp; that they doe god good Service &amp; that he has
+						<lb/> not knowne or heard of one Inocent p'rson taken up And ["And" written over "Yett"] putt In <lb/>
+						prison -- he Saith he is hartyly Sorry for w't he has done &amp; for <lb/>
+						hurting the afflicted p'rsons his accusers, prays there forgivenes: <lb/>
 						desire prayers for him Self promises to Renounce the <orig reg="Devil"
 							>Divel</orig> &amp; al <lb/> his works &amp; then he could take them all
-						by the hand w'thout any <lb/> harme by his Eye or otherwise -- the above S'd
+						by the hand w'thout any <lb/> harme by his Eye or otherwise the above S'd
 						is the truth as <orig reg="wittnesse">witt- <lb/> nesse </orig> my hand -- </p>
 					<closer>
 						<signed>
 							<name type="person" key="barwil1">*William Barker</name>
 						</signed>
-						<seg>(In left margin) <lb/> d mo <lb/> 5&rdquo; 7&rdquo; 92&rdquo; </seg>
+						<seg>(In left margin) 5'd 7'mo 92 </seg>
 						<seg>
-							<ref>( <hi rend="italics">Miscellaneous Papers -- Essex Institute, Salem
-									No. 9 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex Institute Collection
+									No. 24 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
@@ -6237,48 +6249,48 @@
 				<!-- <ID>n10</ID> -->
 
 				<div2 id="BoySal1-n10.1" type="recognizance">
-					<head>(Recognizance for b <name type="person" key="barwil2"/> , and <name
+					<head>(Recognizance for <name type="person" key="barwil2">William Barker, Jr.,</name> , and <name
 							type="person" key="barmar">Mary Barker</name> ) </head>
 
 					<p>Memorandum </p>
 					<p>That on the <date value="1692-01-13" certainty="unconfirmed">Thirteenth day
 							of Jan'ry 1692 </date> In the Fourth Year of the <lb/> Reigne of our
 						Sovereigne Lord and Lady William and Mary by the <lb/> Grace of God of
-						England &amp;c: King &amp; Queen defenders of the faith <lb/> &amp;c:
+						England &amp;c King &amp; Queen defenders of the faith <lb/> &amp;c
 						Personally appeared before <name type="person" key="stough">W'm
 							Stoughton</name> Esq'r cheife Justice <lb/> of their Maj'ies Province of
 						the Massachusets bay in New England <lb/>
-						<name type="person" key="barjoh">Jno Barker</name> and <name type="person"
-							key="osgjoh">Jno Osgood</name> both of the Towne of Andiver in the <lb/>
+						<name type="person" key="barjoh">Jn'o Barker</name> and <name type="person"
+							key="osgjoh">Jn'o Osgood</name> both of the Towne of Andiver in the <lb/>
 						County of Essex Husbandmen and acknowledged themselves to be <lb/> Joyntly
-						&amp; Severally indebted unto our s'd: Sovereigne Lord &amp; Lady <lb/> and
-						the survivor of them their Heires &amp; Successors in the sum of one <lb/>
+						&amp; Severally indebted unto our s&dbar; Sovereigne Lord &amp; Lady <lb/> and
+						the Survivor of them their Heires &amp; Successors in the Sum of one <lb/>
 						Hundred Pounds to be levied on their or either of their lands &amp; <orig
 							reg="Tenniments">Tenni- <lb/> ments </orig> goods &amp; chattles for the
-						use of our s'd: Sovereigne Lord <lb/> &amp; Lady the King &amp; Queen or
-						Survivor of them on Condition that <name type="person" key="barwil2">W'm
-							<lb/> Barker Jun'r</name> &amp; <name type="person" key="barmar">Mary
+						use of our s&dbar; Sovereigne Lord <lb/> &amp; Lady the King &amp; Queen or
+						Survivor of them on Condition that <lb/> <name type="person" key="barwil2">W'm
+						Barker Jun'r</name> &amp; <name type="person" key="barmar">Mary
 							Barker</name> haveing stood Committed for Suspition <lb/> of Witchcraft
 						shall make their personall appearance before the <orig reg="Justices">Jus-
-							<lb/> tices </orig> of our s'd: Lord &amp; Lady the King &amp; Queen at
+							<lb/> tices </orig> of our sd Lord &amp; Lady the King &amp; Queen at
 						the next Court of <lb/> Assizes and Generall Goale Delivery to be holden for
 						the County of <lb/> Essex then &amp; their to answer to all such matters and
 						things as shall <lb/> in their Maj'ies behalfe be alledged against them and
 						to doe &amp; <orig reg="receive">re- <lb/> ceive </orig> that which by the
-						s'd: Court shall be then &amp; there Injoyned <lb/> them and thence not to
-						departe without licence -- </p>
+						s&dbar; Court shall be then &amp; there Injoyned <lb/> them and thence not to
+						departe without licence </p>
 					<closer>
 						<signed>Attest <lb/>
-							<name type="person" key="elajoh">*Jo&nbar;'a Elatson</name> Cle&rbar; </signed>
+							<name type="person" key="elajoh">*Jon'a Elatson</name> Cle&rbar; </signed>
 						<seg>(Reverse) </seg>
-						<seg>Recognizance of <name type="person" key="barjoh">Jn'o Barker</name>
+						<seg>Recognizance of <lb/> <name type="person" key="barjoh">Jn'o Barker</name> &amp;
 							<lb/>
-							<name type="person" key="osgjoh">Jn'o Osgood</name> &lcub; <lb/>
-							<name type="person" key="barwil2">W'm Barker Jun'r</name>
-							<lb/> for <lb/> &amp; <name type="person" key="barmar">Mary
+							<name type="person" key="osgjoh">Jn'o Osgood</name> &lcub; <lb/> for <lb/> 
+							for <name type="person" key="barwil2">W'm Barker Jun'r</name> 
+							<lb/> &amp; #[<name type="person" key="tylmar">Mary Tyler</name>] <lb/> <name type="person" key="barmar">Mary
 								Barker</name>
 						</seg>
-						<seg>May 10th Apeared </seg>
+						<seg>May 10'th Apeared </seg>
 						<seg>
 							<ref>( <hi rend="italics">Mass. Archives Vol. 135 No. 105 </hi>) </ref>
 						</seg>
@@ -6293,45 +6305,43 @@
 					<figure n="S062r"/>
 					<figure n="S062v"/>
 
-					<p>1st Paper </p>
-					<p>Case of <name type="person" key="barwil2">William Barker</name>
-						Witchcraft-Aug 1692-May 1693) </p>
 					<p>
 						<table>
 							<row>
 								<cell>Province of the Massachusetts <lb/> Bay in New England Essex
-									Ss </cell>
+									ss </cell>
 								<cell>
-									<foreign lang="lat">An'o Rr's &amp; Reginae Gulielmi <lb/>&amp;
+									<foreign lang="lat">An'o R&rbar;s &amp; Reginae Gulielmi <lb/>&amp;
 										Mariae Angliae &amp;c Quarto Anoq'e <lb/> Do&mbar; 1692
 									</foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
-					<p>The Jurors for o'r Sov'r lord and Lady the King &amp; Queen &pbar;r'sents
-						<lb/> that <name type="person" key="barwil2">William Barker Junior </name>
-						of Andver in the County of Essex aforsaid <lb/> sometime in the month of
-						August last in the yeare 1692 afors'd <lb/> Wickedly Mallitiously &amp;
-						felloniously a Covenant withe the <orig reg="Devil">Devill</orig>
+					<p>The Ju'rors for o'r Sov'r lord &amp; Lady the King &amp; Queen p'rsent
+						<lb/> That <name type="person" key="barwil2">William Barker Junio'r </name>
+						of Andvo'r in the County of Essex aforsaid <lb/> Sometime in the moneth of
+						August last in the yeare 1692 aforsd <lb/> Att or in the Towneship of Andivo'r
+						in the Country of Essex afo&rbar;&sbar;&dbar; <lb/> Wickedly mallitiously &amp;
+						felloniously A Covenant with#[e] the <orig reg="Devil">Devill</orig>
 						<lb/> did make &amp; Signed the <orig reg="Devil's book">Devills
 							Booke</orig> and by the <orig reg="Devil">Devill</orig> was Baptized
-						<lb/> &amp; before him Renownced his form'r Baptisme &amp; Promised to be
-						the <lb/>
-						<orig reg="Devil">Devill</orig>s for ever and ever By which wicked &amp;
+						<lb/> &amp; before him Renounced his form'r Baptizme &amp; promised to be
+						the <lb/> <orig reg="Devil">Devill</orig>s for ever and ever By which wicked &amp;
 						Diabollicall Covenant <lb/> the Said <name type="person" key="barwil2"
 							>William Barker</name> is become A Detestable Witch Against the <lb/>
-						Peace of o'r So'r lord &amp; Lady the King &amp; Queen their Crowne <lb/>
-						&amp; Dignity And the laws in that Case made &amp; provided. </p>
+						peace of o'r Sov'r lord &amp; Lady the King &amp; Queen their Crowne <lb/>
+						&amp; dignity And the laws in that Case made &amp; provided. </p>
 					<p>(Reverse) </p>
-					<p rend="center">Billa Vera <lb/>
-						<name type="person" key="payrob">*Robert Payne</name>
-						<lb/> Foreman <lb/> ponet se <lb/> Not Guilty <lb/> Court of Ispswich <lb/>
-						Ipswich <date value="1693-05-02" certainty="unconfirmed">2 Tuesday May <lb/>
+					<p rend="center">William Barker Jun'r for Covenanting w'th the Devill <lb/>
+						Billa vera <lb/>
+						<name type="person" key="payrob">*Robert. Payne</name>
+						foreman: <lb/> ponet Se <lb/> #[fled] <lb/> Not Guilty <lb/> Court at Ipwich <lb/>
+						Ipswich <date value="1693-05-02" certainty="unconfirmed">2'd Tuesday May
 							1693</date>
 					</p>
 					<p>
-						<ref>( <hi rend="italics">Suffolk Court Records Case No. 2761 Page 102
+						<ref>( <hi rend="italics">Suffolk Court Records Vol. 32 Case No. 2761 Page 102
 							</hi>) </ref>
 					</p>
 				</div2>
@@ -6342,14 +6352,13 @@
 					<figure n="S064A"/>
 					<figure n="S064B"/>
 
-					<p>3rd Paper </p>
 					<p>
 						<table>
 							<row>
-								<cell>Province of the Massathusetts <lb/> Bay in New England Essex </cell>
+								<cell>Province of the Massathutetts <lb/> Bay in New England Essex </cell>
 								<cell>
-									<foreign lang="lat">Anno RR's &amp; Reginae Gulielmi <lb/>&amp;
-										Mariae Angliae &amp;c Quarto annoq'e <lb/> Do&mbar;: 1692
+									<foreign lang="lat">Anno RRs &amp; Reginae Gulielmi <lb/>&amp;
+										Mariae. Angliae &amp;'c Quarto Annoq'e <lb/> D&obar;&mbar;: 1692
 									</foreign>
 								</cell>
 							</row>
@@ -6358,277 +6367,205 @@
 
 					<pb n="73"/>
 
-					<p>The Jurors for our Souvereigne Lord and Lady the King &amp; Queen <lb/>
-						Presents - - - <lb/> That <name type="person" key="barwil2">William Barker
-							Junior</name> of Andiver in the County of Essex <lb/> aforesaid - - -
-						<lb/> Sometime in the Moneth of August in the Yeare 1692 aforesaid And <lb/>
+					<p>The Juro'r for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
+						Presents <lb/> That <name type="person" key="barwil2">William Barker
+							Junio'r</name> of Andivo'r in the County of Essex <lb/> aforesaid - - -
+						<lb/> Sometime in the moneth of August last in the Yeare 1692 aforesaid - - - And <lb/>
 						Divers other Dayes &amp; times as well before as after Certaine Detestable
 						<lb/> Arts called Witchcrafts &amp; Sorceries: Wickedly Mallishiously &amp;
 							<orig reg="felloniously">fello- <lb/> niously </orig> hath used
 						Practised &amp; Exercised at &amp;: in the Towne of <lb/> Salem -- in the
 						County of Essex aforesaid upon and against one <lb/>
 						<name type="person" key="sprmar">Martha Sprague</name> Allias <name
-							type="person" key="tylmar">Martha Tyler</name> -- by which wicked artes
+							type="person" key="tylmar">Martha Tyler</name> -- by which Wicked Artes
 						the <lb/> Said <name type="person" key="sprmar">Martha Sprague</name>
-						All&ibar; Tyler the Day and Year aforesaid and <lb/> Divers -- other dayes
+						Alli Tyler the Day and Year aforesaid and <lb/> Divers -- other Dayes
 						&amp; times as well before as after was &amp; is <orig reg="Tourtered"
 							n="Tortured">Tour- <lb/> tered </orig> Afflicted Tormented Pined &amp;
-						Wasted against the Peace of our <lb/> Souvereigne Lord &amp; Lady the King
+						wasted against the Peace of our <lb/> Sovereigne Lord &amp; Lady the King
 						&amp; Queen their Crowne &amp; Dignity <lb/> and the Lawes in that Case made
 						&amp; Provided./ </p>
 					<p>(Reverse) </p>
-					<p rend="center">Billa Vera <lb/>
-						<name type="person" key="payrob">*Robert Payne</name>
-						<lb/> foreman <lb/> ponet se <lb/> Not Guilty </p>
+					<p rend="center">William Barker Junio'r for bewitching 
+						<name type="person" key="sprmar">Martha Sprague</name> <lb/>
+						Billa vera <lb/>
+						<name type="person" key="payrob">*Robert: Payne</name>
+						foreman: <lb/> ponet Se <lb/> Not Guilty </p>
 					<p>
-						<ref>( <hi rend="italics">Suffolk Court Records Case No. 2761 Page 103
+						<ref>( <hi rend="italics">Suffolk Court Records Vol. 32 Case No. 2761 Page 103
 							</hi>) </ref>
 					</p>
 				</div2>
 
-				<div2 id="BoySal1-n10.4" type="examination">
-					<head>(Examination of <name type="person" key="barwil2">William Barker,
-							Jr.</name> ) <figure n="eia24-10v"/><figure n="eia24-10v"/></head>
-					<opener><date value="1692-09-01" certainty="confirmed">1 Sep'r 92 </date> Before
-							<name type="person" key="gidbar">Maj'r Gidney</name>
-						<name type="person" key="hawjoh">Mr Hathorne</name>
-						<name type="person" key="corjoh">Mr Corwin</name>
-						<name type="person" key="higjoh">Jno <orig reg="Higginson">Higgin- <lb/> son
-							</orig></name> Esq'r </opener>
-					<p>The Exam &amp; Confes'&obar;&nbar; of <name type="person" key="barwil2"
-							>W&mbar; Barker Jun'r</name> aged 14 Yeares or <lb/> their about He is
-						accused for Exercising acts of Witchcraft Upon <lb/> the bodyes of <name
-							type="person" key="sprmar">Martha Sprauge</name>
-						<name type="person" key="fosros">Rosse fostter</name> &amp; <name
-							type="person" key="marabi">abigall Martin</name> w'ch <lb/> he did not
-						deny but Could Not Rememb'r It -- He Conffesses now <lb/> that he hath not
-						been in the Snare of the <orig reg="Devil">Divel</orig> above Six # [Years] <lb/>
-						<pb n="74"/> days, that as he was Goeing into the Woods one Evening to louk
-						<lb/> after Cows he Saw the Shape of a black dog w'ch looked Verry <lb/>
-						fercly Upon him &amp; he was much disturbed in his Mind about it <lb/> &amp;
-						Could not Sleep Well that Night &amp; betimes Next Morning he Mett <lb/>
-						w'th a black Man(he Calls him a black man because he had black <lb/> Cloaths
-						&amp; thinks he had a black Skin) Who bid him Sett his hand to <lb/> his
-						book &amp; Serve him as long as he the s'd <name type="person" key="barwil2"
-							>Barker</name> lived w'ch he <orig reg="promised">pro- <lb/> mised
-						</orig> And theirupon Sett His hand to this book by putting his <lb/> fing'r
-						Thereon he Saith the black man brought Red Stuf among w'th <lb/> him in an
-						Inkorn &amp; he the S'd <name type="person" key="barwil2">Barker</name> dipt
-						his finger into it and ther <lb/> w'th Made a Red Mark on the paper He
-						Conffesses he was to doe any <lb/> Servis the black man appointed him # [to
-						doe] &amp; was to have Suite <lb/> of Cloaths for it he S'd further the
-						black man would have him <orig reg="baptized">bapt- <lb/> ized </orig> but
-						he Never was -- he Saith further that goode Parker <!-- Comment: --> went
-						<lb/> w'th him last Night to Afflict <name type="person" key="sprmar">Martha
-							Sprauge</name> &amp; that he afflicts by <lb/> Clinching his hands
-						together he Saith he Now is Sorry &amp; hates the <lb/>
-						<orig reg="Devil">Divel</orig> but yett Struck dwon the afflicted w'th his
-						Eyes -- and <name type="person" key="sprmar">Martha <lb/> Sprauge</name>
-						being Recovered out of a <orig reg="fit">fitt</orig> S'd that <name
-							type="person" key="barwil2">barkers</name>
-						<orig reg="apparition">apperition</orig>
-						<lb/> &amp; <!-- Comment: --> Goode Parker rod upon a pole &amp; was
-						baptized at 5 Mile pond -- He <lb/> Now Says there was Such a load Upon his
-						Stomach that he Could <lb/> Not Speak a little affter he owned he was
-						baptized by the black man <lb/> at 5 Mile pond &amp; Renounced his former
-						baptizime he Knows Goode <lb/> parker <!-- Comment: --> to be a witch &amp;
-						Says the <orig reg="Devil">Divel</orig> dipt his head into the Watter <lb/>
-						&amp; Spook these words that he the S'd <name type="person" key="barwil2"
-							>Barker</name> was his for Ever &amp; Ever <lb/> He S'd he Could not
-						think of his baptizime before &amp; that the Load <lb/> that was Up[on] his
-						Stomach Is not Soe heavy as it was Just now He <lb/> Stil afflicted <name
-							type="person" key="sprmar">Martha Sprauge</name> &amp; Shut her Mouth
-						but by laying his <lb/> hand Theron opened [it] again -- and after wards
-						Confessed that <lb/> there ware of his Compa' Goode parker <!-- Comment: -->
-						<name type="person" key="joheli1">Goode JohnSon</name>
-						<name type="person" key="warsam">Sam'll <lb/> Wardwel</name> his wife &amp;
-						two Daughters &amp; then Could take the afflicted <lb/> p'rsons by the Hand
-						w'th out doeing them any harm </p>
-					<p>
-						<name type="person" key="barwil2">Wm Barker Jun'r</name> Signed &amp; owned
-						<lb/> the aboveS'd Exa&mbar; &amp; Conffession <lb/> before Me </p>
-					<closer>
-						<signed>
-							<name type="person" key="higjoh">*John Higginson</name> Just'e peace </signed>
-						<seg>The Marke <lb/>
-							<figure entity="BS10074b"/> of <lb/>
-							<name type="person" key="barwil2">W&mbar;. Barker Ju&nbar; </name>
-						</seg>
-						<seg>
-							<ref>( <hi rend="italics">Miscellaneous Papers -- Essex Institute, Salem
-									No. 3 </hi>) </ref>
-						</seg>
-					</closer>
-				</div2>
-
-				<pb n="75"/>
-
 				<div2 id="BoySal1-n10.5" type="examination">
 					<head>(Examination of <name type="person" key="barwil2">William Barker,
-							Jr.</name> , Second Version) </head>
+							Jr.</name>) </head>
 					<figure n="S063r"/>
 					<figure n="S063v"/>
 
 					<p>2nd Paper </p>
-					<p><date value="1692-09-12" certainty="confirmed">Sept. 12</date> Before <name
+					<p><date value="1692-09-12" certainty="confirmed">Sep't 92</date> <lb/> Before <name
 							type="person" key="gidbar">Maj'r Gidney</name>
-						<name type="person" key="hawjoh">Mr Hawthorn</name>
-						<name type="person" key="corjoh">Mr Corwin</name> &amp; <name type="person"
-							key="higjoh">Cap't <lb/> Higginsone</name>
+						<name type="person" key="hawjoh">m'r Hawthorn</name>
+						<name type="person" key="corjoh">m'r Corwin</name> &amp; <name type="person"
+							key="higjoh">Cap't <lb/> Higginsone</name>.
 					</p>
-					<p>The Examination and Confession of <name type="person" key="barwil2">W'm
-							Barker</name> aged 14 yeares or <lb/> thereabout </p>
+					<p>The Examination and confession of <name type="person" key="barwil2">W'm
+							Barker</name> aged 14 yeares or <lb/> #[there]about </p>
 					<p>He is accused for exerciseing acts of witchcraft upon the bodyes <lb/> of
 							<name type="person" key="sprmar">Martha Sprague</name>
 						<name type="person" key="fosros">Rose foster</name> and <name type="person"
-							key="marabi">Abigail Martin</name> , which he did not <lb/> deny but
-						could not remember it. </p>
-					<p>He confesses now that he hath not been in the snare of the Devil <lb/> above
-						six Dayes, That as he was goeing in the woods one evening <lb/> to look
-						after cowes he sene the shape of a black Dog which looked <lb/> very
+							key="marabi">Abigail Martin</name>, which he did not <lb/> deny but
+						could not remember it. <lb/> He confesses now that he hath not been in the snare of the devil <lb/> above
+						six dayes, That as he was goeing in the woods one evening <lb/> to look
+						efter cowes he saw the shape of a black dog which looked <lb/> very
 						fiercely upon him And he was much disturbed in his mynd <lb/> about it and
-						could not sleep well that night. And betymes next <lb/> morneing he mett
+						could not sleep well that night <lb/> And betymes next morneing he mett
 						with a black man (he calls him a black man <orig reg="because">be- <lb/>
 							cause </orig> he had black cloaths and thinks he had a black skin) who
 						<lb/> bid him set his hand to a book and serve him as long as he the said <lb/>
-						<name type="person" key="barwil2">Barker</name> Lived, which he promised And
+						<name type="person" key="barwil2">Barker</name> Lived, which he promeised <lb/> And
 						thereupon set his hand to the <lb/> book by putting his finger thereon, He
-						saith the black man brought <lb/> red stuff along with him in an Inkhorn And
+						saith the black man brought <lb/> red stuff along with him in an Inkhorn <lb/> And
 						he the said <name type="person" key="barwil2">Barker</name> dipt <lb/> his
 						finger into it and therewith made a red mark on the paper He <lb/> confesses
-						he was to doe any Service the black man appoynted him <lb/> and was to have
-						a sute of cloaths for it, he said further the black <lb/> man would have him
-						baptised but he never was. </p>
-					<p>He saith further that Goody Parker<!-- Comment: --> went with him last night
-						to <lb/> afflict <name type="person" key="sprmar">Martha Sprague</name> ,
-						and that he afflicts by clinching his hands <orig reg="together">to- <lb/>
-							gether </orig>. He now saith he is sorry &amp; hates the <orig
-							reg="Devil">Devill</orig> but yet struck <lb/> down the afflicted with
-						his eyes, And <name type="person" key="sprmar">Martha Sprague</name> being
+						he was to doe any service the black man appoynted him <lb/> and was to have
+						a sute of cloaths for it. he said further the black <lb/> man would have him
+						baptised but he never was. <lb/>
+						He saith further that Goody Parker<!-- Comment: --> went with him last night
+						to <lb/> afflict <name type="person" key="sprmar">martha Sprague</name>,
+						And that he afflicts by clincheing his hands <orig reg="together">to- <lb/>
+							gether</orig>. He now Saith he is sorry &amp; hates the <orig
+							reg="Devil">devill</orig> but yet struck <lb/> down the afflicted with
+						his eyes, <lb/> And <name type="person" key="sprmar">martha Sprague</name> being
 							<orig reg="recovered">re- <lb/> covered </orig> out of a <orig reg="fit"
 							>fitt</orig> said that <name type="person" key="barwil2">Barkers</name>
 						apparition and Goody Parker<!-- Comment: -->
-						<lb/> rid upon a pole and was baptized at five myle pond He now sayes <lb/>
-						there was such aload upon his stomach that he could not speak, </p>
-					<p>a little after he owned he was baptised by the black man at five <lb/> myle
+						<lb/> rid upon a pole. and was baptised at five myle pond,-- He now sayes <lb/>
+						there was such a load upon his Stomack that he could not speak, <lb/> A litle after he owned he was baptised by the black man at five <lb/> myle
 						pond and did also renounce his former baptisme, he knowes <lb/> Goody
-						Parker<!-- Comment: --> to be a witch and sayes the Devil Dipt his head into
-						<lb/> the water and spoke these words that he the said <name type="person"
-							key="barwil2">Barker</name> was his <lb/> for ever and ever </p>
+						Parker<!-- Comment: --> to be a witch <lb/> And sayes the devil dipt his head into
+						<lb/> the water &amp; spoke these words that he the said <name type="person"
+							key="barwil2">Barker</name> was his <lb/> for ever and ever. <lb/>
 
 					<pb n="76"/>
 
-					<p>He said he could not think of his baptisme before, And that the load <lb/>
-						that was upon his stomach is not so heavy as it was but just before </p>
-					<p>He still afflicted <name type="person" key="sprmar">Martha Sprague</name>
-						&amp; Shut her mouth but by layeing <lb/> his hand thereon opened it again
+						He said he could not think of his baptisme before, <lb/> And that the load 
+						that was upon his stomak is not so heavy as it was but just before <lb/> He #[said] still afflicted <name type="person" key="sprmar">martha Sprague</name>
+						&amp; shut her mouth but by layeing <lb/> his hand thereon opened it again.
 						-- and afterwards confessed that <lb/> there were of his Company Goody Parker<!-- Comment: -->
 						<name type="person" key="joheli1">Goody Johnson</name>
 						<name type="person" key="warsam">Samuel <lb/> Wardwell</name> &amp; his wife
-						and two Daughters. And then could take the <orig reg="afflicted">af- <lb/>
-							flicted </orig> persons by the hand without Doeing them any harme. -- </p>
+						and two daughte'rs. And then could take the <orig reg="afflicted">af- <lb/>
+							flicted </orig> persones by the hand without doeing them any harme. </p>
 					<p>
-						<name type="person" key="barwil2">W'm Barker Jun'r</name> Signed <lb/> &amp;
-						owned the abovesaid <lb/> Examination &amp; Confession. -- <lb/> before me </p>
+						<name type="person" key="barwil2">W'm Barker Jun'r</name> Signed &amp;
+						owned the abovesaid <lb/> Examination &amp; Confession. <lb/> before me </p>
 
 					<closer>
 						<signed>
 							<name type="person" key="higjoh">*John Higginson</name>
-							<lb/> Just peace: </signed>
-						<seg>The Marke <lb/> of <lb/>
+							Just'e peace: </signed>
+						<seg>The marke <lb/> X of <lb/>
 							<name type="person" key="barwil2">William Barker <lb/> Jun'r </name>
 						</seg>
 						<seg>(Reverse) Confession of <name type="person" key="barwil2">William
 								Barker Jun'r</name>
-							<lb/> acused Goody Parker<!-- Comment: -->
+							<lb/> acused.  Goody parker<!-- Comment: -->
 							<lb/>
 							<name type="person" key="joheli1">Goody Johnson</name>
 							<lb/>
-							<name type="person" key="warsam">Sam'l Wardell</name>
+							<name type="person" key="warsam">Sam'll wardell</name>.
 							<lb/> his wife <!-- Comment: sarah of mercy? -->
 							<lb/> &amp; 2 Daughters <!-- Comment: sarah or mercy? --></seg>
-						<seg>afflicted <lb/>
-							<name type="person" key="sprmar">Martha Sprague</name>
+						<seg>aflicted <lb/>
+							<name type="person" key="sprmar">martha. Sprage</name>
 						</seg>
 						<seg>
-							<ref>( <hi rend="italics">Suffolk Court Records Case No. 2761 Page 102
+							<ref>( <hi rend="italics">Suffolk Court Records Vol. 32 Case No. 2761 Page 103
 								</hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<pb n="77" id="p927-080"/>
-				<div2 id="BoySal1-n10.5b" type="examination">
-					<head>(Examination &amp; Confession of <name type="person" key="barwil2">William
-							Barker, Jr.)</name></head>
-					<p><figure n="eia24-10r"/><figure n="eia24-10v"/><date value="1692-09-01">1 Sep
-							92</date> Before <name type="person" key="gidbar">Majr Gidney</name>
-						<name type="person" key="harjoh">Mr Hathorne</name>
-						<name type="person" key="corjoh">Mr Corwin</name>
-						<name type="person" key="higjoh">Jno Higginson Esqr</name> ----<lb/> The
-						Exam &amp; Conffson of <name type="person" key="barwil2">Wm Barker
-							Junr</name> aged 14 yeares or their about<lb/> He is accused for
-						Exercising acts of Witchcraft Upon ye bodyes of <name type="person"
-							key="sprmar">Martha<lb/> Sprauge</name>
-						<name type="person" key="fosros">Rosse ffostter</name> &amp; <name
-							type="person" key="marabi">abigall Martin</name> wch he did not deny but
-						Could<lb/> not Remember it ---- He Conffesses now yt he hath not been in ye
-						snare of ye<lb/> Divel above Six yeares days; yt as he was Going into ye
-						Woods one Evening<lb/> to look after Cows he saw ye shape of a black dog wch
-						looked verry fercly<lb/> Upon Him &amp; he was Much disturbed in his mind
-						about it &amp; Could not sleep<lb/> well yt night &amp; betimes next morning
-						he mett wth a black man (he Calls<lb/> him a black man because he had black
-						Cloaths &amp; thinks he had a black -<lb/> skin) Who bid him sett his hand
-						to his book &amp; serve him as long as<lb/> he ye sd <name type="person"
-							key="barwil2">Barker</name> lived wch he promised And soe ^thereupon^
-						sett His hand to the book <lb/> by putting his fingr Theron he saith ye
-						black man brought Red stuf along<lb/> wth him in an Inkhorn &amp; he ye sd
-							<name type="person" key="barwil2">Barker</name> dipt his finger into it
-						and ther<lb/> wth made a Red Mark on ye paper He Conffesses he was to doe
-						any servis<lb/> ye black man appointed him to doe &amp; was to have Suite of
-						New Cloaths for<lb/> it he sd further ye black man would have him baptized
-						but he never<lb/> was ---- he saith further yt <name type="person" key="?"
-							>goode Parker</name> wentwth him last night</p>
-
-					<p>&lsqb;<hi rend="italics">In lower left corner:</hi> 24&rsqb;</p>
-					<p>&lsqb;next page of document&rsqb;</p>
-					<p>to afflictt <name type="person" key="sprmar">Martha Sprauge</name> &amp; yt
-						he afflicts by Clinching his hands<lb/> Together he saith he now is sorry
-						&amp; hates ye Divel but Yett struck downe<lb/> Ye afflicted wth his Eyes
-						---- and <name type="person" key="sprmar">Martha Sprauge</name> being
-						Recovered out of afitt<lb/> Sd ye <name type="person" key="barwil2"
-							>barkers</name> apparition &amp; <name type="person" key="?">Goode
-							Parker</name> rod Upon a pole &amp; was baptized<lb/> At 5 Mile pond
-						---- He Now says there was Such a load Upon his<lb/> Stomach yt he Could Not
-						Speak alittle affter he owned he was baptized<lb/> by ye black man at 5 Mile
-						pond &amp; Renounced his former baptisme<lb/> he knows <name type="person"
-							key="?">Goode parker</name> to be a witch &amp; says ye Divel dipt his
-						head into<lb/> ye Watter &amp; Spook these words yt he ye sd <name
-							type="person" key="barwil2">Barker</name> was his for Ever<lb/> &amp;
-						Ever He sd he Could not think of his baptizime before &amp; yt ye<lb/> Load
-						yt was Upon his Stomack Is not soe heavy as it was Just now<lb/> He stil
-						afflicted <name type="person" key="sprmar">Martha Sprauge</name> &amp; Shut
-						her Mouth but by ^laying^ his hand<lb/> Theron upon &lsqb;<hi rend="italics"
-							>ink blot covers word</hi>&rsqb; again ---- and after wards Confessed yt
-						ther were of<lb/> his Compai Good&lsqb;<hi rend="italics">ink
-						blot</hi>&rsqb; <name type="person" key="?">parker</name>
-						<name type="person" key="?">Good JohnSon</name>
-						<name type="person" key="warsam">Saml Wardwel</name> his wife &amp;<lb/> two
-						Daughters &amp; yn Could take ye afflicted persons by ye Hand wthout<lb/>
-						doing ym any harm</p>
-
-					<p><name type="person" key="barwil2">Wm Barker Junr</name> signed &amp;
-						owned<lb/> ye abovesd Exam &amp; Conffession<lb/> before Me <name
-							type="person" key="higjoh">John Higginson</name> Justs peace<lb/> The
-						Marke<lb/> of<lb/>
-						<name type="person" key="barwil2">Wm Barker Junr</name></p>
+				
+				<div2 id="BoySal1-n10.4" type="examination">
+					<head>(Examination of <name type="person" key="barwil2">William Barker,
+						Jr.</name>, Second Version ) <figure n="eia24-10r"/><figure n="eia24-10v"/></head>
+					<opener><date value="1692-09-01" certainty="confirmed">1 Sep'r ["S" written over "s"] 92 </date> Before
+						<name type="person" key="gidbar">Maj'r Gidney</name>
+						<name type="person" key="hawjoh">M'r Hathorne</name>
+						<name type="person" key="corjoh">M'r Corwin</name>
+						<name type="person" key="higjoh">Jn'o <orig reg="Higginson">Higginson
+						</orig></name> Esq'r </opener>
+					<p>The Exa&mbar; &amp; Confe'son of <name type="person" key="barwil2"
+						>W&mbar; Barker Jun'r</name> aged 14 Yeares or <lb/> their about He is
+						accused for Exercising acts of Witchcraft Upon <lb/> the bodyes of <name
+							type="person" key="sprmar">Martha Sprauge</name>
+						<name type="person" key="fosros">Rosse fostter</name> &amp; <name
+							type="person" key="marabi">abigall Martin</name> w'ch <lb/> he did not
+						deny but Could Not Rememb'r it -- He Confesses now <lb/> that he hath not
+						been in the Snare of the <orig reg="Devil">Divel</orig> above Six # [Years] <lb/>
+						<pb n="74"/> days, that as he was Goeing into the Woods one Evening to loeck
+						<lb/> after Cows he Saw the Shape of a black dog w'ch looked Verry <lb/>
+						fercly Upon Him &amp; he was Much disturbed in his Mind about it <lb/> &amp;
+						Could not Sleep well that Night &amp; betimes Next Morning he Mett <lb/>
+						w'th a black Man (he Calls him a black man because he had black <lb/> Cloaths
+						&amp; thinks he had a black Skin) Who bid him Sett his hand to <lb/> his
+						book &amp; Serve him as long as he the s'd <name type="person" key="barwil2"
+							>Barker</name> lived w'ch he <orig reg="promised">pro- <lb/> mised
+							</orig> And #[Soe] theirupon Sett His hand to this book by putting his <lb/> fing'r
+						Thereon he Saith the black man brought Red Stuf along w'th <lb/> him in an
+						Inkorn &amp; he the S'd <name type="person" key="barwil2">Barker</name> dipt
+						his finger into it and ther <lb/> w'th Made a Red Mark on the paper He
+						Confesses he was to doe any <lb/> Servis the black man appointed him # [to
+						doe] &amp; was to have Suite <lb/> of Cloaths for it he S'd further the
+						black man would have him <orig reg="baptized">bapt- <lb/> ized </orig> but
+						he Nevr was -- he Saith further that good'e Parker <!-- Comment: --> went
+						<lb/> w'th him last Night to afflictt <name type="person" key="sprmar">Martha
+							Sprauge</name> &amp; that he afflicts by <lb/> Clinching 
+						["Clinching" written over "pinching"] his hands
+						Together he Saith he Now is Sorry &amp; hates the <lb/>
+						<orig reg="Devil">Divel</orig> but Yett Struck dwone the afflicted w'th his
+						Eyes -- and <name type="person" key="sprmar">Martha Sprauge</name> <lb/> 
+						being Recovered out of a <orig reg="fit">fitt</orig> S'd that <name
+							type="person" key="barwil2">barkers</name>
+						<orig reg="apparition">apperition</orig>
+						<lb/> &amp; <!-- Comment: --> Good'e Parker rod Upon a pole &amp; was
+						baptized at 5 Mile pond -- He <lb/> Now Says there was Such a load Upon his
+						Stomach that he Could <lb/> Not Speak a little affter he owned he was
+						baptized by the black man <lb/> at 5 Mile pond &amp; Renounced his former
+						baptizime he Knows Good'e <lb/> parker <!-- Comment: --> to be a witch &amp;
+						Says the <orig reg="Devil">Divel</orig> dipt his head into the Watter <lb/>
+						&amp; Spook these words that he the S'd <name type="person" key="barwil2"
+							>Barker</name> was his for Ever &amp; Ever <lb/> He S'd he Could not
+						think of his baptizime before &amp; that the Load <lb/> that was Up[] his
+						Stomach Is not Soe heavy as it was Just now He <lb/> Stil afflicted <name
+							type="person" key="sprmar">Martha Sprauge</name> &amp; Shut her Mouth
+						but by laying his <lb/> hand Theron opened it again -- and afterwards
+						Confessed that <lb/> ther ware of his Comp'a Good'e parker <!-- Comment: -->
+						<name type="person" key="joheli1">Good'e Johnson</name>
+						<name type="person" key="warsam">Sam'll Wardwel</name> <lb/> his wife &amp;
+						two Daughters &amp; then Could take the afflicted <lb/> p'rsons by the Hand
+						w'th out doeing them any harm </p>
 					<p>
-						<seg>
-							<ref>
-								<hi rend="italics">Essex Institute Archives</hi>
-							</ref>
+						<name type="person" key="barwil2">W&mbar; Barker Jun'r</name> Signed &amp; owned
+						the above S'd Exam'n &amp; <lb/> Confession <lb/> before Me </p>
+					<closer>
+						<signed>
+							<name type="person" key="higjoh">*John Higginson</name> Just'e peace </signed>
+						<seg>The Marke <lb/>
+							<figure entity="BS10074b"/> X of <lb/>
+							<name type="person" key="barwil2">W&mbar; Barker Jun'r </name>
 						</seg>
-					</p>
+						<seg>
+							<ref>( <hi rend="italics">Miscellaneous Papers -- Essex Institute, Salem
+								No. 3 </hi>) </ref>
+						</seg>
+					</closer>
 				</div2>
+				
+				<pb n="75"/>
 			</div1>
 
 
@@ -6652,46 +6589,44 @@
 					<p>
 						<table>
 							<row>
-								<cell>Province of the Massachusetts <lb/> Bay in New England Essex </cell>
+								<cell>Province of the Massachusetts <lb/> Bay in New England Essex <lb/> ss </cell>
 								<cell>
-									<foreign lang="lat">\ An&obar; RR &amp; Reginae Gulielmi
-										<lb/>&amp; Mariae Angliae &amp;c Quarto Anoq'e <lb/> \
-										Do&mbar;. 1692 </foreign>
+									<foreign lang="lat">A&nbar;&obar; R&rbar;s &amp; Reginae Gulielmi
+										<lb/>&amp; Mariae Angliae &amp;c Quarto Anoq'e <lb/>
+										Do&mbar; 1692 </foreign>
 								</cell>
 							</row>
 						</table>
 					</p>
-					<p>The Jurors for o'r Sov'r lord &amp; Lady the King &amp; Queen pr'sent </p>
-					<p>The <name type="person" key="bassar">Sarah Bassett</name> wife of <name
-							type="person" key="baswil">William Bassett</name> of Lyn in the County
-						<lb/> of Essex aforesaid Upon or about the 23'rd day of May last Anno: 1692
-						aforsaid </p>
-					<p>And Divers other Days &amp; Times as well before as after Certaine <lb/>
-						Detestable Arts Called Witchcraft &amp; Sorceries Wickedly Mallitiously
+					<p>The Juro'rs for o'r Sov'r lord &amp; lady the King &amp; Queen p'rsent <lb/> That <name type="person" key="bassar">Sarah Bassett</name> wife of <name
+							type="person" key="baswil">William Basett</name> of lyn in the County
+						<lb/> of Essex aforesaid upon or about the 23'd day of May last Anno: 1692
+						aforsaid <lb/> And Divers other days &amp; Times as well before #[and] as after Certaine <lb/>
+						detestable Arts Called Witchcraft &amp; Sorceries wickedly mallitiously
 						<lb/> &amp; felloniously hath used practised &amp; Exercised at &amp; in the
-						Towne <lb/> of Salem, in the County of Essex aforesaid Upon &amp; Against
+						Towne <lb/> of Salem in the County of Essex aforesaid upon &amp; Against
 						One <lb/>
-						<name type="person" key="walmar">Mary Walcott</name> of Salem Single Woman
-						By Which Wicked Arts The <lb/> Said <name type="person" key="walmar">Mary
+						<name type="person" key="walmar">Mary ["M" written over "El"] Walcott</name> of Salem Single Woman
+						By which Wicked Arts The <lb/> Said <name type="person" key="walmar">Mary
 							Walcott</name> is Tortured <orig reg="afflicted">aflicted</orig>
-						Tormented Consumed Wasted <lb/> &amp; Pined the Day &amp; yeare aforesaid
-						&amp; Divers other Days &amp; times as <lb/> well before as Contrary to the
+						Tormented Consumed wasted <lb/> &amp; pined the day &amp; yeare aforesaid
+						&amp; divers other days &amp; times as <lb/> well before as after Contrary to the
 						peace of o'r Sov'r lord &amp; lady the King <lb/> &amp; Queen their Crowne
-						&amp; Dignity &amp; the Laws in that Case made <lb/> &amp; provided </p>
+						&amp; dignity &amp; the Laws in that Case made <lb/> &amp; provided </p>
 					<closer>
 						<signed>Wittness <lb/>
 							<name type="person" key="putann2">An Putnam</name>
 							<lb/>
 							<name type="person" key="lewmer">Marcy lewis</name>
 						</signed>
-						<seg>(Reverse) </seg>
+						<seg>(Reverse) <name type="person" key="bassar">Sarah Bassett</name> </seg>
 						<seg>Ignoramus <lb/>
-							<name type="person" key="payrob">*Robert Payne</name>
-							<lb/> foreman <lb/> Salem Court <lb/>
-							<date value="1693-01-03" certainty="unconfirmed">3 January 169&frac23;
+							<name type="person" key="payrob">*Robert: Payne</name>
+							foreman <lb/> Salem Court 
+							<date value="1693-01-03" certainty="unconfirmed">3'd Janu'a 1692/3
 							</date></seg>
 						<seg>
-							<ref>( <hi rend="italics">Suffolk Court Records Case No. 2701 Page 24
+							<ref>( <hi rend="italics">Suffolk Court Records Vol. 32 Case No. 2701 Page 24
 								</hi>) </ref>
 						</seg>
 					</closer>
@@ -6715,27 +6650,27 @@
 					<figure n="ecca2119r"/>
 					<figure n="ecca2119v"/>
 					<p rend="center">The Testimony of <name type="person" key="porjoh">John
-							porter</name> : And <name type="person" key="porlyd">Lidia porter</name>
+							Porter</name>: And <name type="person" key="porlyd">Lidia Porter</name> These
 					</p>
-					<p>The Testimony of <name type="person" key="porlyd">John porter</name> , who
+					<p>The Testimony of <name type="person" key="porlyd">John Porter</name>, who
 						Testifieth &amp; sayth that <lb/>
-						<name type="person" key="bibsar">Goodwife Biber</name> sometime living
-						amongst us I did ovserve her to be <lb/> a woman of An unruly turbulent
-						spirit; And shee would often fall <lb/> into strange <orig reg="fits"
+						<name type="person" key="bibsar">Goodwife Biber</name> Somtime living
+						amongst us I did observe her to be <lb/> a woman of An unruly turbulent
+						Spirit; And shee would often fall <lb/> into strange <orig reg="fits"
 							>fitts</orig>; when shee was crost of her humor: Likewise <name
-							type="person" key="lydpor">Lidia <lb/> porter</name> Testifieth, that
+								type="person" key="lydpor">Lidia Porter</name> <lb/> Testifieth, that
 							<name type="person" key="bibsar">Goodwife Bibber</name> And her Husband
 						would <lb/> often quarrel &amp; in their quarrels shee would call him, very
 						bad names, <lb/> And would have strange <orig reg="fits">fitts</orig> when
-						she was crost, and a woman of <lb/> an unruly turbulent spirit, And double
+						she was crost, And a woman of <lb/> an unruly turbulent spirit, And double
 						tongued </p>
-					<p>(Reverse) <name type="person" key="porjoh">Jno Porters</name> Evidence in
-						behalfe of the p'rsones in <orig reg="Invalidating">Invali- <lb/> dating
-						</orig> -- <name type="person" key="bibsar">Sarah vibber</name> #[copy]
+					<p>(Reverse) <name type="person" key="porjoh">Jn'o Porters</name> Evidence in
+						behalfe of the p'rson'es in <orig reg="Invalidating">Invali- <lb/> dating
+						</orig> <name type="person" key="bibsar">Sarah vibber</name> <lb/> copy <lb/>
 						copied </p>
 					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 2
-								Page 56 </hi>) </ref>
+						<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 2
+								No. 119 </hi>) </ref>
 					</p>
 				</div2>
 				<div2 id="BoySal1-n12.2" type="section">
@@ -6744,21 +6679,20 @@
 					</head>
 					<figure n="ecca2120r"/>
 					<figure n="ecca2120v"/>
-					<p>The Testimony of <name type="person" key="fowjos">Joseph fowler</name> , who
+					<p>The Testimony of <name type="person" key="fowjos">Joseph fowler</name>, who
 						Testifieth that <name type="person" key="bibber">Goodman <lb/> Bibber</name>
 						&amp; his wife, Lived at my house, and I did observe and take <lb/> notice,
 						that <name type="person" key="bibsar">Goodwife Bibber</name> was a woman,
 						who was very idle in <lb/> her calling And very much given to tatling &amp;
-						tale Bareing makeing <lb/> mischeif amongst her neighbors, and very much
+						tale Bareing makeing <lb/> mischeif amongst her neighbo'rs, &amp; very much
 						given to speak bad <lb/> words and would call her husband bad names &amp;
 						was a woman of a <lb/> very turbulent unruly spirit </p>
-					<p>(Reverse) <name type="person" key="fowjos">Joseph Fowler</name> Against <name
-							type="person" key="bibber">Bibber</name> &amp; <name type="person"
-							key="bibsar">Wife</name>
+					<p>(Reverse) Against <name type="person" key="bibber">Bibber</name> &amp; <name type="person"
+						key="bibsar">Wife</name> <lb/> <name type="person" key="fowjos">Joseph fowler</name>
 					</p>
 					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 2.
-								Page 56 </hi>) </ref>
+						<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 2.
+								No. 120 </hi>) </ref>
 					</p>
 				</div2>
 
@@ -6771,26 +6705,27 @@
 					</head>
 					<figure n="ecca2121r"/>
 					<p>The testymony of <name type="person" key="jactho">Thomas Jacob</name> and
-							<name type="person" key="jacay">mary</name> his wife doth testyfy <lb/>
-						and say that <name type="person" key="bibsar">good bibbor#</name> [and] now
-						that is now counted <orig reg="afflicted">aflicted</orig>
-						<lb/> parson she did for a time [surgin] in our hous and <name type="person"
+							<name type="person" key="jacay">mery</name> his wife doth testyfy <lb/>
+						and say that <name type="person" key="bibsar">good bibbor</name> #[and] now
+						that is now counted <orig reg="afflicted">aflicketed</orig>
+						<lb/> parson she did for a time surgin in our hous and <name type="person"
 							key="bibsar">good bibber</name> wood <lb/> be very often spekeking
-						against won and nother very obsa[n]ely <lb/> and thos things that were very
+						against won and nother very obsanely <lb/> and thos things that were very
 						falls. and wichshing very bad wichchis <lb/> and very often and she wichs
-						that wen hor chill fell into the rever <lb/> that she had never pull#[our]
+						that wen hor chill fell into the rever <lb/> that she had never pull #[out]
 						hor chilld out and <name type="person" key="bibsar">good bibbor</name> yous
 						<lb/> to wich ill wichches to horselfe and hor chilldren and allso to
-						others: <lb/> the nayborhud werr she liveued amonkes aftor she bered hor
+						others: <lb/> the nayborhud werr she liveued [2nd "u" written over "d"] 
+						amonkes aftor she bered: hor
 						fust <lb/> housbon hes tolld us that this <name type="person" key="bibber"
 							>John bibbor</name> wife coud fall into <orig reg="fits">fitts</orig>
-						<lb/> as often as she plesed </p>
-					<p>(Reverse) <name type="person" key="jactho">Tho. Jacobs</name>
-						<name type="person" key="bibsar">goody[b]iver</name>
+						<lb/> as often as she plesed ["d" written over "s"] </p>
+					<p>(Reverse) <name type="person" key="jactho">Tho. Jacobs</name> <lb/> 
+						<name type="person" key="bibsar">goody fiber</name>
 					</p>
 					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 2
-								Page 57 </hi>) </ref>
+						<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 2
+								No. 121 </hi>) </ref>
 					</p>
 				</div2>
 				<div2 id="BoySal1-n12.4" type="section">
@@ -6798,14 +6733,14 @@
 							type="person" key="bibsar">Sarah Bibber</name>) </head>
 					<figure n="ecca2121r"/>
 					<p>(In left margin) The Testimony of <name type="person" key="walric">Richard
-							Walker:</name> who Testifieth: <lb/> that <name type="person"
-							key="bibsar"> Goodwife Bibber </name>somtimes Living neare to me, I did
+							Walker;</name> who Testifieth; <lb/> that <name type="person"
+							key="bibsar"> Goodwife Bibber </name>Somtimes, Living neare to me, I did
 						observe <lb/> her to be a woman of an unruly turbulent spirit, And would
-						often <lb/> fall into strange <orig reg="fits">fitts</orig>: when anything
+						often <lb/> fall into strange <orig reg="fits">fitts</orig>: when any thing
 						crost her humor </p>
 					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 2
-								p. 57 </hi>) </ref>
+						<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 2
+							No. 121  </hi>) </ref>
 					</p>
 				</div2>
 				<div2 id="BoySal1-n12.5" type="section">
@@ -6813,22 +6748,22 @@
 							type="person" key="bibsar">Sarah Bibber</name>) </head>
 					<figure n="H48r"/>
 					<figure n="H48v"/>
-					<p>the Testimony of <name type="person" key="nursar">Sarah Nurs</name> aged 28
-						years of th [Torn] a bouts <lb/> who testifieth and saith that being in the
-						Coun [Torn] this 29 of June 1692 I sawe <name type="person" key="bibsar"
-							>goodwife bibber</name> pull [Torn] pins out of her <lb/> Close and held
-						them betwene h [Torn] fingers and Claspt her hands <lb/> round her knese and
+					<p>the testimony of <name type="person" key="nursar">Sarah Nurs</name> aged 28
+						years or th[Torn] abouts <lb/> who testifieth and saith that being in the
+						Cour[Torn] this 29 of June 1692 I sawe <name type="person" key="bibsar"
+							>goodwife bibber</name> pull o[Torn] pins out of her <lb/> Close and held
+						them betwene h[Torn] fingers and Claspt her hands <lb/> round her knese and
 						then she Cryed out and said <name type="person" key="nursar">goody
 							Nurs</name> prict <lb/>
-						<pb n="81"/> her this I can testifie if Calld as witness my mark </p>
+						<pb n="81"/> her this I can testifie if Calld as witnes my mark </p>
 					<closer>
 						<signed>mark <lb/>
-							<name type="person" key="nursar">Sarah <seg>
+							<name type="person" key="nursar">Sarah <seg> S
 									<figure entity="BS10081a"/>
-								</seg> Nurs <lb/>
-							</name> her </signed>
-						<seg>
-							<ref>( <hi rend="italics">Massachusetts Historical Society </hi>) </ref>
+								</seg> Nurs 
+							</name> <lb/> her </signed> <lb/> (Reverse) Evidences in behalfe of the prison'rs
+						<seg> 
+							<ref>( <hi rend="italics">Massachusetts Historical Society, Witchraft Papers No. 37b </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
@@ -6851,35 +6786,36 @@
 					</hi>) </p>
 
 				<div2 id="BoySal1-n13.1" type="examination">
-					<head>(Examination of <name type="person" key="bisbri">Bridget Bishop</name> ,
+					<head>(Examination of <name type="person" key="bisbri">Bridget Bishop</name>,
 						First Version) </head>
 					<figure n="ecca1125r"/>
 					<p rend="center">The Examination of <name type="person" key="bisbri">Bridget
-							Byshop</name> at Salem Village <date value="1692-04-19"
-							certainty="confirmed">19. Apr. 1692 </date>
+						Byshop</name> at Salem village <lb/> <date value="1692-04-19"
+							certainty="confirmed">19. ["9" written over "6"] Apr. <hi rend="italics">1692 </hi> ["2" written
+						over "3"]</date>
 						<lb/> By <name type="person" key="hawjoh">John Hauthorn</name> &amp; <name
 							type="person" key="corjoh">Jonath: Corwin</name> Esq'rs </p>
 					<p>As soon as she came near all fell into fits <lb/>
-						<name type="person" key="bisbri">Bridget Byshop</name> , You are now brought
-						before Authority to Give acco. <lb/> of what witchcrafts you are conversant
+						<name type="person" key="bisbri">Bridget Byshop</name>, You are now brought
+						before Authority to give acc'o <lb/> of what witchcrafts you are conversant
 						in </p>
 					<p>I take all this people (turning her head &amp; eyes about) to witness <lb/>
 						that I am clear. </p>
 					<p>Hath this woman hurt you speaking to the afflicted. </p>
-					<p><name type="person" key="hubeli">Eliz: Hubbard</name>
-						<name type="person" key="putann2">Ann Putman</name> , <name type="person"
-							key="wilabi">Abigail Williams</name> &amp; <name type="person"
+					<p>#[A()b Hubb()d]<name type="person" key="hubeli">Eliz: Hubbard</name>,
+						<name type="person" key="putann2">Ann Putman</name>, <name type="person"
+							key="wilabi">Abigail Williams</name>, &amp; <name type="person"
 							key="lewmer">Mercy Lewes</name>
 						<lb/> affirmed she had hurt them. </p>
-					<p>You are here accused by 4.or.5. for hurting them, what do you <lb/> say to
-						it, </p>
-					<p>I never saw these persons before, nor I never was in this place <lb/> before. </p>
+					<p>You are here accused by 4. or .5. for hurting them, what do you <lb/> say to
+						it? </p>
+					<p>I never saw these persons before; nor I never was in this place <lb/> before. </p>
 					<p>
-						<name type="person" key="walmar">Mary Walcot</name> said that her brother
+						<name type="person" key="walmar">Mary Walcot</name> sais that her brother
 							<name type="person" key="waljoh">Jonathan</name> stroke her appearance
-						<lb/> &amp; she saw that he had tore her coat in striking, &amp; she heard
+						<lb/> &amp; she saw that #[ha] he had tore her coat in striking, &amp; she heard
 						it tare. </p>
-					<p>Upon some search in the Court, a rent that seems to answere <lb/> what was
+					<p>Upon #[sea] some search in the Court, a rent that seems to answere <lb/> what was
 						alledged was found. </p>
 					<p>They say you <orig reg="bewitched">bewitcht</orig> your first husband to
 						death. </p>
@@ -6888,73 +6824,75 @@
 					<p>The like again upon the motion of her head. </p>
 					<p>
 						<name type="person" key="brasam">Sam: Braybrook</name> affirmed that she
-						told him to day that she had <lb/> been accounted a Witch these 10 years,
+						told him to day that she had <lb/> been accounted a Witch these .10. years,
 						but she was no Witch, the <lb/> Devil cannot hurt her. </p>
 
 					<pb n="84"/>
 
-					<p>I am no witch </p>
+					<p>I am no Witch. </p>
 					<p>Why if you have not wrote in the book, yet tell me how far you <lb/> have
 						gone? Have you not to do with familiar Spirits? </p>
-					<p>I have no familiarity with the devil. </p>
+					<p>I have no familiarity with the Devil. </p>
 					<p>How is it then, that your appearance doth hurt these? </p>
 					<p>I am innocent. </p>
-					<p>Why you seem to act witchcraft before us, by the motion of your <lb/> body,
-						which seems to have influence upon the afflicted. </p>
+					<p>Why you seem to act Witchcraft before us, by the motion of your <lb/> body,
+						which #[has in] seems to have influence fluence upon the afflicted. </p>
 					<p>I know nothing of it. I am innocent to a Witch. I know not what <lb/> a Witch
-						is </p>
-					<p>How do you know then that you are not a witch </p>
-					<p>I do not know what you say. </p>
-					<p>How can you know, you are no Witch, &amp; yet not know what a <lb/> Witch is. </p>
+						is. </p>
+					<p>How do you know then that you are not a witch? #[and yet know not what a Witch is?] </p>
+					<p>I do not #[understand] know what you say. </p>
+					<p>How can you know, you are no Witch, &amp; yet not know what a <lb/> Witch is: </p>
 					<p>I am clear: if I were any such person you should know it. </p>
 					<p>You may threaten, but you can do no more than you are <orig reg="permitted"
-							>per- <lb/> mitted </orig>. </p>
-					<p>I am innocent of a witch. </p>
+							>per- <lb/> mitted</orig>. </p>
+					<p>I am innocent of a Witch. </p>
 					<p>What do you say of those murders you are charged with? </p>
-					<p>I hope, I am not guilty of Murder </p>
-					<p>Then she turned up her eyes, the eyes of the afflicted were <lb/> turned up </p>
+					<p>I hope, I am not guilty of Murder. </p>
+					<p>Then she turned up her eyes, &amp; #[they] the eyes of the afflicted were <lb/> turned up </p>
 					<p>It may be you do not know, that any have confessed to day, who <lb/> have
 						been examined before you, that they are Witches. </p>
-					<p>No. I know nothing of it. </p>
+					<p>No, I know nothing of it. </p>
 					<p>
-						<name type="person" key="hutjoh">John Hutchinson</name> &amp; <name
-							type="person" key="lewjoh">John Lewis</name> in open Court affirmed that
+						<name type="person" key="hutjoh">John Hutchinson</name> &amp; <name type="person" key="hewjoh">John Hewes</name> in open Court affirmed that
 						they <lb/> had told her </p>
 					<p>Why look you, you are taken now in a flat lye. </p>
 					<p>I did not hear them. </p>
 					<p>
 						<hi rend="italics">Note </hi> Sam: Gold saith that after this examination he
-						askt s'd <lb/>
+						ask't s'd <lb/>
 						<name type="person" key="bisbri">Bridget Byshop</name> if she were not
 						troubled to see the afflicted persons <lb/> so tormented, said <name
 							type="person" key="bisbri">Byshop</name> answered no, she was not
-						Troubled for <lb/> them: Then he ask't her whither she thought they were
+						troubled for <lb/> them: Then he ask't her whither she thought they were
 							<orig reg="bewitched">bewitcht</orig>, <lb/> she said she could not tell
-						what to think about them. <name type="person" key="goowil">Will Good</name>
-						, <lb/> &amp; <name type="person" key="buxjoh">John Buxton jun'r</name> was
+						what to think about them. <name type="person" key="goowil">Will Good</name>, 
+						<lb/> &amp; <name type="person" key="buxjoh">John Buxton jun'r</name> was
 						by, &amp; he supposeth they heard her also. </p>
-					<p>Salem Village <date value="1692-04-19" certainty="confirmed">Aprill the.19'th
+					<p>Salem Village <date value="1692-04-19" certainty="confirmed">Aprill the .19'th
 							1692</date>
-						<name type="person" key="parsam">mr Sam'l parris</name> being <lb/> desired
-						to take into wrighting the Examination of <name type="person" key="bisbri"
-							>Bridget Bishop</name> , <lb/> hath delivered it as aforesaid. And upon
+						<name type="person" key="parsam">m'r Sam'l Parris</name> being <lb/> desired
+						to take into Wrighting the Examination of <name type="person" key="bisbri"
+							>Bridget Bishop</name>, <lb/> hath delivered it as aforesaid And upon
 						hearing the same, and <lb/>
-						<pb n="85"/> seeing what wee did then see, togather with the Charge of the
-							<orig reg="afflicted">afflic- <lb/> ted </orig> persons then present:
-						Wee Committed said <name type="person" key="bisbri">Bridget Olliver</name>
+						<pb n="85"/> seeing what wee did then see, togather wit[] the Charge of the
+							<orig reg="afflicted">afflic- <lb/> ted </orig> persons th[] present;
+						Wee Committed s'd <name type="person" key="bisbri">Bridg[] Olliver</name>
 						-- </p>
 					<closer>
 						<signed>
-							<name type="person" key="hawjoh">*John Hathorne.</name>
-						</signed>
+							<name type="person" key="hawjoh">*John Hathorne</name>
+						</signed> <lb/> 
+						(Reverse) The Exam&obar;&cbar;&obar;&nbar; of <name type="person" key="bisbri"
+							>Bridget Byshop</name> <date value="1692-04-19" certainty="confirmed">19. Apr
+								1692</date>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1 p. 34 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 125 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.2" type="examination">
-					<head>(Examination of <name type="person" key="bisbri">Bridget Bishop</name> ,
+					<head>(Examination of <name type="person" key="bisbri">Bridget Bishop</name>,
 						Second Version) </head>
 					<figure n="ecca1137v"/>
 					<p>
@@ -6965,210 +6903,211 @@
 						<name type="person" key="harjoh">John Harthon</name> and <name type="person"
 							key="corjoh">Jonathan Curren</name> esq'rs </p>
 					<p>
-						<name type="person" key="bisbri">Bridget Bishop</name> being now coming in
-						to be examined relating <lb/> to her accusation of Suspicon of sundry acts
+						<name type="person" key="bisbri">Bridget Bishop</name> being now comeing in
+						to be examined relating <lb/> to her accusation of suspicon of sundry acts
 						of witchcrafts the <lb/> afflicted persons are now dreadfully afflicted by
-						her as they doe <lb/> say. </p>
-					<p>( <name type="person" key="harjoh">Mr Harthon</name> ) <name type="person"
+						her as they doe <lb/> say </p>
+					<p>( <name type="person" key="harjoh">m'r Harthon</name> ) <name type="person"
 							key="bisbri">Bishop</name> what doe you say you here stand charged <lb/>
-						with sundry acts of witchcraft by you done or committed upon the <lb/>
+						with sundry acts of witchcraft by you done or commited upon the <lb/>
 						bodyes of <name type="person" key="lewmer">mercy Lews</name> and <name
-							type="person" key="putann2">An Putnam</name> and others. </p>
-					<p>( <name type="person" key="bisbri">Bishop</name> ) I am innocent I know
+							type="person" key="putann2">An Putnum</name> and others </p>
+					<p>( <name type="person" key="bisbri">Bushop</name> ) I am innocent I know
 						nothing of it I have done no <lb/> witchcraft </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) Looke upon this woman and
-						see if this be the woman <lb/> that you have seen hurting you. <name
-							type="person" key="lewmer">Mercy Lewes</name> and <name type="person"
-							key="putann2">An Putnam</name> and <lb/> others doe [doe] now charge her
-						to her face with hurting of them. </p>
+					<p>( <name type="person" key="harjoh">m'r Har</name> ) Looke upon this woman and
+						see if this be the woman <lb/> that you have seen hurting you <name
+							type="person" key="lewmer">mercy Lewes</name> and <name type="person"
+							key="putann2">An Putnum</name> and <lb/> others doe doe now charge her
+						to her face with hurting of them </p>
 					<p>
-						<name type="person" key="harjoh">Mr Harthon</name> What doe you say now you
+						<name type="person" key="harjoh">M'r Harthon</name> ) what doe you say now you
 						see they charge you to <lb/> your face </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) I never did hurt them in my
 						life I did never see these <lb/> persons before I am as innocent as the
 						child unborn </p>
-					<p>( <name type="person" key="harjoh">Mr Harth</name> ) is not your coate cut </p>
+					<p>( <name type="person" key="harjoh">m'r Harth</name> ) is not your coate cut </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) answers no but her garment
-						being Looked upon they find <lb/> it cut or toren two wayes <name
-							type="person" key="waljoh">Jonathan walcoate</name> saith that the sword
-						<lb/> that he strucke at <name type="person" key="bisbri">goode
-							Bishup</name> with was not naked but was within <lb/> the scabbord so
+						being Looked upon they find <lb/> #[l] it cut or toren two wayes <name
+							type="person" key="waljoh">Jo#[h]nathan walcoa[]te</name> saith that the sword
+						<lb/> that he strucke at <name type="person" key="bisbri">goo#o]de
+							Bishop</name> with was not naked but was within <lb/> the #[scab] scabberd so
 						that the rent may very probablie be the very same <lb/> that <name
-							type="person" key="walmar">mary walcoate</name> did tell that she had in
+							type="person" key="walmar">mary walcoate</name> #[tell] did tell that shee had in
 						her coate by <name type="person" key="waljoh">Jonathans</name>
 						<lb/> stricking at her apperance </p>
-					<p>The afflicted persons charge her, with having hurt them many <lb/> wayes and
-						by tempting them to sine to the devils Booke at which <lb/> charge she
+					<p>The afflicted persons charge her, with having ["i" written over "a"] hurt them many <lb/> wayes and
+						by tempting them to sine to the devils Booke at which <lb/> charge shee
 						seemed to be very angrie and shaking her head at them <lb/>
 						<pb n="86"/> saying it was false they are all greatly tormented (as I
 						conceive) by <lb/> the shaking of her head </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) <name type="person"
+					<p>( <name type="person" key="harjoh">m'r Har</name> ) <name type="person"
 							key="bisbri">good Bishop</name> what contract have you made with the <lb/>
 						<orig reg="devil">devill</orig>
 					</p>
-					<p>( <name type="person" key="bisbri">Bish</name> ) I have made no contract with
+					<p>( <name type="person" key="bisbri">Bish</name> ). I have made no contract with
 						the <orig reg="devil">devill</orig> I never saw him in <lb/> my life. <name
 							type="person" key="putann2">An Putnam</name> sayeth that shee calls the
 							<orig reg="devil">devill</orig> her God </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) what say you to all this
-						that you are charged with can <lb/> you not find in your heart to tell the
+					<p>( <name type="person" key="harjoh">M'r Har</name> ) what say you to all this
+						that you are charged with can <lb/> you not find in your []art to tell the
 						truth </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) I doe tell the truth I never
-						hurt these persons in my life <lb/> I never saw them before. </p>
-					<p>(<name type="person" key="lewmer">Mercy Lewes</name>) oh <name type="person"
+						hurt these persons in []y life <lb/> I never saw them before. </p>
+					<p>(<name type="person" key="lewmer">mercy Lewes</name>) oh <name type="person"
 							key="bisbri">goode Bishop</name> did you not come to our house <lb/> the
 						Last night and did you not tell me that your master made you <lb/> tell more
-						than you were willing to tell </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) tell us the truth in this
+						then you were willing to tell </p>
+					<p>( <name type="person" key="harjoh">m'r Har</name> ) tell us the truth in this
 						matter how comes these persons <lb/> to be thus tormented and to charge you
 						with doing </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) I am not come here to say I
 						am a witch to take away my <lb/> life </p>
-					<p>( <name type="person" key="harjoh">Mr H</name> ) who is it that doth it if
+					<p>( <name type="person" key="harjoh">m'r H</name> ) who is it that doth it if
 						you doe not they say it is your <lb/> likenes that comes and torments them
 						and tempts them to write in <lb/> the booke what Booke is that you tempt
 						them with. </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) I know nothing of it I am
 						innocent. </p>
-					<p>( <name type="person" key="harjoh">Mr Harth</name> ) doe you not see how they
+					<p>( <name type="person" key="harjoh">m'r Harth</name> ) doe you not see how they
 						are tormented you are <lb/> acting witchcraft before us what doe you say to
 						this why have you <lb/> not an heart to confese the truth </p>
-					<p>( <name type="person" key="bisbri">Bish</name> ) I am innocent I know nothing
+					<p>( <name type="person" key="bisbri">Bsh</name> ) I am innocent I know nothing
 						of it I am no witch I know <lb/> not what a witch is. </p>
-					<p>( <name type="person" key="harjoh">Mr H</name> ) have you not given consent
+					<p>( <name type="person" key="harjoh">m'r H</name> ) have you not given consent
 						that some <orig reg="evil">evill</orig> spirit should <lb/> doe this in your
 						likenes. </p>
 					<p>( <name type="person" key="bisbri">B</name> ) no I am innocent of being a
 						witch I know no man woman or <lb/> child here </p>
 					<p>( <name type="person" key="hergeo">Marshall Herrik</name> ) how came you into
-						my bed chamber one <lb/> morning then and asked me whether I had any
+						my bedchamber one <lb/> morning then and asked me whither I had any
 						curtains to sell shee <lb/> is by some of the afflicted persons charged with
 						murder </p>
-					<p>( <name type="person" key="harjoh">Mr Harth</name> ) what doe you say to
+					<p>( <name type="person" key="harjoh">m'r Harth</name> ) what doe you say to
 						these murders you are charged <lb/> with </p>
-					<p>(B) I am innocent I know nothing of it </p>
-					<p>now shee lifts up her eyes and they are greatly tormented again </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) what doe you say to these
-						things here horrible acts of <lb/> witch craft. </p>
+					<p>(B) I am innocent I know nothing #[about] of it </p>
+					<p>now shee lifts up her eyes and they are greatly tormented #[again] </p>
+					<p>( <name type="person" key="harjoh">m'r Har</name> ) what doe you say to these
+						things here horrible acts of <lb/> witch craft </p>
 
 					<pb n="87"/>
 
 					<p>( <name type="person" key="bisbri">Bish</name> ) I know nothing of it I doe
 						not know whither be any <lb/> witches or no </p>
-					<p>( <name type="person" key="harjoh">Mr Har</name> ) no have you not heard that
+					<p>( <name type="person" key="harjoh">m'r Har</name> ) no have you not heard that
 						some have confessed. </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) no I did not. two men told
 						her to her face that they had <lb/> told her here shee is taken in a plain
 						lie now shee is going away they <lb/> are dreadfully afflicted 5 afflicted
-						persons doe charge this woman to <lb/> be the very woman that hurts them </p>
-					<p>This is a true account of what I have taken down at her <orig
+						persons doe charge this woman to <lb/> be the very #[w]woman that hurts them </p>
+					<p>[ ] is a true account of what I have taken down at her <orig
 							reg="examination">examina- <lb/> tion </orig> according to best
-						understanding and observation I have also in <lb/> her examination taken
-						notice that all her actions have great influence <lb/> upon the afflicted
-						persons and that have been <orig reg="tortured">tortored</orig> by her </p>
+						[]derstanding and observation I have also in <lb/> her examination taken
+						notice that all her actions [ ]e great influence <lb/> upon the afflicted
+						persons and that have ben <orig reg="tortured">tortered</orig> by her </p>
 					<closer>
 						<signed>
 							<name type="person" key="cheeze">*Ezekiel Cheever.</name>
 						</signed>
-						<seg>(Reverse) Examination ag't <name type="person" key="bisbri"
+						<seg>(Reverse) Examina&cbar;&obar;&nbar; ag't <name type="person" key="bisbri"
+							>B B[ ]</name> <lb/> <name type="person" key="bisbri"
 								>Bishop</name>
 						</seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1 p. 36 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 137 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.3" type="indictment">
-					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
+					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name>,
 						No. 1) </head>
 					<figure n="ecca1121r"/>
 					<figure n="ecca1121v"/>
 					<p>
-						<foreign lang="lat">Anno Regni Regis et Reginae W[illm et] <lb/> Mariae nunc
-							Angliae &amp;c Quarto: </foreign>
+						<foreign lang="lat">Anno Regni Regis et Reginae W[ ] <lb/> Mariae nunc
+							Angliae &amp;'c Quarto: </foreign>
 					</p>
-					<p>Essex Ss </p>
-					<p>The Jurors for our Sovereigne Lord &amp; lady the King &amp; Queen <lb/>
-						p'esents that <name type="person" key="bisbri">Bridgett Bishop</name> als
+					<p>Essex ss </p>
+					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; lady the King &amp; Queen <lb/>
+						p'rsents that <name type="person" key="bisbri">Bridgett Bishop</name> a&lbar;&sbar;
 						Olliver the wife of <name type="person" key="bisedw2">Edward Bishop</name>
 						<lb/> of Salem in the County of Essex Sawyer the Nyneteenth Day of <lb/>
 						April in the fourth Year of the Reigne of our Sovereigne Lord and <lb/> Lady
 						William and Mary by the Grace of God of England Scottland <lb/> France &amp;
-						Ireland King &amp; Queen Deffenders of the faith &amp;c and <lb/> Divers
-						other Dayes &amp; times awell before as after. certaine Detestable <lb/>
-						Arts called Witchcraft &amp; Sorceries.wickedly.and felloniously hath <lb/>
-						used Practised &amp; Exercised, at and within the Towneship of Salem <lb/>
-						in the County of Essex afores'd in upon.and ag't one: <name type="person"
+						Ireland King &amp; Queen Defenders of the faith &amp;'c and <lb/> Divers
+						other Dayes &amp; times a well before as after. certaine Detestable <lb/>
+						Arts #[of] called Witchcrafts &amp; Sorceries. wickedly, and felloniously #[ag't]. hath <lb/>
+						used Practised &amp; Exercised, at and within the Towneship of Salem #[ab]<lb/>
+						in the County of Essex afor&ebar;&sbar;'d in #[and] upon, and ag't one, <name type="person"
 							key="lewmer">Mercy Lewis</name>
-						<lb/> of Salem Village in the County afors'd singlewoman by which said <lb/>
+						<lb/> of Salem Village in the County afores'd singlewoman by which said <lb/>
 						wicked Arts the said <name type="person" key="lewmer">Mercy Lewis</name> --
-						the s'd Nyneteenth Day of April <lb/> in the fourth Year aboves'd and divers
+						the s'd Nyneteenth Day of April <lb/> in the fourth Year abov&ebar;&sbar;'d and divers
 						other Dayes and times as well <lb/> before as after, was &amp; is hurt
-						Tortured Afflicted Pined, Consumed, <lb/> wasted: &amp; tormented ag't the
+						Tortured Afflicted. #[tormented] Pined, Consumed, <lb/> wasted: &amp; tormented, ag't the
 						Peace of our said Sovereigne Lord <lb/> And Lady the King &amp; Queen and
-						ag't the forme of the Statute in <lb/> that Case made &amp; provided </p>
+						ag't the forme of the Statute in <lb/> that Case made &amp; provided/ </p>
 
 					<pb n="88"/>
 
 					<closer>
-						<signed>Wittnesses <lb/>
-							<name type="person" key="lewmer">Mercy Lewis</name>
+						<signed>wittnesses <lb/>
+							<name type="person" key="lewmer">Mercy. Lewis</name>
 							<lb/>
 							<name type="person" key="ingnat">Nathan'll Ingersoll</name>
 							<lb/>
-							<name type="person" key="parsam">Mr Sam'll paris</name>
+							<name type="person" key="parsam">M'r Sam'll paris</name>
 							<lb/>
 							<name type="person" key="puttho">Thomas puttnam Jun'r</name>
 							<lb/>
-							<name type="person" key="walmar">Mary Walcott</name>
+							<name type="person" key="walmar">Mary Walcott.</name>
 							<lb/>
 							<name type="person" key="putann2">Ann puttnam Jun'r</name>
 							<lb/>
 							<name type="person" key="hubeli">Elizabeth Hubbard</name>
 							<lb/>
-							<name type="person" key="wilabi">Abigal Williams</name>
+							<name type="person" key="wilabi">Abigail Williams.</name>
 						</signed>
-						<seg>(Reverse) Billa vera </seg>
+						<seg>(Reverse) No (1) Bills ag't <name type="person" key="bisbri">Bishop</name> <lb/> 
+						Olliver	<lb/> Billa vera </seg>
 						<seg>
 							<name type="person" key="rucjoh">*John Rucke</name> foreman in the name
 							of the Rest <lb/> of the Grand Jurie </seg>
-						<seg>(Reverse) Bills ag't <name type="person" key="bisbri">Bishop</name> No
-							(1) </seg>
+						<seg>(Reverse)  </seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1. p. 33 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 121 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.4" type="indictment">
-					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
+					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name>,
 						No. 2) </head>
 					<figure n="ecca1122r"/>
 					<figure n="ecca1122v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
-							Angliae &amp;c Quarto </foreign>
+							Angliae &amp;'c Quarto./ </foreign>
 					</p>
-					<p>Essex Ss </p>
-					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
-						pr'sent that <name type="person" key="bisbri">Bridgett Bishop</name>
-						a&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
-							Bishop</name> of <lb/> Salem in the County of Essex Sawyer -- the
-						Nyneteenth day of April in the fourth year of the Reigne of our Sovereigne
+					<p>Essex ss </p>
+					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
+						p'rsent#[s] that <name type="person" key="bisbri">Bridgett Bishop</name>
+						&abar;&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
+							Bishop</name> of <lb/> Salem in the County of Essex Sawyer -- the #[Day]
+						Nyneteenth Day of Aprill in the fourth Year of the Reigne of our Sovereigne
 						Lord &amp; Lady <lb/> William &amp; Mary by the Grace of God of England
-						Scottland France <lb/> &amp; Ireland King &amp; Queen Defend'rs of the faith
-						&amp;c and Divers other <lb/> dayes &amp; times as well before as after,
-						certaine Detestable Arts Called <lb/> Witchcrafts &amp; Sorceries. wickedly
-						and felloniously hath used Practised <lb/> &amp; Exercised at and within the
-						Towneship of Salem in the County of <lb/> Essex afores'd in upon and ag't
+						Scottland France <lb/> &amp; Ireland King &amp; Queen Defend'r of the faith
+						&amp;'c and Divers other <lb/> dayes &amp; times as well before as after.
+						certaine Detestable Arts #[of] called <lb/> Witchcrafts &amp; Sorceries. wickedly
+						and felloniously hath used Practised <lb/> &amp; Exercised. at and within the
+						Towneship of Salem in the County of <lb/> Essex afor&ebar;&sbar;'d in upon and ag't
 						one <name type="person" key="wilabi">Abigail Williams</name> of Salem
-						Village <lb/> in the County of Essex afores'd singlewoman.. by which said
+						Village <lb/> in the County of Essex afores'd singlewoman by which said
 						wicked <lb/> Arts the said <name type="person" key="wilabi">Abigail
 							Williams</name> the Nyneteenth Day of April afores'd in the fourth Year
-						aboves'd and divers other Dayes and times as well <lb/> before as after,
-						was, and is tortured Afflicted Pined Consumed wasted <lb/> &amp; tormented
-						ag't the Peace of our Said Sovereigne Lord &amp; Lady the <lb/> King &amp;
+						abov&ebar;&sbar;'d and divers other Dayes and times as well <lb/> before as after,
+						was, and is tortured Afflicted. Pined Consumed wasted <lb/> &amp; tormented
+						ag't the Peace of our said Sovereigne Lord &amp; Lady the <lb/> King &amp;
 						Queen and ag't the forme of the Statute in that Case made <lb/> and Provided </p>
 
 					<pb n="89"/>
@@ -7177,62 +7116,62 @@
 						<signed>Wittnesses <lb/>
 							<name type="person" key="wilabi">Abigail Williams</name>
 							<lb/>
-							<name type="person" key="parsam">Mr Sam'll paris</name> sworne <lb/>
-							<name type="person" key="ingnat">Nathan'll Ingersoll</name> sworne <lb/>
-							<name type="person" key="puttho">Thomas puttnam</name> sworne <lb/>
+							<name type="person" key="parsam">M'r Sam'll paris</name> Sworne <lb/>
+							<name type="person" key="ingnat">Nathan'll Ingersoll</name> Sworne <lb/>
+							<name type="person" key="puttho">Thomas puttnam</name> Sworne <lb/>
 							<name type="person" key="lewmer">Mercy Lewis</name>
 							<lb/>
-							<name type="person" key="putann2">Ann Puttnam Jun'r</name> Sworne <lb/>
-							<name type="person" key="walmar">Mary Walcott</name> sworne <lb/>
-							<name type="person" key="hubeli">Elizabeth Hubbard</name> sworne <lb/>
-							<name type="person" key="blyjoh">Jno Bligh</name> &amp; <name
-								type="person" key="blyreb">Rebecka</name>
-							<lb/> his wife sworn <lb/>
-							<name type="person" key="shasam">Samuel Shattock</name> and <name
-								type="person" key="shasar">Sarah</name> his <lb/> wife sworne <lb/>
-							<name type="person" key="blywil">William Bligh</name> sworne <lb/>
-							<name type="person" key="stawil">William Stacey</name> sworne <lb/>
-							<name type="person" key="loajoh">John Loader</name> sworne </signed>
+							<name type="person" key="putann2">Ann puttnam Jun'r</name> Sworne. <lb/>
+							<name type="person" key="walmar">Mary #[Warren] Walcott</name> Sworne <lb/>
+							<name type="person" key="hubeli">Elizabeth Hubbard</name> Sworne. <lb/>
+							<name type="person" key="blyjoh">Jn'o Bligh</name> &amp; <name
+								type="person" key="blyreb">Rebeka</name> ["Rebekah" written over "Sworne"]
+							<lb/> his wife Sworn <lb/>
+							<name type="person" key="shasam">Samuel Shattock</name> &amp; <name
+								type="person" key="shasar">Sarah</name> his <lb/> wife Sworn <lb/>
+							<name type="person" key="blywil">William Bligh</name> Sworne <lb/>
+							<name type="person" key="stawil">William Stacey</name> Sworne <lb/>
+							<name type="person" key="loajoh">John Loader</name> Sworne. </signed>
 						<seg>(Reverse) Billa vera <name type="person" key="rucjoh">*John Ruck</name>
 							foreman in the name of the Rest <lb/> (2) </seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1 p. 33 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 122 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.5" type="indictment">
-					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
-						No. 3) </head>
+					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name>,
+						No. 4) </head>
 					<figure n="ecca1123r"/>
 					<figure n="ecca1123v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
-							Angliae &amp;c Quarto </foreign>
+							Angliae &amp;'c Quarto./. </foreign>
 					</p>
-					<p>Essex Ss </p>
-					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
-						pr'sent that <name type="person" key="bisbri">Bridgett Bishop</name>
-						a&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
+					<p>Essex ss </p>
+					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
+						p'rsent#[s] that <name type="person" key="bisbri">Bridgett Bishop</name>
+						&abar;&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
 							Bishop</name>
 						<lb/> of Salem in the County of Essex Sawyer -- the Nyneteenth Day of April
 						-- in the fourth year of the Reigne of our Sovereigne Lord <lb/> &amp; Lady
-						William &amp; Mary by the Grace of God of England Scottland <lb/> France
-						&amp; Ireland King and Queen Defend'rs of the faith &amp;c and <lb/> Divers
-						other Dayes &amp; times as well before as after, certaine <orig
-							reg="Detestable">De- <lb/> testable </orig> Arts, called Witchcraft
-						&amp; Sorceries, Wickedly and <orig reg="feloniously">felon- <lb/> iously
-						</orig> hath used Practised &amp; Exercised, at and within the Towneship
-						<lb/> of Salem in the County of Essex afores'd in an upon and ag't one <lb/>
+						William &amp; Mary by the grace of God of England. Scottland <lb/> France.
+						&amp; Ireland King and Queen Defend'r of the faith &amp;'c and <lb/> Divers
+						other Dayes &amp; times as well before, as after certaine <orig
+							reg="Detestable">De- <lb/> testable </orig> Arts, called Witchcrafts
+						&amp; Sorceries, Wickedly and <orig reg="feloniously">fellon- <lb/> iously
+						</orig> hath used Practised, &amp; Exercised, at and within the Towneship
+						<lb/> of Salem in the County of Essex afo&rbar;&ebar;&sbar;'d in and upon and ag't one <lb/>
 						<name type="person" key="hubeli">Elizabeth Hubbard</name> of Salem Village
 						in the County afores'd <orig reg="singlewoman">single- <lb/> woman </orig>
 						-- by which said wicked arts the said <name type="person" key="hubeli"
 							>Elizabeth Hubbard</name> the <lb/> s'd Nyneteenth Day of April -- in
-						the fourth year aboves'd and divers <lb/> other dayes, and times as well
-						before as after was &amp; is hurt tortured <lb/> Afflicted Pine Consumed,
+						the fourth year abov&ebar;&sbar;'d and divers <lb/> other dayes, and times as well
+						before as after was &amp; is hurt tortured <lb/> Afflicted Pined Consumed,
 						wasted, and tormented ag't the Peace of <lb/> our s'd Sovereigne Lord &amp;
 						Lady the King and Queen, and ag't the <lb/> forme of the Statute in that
-						Case made and Provided. </p>
+						Case. made and Provided./. </p>
 					<closer>
 						<signed>Wittnesses <lb/>
 							<name type="person" key="hubeli">Elizabeth Hubbard</name>
@@ -7240,7 +7179,7 @@
 							<name type="person" key="lewmer">Mercy Lewis</name>
 							<lb/>
 							<pb n="90"/>
-							<name type="person" key="parsam">Mr Sam'll paris</name>
+							<name type="person" key="parsam">M'r Sam'll paris</name>
 							<lb/>
 							<name type="person" key="ingnat">Nathan'll Ingersoll</name>
 							<lb/>
@@ -7250,12 +7189,12 @@
 							<lb/>
 							<name type="person" key="walmar">Mary Walcott</name>
 							<lb/>
-							<name type="person" key="wilabi">Abigail Williams</name> , </signed>
-						<seg>(Reverse) Billa vera <name type="person" key="rucjoh">*John
-								Rucke</name> formane in the name of the Rest <lb/> (4) </seg>
+							<name type="person" key="wilabi">abigail Williams</name>, </signed>
+						<seg>(Reverse) (4) <lb/> Billa vera: <lb/> <name type="person" key="rucjoh">*John
+								Rucke</name> formane in the name of the Rest </seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1 page 33 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 123 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
@@ -43993,7 +43932,7 @@ Comment: several occurances in this passage --> w'o called to said
 						Barbados and <name type="person" key="toojob">Job Stuky</name> #[had] did
 						stick a great pin into him Being out of her trance she affirmed as before
 						and added one <name type="person" key="wooand">Andrew woodverry</name> more.
-						and that <name type="person" key="toojob">Stuky</name> had bewitched <name type="person" key="hueeli">Betty Hews</name>
+						and that <name type="person" key="toojob">Stuky</name> had bewitched <name type="person" key="hewbet">Betty Hews</name>
 						<name type="person" key="shesus">Susanna Shelden</name> said that <name type="person" key="toojob">Stuky</name> had killed one <name type="person" key="wooand">Andrew Woodberry</name> And one Gamaliel
 						<!-- Comment: --> (but was just then choakt) A litle efter she proceeded
 						&amp; said that <name type="person" key="toojob">Tuky</name> had
