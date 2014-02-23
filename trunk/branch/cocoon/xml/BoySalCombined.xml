@@ -5908,8 +5908,8 @@
 					<p>Complaint being made to me this day, by <name type="person" key="marsam1"
 							>Sam'l Martin</name> of Andover <lb/> &amp; <name type="person"
 							key="tylmos">Moses Tyler sen'r</name> of Boxford, against Willi&abar;
-						<name type="person" key="barwil1">Barker sen'r <lb/></name>
-						<name type="person" key="marmar1">Mary <lb/> Marstone</name> the wife of
+						<name type="person" key="barwil1">Barker sen'r </name> <lb/>
+						<name type="person" key="marmar1">Mary Marstone</name> the wife of
 							<name type="person" key="marjoh">John Marstone jun'r</name> &amp; <name
 								type="person" key="barwil1">Mary Barker</name> the <lb/> <orig reg="Daughter"
 							>daughter </orig>
@@ -6678,7 +6678,7 @@
 					<figure n="ecca2120r"/>
 					<figure n="ecca2120v"/>
 					<p>The Testimony of <name type="person" key="fowjos">Joseph fowler</name>, who
-						Testifieth that <name type="person" key="bibber">Goodman <lb/> Bibber</name>
+						Testifieth that <name type="person" key="bibber">Goodman Bibber</name> <lb/>
 						&amp; his wife, Lived at my house, and I did observe and take <lb/> notice,
 						that <name type="person" key="bibsar">Goodwife Bibber</name> was a woman,
 						who was very idle in <lb/> her calling And very much given to tatling &amp;
@@ -6760,7 +6760,7 @@
 									<figure entity="BS10081a"/>
 								</seg> Nurs 
 							</name> <lb/> her </signed> <lb/> (Reverse) Evidences in behalfe of the prison'rs
-						<seg> 
+						<seg> <lb/> 
 							<ref>( <hi rend="italics">Massachusetts Historical Society, Witchraft Papers No. 37b </hi>) </ref>
 						</seg>
 					</closer>
