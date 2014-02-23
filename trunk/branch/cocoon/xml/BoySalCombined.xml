@@ -6800,7 +6800,7 @@
 					<p>I take all this people (turning her head &amp; eyes about) to witness <lb/>
 						that I am clear. </p>
 					<p>Hath this woman hurt you speaking to the afflicted. </p>
-					<p>#[A()b Hubb()d]<name type="person" key="hubeli">Eliz: Hubbard</name>,
+					<p>#[A( )b Hubb( )d]<name type="person" key="hubeli">Eliz: Hubbard</name>,
 						<name type="person" key="putann2">Ann Putman</name>, <name type="person"
 							key="wilabi">Abigail Williams</name>, &amp; <name type="person"
 							key="lewmer">Mercy Lewes</name>
@@ -6882,7 +6882,7 @@
 						</signed> <lb/> 
 						(Reverse) The Exam&obar;&cbar;&obar;&nbar; of <name type="person" key="bisbri"
 							>Bridget Byshop</name> <date value="1692-04-19" certainty="confirmed">19. Apr
-								1692</date>
+								1692</date> <lb/> 
 						<seg>
 							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
 									Vol. 1 No. 125 </hi>) </ref>
@@ -6933,7 +6933,7 @@
 							type="person" key="walmar">mary walcoate</name> #[tell] did tell that shee had in
 						her coate by <name type="person" key="waljoh">Jonathans</name>
 						<lb/> stricking at her apperance </p>
-					<p>The afflicted persons charge her, with having ["i" written over "a"] hurt them many <lb/> wayes and
+					<p>The afflicted persons charge her, with having ["i" written over "a"] hurt them <lb/> many wayes and
 						by tempting them to sine to the devils Booke at which <lb/> charge shee
 						seemed to be very angrie and shaking her head at them <lb/>
 						<pb n="86"/> saying it was false they are all greatly tormented (as I
@@ -6950,7 +6950,7 @@
 						that you are charged with can <lb/> you not find in your []art to tell the
 						truth </p>
 					<p>( <name type="person" key="bisbri">Bish</name> ) I doe tell the truth I never
-						hurt these persons in []y life <lb/> I never saw them before. </p>
+						hurt these persons in [ ]y life <lb/> I never saw them before. </p>
 					<p>(<name type="person" key="lewmer">mercy Lewes</name>) oh <name type="person"
 							key="bisbri">goode Bishop</name> did you not come to our house <lb/> the
 						Last night and did you not tell me that your master made you <lb/> tell more
@@ -6999,7 +6999,7 @@
 						persons doe charge this woman to <lb/> be the very #[w]woman that hurts them </p>
 					<p>[ ] is a true account of what I have taken down at her <orig
 							reg="examination">examina- <lb/> tion </orig> according to best
-						[]derstanding and observation I have also in <lb/> her examination taken
+						[ ]derstanding and observation I have also in <lb/> her examination taken
 						notice that all her actions [ ]e great influence <lb/> upon the afflicted
 						persons and that have ben <orig reg="tortured">tortered</orig> by her </p>
 					<closer>
@@ -7148,11 +7148,11 @@
 							Angliae &amp;'c Quarto./. </foreign>
 					</p>
 					<p>Essex ss </p>
-					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
+					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; Lady the King <lb/> &amp; Queen
 						p'rsent#[s] that <name type="person" key="bisbri">Bridgett Bishop</name>
-						&abar;&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
+						&abar;&lbar;s Olliver the wife of <lb/> <name type="person" key="bisedw2">Edward
 							Bishop</name>
-						<lb/> of Salem in the County of Essex Sawyer -- the Nyneteenth Day of April
+						of Salem in the County of Essex Sawyer -- the Nyneteenth Day <lb/> of April
 						-- in the fourth year of the Reigne of our Sovereigne Lord <lb/> &amp; Lady
 						William &amp; Mary by the grace of God of England. Scottland <lb/> France.
 						&amp; Ireland King and Queen Defend'r of the faith &amp;'c and <lb/> Divers
@@ -7160,15 +7160,15 @@
 							reg="Detestable">De- <lb/> testable </orig> Arts, called Witchcrafts
 						&amp; Sorceries, Wickedly and <orig reg="feloniously">fellon- <lb/> iously
 						</orig> hath used Practised, &amp; Exercised, at and within the Towneship
-						<lb/> of Salem in the County of Essex afo&rbar;&ebar;&sbar;'d in and upon and ag't one <lb/>
+						<lb/> of Salem in the County of Essex afo&rbar;&ebar;&sbar;'d in and upon <lb/> and ag't one
 						<name type="person" key="hubeli">Elizabeth Hubbard</name> of Salem Village
-						in the County afores'd <orig reg="singlewoman">single- <lb/> woman </orig>
+						in the County afores'd <lb/> <orig reg="singlewoman">singlewoman </orig>
 						-- by which said wicked arts the said <name type="person" key="hubeli"
 							>Elizabeth Hubbard</name> the <lb/> s'd Nyneteenth Day of April -- in
-						the fourth year abov&ebar;&sbar;'d and divers <lb/> other dayes, and times as well
-						before as after was &amp; is hurt tortured <lb/> Afflicted Pined Consumed,
-						wasted, and tormented ag't the Peace of <lb/> our s'd Sovereigne Lord &amp;
-						Lady the King and Queen, and ag't the <lb/> forme of the Statute in that
+						the fourth year abov&ebar;&sbar;'d <lb/> and divers other dayes, and times as well
+						before as after was &amp; is <lb/> hurt tortured Afflicted Pined Consumed,
+						wasted, and tormented ag't the <lb/> Peace of our s'd Sovereigne Lord &amp;
+						Lady the King and Queen, and <lb/> ag't the forme of the Statute in that
 						Case. made and Provided./. </p>
 					<closer>
 						<signed>Wittnesses <lb/>
@@ -7197,40 +7197,40 @@
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.6" type="indictment">
-					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name> ,
-						No. 4) </head>
+					<head>(Indictment v. <name type="person" key="bisbri">Bridget Bishop</name>,
+						No. 5) </head>
 					<figure n="ecca1124r"/>
 					<figure n="ecca1124v"/>
 					<p>
 						<foreign lang="lat">Anno Regni Regis et Reginae Willim et <lb/> Mariae nunc
-							Angliae &amp;c Quarto: </foreign>
+							Angliae &amp;'c Quarto: </foreign>
 					</p>
-					<p>Essex Ss </p>
-					<p>The Jurors for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
-						pr'sent that <name type="person" key="bisbri">Bridgett Bishop</name>
-						a&lbar;s Olliver the wife of <name type="person" key="bisedw2">Edward
+					<p>Essex ss </p>
+					<p>The J&ubar;&rbar;&obar;'r for our Sovereigne Lord &amp; Lady the King &amp; Queen <lb/>
+						p'rsent#[s] that <name type="person" key="bisbri">Bridgett Bishop</name>
+						&abar;&lbar;&sbar; Olliver the wife of <name type="person" key="bisedw2">Edward
 							Bishop</name>
 						<lb/> of Salem in the County of Essex Sawyer the Nyneteenth Day of April --
-						in the fourth year of the Reigne of our Sovereigne Lord <lb/> &amp; Lady
+						in the fourth Year of the Reigne of our Sovereigne Lord <lb/> &amp; Lady
 						William &amp; Mary By the Grace of God of England Scottland <lb/> France
-						&amp; Ireland King &amp; Queen Defend'rs of the faith &amp;c and divers
-						<lb/> other Dayes &amp; times as well before as after.certaine Detestable
-						Artes <lb/> called Witchcraft &amp; Sorceries, Wickedly and felloniously
-						hath used <lb/> Practised &amp; Excercised at and within the Towneship of
-						Salem, afores'd <lb/> in upon ag't one <name type="person" key="putann2">Ann
+						&amp; Ireland King &amp; Queen Defend'r of the faith &amp;'c and divers
+						<lb/> other Dayes &amp; times as well before as after. certaine Detestable
+						Artes <lb/> called Witchcrafts &amp; Sorceries, Wickedly and felloniously
+						hath used <lb/> Practised &amp; Exercised at and within the Towneship of
+						Salem, afor&ebar;&sbar;'d <lb/> in upon ag't one. <name type="person" key="putann2">Ann
 							puttnam</name> of Salem Village in the County <orig reg="afores'd"
-							>afore- <lb/> s'd </orig> singlewoman by which said wicked arts the said
+							>afore- <lb/> s'd </orig> singlewoman by which said wicked Arts the said
 							<name type="person" key="putann2">Ann puttnam</name> the <lb/> s'd
-						Nyneteenth Day of April in the fourth Year aboves'd and divers <lb/> other
-						Dayes &amp; times as well before as after was &amp; is hurt, tortured. <lb/>
+						Nyneteenth Day of April in the fourth Year abov&ebar;&sbar;'d and divers <lb/> other
+						Dayes &amp; times as well before as after was &amp; is hurt, tortured, <lb/>
 						Afflicted Pined Consumed wasted &amp; Tormented ag't the Peace of <lb/> our
 						said Sovereigne Lord &amp; Lady the King and Queen and against <lb/> the
-						forme of the Statute in that Case made &amp; Provided </p>
+						forme of the Statute in that Case made &amp; Provided./. </p>
 					<closer>
 						<signed>Wittnesses <lb/>
-							<name type="person" key="putann2">Ann Puttnam Jun'r</name>
+							<name type="person" key="putann2">Ann puttnam Jun'r</name>
 							<lb/>
-							<name type="person" key="parsam">Mr Sam'll paris</name>
+							<name type="person" key="parsam">M'r Sam'll paris</name>
 							<lb/>
 							<name type="person" key="ingnat">Nathan'll Ingersoll</name>
 							<lb/>
@@ -7245,86 +7245,86 @@
 							<lb/>
 							<name type="person" key="hubeli">Elizabeth Hubbard</name>
 						</signed>
-						<seg>(Reverse) Billa vera <name type="person" key="rucjoh">*John
+						<seg>(Reverse) Billa vera <lb/> <name type="person" key="rucjoh">*John
 								Rucke</name> foreman in the name of the Rest </seg>
-						<seg>(Reverse) (5) Bills ag't <name type="person" key="bisbri">Brid't
-								Bishop</name> alias Olliver Found by the Grand <lb/> Inquest Folio
-							966 </seg>
+						<seg>(Reverse) (5) 5. Bills ag't <name type="person" key="bisbri">Brid't
+								Bishop</name> alias Olliver found by the Grand <lb/> Inquest #[9]#[2] 
+							["2" written over "9"]folio 966 </seg>
 						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 1 Page 33 </hi>) </ref>
+							<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft
+									Vol. 1 No. 124 </hi>) </ref>
 						</seg>
 					</closer>
 				</div2>
 				<div2 id="BoySal1-n13.7" type="section">
-					<head>( <name type="person" key="hobdel">Deliverance Hobbs</name> v. <name
+					<head>(Examination of <name type="person" key="hobdel">Deliverance Hobbs</name>, v. <name
 							type="person" key="bisbri">Bridget Bishop</name> et al.) </head>
 					<figure n="ecca1140r"/>
 					<figure n="ecca1140v"/>
-					<p rend="center"><name type="person" key="hobdel">Deliverance-Hobbs</name> .
-						Exam'ed <date value="1692-05-03" certainty="confirmed">May. 3. 1692 </date>.
+					<p rend="center"><name type="person" key="hobdel">Deliverance. Hobbs</name>.
+						Exam'd <date value="1692-05-03" certainty="confirmed">May. 3. 1692</date>.
 						Salem prison </p>
-					<p>Q. w't have you done since whereby there is further trouble in <lb/> your
+					<p>Q. W't have you done Since whereby there is further Trouble in <lb/> your
 						appearance? </p>
-					<p>An. nothing at all. </p>
-					<p>Q. but have you nott since bin tempted? </p>
-					<p>An. yes S'r, but I have nott done itt, nor will nott doe itt </p>
-					<p>Q. here is a great change since we last spake to you, for now you <lb/>
-						Afflict &amp; torment againe; now tell us the truth whoe tempted you <lb/>
-						to sighne againe? </p>
-					<p>An. itt was <name type="person" key="bisbri">Goody Olliver;</name> shee would
-						have mee to sett my hand <lb/> to the book, butt I would nott neither have
-						I. neither did consent <lb/> to hurt them againe. </p>
-					<p>Q. was that true that <name type="person" key="wilsar">Goody Wilds</name>
-						appeared to you &amp; tempted you? </p>
-					<p>An. yes, that was true. </p>
-					<p>Q. have you been tempted since? </p>
-					<p>An. yes, about fryday or Saturday night last </p>
-					<p>Q. did they bid you that you should nott tell? </p>
-					<p>An. yes they tould me soe. </p>
-					<p>Q. but how farr did thay draw you or tempt you, &amp; how farr <lb/> did you
-						yeild to the temptation? but doe not you acknowledge that <lb/> [that] was
-						true that you tould us formerly? </p>
+					<p>An. Nothing att all. </p>
+					<p>Q. but have you nott Since bin Tempted? </p>
+					<p>An. yes S'r, but I have nott done itt, nor will nott doe itt. </p>
+					<p>Q. here is a great Change Since We last Spake to you, for now you <lb/>
+						Afflict &amp; Torment againe; now Tell us the Truth Whoe Tempted you <lb/>
+						to Sighne againe? </p>
+					<p>An. itt was <name type="person" key="bisbri">Goody Olliver;</name> she would
+						have mee to Sett my hand <lb/> to the book, butt I would nott neither have
+						I neither did consent <lb/> to hurt them againe. </p>
+					<p>Q. was that True that <name type="person" key="wilsar">Goody Wilds</name>
+						appeared to you &amp; Tempted you? </p>
+					<p>An. yes, that was True. </p>
+					<p>Q. have you bin Tempted Since? #[ye]</p>
+					<p>An. yes, about fryday or Saturday night [ ] </p>
+					<p>Q. did they bid you that you should nott Tell? </p>
+					<p>An. yes thay Tould me soe. </p>
+					<p>Q. but how farr did thay draw you or Tempt you, &amp; how f[ ] <lb/> you
+						yeild to the Temptation? but doe nott you acknowledge that <lb/> was
+						True that you Tould us formerly? </p>
 					<p>An. Yes. </p>
-					<p>Q. and you did sighne then att the first, did you Nott? </p>
-					<p>An. Yes, I did itt is true. </p>
+					<p>Q. and you did sigh[ ] then att the first, did you Nott? </p>
+					<p>An. yes, I did itt is True. </p>
 
 					<pb n="92"/>
 
-					<p>Q. did you promiss then to deny att last what you said before? </p>
-					<p>An.yes, I did &amp; itt was <name type="person" key="bisbri">Goody Oliver
-							Alias Bishop</name> that tempted <lb/> me to deny all that I had
-						confessed before. </p>
+					<p>Q. did you [ ]miss then to deny att last what you Said before? </p>
+					<p>An. yes, I did [ ] was <name type="person" key="bisbri">Goody Oliver
+							Alias Bishop</name> that Tempted <lb/> me to deny all that I had
+						Confessed before. </p>
 					<p>Q. doe you nott know the man w'th the Wenne? </p>
-					<p>An.noe I doe nott know whoe itt is; all that I confessed before <lb/> is
-						true. </p>
-					<p>Q. Whoe were they you named formerly? </p>
-					<p>An.Osburne
+					<p>An. noe I doe nott know whoe itt is; all that I Confessed before <lb/> is
+						True. </p>
+					<p>Q. Whoe Were they you Named formerly? </p>
+					<p>An. Osburne,
 						<!-- Comment: check this list of names. im not sure who all these refer to specifically.-->
-						, Good, <name type="person" key="burgeo">Burroughs</name> , <name
-							type="person" key="bisbri">Olliver</name> , Wiles, <name type="person"
+					Good, <name type="person" key="burgeo">Burroughs</name>, <name
+							type="person" key="bisbri">Olliver</name>, Wiles, <name type="person"
 							key="corgil">Cory</name> &amp; his Wife, <lb/>
-						<name type="person" key="nurreb">Nurse</name> , procter &amp; his Wife. </p>
-					<p>Q. who were w'th you in the chamber? (itt being informed that <lb/> some were
-						talking w'th hir there.) </p>
+						<name type="person" key="nurreb">Nurse</name>, Procter &amp; his Wife. </p>
+					<p>Q. who Were w'th you in the Chamber? (itt being informed that <lb/> Some were
+						Talking w'th hir there). </p>
 					<p>An. <name type="person" key="wilsar">Wilds</name> and <name type="person"
-							key="bisbri">Bushop or Olliver</name> , Good &amp;
-						Osburne<!-- Comment: -->, &amp; they had a <lb/> feast both of Roast &amp;
+							key="bisbri">Bushop or Olliver</name>, Good &amp;
+						Osburne<!-- Comment: -->, &amp; they had a <lb/> feast Both of Roast &amp;
 						Boyled meat &amp; did eat &amp; drink &amp; would <lb/> have had me to have
-						eat and drunk w'th them but I would not; <lb/> &amp; they would have had me
-						sighned, but I would nott then not when <lb/>
-						<name type="person" key="bisbri">Goody.Olliver</name> came to me. </p>
-					<p>Q. Nor did nott you con [torn] children in your likeness? </p>
+						eat &amp; drank w'th them, but I would nott; <lb/> &amp; they would have had me
+						Sighned, but I would nott then Nor whe[ ] <lb/>
+						<name type="person" key="bisbri">Goody. Olliver</name> came to me. </p>
+					<p>Q. Nor did nott you Con[torn] children in your likeness? </p>
 					<p>An.I doe nott know that I did. </p>
-					<p>Q. What is that you have to tell, w'ch you c&abar;&nbar;ott tell yett you
-						<lb/> say? </p>
-					<p>(Reverse) Delive' Hobs her Examination &amp; testimony ag't procter<!-- Comment: -->
-						<lb/> &amp; wife &amp; others. <name type="person" key="bisbri">Bridget
+					<p>Q. W[ ] is that you have to Tell, w'ch you ca&nbar;&obar;tt Tell yett you
+						<lb/> Say? </p>
+					<p>(Reverse) Deliv'e Hobs her Examination &amp; Testimony ag't procter<!-- Comment: -->
+						<lb/> &amp; wife &amp; others <lb/> <name type="person" key="bisbri">Bridget
 							Bishop</name>
 					</p>
 					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
-								p. 37 </hi>) </ref>
+						<ref>( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 1
+								No. 140 </hi>) </ref>
 					</p>
 				</div2>
 				<div2 id="BoySal1-n13.8" type="section">
