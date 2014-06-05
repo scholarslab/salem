@@ -134,6 +134,9 @@
 					</xsl:when>
 					<xsl:when test="/TEI.2/@id = 'BoySalCombined'">
 						<xsl:text>Combined</xsl:text>
+          </xsl:when>
+          <xsl:when test="/TEI.2/@id = 'swp'">
+						<xsl:text>Salem Witchcraft Papers</xsl:text>
 					</xsl:when>
 				</xsl:choose>
 			</xsl:variable>

@@ -171,8 +171,11 @@
 			<!-- Salem Witchcraft Papers Names Index -->
 			<map:match pattern="texts/names.html">
 				<map:generate
-					src="{global:solr-url}select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"
+          src="http://sdsv3.its.virginia.edu:8080/solr/salem/select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"
 					label="record"/>
+        <!-- <map generate
+          label="record"
+          src="{global:solr-url}select?q=name_facet:[*+TO+*]&amp;rows=10000&amp;start=0&amp;fl=name_facet&amp;facet=true&amp;facet.sort=true&amp;facet.limit=-1&amp;facet.field=name_facet"> -->
 				<map:transform type="xslt" src="xsl/names_index.xsl" label="basiccontent">
 					<map:parameter name="use-request-parameters" value="true"/>
 				</map:transform>				
@@ -191,7 +194,7 @@
 
 			<map:match pattern="search_results">
 				<map:generate
-					src="{global:solr-url}select?q=doc_id:BoySalCombined+AND+{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
+					src="{global:solr-url}select?q=doc_id:swp+AND+{url-encode:{request-param:q}}&amp;rows={url-encode:{request-param:rows}}&amp;start={url-encode:{request-param:start}}&amp;hl=true&amp;hl.fragsize=100&amp;hl.snippets=2&amp;hl.simple.pre=%3Cb%3E&amp;hl.simple.post=%3C%2Fb%3E&amp;facet=true&amp;facet.field=case_title&amp;facet.mincount=1"
 					label="record"/>
 				<map:transform type="xslt-saxon" src="xsl/search_results.xsl">
 					<map:parameter name="use-request-parameters" value="true"/>
