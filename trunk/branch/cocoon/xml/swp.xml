@@ -11,6 +11,8 @@
 <!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
 <!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;
 
+
+
 <!ENTITY longs  "&#223;"> <!--=long s--> 
 <!NOTATION jpg SYSTEM "JPEG">  
  
