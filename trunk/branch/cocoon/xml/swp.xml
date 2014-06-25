@@ -48418,10 +48418,10 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
 	<p> </p>
 </div1> -->
 	
-	 <div1 id="swp-n3.163" type="chapter" org="uniform" sample="complete" part="N">
+	 <div1 id="n163" type="chapter" org="uniform" sample="complete" part="N">
                 <head>Two Letters of Gov. <name type="person" key="phiwil">William Phips</name>
                     (1692-1693) </head>
-                <div2 type="letter" id="swp-n3.163.1">
+                <div2 type="letter" id="n163.1">
                     <head>(Letter No. 1) </head>
                     <p>When I first arrived I found this Province miserably harrassed with a most
                         Horrible witchcraft or Possession of <orig reg="Devils">Devills</orig> which
@@ -48488,7 +48488,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         <seg part="N"> </seg>
                     </closer>
                 </div2>
-                <div2 type="letter" id="swp-n3.163.2">
+                <div2 type="letter" id="n163.2">
                     <opener>
                         <dateline>
                             <name type="place">Dated at Boston </name>
@@ -48509,7 +48509,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             memorandum.) </ref>
                     </p>
                 </div2>
-                <div2 type="letter" id="swp-n3.163.3">
+                <div2 type="letter" id="n163.3">
                     <head>(Letter No. 2) </head>
                     <opener>
                         <dateline>
@@ -48614,9 +48614,9 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="867" id="p929-176"/>
-            <div1 id="swp-n3.164" type="letter" org="uniform" sample="complete" part="N">
+            <div1 id="n164" type="letter" org="uniform" sample="complete" part="N">
                 <head>Preparation for the Court of Oyer and Terminer (May - August 1692) </head>
-                <div2 type="letter" id="swp-n3.164.1">
+                <div2 type="letter" id="n164.1">
                     <head>(Letter of <name type="person" key="newtho1">Thomas Newton</name> to <name type="person" key="addisa">Isaac Addington</name> ) </head>
                     <figure n="MA025v"/>
                     <opener>
@@ -48656,7 +48656,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         <seg part="N"> </seg>
                     </closer>
                 </div2>
-                <div2 type="letter" id="swp-n3.164.2">
+                <div2 type="letter" id="n164.2">
                     <p>William &amp; Mary by the Grace of God of England Scottland France &amp;
                         Ireland King &amp; Queen Defend'rs of the faith &amp;c To our sherriffe of
                         our County of Suffolke Greeting We Comand you that the bodyes of <name type="person" key="goosar">Sarah Good</name> the wife of <name type="person" key="goowil">William Good</name> of Salem farmes husb:
@@ -48691,7 +48691,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.164.3">
+                <div2 type="section" id="n164.3">
                     <head>(Oath of <name type="person" key="newtho1">Thomas Newton</name> as
                         Attorney General) </head>
                     <figure n="ecca1002r"/>
@@ -48717,7 +48717,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                                 Witchcraft Vol. 1 Page 1 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.164.4">
+                <div2 type="section" id="n164.4">
                     <head>(Oath of <name type="person" key="sewell">Stephen Sewall</name> as Clerk) </head>
                     <figure n="ecca1002r"/>
                     <figure n="ecca1002v"/>
@@ -48738,7 +48738,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                                 Witchcraft Vol. 1 Page 1 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.164.5">
+                <div2 type="warrant" id="n164.5">
                     <head>(Warrant for Jurors) </head>
                     <figure n="ecca1001r"/>
                     <figure n="ecca1001v"/>
@@ -48773,9 +48773,9 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="871" id="p929-180"/>
-            <div1 id="swp-n3.165" type="list" org="uniform" sample="complete" part="N">
+            <div1 id="n165" type="list" org="uniform" sample="complete" part="N">
                 <head>List of Eleven Accused Persons and Their Accusers, May 1692 </head>
-                <div2 type="list" id="swp-n3.165.1">
+                <div2 type="list" id="n165.1">
                     <head>(List of Eleven Accused Persons and Their Accusers, May 1692) </head>
                     <p><figure n="B45r"/><figure n="B45v"/>Complaint of Severall <date value="1692-05-28" certainty="confirmed">May 28'th 1692</date>
                     </p>
@@ -48858,9 +48858,9 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="873" id="p929-182"/>
-            <div1 id="swp-n3.166" type="Deathwarrant" org="uniform" sample="complete" part="N">
+            <div1 id="n166" type="Deathwarrant" org="uniform" sample="complete" part="N">
                 <head>Death Warrants Folder and Census of Prisoners (May - July 1692) </head>
-                <div2 type="Deathwarrant" id="swp-n3.166.1">
+                <div2 type="Deathwarrant" id="n166.1">
                     <head>(Death Warrants Folder) </head>
                     <figure n="ecca2135r"/>
                     <p>Warrant for Execuion of <name type="person" key="goosar">Sarah Good</name>
@@ -48873,7 +48873,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                                 Witchcraft Vol. 2 Page 89 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.166.2">
+                <div2 type="section" id="n166.2">
                     <head>(Census of Prisoners) </head>
                     <figure n="ecca2134r"/>
                     <figure n="ecca2134v"/>
@@ -49015,9 +49015,9 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="875" id="p929-184"/>
-            <div1 id="swp-n3.167" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n167" type="section" org="uniform" sample="complete" part="N">
                 <head>Petitions from Relatives of Prisoners and Others (October 1692 - January 1693) </head>
-                <div2 type="section" id="swp-n3.167.1">
+                <div2 type="section" id="n167.1">
                     <head>(Petition of <name type="person" key="osgjoh">John Osgood</name> and Eight
                         Others -- October 1692) </head>
                     <figure n="MA059v"/>
@@ -49089,7 +49089,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.167.2">
+                <div2 type="section" id="n167.2">
                     <head>(Petition of the Andover Ministers and Twenty-Two Others -- October 1692) </head>
                     <opener>
                         <dateline>
@@ -49236,7 +49236,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.167.3">
+                <div2 type="section" id="n167.3">
                     <head>(Petition of <name type="person" key="osgjoh">John Osgood</name> and Seven
                         Others -- December 1692) </head>
                     <figure n="MA066v"/>
@@ -49298,7 +49298,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.167.4">
+                <div2 type="section" id="n167.4">
                     <head>(Petition of <name type="person" key="hergeo">George Herrick</name> --
                         December 1692) </head>
                     <figure n="MA067r"/>
@@ -49352,7 +49352,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.167.5">
+                <div2 type="section" id="n167.5">
                     <head>(Petition of Ten Prisoners at Ipswich) </head>
                     <figure n="LC01"/>
                     <opener>
@@ -49390,7 +49390,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                                 Manuscripts and Archives Division </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.167.6">
+                <div2 type="section" id="n167.6">
                     <head>(Statement by the <name type="person" key="danfra1">Rev. Francis
                             Dane</name> on the Andover Outbreak -- January 1693) </head>
                     <figure n="ecca1319r"/>
@@ -49460,10 +49460,10 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="885" id="p929-194"/>
-            <div1 id="swp-n3.168" type="bill" org="uniform" sample="complete" part="N">
+            <div1 id="n168" type="bill" org="uniform" sample="complete" part="N">
                 <head>A Bill Against Conjurations, Witchcraft, and Dealing with Evil and Wicked
                     Spirits (December 1692) </head>
-                <div2 type="bill" id="swp-n3.168.1">
+                <div2 type="bill" id="n168.1">
                     <figure n="MA068r"/>
                     <head>(A Bill against Conjuration, Witchcraft and Dealing with Evil and Wicked
                         Spirits) </head>
@@ -49518,10 +49518,10 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                 </div2>
             </div1>
             <pb n="887" id="p929-196"/>
-            <div1 id="swp-n3.169" type="warrant" org="uniform" sample="complete" part="N">
+            <div1 id="n169" type="warrant" org="uniform" sample="complete" part="N">
                 <head>Superior Court of Judicature: Warrants for Jurors and Returns (December 1692 -
                     January 1693) </head>
-                <div2 type="warrant" id="swp-n3.169.1">
+                <div2 type="warrant" id="n169.1">
                     <head>(Warrant to the Town of Lynn) </head>
                     <p>(To try Witches Dec'er 1692) </p>
                     <p>These are in their maj'ties Names to require you forthwith to Asemble the
@@ -49549,7 +49549,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.169.2">
+                <div2 type="section" id="n169.2">
                     <head>(Return of the Town of Lynn) </head>
                     <p>Lyn the <date value="1692-12-29" certainty="confirmed">29'th Desem[bbar ]:
                             92</date>
@@ -49564,7 +49564,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.3">
+                <div2 type="warrant" id="n169.3">
                     <head>(Warrant to the Town of Ipswich) </head>
                     <figure n="MA079r"/>
                     <p>These are in their Maj'ties Names to require you forthwith to Assemble the
@@ -49589,7 +49589,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.4">
+                <div2 type="section" id="n169.4">
                     <head>(Return of the Town of Ipswich) </head>
                     <p>Rec'd this warrant of <name type="person" key="harmar">Marshall Harris</name>
                         this <date value="1692-12-31" certainty="confirmed">31. <sic corr="12">10</sic>'ber 1692</date>
@@ -49652,7 +49652,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.5">
+                <div2 type="warrant" id="n169.5">
                     <head>(Warrant to the Town of Salem) </head>
                     <p>These are in their Maj'ties Names to require you forthwith to assemble the
                         free holders and other the Inhabitants of your towne who are hereby also
@@ -49677,7 +49677,7 @@ Comment: --> struck at the <orig reg="apparitions">aperistions</orig>
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.6">
+                <div2 type="section" id="n169.6">
                     <head>(Return of the Town of Salem) </head>
                     <p>In obedience to this warrante I heave warned the inhabitance of this towne to
                         mett together the <date value="1692-12-30" certainty="confirmed">30 of
@@ -49751,7 +49751,7 @@ Comment: -->
                                 82 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.7">
+                <div2 type="warrant" id="n169.7">
                     <head>(Warrant to the Town of Gloucester) </head>
                     <p>These are in theire maj'ties Names to require you forthwith to Asemble the
                         free holders and other the Inhabitants of your towne who are hereby also
@@ -49776,7 +49776,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.8">
+                <div2 type="section" id="n169.8">
                     <head>(Return of the Town of Gloucester) </head>
                     <p>According to this warrant the free holders and other the Inhabitants of
                         glocester Asembled togather and Chose <name type="person" key="perjam">James
@@ -49793,7 +49793,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.9">
+                <div2 type="warrant" id="n169.9">
                     <head>(Warrant to The Town of Marblehead) </head>
                     <figure n="MA084r"/>
                     <p>These are in their Maj'ties Names to require you forthwith to Assemble the
@@ -49818,7 +49818,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.10">
+                <div2 type="section" id="n169.10">
                     <head>(Return of the Town of Marblehead) </head>
                     <p>The inhabitants of our town being assembled made thair Joyc as followeth </p>
                     <p>for grand Jurors [ <name type="person" key="woowil">Wm Woods</name>
@@ -49840,7 +49840,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.11">
+                <div2 type="warrant" id="n169.11">
                     <head>(Warrant to the Town of Topsfield) </head>
                     <p>These are in their Maj'ties Names to require you fortwith to Assemble the
                         free holders and other Inhabitants of your Towne who are hereby also
@@ -49864,7 +49864,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.12">
+                <div2 type="section" id="n169.12">
                     <head>(Return of the Town of Topsfield) </head>
                     <p>At a lawfull Towne meeting by order of athoryty on the <date value="1692-12-30" certainty="confirmed">30'th of december 1692</date>:
                         Ens <name type="person" key="towjac">Jacob Towne</name> is Chosen to serve
@@ -49881,7 +49881,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.13">
+                <div2 type="warrant" id="n169.13">
                     <head>(Warrant to the Town of Beverly) </head>
                     <figure n="MA088r"/>
                     <p>These are in their Maj'ties Names to requrie you forthwith to assemble the
@@ -49906,7 +49906,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.14">
+                <div2 type="section" id="n169.14">
                     <head>(Return of the Town of Beverly) </head>
                     <p>Beverly <date value="1692-01-02" certainty="questionable">January the 2'd
                             1692</date>
@@ -49927,7 +49927,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="896"/>
-                <div2 type="warrant" id="swp-n3.169.15">
+                <div2 type="warrant" id="n169.15">
                     <head>(Warrant to the Town of Haverhill) </head>
                     <figure n="MA090r"/>
                     <p>These are in their Maj' <hi rend="underline">ties </hi> Names to Require You
@@ -49951,7 +49951,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.16">
+                <div2 type="section" id="n169.16">
                     <head>(Return of the Town of Haverhill) </head>
                     <p>Haverhill <date value="1692-12-31" certainty="confirmed">31'st Dec <hi rend="underline">'r 1692 </hi></date>: at a meeting of the
                         free-holders and other the Inhabitants of this Town, they then Chose:
@@ -49971,7 +49971,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="897"/>
-                <div2 type="warrant" id="swp-n3.169.17">
+                <div2 type="warrant" id="n169.17">
                     <head>(Warrant to the Town of Andover) </head>
                     <p>These are in Their Maj'ties Names to Require You forthwith to Assemble the
                         free holders and other the Inhabitants of your Towne who are hereby allso
@@ -49990,7 +49990,7 @@ Comment: -->
                     <p>[pbar ] Cu[rbar ]. <name type="person" key="elajoh">*Jona' Elatson</name>
                         Cle[rbar ]. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.18">
+                <div2 type="section" id="n169.18">
                     <head>(Return of the Town of Andover) </head>
                     <p>Andover: <date value="1692-12-30" certainty="confirmed">December 30'th
                             1692</date>: In Obediance unto this Above Riten worant: I have Asembled
@@ -50006,7 +50006,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.19">
+                <div2 type="warrant" id="n169.19">
                     <head>(Warrant to the Town of Newbury) </head>
                     <p>These are in their Maj'ties Names to require you forthwith to Assemble. the
                         free Holders and other the Inhabitants of your Towne who are hereby allso
@@ -50031,7 +50031,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.20">
+                <div2 type="section" id="n169.20">
                     <head>(Return of the Town of Newbury) </head>
                     <figure n="MA097r"/>
                     <p>To the High Sheriff of the County of essex Esqu'r <date value="1692-12-29" certainty="questionable">29 desember 1692</date>, then I warned the
@@ -50100,7 +50100,7 @@ Comment: -->
                                 97 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.169.21">
+                <div2 type="section" id="n169.21">
                     <head>(Return of the Town of Rowley) </head>
                     <p>sir In pursuance of a Warrant to mee derected from the [Court] Requireing mee
                         to Call to Gather and Assemble the free holders of our town and other the
@@ -50147,7 +50147,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="warrant" id="swp-n3.169.22">
+                <div2 type="warrant" id="n169.22">
                     <head>(Warrant to the Town of Wenham) </head>
                     <p>These are in Theire Maj'ties names to require you forthwith to Asemble the
                         free holders and other Inhabitants of your towne who are hereby also
@@ -50173,7 +50173,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="901"/>
-                <div2 type="section" id="swp-n3.169.23">
+                <div2 type="section" id="n169.23">
                     <head>(Return of the Town of Wenham) </head>
                     <p>At a metting of the inhabitants of Wenham this: <date value="1692-12-30" certainty="confirmed">30'th of december: 1692: </date>
                         <name type="person" key="hutric">Richard hutten</name> and <name type="person" key="kimsam">Samuell Kimball</name> ware Chosen to sarve
@@ -50190,7 +50190,7 @@ Comment: -->
                 </div2>
             </div1>
             <pb n="903" id="p929-212"/>
-            <div1 id="swp-n3.170" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n170" type="section" org="uniform" sample="complete" part="N">
                 <head>Superior Court of Judicature: Witchcraft Trials (January - May 1693) </head>
                 <p>
                     <hi rend="italics">Cases Heard </hi> ( <hi rend="italics">in chronological order
@@ -50425,7 +50425,7 @@ Comment: -->
                 <p>Severall Bills of Indictment against divers persons for felony by Witchcraft were
                     committed to the Grand Jury and then the Court Adjourned to nine of the Clock
                     next morning. </p>
-                <div2 type="section" id="swp-n3.170.1">
+                <div2 type="section" id="n170.1">
                     <head>(Case of <name type="person" key="jacreb">Rebecca Jacobs</name> ) </head>
                     <figure n="01D"/>
                     <figure n="01L"/>
@@ -50490,7 +50490,7 @@ Comment: -->
                     <p>The Court Ordered that the said Rebekah Jacobs be discharged upon her paying
                         fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.2">
+                <div2 type="section" id="n170.2">
                     <head>(Case of <name type="person" key="jacmar">Margaret Jacobs</name> ) </head>
                     <figure n="SCJ02D"/>
                     <figure n="SCJ02L"/>
@@ -50572,7 +50572,7 @@ Comment: -->
                     <p>The Court Ordered that the said Margaret Jacobs be discharged paying her
                         fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.3">
+                <div2 type="section" id="n170.3">
                     <head>(Case of <name type="person" key="bucsar">Sarah Buckley</name> ) </head>
                     <figure n="SCJ02D"/>
                     <figure n="SCJ02L"/>
@@ -50622,7 +50622,7 @@ Comment: -->
                             Buckley</name> be discharged paying her fees. </p>
                 </div2>
                 <pb n="908"/>
-                <div2 type="section" id="swp-n3.170.4">
+                <div2 type="section" id="n170.4">
                     <head>(Case of <name type="person" key="witmar">Mary Witheridge</name> ) </head>
                     <figure n="SCJ03D"/>
                     <figure n="SCJ03L"/>
@@ -50712,7 +50712,7 @@ Comment: -->
                     <p>The Court Ordered the said <name type="person" key="witmar">Mary
                             Witheridge</name> be Discharged paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.5">
+                <div2 type="section" id="n170.5">
                     <head>(Case of <name type="person" key="toojob">Job Tookey</name> ) </head>
                     <figure n="SCJ05"/>
                     <p>
@@ -50780,7 +50780,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="toojob">Job Tookey</name> to be
                         discharged paying his fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.6">
+                <div2 type="section" id="n170.6">
                     <head>(Case of <name type="person" key="tyljoh">Johannah Tyler</name> ) </head>
                     <figure n="SCJ06"/>
                     <p>
@@ -50867,7 +50867,7 @@ Comment: -->
                         Indictm'ts &amp; each of them The Court Ordered <name type="person" key="tylhan">Hannah Tyler</name> aforesaid to be discharged Paying her
                         fees// </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.7">
+                <div2 type="section" id="n170.7">
                     <head>(Case of <name type="person" key="candy">Candy</name> ) </head>
                     <figure n="SCJ07"/>
                     <figure n="SCJ08"/>
@@ -50992,7 +50992,7 @@ Comment: -->
                         Servant abovesaid to be discharged, Paying her fees. </p>
                 </div2>
                 <pb n="913"/>
-                <div2 type="section" id="swp-n3.170.8">
+                <div2 type="section" id="n170.8">
                     <head>(Case of <name type="person" key="marmar1">Mary Marston</name> ) </head>
                     <figure n="SCJ08"/>
                     <figure n="SCJ09"/>
@@ -51068,7 +51068,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="marmar1">Mary Marston</name>
                         aforesaid to be discharged Paying fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.9">
+                <div2 type="section" id="n170.9">
                     <head>(Case of <name type="person" key="joheli">Elizabeth Johnson</name> ) </head>
                     <figure n="SCJ09"/>
                     <figure n="SCJ10"/>
@@ -51151,7 +51151,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="joheli">Elisabeth Johnson</name>
                         aforesaid to be discharged, Paying her fees -- </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.10">
+                <div2 type="section" id="n170.10">
                     <head>(Case of <name type="person" key="barabi">Abigail Barker</name> ) </head>
                     <figure n="SCJ10"/>
                     <figure n="SCJ11"/>
@@ -51253,7 +51253,7 @@ Comment: -->
                     <p>The Court Ordered, <name type="person" key="barabi">Abigaill Barker</name>
                         aforesaid, to be discharged, paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.11">
+                <div2 type="section" id="n170.11">
                     <head>(Case of <name type="person" key="tylmar">Mary Tyler</name> ) </head>
                     <figure n="SCJ12"/>
                     <figure n="SCJ13"/>
@@ -51355,7 +51355,7 @@ Comment: -->
                     <p>The Court Ordered, <name type="person" key="tylmar">Mary Tyler</name>
                         aforesaid, to be discharged, paying her fees. -- </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.12">
+                <div2 type="section" id="n170.12">
                     <head>(Case of <name type="person" key="warsar">Sarah Wardwell</name> ) </head>
                     <figure n="SCJ14"/>
                     <figure n="SCJ15"/>
@@ -51441,7 +51441,7 @@ Comment: -->
                     <p>The Court Ordered the Keeper of the Goale to take care of the Prisoner,
                         A[cbar ]ording to Law. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.13">
+                <div2 type="section" id="n170.13">
                     <head>(Case of <name type="person" key="hawsar">Sarah Hawkes</name> ) </head>
                     <figure n="SCJ15"/>
                     <figure n="SCJ16"/>
@@ -51522,7 +51522,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="hawmar">[Mary] Hawkes</name>
                         aforesaid to be discharged, paying her fees -- </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.14">
+                <div2 type="section" id="n170.14">
                     <head>(Case of <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
                     <figure n="SCJ16"/>
                     <figure n="SCJ17D"/>
@@ -51608,7 +51608,7 @@ Comment: -->
                         be discharged, paying her fees -- </p>
                 </div2>
                 <pb n="923"/>
-                <div2 type="section" id="swp-n3.170.15">
+                <div2 type="section" id="n170.15">
                     <head>(Case of <name type="person" key="joheli2">Elizabeth Johnson, Jr.</name> ) </head>
                     <figure n="SCJ18"/>
                     <figure n="SCJ19"/>
@@ -51694,7 +51694,7 @@ Comment: -->
                     <p>The Court Ordered the Keeper of the Goale to take care of the prisoner a[cbar
                         ]ording to law </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.16">
+                <div2 type="section" id="n170.16">
                     <head>(Case of <name type="person" key="brimar1">Mary Bridges</name> ) </head>
                     <figure n="SCJ19"/>
                     <figure n="SCJ20"/>
@@ -51780,7 +51780,7 @@ Comment: -->
                     <p>The Court Ordered the said <name type="person" key="brimar1">Mary
                             Bridges</name> , to be discharged, paying her fees -- </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.17">
+                <div2 type="section" id="n170.17">
                     <head>(Case of <name type="person" key="posmar">Mary Post</name> ) </head>
                     <figure n="SCJ21"/>
                     <figure n="SCJ22D"/>
@@ -51864,7 +51864,7 @@ Comment: -->
                         a[cbar ]ording to Law. </p>
                 </div2>
                 <pb n="927"/>
-                <div2 type="section" id="swp-n3.170.18">
+                <div2 type="section" id="n170.18">
                     <head>(Case of <name type="person" key="poshan">Hannah Post</name> ) </head>
                     <figure n="SCJ22D"/>
                     <figure n="SCJ22L"/>
@@ -51948,7 +51948,7 @@ Comment: -->
                     <p>The Court Ordered, <name type="person" key="poshan">Hannah Post</name>
                         aforesaid, to be discharged, paying her fees. -- </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.19">
+                <div2 type="section" id="n170.19">
                     <head>(Case of <name type="person" key="brisar">Sarah Bridges</name> ) </head>
                     <figure n="SCJ24D"/>
                     <figure n="SCJ24L"/>
@@ -52031,7 +52031,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="brisar">Sarah Bridges</name>
                         aforesaid, to be discharged, paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.20">
+                <div2 type="section" id="n170.20">
                     <head>(Case of <name type="person" key="osgmar">Mary Osgood</name> ) </head>
                     <figure n="SCJ26"/>
                     <figure n="SCJ27"/>
@@ -52116,7 +52116,7 @@ Comment: -->
                     <p>The Court Ordered <name type="person" key="osgmar">Mary Osgood</name>
                         aforesaid, to be discharged, paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.21">
+                <div2 type="section" id="n170.21">
                     <head>(Case of <name type="person" key="lacmar2">Mary Lacey, Jr.</name> ) </head>
                     <figure n="SCJ27"/>
                     <figure n="SCJ28D"/>
@@ -52267,7 +52267,7 @@ Comment: -->
                         <name type="person" key="ricjoh">John Richards</name> Esq'r </p>
                     <p>Febru'y 1'st All the Justices present </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.22">
+                <div2 type="section" id="n170.22">
                     <head>(Case of <name type="person" key="toomar">Mary Toothaker</name>) </head>
                     <figure n="SCJ32"/>
                     <figure n="SCJ33"/>
@@ -52411,7 +52411,7 @@ Comment: -->
                         Indictment </p>
                     <p>The Court Ordered Mary Toothacker to be discharged paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.23">
+                <div2 type="section" id="n170.23">
                     <head>(Case of <name type="person" key="taymar">Mary Taylor</name> ) </head>
                     <figure n="SCJ33"/>
                     <figure n="SCJ34"/>
@@ -52485,7 +52485,7 @@ Comment: -->
                     <p>The Court Ordered the said <name type="person" key="taymar">Mary
                             Taylor</name> be discharged paying fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.24">
+                <div2 type="section" id="n170.24">
                     <head>(Case of <name type="person" key="colsar">Sarah Cole</name> [of Lynn]) </head>
                     <figure n="SCJ34"/>
                     <figure n="SCJ35"/>
@@ -52559,7 +52559,7 @@ Comment: -->
                     <p>The Court Ordered the said <name type="person" key="colsar">Sarah Cole</name>
                         to be discharged paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.25">
+                <div2 type="section" id="n170.25">
                     <head>(Case of <name type="person" key="duslyd">Lydia Dustin</name> ) </head>
                     <figure n="SCJ35"/>
                     <p>
@@ -52630,7 +52630,7 @@ Comment: -->
                     <p>The Court Ordered the said <name type="person" key="duslyd">Lydia
                             Dastin</name> to be discharged paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.26">
+                <div2 type="section" id="n170.26">
                     <head>(Case of <name type="person" key="dussar">Sarah Dustin</name> ) </head>
                     <figure n="SCJ35"/>
                     <figure n="SCJ36"/>
@@ -52717,7 +52717,7 @@ Comment: -->
                         <name type="person" key="sewell">Samuel Sewell</name> Esq'r </p>
                 </div2>
                 <pb n="938"/>
-                <div2 type="section" id="swp-n3.170.27">
+                <div2 type="section" id="n170.27">
                     <head>(Case of <name type="person" key="aldjoh">John Alden</name> ) </head>
                     <figure n="SCJ37D"/>
                     <figure n="SCJ37L"/>
@@ -52726,7 +52726,7 @@ Comment: -->
                         stood Recognized for his Appearance at this Court upon suspition of
                         Witchcraft being called appeared and was discharged by proclamation. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.28">
+                <div2 type="section" id="n170.28">
                     <head>(Case of <name type="person" key="watmar">Mary Watkins</name> ) </head>
                     <figure n="SCJ37D"/>
                     <figure n="SCJ37L"/>
@@ -52805,7 +52805,7 @@ Comment: -->
                         <name type="person" key="sewell">Samuel Sewell</name> Esq'r </p>
                 </div2>
                 <pb n="939"/>
-                <div2 type="section" id="swp-n3.170.29">
+                <div2 type="section" id="n170.29">
                     <head>(Release of <name type="person" key="watmar">Mary Watkins</name>)</head>
                     <figure n="mehs_2"/>
                     <p> To Mr. <name type="person" key="raycal">Caleb Ray</name> Keeper of the
@@ -52840,7 +52840,7 @@ Comment: -->
                     </p>
                 </div2>
 
-                <div2 type="section" id="swp-n3.170.30">
+                <div2 type="section" id="n170.30">
                     <head>(Case of <name type="person" key="possus">Susannah Post</name> ) </head>
                     <figure n="SCJ38D"/>
                     <figure n="SCJ38L"/>
@@ -52955,7 +52955,7 @@ Comment: -->
                     <p>The Court Order'd <name type="person" key="possus">Susannah Post</name>
                         aforesaid To be Discharged Paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.31">
+                <div2 type="section" id="n170.31">
                     <head>(Case of <name type="person" key="fryeun">Eunice Fry</name> ) </head>
                     <figure n="SCJ40"/>
                     <figure n="SCJ41"/>
@@ -52999,7 +52999,7 @@ Comment: -->
                         she stood Indicted in &amp; by the said Indictm'ts and each of them </p>
                     <p>The Court Ordered Enice frie aforesaid To be Discharged Paying her fees. </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.32">
+                <div2 type="section" id="n170.32">
                     <head>(Case of <name type="person" key="brimar2">Mary Bridges, Jr.</name> ) </head>
                     <figure n="SCJ41"/>
                     <figure n="SCJ42"/>
@@ -53045,7 +53045,7 @@ Comment: -->
                     <p>The Court Orderd <name type="person" key="brimar2">Mary Bridges Junior</name>
                         to be discharged Paying her fees </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.33">
+                <div2 type="section" id="n170.33">
                     <head>(Case of <name type="person" key="barmar">Mary Barker</name> ) </head>
                     <figure n="SCJ42"/>
                     <figure n="SCJ43"/>
@@ -53094,7 +53094,7 @@ Comment: -->
                     <p>The Court Orderd <name type="person" key="barmar">Mary Barker</name>
                         aforesaid to be Discharged Paying her fees </p>
                 </div2>
-                <div2 type="section" id="swp-n3.170.34">
+                <div2 type="section" id="n170.34">
                     <head>(Case of <name type="person" key="barwil2">William Barker, Jr.</name> ) </head>
                     <figure n="SCJ43"/>
                     <figure n="SCJ44"/>
@@ -53144,11 +53144,11 @@ Comment: -->
                 </div2>
             </div1>
             <pb n="945" id="p929-254"/>
-            <div1 id="swp-n3.171" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n171" type="section" org="uniform" sample="complete" part="N">
                 <head>Officials' Expense Accounts for 1692 (Submitted 1692 - 1694) </head>
                 <figure n="ecca2178v"/>
 
-                <div2 type="section" id="swp-n3.171.1">
+                <div2 type="section" id="n171.1">
                     <head>(Order of the Superior Court of Judicature) </head>
                     <figure n="ecca2178r"/>
                     <figure n="ecca2178v"/>
@@ -53180,7 +53180,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="946"/>
-                <div2 type="section" id="swp-n3.171.2">
+                <div2 type="section" id="n171.2">
                     <head>(Superior Court of Judicature: Statement of Sums Due) </head>
                     <figure n="ecca2179r"/>
                     <figure n="ecca2179v"/>
@@ -53335,7 +53335,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 83 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.3">
+                <div2 type="section" id="n171.3">
                     <head>( <name type="person" key="perabr">Abraham Perkins'</name> Account) </head>
                     <figure n="ecca2129r"/>
                     <figure n="ecca2129v"/>
@@ -53387,7 +53387,7 @@ Comment: -->
                                 Witchcraft Vol. 2, Page 60 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.4">
+                <div2 type="section" id="n171.4">
                     <head>( <name type="person" key="ingnat">Nathaniel Ingersoll's</name> Account) </head>
                     <figure n="ecca2131r"/>
                     <figure n="ecca2131v"/>
@@ -53637,7 +53637,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 60 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.5">
+                <div2 type="section" id="n171.5">
                     <head>( <name type="person" key="mantho">Thomas Manning's</name> Account) </head>
                     <figure n="ecca2130r"/>
                     <figure n="ecca2130v"/>
@@ -53681,7 +53681,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="951"/>
-                <div2 type="section" id="swp-n3.171.6">
+                <div2 type="section" id="n171.6">
                     <head>(Account of <name type="person" key="litisa">Isaac Little</name> and <name type="person" key="harjoh7">John Harris</name> ) </head>
                     <figure n="ecca2133r"/>
                     <figure n="ecca2133v"/>
@@ -53808,7 +53808,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 61 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.7">
+                <div2 type="section" id="n171.7">
                     <head>( <name type="person" key="fuljos">Joseph Fuller's</name> Account) </head>
                     <figure n="ecca2132r"/>
                     <figure n="ecca2132v"/>
@@ -53883,7 +53883,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 61 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.8">
+                <div2 type="section" id="n171.8">
                     <head>( <name type="person" key="arnjoh">John Arnold's</name> Account) </head>
                     <figure n="MA024r"/>
                     <p>
@@ -54038,7 +54038,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.171.9">
+                <div2 type="section" id="n171.9">
                     <head>(<name type="person" key="arnjoh">John Arnold</name> Account for
                         Restitution)</head>
                     <p><figure n="H50r"/>
@@ -54164,7 +54164,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.10">
+                <div2 type="section" id="n171.10">
                     <head>( <name type="person" key="fostho">Thomas Fossey's</name> Account) </head>
                     <figure n="ecca2186r"/>
                     <p>The Acco't of <name type="person" key="fostho">Thomas fossey</name> Prison
@@ -54269,7 +54269,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 88 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.11">
+                <div2 type="section" id="n171.11">
                     <head>( <name type="person" key="grasam">Samuel Graves'</name> Account) </head>
                     <figure n="ecca2187r"/>
                     <figure n="ecca2187v"/>
@@ -54340,7 +54340,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 89 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.12">
+                <div2 type="section" id="n171.12">
                     <head>( <name type="person" key="bakwil">William Baker's</name> Account) </head>
                     <figure n="ecca2188r"/>
                     <figure n="ecca2188v"/>
@@ -54385,7 +54385,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 90 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.13">
+                <div2 type="section" id="n171.13">
                     <head>( <name type="person" key="cheisr">Israel Cheever's</name> Account) </head>
                     <p>An Acc't of the time that the psons Comitted for Witchcraft unto the Custody
                         of <name type="person" key="cheisr">Israel Cheever</name> Keeper of the
@@ -54475,7 +54475,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.14">
+                <div2 type="section" id="n171.14">
                     <head>( <name type="person" key="dowwil">William Dounton's</name> Account) </head>
                     <p><figure n="eia15r"/><figure n="eia15v"/>Salem The County of Essex is Dr to
                             <name type="person" key="dowwil">William Dounton</name> Goale 1692
@@ -54584,7 +54584,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.15">
+                <div2 type="section" id="n171.15">
                     <head>(The Account of The Sheriff of Middlesex County) </head>
                     <figure n="m02"/>
                     <p>
@@ -54679,7 +54679,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.16">
+                <div2 type="section" id="n171.16">
                     <head>( <name type="person" key="lorrob">Robert Lord's</name> Account) </head>
                     <figure n="ecca2180r"/>
                     <figure n="ecca2180v"/>
@@ -54727,7 +54727,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="961"/>
-                <div2 type="section" id="swp-n3.171.17">
+                <div2 type="section" id="n171.17">
                     <head>( <name type="person" key="stawil1">William Starling's</name> Petition and
                         Account) </head>
                     <figure n="ecca2137r"/>
@@ -54812,7 +54812,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="963" id="p929-272"/>
-                <div2 type="section" id="swp-n3.171.18">
+                <div2 type="section" id="n171.18">
                     <head>(Account of <name type="person" key="cheisr">Israel Cheever</name>)</head>
                     <figure n="m01a"/>
                     <figure n="m01an"/>
@@ -54913,7 +54913,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.19">
+                <div2 type="section" id="n171.19">
                     <head>(An Additional Account of the Sheriff of Middlesex County)</head>
                     <figure n="m02"/>
                     <p>
@@ -55003,7 +55003,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.20">
+                <div2 type="section" id="n171.20">
                     <head>(Account of Charges of <name type="person" key="phitim">Timothy
                             Phillips</name>)</head>
                     <figure n="m04"/>
@@ -55115,7 +55115,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.21">
+                <div2 type="section" id="n171.21">
                     <head>(Report of the Committee: <name type="person" key="arnjoh">Jonathan
                             Arnold</name>-prison keeper payment)</head>
                     <p> Boston June 27th 1700</p>
@@ -55173,7 +55173,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.171.22">
+                <div2 type="section" id="n171.22">
                     <head>Jail Account: <name type="person" key="arnjoh">John Arnold</name> &amp;
                             <name type="person" key="raycal">Caleb Ray</name></head>
                     <p>
@@ -55219,9 +55219,9 @@ Comment: -->
                     </p>
                 </div2>
             </div1>
-            <div1 id="swp-n3.171b" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n171b" type="section" org="uniform" sample="complete" part="N">
                 <head>Laws Passed</head>
-                <div2 type="section" id="swp-n3.171b.1">
+                <div2 type="section" id="n171b.1">
                     <head>(Province Laws (Resolves etc.) 1696-7. : Call for Day of Prayer with
                         Fasting)</head>
                     <p> By the Honble the Lt. Govr. Council &amp; assembly of his Majtye Province of
@@ -55268,9 +55268,9 @@ Comment: -->
                     </p>
                 </div2>
             </div1>
-            <div1 id="swp-n3.172" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n172" type="section" org="uniform" sample="complete" part="N">
                 <head>Petitions to the General Court, with Responses (1696-1725) </head>
-                <div2 type="section" id="swp-n3.172.1">
+                <div2 type="section" id="n172.1">
                     <head>(Petition of <name type="person" key="proeli">Elizabeth Proctor</name> ) </head>
                     <opener>
                         <dateline>
@@ -55325,7 +55325,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.172.2">
+                <div2 type="section" id="n172.2">
                     <head>(Petition of Sheriff <name type="person" key="phitim">Timothy
                             Phillips</name> ) </head>
                     <p>To the Hon'ble <name type="person" key="stough">William Stoughton</name>
@@ -55367,7 +55367,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.172.3">
+                <div2 type="section" id="n172.3">
                     <head>(Response of the General Court to <name type="person" key="phitim">Timothy
                             Phillips'</name> Petition) </head>
                     <figure n="m03"/>
@@ -55395,7 +55395,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="966"/>
-                <div2 type="section" id="swp-n3.172.4">
+                <div2 type="section" id="n172.4">
                     <head>(Order for Payment to <name type="person" key="phitim">Timothy
                             Phillips</name> ) </head>
 
@@ -55419,7 +55419,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.5">
+                <div2 type="section" id="n172.5">
                     <head>(Petition of <name type="person" key="faufra">Francis Faulkner</name> et
                         al.) </head>
                     <opener>
@@ -55528,7 +55528,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.6">
+                <div2 type="section" id="n172.6">
                     <head>(Petition of <name type="person" key="fauabi1">Abigail Faulkner,
                             Sr.</name> ) </head>
                     <opener>
@@ -55589,7 +55589,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="969"/>
-                <div2 type="section" id="swp-n3.172.7">
+                <div2 type="section" id="n172.7">
                     <head>(Petition of Eleven Ministers from Essex County) </head>
                     <opener>
                         <dateline>
@@ -55666,7 +55666,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.8">
+                <div2 type="section" id="n172.8">
                     <head>(Response of the General Court) </head>
                     <p>In the House of Representatives </p>
                     <p>
@@ -55706,7 +55706,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="971"/>
-                <div2 type="section" id="swp-n3.172.9">
+                <div2 type="section" id="n172.9">
                     <head>(Declaration of <name type="person" key="osgmar">Mary Osgood</name> ,
                         Martha (?) Tyler, <name type="person" key="dandel">Deliverance Dane</name> ,
                             <name type="person" key="barabi">Abigail Barker</name> , <name type="person" key="wilsar">Sarah Wilson</name> , and <name type="person" key="tylhan">Hannah Tyler</name> ) </head>
@@ -55769,7 +55769,7 @@ Comment: -->
                             Massachusetts-Bay, <hi rend="italics">II, 31-32 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.10">
+                <div2 type="section" id="n172.10">
                     <head>(Petition of <name type="person" key="engphi">Phillip English</name> et
                         al.) </head>
                     <p>To his Excelency the Governor and the Honorable Counsell and Generall Asembly
@@ -55852,7 +55852,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.11">
+                <div2 type="section" id="n172.11">
                     <head>(Petition of <name type="person" key="easisa2">Isaac Easty</name> et al.) </head>
                     <opener>
                         <dateline>
@@ -55907,7 +55907,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="975" id="p929-284"/>
-                <div2 type="section" id="swp-n3.172.12">
+                <div2 type="section" id="n172.12">
                     <head>(Response of the General Court to <name type="person" key="phitim">Timothy
                             Phillips</name> Petition)</head>
                     <figure n="m03"/>
@@ -55952,7 +55952,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.13">
+                <div2 type="section" id="n172.13">
                     <head>Account of expenses by Timothy Phillips, March 22, 1696/7; Payment for
                         expenses, Dec. 16, 1697</head>
                     <p> Middsx Ss<lb/> 1692/3<lb/> --------<lb/> Janry ye 3d?<lb/>
@@ -56060,7 +56060,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.172.14">
+                <div2 type="section" id="n172.14">
                     <head>(Resolve Allowing L50 to <name type="person" key="rictho">Thos
                         Rich</name>)</head>
                     <p> A Petition of <name type="person" key="rictho">Thomas Rich</name> of Salem
@@ -56084,7 +56084,7 @@ Comment: -->
                 </div2>
             </div1>
 
-            <div1 id="swp-n3.173" type="section" org="uniform" sample="complete" part="N">
+            <div1 id="n173" type="section" org="uniform" sample="complete" part="N">
                 <head>Reversal of Attainder and Restitution (1710 - 1750) </head>
                 <p>
                     <hi rend="italics">DOCUMENTS INCLUDED IN THIS SECTION: </hi>
@@ -56131,7 +56131,7 @@ Comment: -->
 
 
 
-                <div2 type="section" id="swp-n3.173.1">
+                <div2 type="section" id="n173.1">
                     <head>(Account of <name type="person" key="barebe">Ebenezer Barker</name> --
                         Case of <name type="person" key="barabi">Abigail Barker</name> ) </head>
                     <figure n="MA146r"/>
@@ -56182,7 +56182,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="chapter" id="swp-n3.173.2">
+                <div2 type="chapter" id="n173.2">
                     <head>(Account of <name type="person" key="barjoh">John Barker</name> -- Case of
                             <name type="person" key="barmar">Mary Barker</name> ) </head>
                     <p>An Account of what money was pay'd by <name type="person" key="barjoh">John
@@ -56210,7 +56210,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.3">
+                <div2 type="section" id="n173.3">
                     <head>(Account of <name type="person" key="barjoh">John Barker</name> -- Case of
                             <name type="person" key="barwil1">William Barker, Sr.</name> ) </head>
                     <p>An Account of what was payd by <name type="person" key="barjoh">John
@@ -56226,7 +56226,7 @@ Comment: -->
                                 138 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.4">
+                <div2 type="section" id="n173.4">
                     <head>(Account of <name type="person" key="barjoh">John Barker</name> -- Case of
                             <name type="person" key="barwil2">William Barker, Jr.</name> ) </head>
                     <figure n="MA149r"/>
@@ -56260,7 +56260,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.5">
+                <div2 type="section" id="n173.5">
                     <head>(Account of <name type="person" key="bisedw2">Edward Bishop</name> --
                         Cases of <name type="person" key="bisedw2">Edward </name> and <name type="person" key="bissar">Sarah Bishop</name> ) </head>
                     <p>Rehoboth <date value="1710-09-09" certainty="unconfirmed">Septem 9 --
@@ -56296,7 +56296,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.6">
+                <div2 type="section" id="n173.6">
                     <head>(Account of <name type="person" key="truhen">Henry</name> and <name type="person" key="trujan">Jane True</name> -- Case of <name type="person" key="bramar">Mary Bradbury</name> ) </head>
                     <p>Honred, Gentle men we have received your Notification &amp; send this to
                         Signify our Desiers that our good mother <name type="person" key="bramar">Mrs Bradburys</name> name may be inserted in the bill proposed for the
@@ -56350,7 +56350,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.7">
+                <div2 type="section" id="n173.7">
                     <head>(Account of <name type="person" key="presar">Sarah Preston</name> -- Case
                         of <name type="person" key="brisar">Sarah Bridges</name> ) </head>
                     <figure n="MA140r"/>
@@ -56384,7 +56384,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.8">
+                <div2 type="section" id="n173.8">
                     <head>(Account of William Buckley, Jr. -- Cases of <name type="person" key="bucsar">Sarah Buckley</name> and <name type="person" key="witmar">Mary Witheridge</name> ) </head>
                     <figure n="MA160r"/>
                     <figure n="MA160v"/>
@@ -56424,7 +56424,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.9">
+                <div2 type="section" id="n173.9">
                     <head>(Account of <name type="person" key="burcha">Charles Burroughs</name> --
                         Case of <name type="person" key="burgeo">George Burroughs</name> ) </head>
                     <figure n="MA136r"/>
@@ -56460,7 +56460,7 @@ Comment: -->
                                 136 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.10">
+                <div2 type="section" id="n173.10">
                     <head>(Account of Thomas Carrier -- Case of <name type="person" key="carmar1">Martha Carrier</name> ) </head>
                     <figure n="MA163r"/>
                     <opener>
@@ -56496,7 +56496,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.11">
+                <div2 type="section" id="n173.11">
                     <head>(Account of <name type="person" key="colsar1">Sarah Cole</name> ) </head>
                     <figure n="MA155r"/>
                     <figure n="MA155v"/>
@@ -56554,7 +56554,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="985"/>
-                <div2 type="section" id="swp-n3.173.12">
+                <div2 type="section" id="n173.12">
                     <head>(Account of <name type="person" key="moujoh">John Moulton</name> -- Cases
                         of <name type="person" key="corgil">Giles</name> and <name type="person" key="cormar">Martha Corey</name>) </head>
                     <figure n="MA161r"/>
@@ -56614,7 +56614,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.13">
+                <div2 type="section" id="n173.13">
                     <head>(Account of <name type="person" key="dannat">Nathaniel Dane</name> -- Case
                         of <name type="person" key="dandel">Deliverance Dane</name> ) </head>
                     <figure n="MA147r"/>
@@ -56644,7 +56644,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.14">
+                <div2 type="section" id="n173.14">
                     <head>(Account of <name type="person" key="eamreb">Rebecca Eames</name> ) </head>
                     <figure n="MA151r"/>
                     <figure n="MA151v"/>
@@ -56679,7 +56679,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.15">
+                <div2 type="section" id="n173.15">
                     <head>(Account of <name type="person" key="easisa2">Isaac Easty</name> -- Case
                         of <name type="person" key="easmar">Mary Easty</name> ) </head>
                     <p>Topsfield <date value="1710-09-08" certainty="unconfirmed">Septemb'r 8th.
@@ -56722,7 +56722,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.16">
+                <div2 type="section" id="n173.16">
                     <head>(Petition of <name type="person" key="engphi">Phillip English</name> --
                         Cases of <name type="person" key="engphi">Phillip English</name> and <name type="person" key="engmar">Mary English</name> ) </head>
                     <figure n="ecca2184r"/>
@@ -56755,7 +56755,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.17">
+                <div2 type="section" id="n173.17">
                     <head>(Account of <name type="person" key="engphi">Phillip English</name> ) </head>
                     <p>To the Honered Commitey A pointed by the Generall Court to Inquire in to the
                         names proper to be Insarted in the Bill for Tacking of the Attander amd What
@@ -57094,7 +57094,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.18">
+                <div2 type="section" id="n173.18">
                     <head>(Account of <name type="person" key="fauabi1">Abigail Faulkner, Sr.</name>
                         ) </head>
                     <figure n="MA154r"/>
@@ -57133,7 +57133,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.19">
+                <div2 type="section" id="n173.19">
                     <head>(Account of <name type="person" key="fosabr">Abraham Foster</name> -- Case
                         of <name type="person" key="fosann">Ann Foster</name> ) </head>
                     <figure n="MA159r"/>
@@ -57176,7 +57176,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.20">
+                <div2 type="section" id="n173.20">
                     <head>(Account of <name type="person" key="fryjoh">John Fry</name> -- Case of
                             <name type="person" key="fryeun">Eunice Fry</name> ) </head>
                     <opener>
@@ -57208,7 +57208,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="994"/>
-                <div2 type="section" id="swp-n3.173.21">
+                <div2 type="section" id="n173.21">
                     <head>(Account of William Good -- Cases of <name type="person" key="goosar">Sarah Good</name> and <name type="person" key="goodor">Dorcas
                             Good</name> ) </head>
                     <opener>
@@ -57251,7 +57251,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.22">
+                <div2 type="section" id="n173.22">
                     <head>(Account of <name type="person" key="grepet">Peter Green</name> -- Case of
                             <name type="person" key="gremar">Mary Green</name> ) </head>
                     <figure n="MA170r"/>
@@ -57299,7 +57299,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.23">
+                <div2 type="section" id="n173.23">
                     <head>(Account of <name type="person" key="johfra">Francis Johnson</name> --
                         Case of <name type="person" key="hawsar">Sarah Hawkes</name> ) </head>
                     <figure n="MA166r"/>
@@ -57338,7 +57338,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.24">
+                <div2 type="section" id="n173.24">
                     <head>(Account of <name type="person" key="kinjoh">John</name> and <name type="person" key="kinann">Annis King</name> -- Case of <name type="person" key="hoador">Dorcas Hoar</name> ) </head>
                     <p>An account of what Dorkeas whore had Taken from her who was condemned for
                         witchcraft in the year 1692: </p>
@@ -57393,7 +57393,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.25">
+                <div2 type="section" id="n173.25">
                     <head>(Account of <name type="person" key="hobwil">William Hobbs</name> -- Case
                         of <name type="person" key="hobabi">Abigail Hobbs</name> ) </head>
                     <figure n="MA156r"/>
@@ -57421,7 +57421,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="997"/>
-                <div2 type="section" id="swp-n3.173.26">
+                <div2 type="section" id="n173.26">
                     <head>(Account of <name type="person" key="howmar">Mary</name> and <name type="person" key="howabi">Abigail How</name> -- Case of <name type="person" key="howeli">Elizabeth How</name> ) </head>
                     <p>Ipswich the <date value="1710-09-09" certainty="unconfirmed">9 of September
                             1710</date>
@@ -57459,7 +57459,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.27">
+                <div2 type="section" id="n173.27">
                     <head>(Account of <name type="person" key="jacgeo2">George Jacobs, Jr.</name> --
                         Case of <name type="person" key="jacgeo1">George Jacobs, Sr.</name> ) </head>
                     <figure n="MA144r"/>
@@ -57553,7 +57553,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="999"/>
-                <div2 type="section" id="swp-n3.173.28">
+                <div2 type="section" id="n173.28">
                     <head>(Account of Francis Johnson -- Case of <name type="person" key="joheli2">Elizabeth Johnson Jr.</name> ) </head>
                     <figure n="MA162r"/>
                     <figure n="MA162v"/>
@@ -57583,7 +57583,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.29">
+                <div2 type="section" id="n173.29">
                     <head>(Account of Francis Johnson -- Case of <name type="person" key="joheli1">Elizabeth Johnson, Sr.</name> ) </head>
                     <figure n="MA157r"/>
                     <figure n="MA157v"/>
@@ -57618,7 +57618,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.30">
+                <div2 type="section" id="n173.30">
                     <head>(Account of <name type="person" key="johjoh">John Johnson</name> -- Case
                         of <name type="person" key="johreb">Rebecca Johnson</name> ) </head>
                     <figure n="MA142r"/>
@@ -57672,7 +57672,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1001"/>
-                <div2 type="section" id="swp-n3.173.31">
+                <div2 type="section" id="n173.31">
                     <head>(Account of <name type="person" key="laclaw">Lawrence Lacey</name> -- Case
                         of <name type="person" key="lacmar1">Mary Lacey, Sr.</name> ) </head>
                     <figure n="MA158r"/>
@@ -57723,7 +57723,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.32">
+                <div2 type="section" id="n173.32">
                     <head>(Account of Lawrence Lacey -- Case of <name type="person" key="lacmar2">Mary Lacey, Jr.</name> ) </head>
                     <figure n="MA137r"/>
                     <figure n="MA137v"/>
@@ -57763,7 +57763,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.33">
+                <div2 type="section" id="n173.33">
                     <head>(Account of <name type="person" key="marjoh">John Marston</name> -- Case
                         of <name type="person" key="marmar1">Mary Marston</name> ) </head>
                     <figure n="MA143r"/>
@@ -57809,7 +57809,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.34">
+                <div2 type="section" id="n173.34">
                     <head>(Account of <name type="person" key="mormar">Mary Morey</name> -- Case of
                             <name type="person" key="morsar">Sarah Morey</name> ) </head>
                     <figure n="MA150r"/>
@@ -57861,7 +57861,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.35">
+                <div2 type="section" id="n173.35">
                     <head>(Account of <name type="person" key="nursam2">Samuel Nurse</name> -- Case
                         of <name type="person" key="nurreb">Rebecca Nurse</name> ) </head>
                     <figure n="MA165r"/>
@@ -57915,7 +57915,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.36">
+                <div2 type="section" id="n173.36">
                     <head>(Account of <name type="person" key="osgsam">Samuel Osgood</name> -- Case
                         of <name type="person" key="osgmar">Mary Osgood</name> ) </head>
                     <figure n="MA152r"/>
@@ -57959,7 +57959,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1005"/>
-                <div2 type="section" id="swp-n3.173.37">
+                <div2 type="section" id="n173.37">
                     <head>(Account of <name type="person" key="posmar">Mary Post</name> ) </head>
                     <figure n="MA153r"/>
                     <figure n="MA153v"/>
@@ -58021,7 +58021,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.38">
+                <div2 type="section" id="n173.38">
                     <head>(Account of <name type="person" key="wrimer">Mercy Wright</name> -- Case
                         of <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
                     <figure n="MA141r"/>
@@ -58067,7 +58067,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.39">
+                <div2 type="section" id="n173.39">
                     <head>(Account of <name type="person" key="warsam">Samuel Wardwell Jr.</name> --
                         Cases of <name type="person" key="warsam">Samuel</name> and <name type="person" key="warsar">Sarah Wardwell</name> ) </head>
                     <figure n="MA164r"/>
@@ -58135,7 +58135,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1007"/>
-                <div2 type="section" id="swp-n3.173.40">
+                <div2 type="section" id="n173.40">
                     <head>(Account of <name type="person" key="wileph">Ephraim Wilds</name> -- Case
                         of <name type="person" key="wilsar">Sarah Wilds</name> ) </head>
                     <figure n="MA167r"/>
@@ -58181,7 +58181,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1008"/>
-                <div2 type="section" id="swp-n3.173.41">
+                <div2 type="section" id="n173.41">
                     <head>(Account of <name type="person" key="towmar1">Margaret Towne</name> --
                         Case of <name type="person" key="wiljoh4">John Willard</name> ) </head>
                     <figure n="MA145r"/>
@@ -58239,7 +58239,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.42">
+                <div2 type="section" id="n173.42">
                     <head>(Account of <name type="person" key="wiljos">Joseph Wilson</name> -- Cases
                         of <name type="person" key="wilsa1">Sarah Wilson, Sr.</name> and <name type="person" key="wilsar2">Sarah Wilson, Jr.</name> ) </head>
                     <opener>
@@ -58287,7 +58287,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1010"/>
-                <div2 type="section" id="swp-n3.173.43">
+                <div2 type="section" id="n173.43">
                     <head>(Summary of the Amounts Requested by the Victims and Their Relatives) </head>
                     <opener>
                         <dateline>
@@ -58588,7 +58588,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 67 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="letter" id="swp-n3.173.44">
+                <div2 type="letter" id="n173.44">
                     <head>(Letter of <name type="person" key="jewneh">Nehemiah Jewett</name> to
                             <name type="person" key="sewell">Samuel Sewell</name> ) </head>
                     <figure n="ecca2181r"/>
@@ -58614,7 +58614,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1013"/>
-                <div2 type="section" id="swp-n3.173.45">
+                <div2 type="section" id="n173.45">
                     <head>(Report of the Committee on the Reversal of Attainder, and Action of the
                         General Court) </head>
                     <figure n="MA169r"/>
@@ -58713,7 +58713,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.46">
+                <div2 type="section" id="n173.46">
                     <head>(Account of <name type="person" key="appjoh">John Appleton</name> ) </head>
                     <p>Province Mass'ts -- Bay D'r: to Sundry charges of the Co[mbar ]ittee
                         Appointed by the Generall Court in June 1710, to Inquire what Names were
@@ -58771,7 +58771,7 @@ Comment: -->
                             </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.47">
+                <div2 type="section" id="n173.47">
                     <head>(Reversal of Attainder -- October 17, 1711.) </head>
                     <p>Province of the Massachusets Bay: Anno Regni Anna Reginae Decimo. </p>
                     <p>An Act to reverse the attainders of <name type="person" key="burgeo">George
@@ -58851,7 +58851,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 63 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.48">
+                <div2 type="section" id="n173.48">
                     <head>(Governor <name type="person" key="dudley">Dudley's</name> Order for
                         Payment) </head>
                     <figure n="ecca2138r"/>
@@ -59032,7 +59032,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 64 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="letter" id="swp-n3.173.49">
+                <div2 type="letter" id="n173.49">
                     <head>(Letter of Thirty-four Victims and Relatives) </head>
                     <p>Whereas we the subscribers are Informed that His Excellency the Governour:
                         Honorable Council, and Generall assembly of this province have been pleased
@@ -59161,7 +59161,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 64 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.50">
+                <div2 type="section" id="n173.50">
                     <head>(Order of <name type="person" key="goowil">William Good</name> ) </head>
                     <figure n="ecca2142r"/>
                     <opener>
@@ -59202,7 +59202,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.51">
+                <div2 type="section" id="n173.51">
                     <head>(Order of <name type="person" key="cartho2">Thomas Carrier</name> ) </head>
                     <figure n="ecca2155r"/>
                     <figure n="ecca2155v"/>
@@ -59233,7 +59233,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.52">
+                <div2 type="section" id="n173.52">
                     <head>(Order of <name type="person" key="parjoh">John Parker</name> ) </head>
                     <figure n="ecca2172r"/>
                     <opener>
@@ -59254,7 +59254,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1021"/>
-                <div2 type="section" id="swp-n3.173.53">
+                <div2 type="section" id="n173.53">
                     <head>(Order of <name type="person" key="posmar">Mary Post</name> ) </head>
                     <figure n="ecca2173r"/>
                     <opener>
@@ -59282,7 +59282,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.54">
+                <div2 type="section" id="n173.54">
                     <head>(Order of <name type="person" key="promar">Mary Proctor</name> ) </head>
                     <figure n="ecca2174r"/>
                     <opener>
@@ -59309,7 +59309,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.55">
+                <div2 type="section" id="n173.55">
                     <head>(Account of <name type="person" key="parsar">Sarah Parker</name> ) </head>
                     <figure n="ecca2175r"/>
                     <opener>
@@ -59339,7 +59339,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 80 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.56">
+                <div2 type="section" id="n173.56">
                     <head>(Account of <name type="person" key="dermar">Mary Rich [De Rich?]</name> ) </head>
                     <figure n="ecca2177r"/>
                     <p>
@@ -59357,7 +59357,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.57">
+                <div2 type="section" id="n173.57">
                     <head>(Division of the <name type="person" key="burgeo">Burroughs</name>
                         Restitution) </head>
                     <figure n="ecca2158r"/>
@@ -59388,7 +59388,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.58">
+                <div2 type="section" id="n173.58">
                     <head>(Order of <name type="person" key="thopet">Peter Thomas</name> et al. --
                         Case of <name type="person" key="burgeo">George Burroughs</name> ) </head>
                     <figure n="ecca2159r"/>
@@ -59418,7 +59418,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.59">
+                <div2 type="section" id="n173.59">
                     <head>(Order of <name type="person" key="laclaw">Lawrence Lacey</name> ) </head>
                     <figure n="ecca2182r"/>
                     <opener>
@@ -59449,7 +59449,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1024"/>
-                <div2 type="section" id="swp-n3.173.60">
+                <div2 type="section" id="n173.60">
                     <head>(Witch Paper Folio) </head>
                     <p>[Torn] 711 </p>
                     <p>[Torn] verse the Attainder for Witchcraft against <name type="person" key="burgeo">George Burroughs</name> &amp; Witch papers Copy Ex 169)
@@ -59459,7 +59459,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 85 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.61">
+                <div2 type="section" id="n173.61">
                     <head>(Order of <name type="person" key="eamreb">Rebecca Eames</name> ) </head>
                     <figure n="ecca2166r"/>
                     <figure n="ecca2166v"/>
@@ -59487,7 +59487,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.62">
+                <div2 type="section" id="n173.62">
                     <head>(Order of <name type="person" key="warwil">William Wardwell</name> et al.) </head>
                     <figure n="ecca2165r"/>
                     <opener>
@@ -59528,7 +59528,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.63">
+                <div2 type="section" id="n173.63">
                     <head>(Account of <name type="person" key="warsam2">Samuel Wardwell, Jr.</name>
                         -- Case of <name type="person" key="warsar">Sarah Wardwell</name> ) </head>
                     <figure n="ecca2167r"/>
@@ -59574,7 +59574,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1026"/>
-                <div2 type="section" id="swp-n3.173.64">
+                <div2 type="section" id="n173.64">
                     <head>(Petition of <name type="person" key="dannat">Nathaniel Dane</name> et
                         al.) </head>
                     <figure n="ecca2168r"/>
@@ -59625,7 +59625,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.65">
+                <div2 type="section" id="n173.65">
                     <head>(Petition of <name type="person" key="joheli2">Elizabeth Johnson,
                             Jr.</name> ) </head>
                     <figure n="ecca2169r"/>
@@ -59663,7 +59663,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.66">
+                <div2 type="section" id="n173.66">
                     <head>(Order of <name type="person" key="howmar">Mary</name> and <name type="person" key="howabi">Abigail How</name> ) </head>
                     <figure n="ecca2156r"/>
                     <figure n="ecca2156v"/>
@@ -59692,7 +59692,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1028"/>
-                <div2 type="section" id="swp-n3.173.67">
+                <div2 type="section" id="n173.67">
                     <head>(Order of <name type="person" key="burgeo2">George Burroughs, Jr.</name> ) </head>
                     <figure n="ecca2157r"/>
                     <opener>
@@ -59717,7 +59717,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.68">
+                <div2 type="section" id="n173.68">
                     <head>(Order of Nathaniel Gowing -- Case of <name type="person" key="projoh">John Proctor</name> ) </head>
                     <figure n="ecca2145r"/>
                     <p>Wherefore inasmuch as I the subscriber Married with <name type="person" key="promar">Martha Procter</name> one of the daughters of <name type="person" key="projoh">John Procter</name> late of Salem deced doe
@@ -59739,7 +59739,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.69">
+                <div2 type="section" id="n173.69">
                     <head>(Order of <name type="person" key="vereli">Elizabeth Very</name> -- Case
                         of <name type="person" key="projoh">John Proctor</name> ) </head>
                     <figure n="ecca2144r"/>
@@ -59767,7 +59767,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1029"/>
-                <div2 type="section" id="swp-n3.173.70">
+                <div2 type="section" id="n173.70">
                     <head>(Order of <name type="person" key="projos">Joseph</name> and <name type="person" key="proabi">Abigail Proctor</name> ) </head>
                     <figure n="ecca2147r"/>
                     <p>Whereas wee are Informed the Generall Couart hath a Pointed a Committee to
@@ -59788,7 +59788,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.71">
+                <div2 type="section" id="n173.71">
                     <head>(Order of <name type="person" key="nurben">Benjamin Nurse</name> ) </head>
                     <figure n="ecca2146r"/>
                     <p>To the Comittey appointed by the Generall Court to distribute what was
@@ -59812,7 +59812,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.72">
+                <div2 type="section" id="n173.72">
                     <head>(Order of <name type="person" key="nurjoh">John Nurse</name> et al.) </head>
                     <figure n="ecca2148r"/>
                     <figure n="ecca2148v"/>
@@ -59846,7 +59846,7 @@ Comment: -->
                                 Witchcraft Vol 2 Page 69 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.73">
+                <div2 type="section" id="n173.73">
                     <head>(Order of <name type="person" key="hobabi">Abigail Hobbs</name> ) </head>
                     <figure n="ecca2149r"/>
                     <figure n="ecca2149v"/>
@@ -59881,7 +59881,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.74">
+                <div2 type="section" id="n173.74">
                     <head>(Petition of <name type="person" key="osgpet">Peter Osgood</name> -- Case
                         of <name type="person" key="osgmar">Mary Osgood</name> ) </head>
                     <figure n="ecca2170r"/>
@@ -59909,7 +59909,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 78 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.75">
+                <div2 type="section" id="n173.75">
                     <head>(Order of <name type="person" key="stanjo">John</name> and <name type="person" key="stanma">Mary Stanyan</name> -- Case of <name type="person" key="bramar">Mary Bradbury</name> ) </head>
                     <figure n="ecca2171r"/>
                     <p>Hampton <date value="1712-03-24" certainty="unconfirmed">March 24th
@@ -59931,7 +59931,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.76">
+                <div2 type="section" id="n173.76">
                     <head>(Order of <name type="person" key="easjos">Joseph Easty</name> ) </head>
                     <figure n="ecca2154r"/>
                     <figure n="ecca2154v"/>
@@ -59960,7 +59960,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1032"/>
-                <div2 type="section" id="swp-n3.173.77">
+                <div2 type="section" id="n173.77">
                     <head>(Petition of <name type="person" key="proben">Benjamin Proctor</name> ) </head>
                     <figure n="ecca2153r"/>
                     <figure n="ecca2153v"/>
@@ -59993,7 +59993,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 71 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.78">
+                <div2 type="section" id="n173.78">
                     <head>(Account of <name type="person" key="kinjoh">John</name> and <name type="person" key="kinann">Annis King</name> -- Case of <name type="person" key="hoador">Dorcas Hoar</name> ) </head>
                     <figure n="ecca2151r"/>
                     <figure n="ecca2151v"/>
@@ -60060,7 +60060,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="section" id="swp-n3.173.79">
+                <div2 type="section" id="n173.79">
                     <head>(Order of <name type="person" key="abbgeo">George</name> and <name type="person" key="abbhan">Hannah Abbott</name> -- Case of <name type="person" key="easmar">Mary Easty</name> ) </head>
                     <figure n="ecca2152r"/>
                     <figure n="ecca2152v"/>
@@ -60082,7 +60082,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1034"/>
-                <div2 type="section" id="swp-n3.173.80">
+                <div2 type="section" id="n173.80">
                     <head>(Receipts for Sums Paid in Restitution) </head>
                     <figure n="ecca2140-1"/>
                     <figure n="ecca2140-2"/>
@@ -60459,7 +60459,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1038"/>
-                <div2 type="section" id="swp-n3.173.81">
+                <div2 type="section" id="n173.81">
                     <head>(Summary of Receipts) </head>
                     <p>Receipts of the relations &amp;c of the Sufferers in the year 1692 taken
                             <date value="1712-02-19" certainty="unconfirmed">February 19th.
@@ -60793,7 +60793,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 66 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="letter" id="swp-n3.173.82">
+                <div2 type="letter" id="n173.82">
                     <head>(Letter of <name type="person" key="burmar">Mary Burroughs</name> ) </head>
                     <figure n="ecca2161r"/>
                     <p>Attel borow <date value="1712-03-24" certainty="unconfirmed">March the 14th
@@ -60813,7 +60813,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 74 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.83">
+                <div2 type="section" id="n173.83">
                     <head>(Petition of the Children of <name type="person" key="burgeo">George
                             Burroughs</name> ) </head>
                     <figure n="ecca2160r"/>
@@ -60866,7 +60866,7 @@ Comment: -->
                         </seg>
                     </closer>
                 </div2>
-                <div2 type="letter" id="swp-n3.173.84">
+                <div2 type="letter" id="n173.84">
                     <head>(Letter of <name type="person" key="fowreb">Rebecca Fowle</name> ) </head>
                     <figure n="ecca2163r"/>
                     <p>Boston <date value="1713-04-03" certainty="questionable">Aprile the 3d</date>
@@ -60885,7 +60885,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1042"/>
-                <div2 type="section" id="swp-n3.173.85">
+                <div2 type="section" id="n173.85">
                     <head>(Petition of the Children of <name type="person" key="burgeo">George
                             Burroughs</name> ) </head>
                     <figure n="ecca2162r"/>
@@ -60943,7 +60943,7 @@ Comment: -->
                                 Witchcraft Vol. 2 Page 75 </hi>) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.86">
+                <div2 type="section" id="n173.86">
                     <head>(Appointment of a Committee to Consider <name type="person" key="engphi">Phillip English's</name> Claim -- November 1717) </head>
                     <p>A Petition of <name type="person" key="engphi">Philip English</name> of
                         Salem, Praying Consideration &amp; Allowance for a great Part of his Estate
@@ -60964,7 +60964,7 @@ Comment: -->
                     </p>
                 </div2>
                 <pb n="1044"/>
-                <div2 type="section" id="swp-n3.173.87">
+                <div2 type="section" id="n173.87">
                     <head>(Continuation of The Committee to Consider <name type="person" key="engphi">Phillip English's</name> Claim -- February 1718) </head>
                     <p>Upon The Representation of the Committee upon <name type="person" key="engphi">Philip Englishes</name> Petition, That by Reason of the
                         Sickness of the said <name type="person" key="engphi">Philip English</name>
@@ -60979,7 +60979,7 @@ Comment: -->
                             574.) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.88">
+                <div2 type="section" id="n173.88">
                     <head>(Continuation of The Committee to Consider <name type="person" key="engphi">Phillip English's</name> Claim -- July 1718) </head>
                     <p>On The Petition of <name type="person" key="engphi">Philip English</name> ,
                         As Enter'd <date value="1717-06-14" certainty="unconfirmed">June 14.
@@ -60994,7 +60994,7 @@ Comment: -->
                             607.) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.89">
+                <div2 type="section" id="n173.89">
                     <head>(Final Action on <name type="person" key="engphi">Phillip English's</name>
                         Claim -- November 1718) </head>
                     <p>The Report of the Committee to consider the Petition of <name type="person" key="engphi">Philip English</name> Enter'd <date value="1717-06-14" certainty="unconfirmed">June 14. 1717</date>, &amp; all the Papers
@@ -61017,7 +61017,7 @@ Comment: -->
                             618-619.) </ref>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.90">
+                <div2 type="section" id="n173.90">
                     <head>(Appraisal of <name type="person" key="engphi">Philip English</name>, Jr.,
                         &amp; Abraham Purchase)</head>
                     <p> We whose names are hereunto Sub[s]cribed being<lb/> requested by <name type="person" key="locgeo">George Locker</name> deputy Sherife in Essex
@@ -61039,7 +61039,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.91">
+                <div2 type="section" id="n173.91">
                     <head>(Petition of the Heirs of <name type="person" key="burgeo">George
                             Burroughs</name> ) </head>
                     <p>To His Honour <name type="person" key="phispe">Spencer Phipps</name> Esq'r: </p>
@@ -61104,7 +61104,7 @@ Comment: -->
                     </closer>
                 </div2>
                 <pb n="1049"/>
-                <div2 type="section" id="swp-n3.173.92">
+                <div2 type="section" id="n173.92">
                     <head>(Petition of <name type="person" key="parjoh">John Parker</name> &amp;
                             <name type="person" key="parjos">Joseph Parker</name> for restitution
                         for <name type="person" key="parmar">Mary Parker</name>, Sept. 13, 1710) </head>
@@ -61172,7 +61172,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.93">
+                <div2 type="section" id="n173.93">
                     <head>(An Act for Reversing the Attainder of <name type="person" key="fauabi1">Abigail Faulkner</name>, <name type="person" key="warsar1">Sarah
                             Wardel</name>, <name type="person" key="proeli">Elizabeth
                         Proctor</name>)</head>
@@ -61210,7 +61210,7 @@ Comment: -->
                         </seg>
                     </p>
                 </div2>
-                <div2 type="section" id="swp-n3.173.94">
+                <div2 type="section" id="n173.94">
                     <head>(<name type="person" key="fauabil1">Abigaill Faulkner</name>, <name type="person" key="warsar1">Sarah Wardwell</name> &amp; <name type="person" key="proeli">Elizabeth Proctor</name> their &amp; Each Of
                         yr attainders reversed by ye Generall Court)</head>
                     <p> Att a Great &amp; Generall Court or assembly of Her Majties Province<lb/> Of
@@ -61256,7 +61256,7 @@ Comment: -->
                     </p>
                 </div2>
 
-                <div2 type="section" id="swp-n3.173.95">
+                <div2 type="section" id="n173.95">
                     <head>(An Act to Reverse the Attainders of <name type="person" key="burgeo">George Burroughs</name> and Others For WitchCraft)</head>
                     <figure n="ecca2136r"/>
                     <figure n="ecca2136v"/>
