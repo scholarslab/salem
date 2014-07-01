@@ -33,13 +33,15 @@
 				</title>
 				<link href='http://fonts.googleapis.com/css?family=Lato:400,700|Merriweather' rel='stylesheet' type='text/css'/>
 				<link type="text/css" href="{$path}style.css" rel="stylesheet"/>
+				<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"/>
+					
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 				
 				<!-- <script type="text/javascript" src="{$path}javascript/jquery-1.2.6.min.js"/> -->
 				<script type="text/javascript" src="{$path}javascript/jquery.lightbox-0.5.min.js"/>
 				<script type="text/javascript" src="{$path}javascript/salem-lightbox.js"/>
 				<script type="text/javascript" src="{$path}javascript/searchhi.js"/>
-				
+				<script type="text/javascript" src="{$path}javascript/plugins.js"/>
 			</head>
 		</html>
 		<body onLoad="JavaScript:SearchHighlight();">
@@ -108,7 +110,6 @@
 										select="descendant::node()[generate-id(.) = $div_id]"/>-->
 								</xsl:when>
 								<xsl:otherwise>
-									
 									<xsl:apply-templates select="descendant::titlePage[1]"/>
 								</xsl:otherwise>
 							</xsl:choose>
@@ -167,12 +168,12 @@
 			<!-- <ul>
 				<li><a href="{/TEI.2/@id}">Title Page</a></li>
 			</ul> -->
+			<h4>Case Files</h4>
 			<xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
 		</div>
 	</xsl:template>
 
 	<xsl:template match="body" mode="toc">
-		<h4>Case Files</h4>
 		<ul>
 			<xsl:apply-templates select="div1" mode="toc"/>
 		</ul>
@@ -234,8 +235,8 @@
 								<xsl:otherwise>
 									<a href="?div_id={@id}">
 										<xsl:value-of select="normalize-space(head)"/>
+										(SWP No. <xsl:value-of select="translate(@id, 'n', '')"/>)
 									</a>
-									(SWP No. <xsl:value-of select="translate(@id, 'n', '')"/>)
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
@@ -805,6 +806,7 @@
 
 
 	<xsl:template match="head">
+		<!-- content page headings -->
 		<!-- if the head contains a bibl tag (thus probably a manuscript, it gets the value of only the bibl/title instead of the whole head -->
 		<xsl:choose>
 			<xsl:when test="parent::div1">
@@ -812,7 +814,8 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<h1>
+					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<h1 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">
 								<xsl:value-of select="bibl/title"/>
@@ -827,7 +830,8 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<h2>
+					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<h2 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">
 								<xsl:value-of select="bibl/title"/>
@@ -844,7 +848,8 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<h2>
+					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<h2 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">
 								<xsl:value-of select="bibl/title"/>

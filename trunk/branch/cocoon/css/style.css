@@ -189,6 +189,20 @@ ul li {
   font-family: 'Merriweather', serif;
 }
 
+.content .fa-paragraph {
+  color: #ccc;
+  -webkit-transition: background-color 500ms ease-out 1s;
+    -moz-transition: background-color 500ms ease-out 1s;
+    -o-transition: background-color 500ms ease-out 1s;
+    transition: background-color 500ms ease-out 1s;
+
+}
+
+.content .fa-paragraph:hover {
+  color: #000;
+}
+
+
 .content p {
   line-height: 1.6em;
   margin: 1.8em;
