@@ -814,7 +814,9 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<div class="identifier" data-id="{parent::node()/@id}">
+						<i class="fa fa-paragraph"></i> SWP No. <xsl:value-of select="translate(parent::node()/@id, 'n', '')"/>
+					</div>
 					<h1 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">
@@ -830,7 +832,9 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<div class="identifier" data-id="{parent::node()/@id}">
+						<i class="fa fa-paragraph"></i> SWP No. <xsl:value-of select="translate(parent::node()/@id, 'n', '')"/>
+						</div>
 					<h2 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">
@@ -848,7 +852,9 @@
 					<xsl:if test="string(parent::node()/@id)">
 						<a name="{parent::node()/@id}"/>
 					</xsl:if>
-					<i class="fa fa-paragraph" data-id="{parent::node()/@id}"></i>
+					<div class="identifier" data-id="{parent::node()/@id}">
+						<i class="fa fa-paragraph"></i> SWP No. <xsl:value-of select="translate(parent::node()/@id, 'n', '')"/>
+					</div>
 					<h2 id="{parent::node()/@id}">
 						<xsl:choose>
 							<xsl:when test="bibl">

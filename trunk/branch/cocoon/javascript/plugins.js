@@ -6,7 +6,7 @@
  */
 
 $(document).ready(function(){
-  $('.fa-paragraph').click(function(event) {
+  $('.identifier').click(function(event) {
     event.preventDefault();
 
     var id = "#" + $(this).data('id');

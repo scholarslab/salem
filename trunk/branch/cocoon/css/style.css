@@ -189,17 +189,18 @@ ul li {
   font-family: 'Merriweather', serif;
 }
 
-.content .fa-paragraph {
+.content .identifier {
   color: #ccc;
   -webkit-transition: background-color 500ms ease-out 1s;
-    -moz-transition: background-color 500ms ease-out 1s;
-    -o-transition: background-color 500ms ease-out 1s;
-    transition: background-color 500ms ease-out 1s;
-
+  -moz-transition: background-color 500ms ease-out 1s;
+  -o-transition: background-color 500ms ease-out 1s;
+  transition: background-color 500ms ease-out 1s;
+  font-family: "Lato", sans-serif;
 }
 
-.content .fa-paragraph:hover {
+.content .identifier:hover {
   color: #000;
+  cursor: pointer;
 }
 
 
