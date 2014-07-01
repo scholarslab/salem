@@ -31,11 +31,15 @@
 				<title>
 					<xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title[@type='245']"/>
 				</title>
+				<link href='http://fonts.googleapis.com/css?family=Lato:400,700|Merriweather' rel='stylesheet' type='text/css'/>
 				<link type="text/css" href="{$path}style.css" rel="stylesheet"/>
-				<script type="text/javascript" src="{$path}javascript/jquery-1.2.6.min.js"/>
+				<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+				
+				<!-- <script type="text/javascript" src="{$path}javascript/jquery-1.2.6.min.js"/> -->
 				<script type="text/javascript" src="{$path}javascript/jquery.lightbox-0.5.min.js"/>
 				<script type="text/javascript" src="{$path}javascript/salem-lightbox.js"/>
 				<script type="text/javascript" src="{$path}javascript/searchhi.js"/>
+				
 			</head>
 		</html>
 		<body onLoad="JavaScript:SearchHighlight();">
@@ -120,6 +124,7 @@
 		<div class="toc nosearchhi">
 			<xsl:variable name="volume">
 				<xsl:choose>
+					<!--
 					<xsl:when test="/TEI.2/@id = 'BoySal1R'">
 						<xsl:text>1</xsl:text>
 					</xsl:when>
@@ -132,20 +137,23 @@
 					<xsl:when test="/TEI.2/@id = 'BoySal4R'">
 						<xsl:text>4</xsl:text>
 					</xsl:when>
+					-->
 					<xsl:when test="/TEI.2/@id = 'BoySalCombined'">
-						<xsl:text>Combined</xsl:text>
-          </xsl:when>
-          <xsl:when test="/TEI.2/@id = 'swp'">
+						<xsl:text>Salem Witchcraft Papers</xsl:text>
+          			</xsl:when>
+          			<xsl:when test="/TEI.2/@id = 'swp'">
 						<xsl:text>Salem Witchcraft Papers</xsl:text>
 					</xsl:when>
 				</xsl:choose>
 			</xsl:variable>
 			<xsl:choose>
 				<xsl:when test="string-length($volume) &gt; 0">
-					<h3> The Salem witchcraft papers, original volumes
-						<!-- <xsl:value-of select="$volume"/>:--> edited by Paul Boyer and Stephen
+					<h3><a href="swp">Salem Witchcraft Papers</a></h3>
+					<!--<h3>Salem Witchcraft Papers
+						 , original volumes
+						edited by Paul Boyer and Stephen
 						Nissenbaum (1977) / revised, corrected, and augmented by Benjamin C. Ray and
-						Tara S. Wood (2010)</h3>
+						Tara S. Wood (2010) </h3>-->
 				</xsl:when>
 				<xsl:otherwise>
 					<h3>
@@ -155,14 +163,10 @@
 					</h3>
 				</xsl:otherwise>
 			</xsl:choose>
-			<ul>
-				<!--<li>Table of Contents: <a href="?div_id={//div1[@type='contents']/@id}">Volume
-				<xsl:value-of select="$volume"/></a></li>-->
-				<li>Title Page: <a href="{/TEI.2/@id}">Volume <xsl:value-of select="$volume"
-					/></a></li>
-			</ul>
+			<!-- <ul>
+				<li><a href="{/TEI.2/@id}">Title Page</a></li>
+			</ul> -->
 			<xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
-
 		</div>
 	</xsl:template>
 
@@ -223,6 +227,7 @@
 		</xsl:template>-->
 
 	<xsl:template match="body" mode="toc">
+		<h4>Case Files</h4>
 		<ul>
 			<xsl:apply-templates select="div1" mode="toc"/>
 		</ul>
@@ -236,7 +241,7 @@
 						<xsl:when test="@id = $div_id or @id = $chapter_id">
 							<xsl:choose>
 								<xsl:when test="$mode = 'papers'">
-									<b>Case File: </b>
+									<!--<b>Case File: </b> -->
 								</xsl:when>
 								<xsl:otherwise>
 									<b><xsl:value-of
@@ -248,7 +253,7 @@
 						<xsl:otherwise>
 							<xsl:choose>
 								<xsl:when test="$mode = 'papers'">
-									<xsl:text>Case File: </xsl:text>
+									<!-- <xsl:text>Case File: </xsl:text> -->
 								</xsl:when>
 								<xsl:otherwise>
 									<xsl:value-of
@@ -285,6 +290,7 @@
 									<a href="?div_id={@id}">
 										<xsl:value-of select="normalize-space(head)"/>
 									</a>
+									(SWP No. <xsl:value-of select="translate(@id, 'n', '')"/>)
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>

@@ -131,6 +131,8 @@ ul li {
 .options>a {
 	color:white;
 }
+
+/*Table of contents*/
 .toc {
 	margin-left:10px;
 	width:280px;
@@ -141,7 +143,32 @@ ul li {
 	border:1px solid black;
 	margin-bottom:10px;
 	font-size:14px;
+  font-family: "Lato", sans-serf;
 }
+
+.toc h3 {
+  padding-top: 10px;
+  margin-left: 0.5em;
+  font-size: 22px;
+  text-align: left;
+}
+
+.toc h4 {
+  padding-top: 15px;
+  padding-bottom: 2px;
+  margin-left: 0.5em;
+  font-size: 18px;
+  text-align: left;
+}
+
+.toc li {
+  line-height: 1.8em;
+  list-style-position: inside;
+  margin-left: 2em;
+   margin-right: 1em;
+  text-indent: -1em;
+}
+
 .toc_header {
 	margin-left:10px;
 	width:280px;
@@ -159,7 +186,13 @@ ul li {
 	margin-top:10px;
 	padding:10px;
 	margin-bottom:10px;
+  font-family: 'Merriweather', serif;
 }
+
+.content p {
+  line-height: 1.6em;
+}
+
 .footer {
 	margin-left:auto;
 	margin-right:auto;
