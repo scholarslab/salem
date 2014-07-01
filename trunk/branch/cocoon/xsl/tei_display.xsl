@@ -108,7 +108,8 @@
 										select="descendant::node()[generate-id(.) = $div_id]"/>-->
 								</xsl:when>
 								<xsl:otherwise>
-									<xsl:apply-templates select="descendant::titlePage"/>
+									
+									<xsl:apply-templates select="descendant::titlePage[1]"/>
 								</xsl:otherwise>
 							</xsl:choose>
 						</div>
@@ -169,62 +170,6 @@
 			<xsl:apply-templates select="descendant::TEI.2/text//body" mode="toc"/>
 		</div>
 	</xsl:template>
-
-	<!--<xsl:template match="front" mode="toc">
-		<ul>
-			<h4>
-				<a href="?div_id={generate-id(.)}">Front Matter</a>
-			</h4>
-			<xsl:for-each select="div1 | titlePage">
-				<li>
-					<xsl:choose>
-						<xsl:when test="name() = 'div1'">
-							<xsl:choose>
-								<xsl:when test="@type='case'">
-									<xsl:text>Case File</xsl:text>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:value-of select="@type"/>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:text>Title Page</xsl:text>
-						</xsl:otherwise>
-					</xsl:choose>
-
-					<xsl:choose>
-						<xsl:when test="@id">
-							<xsl:choose>
-								<xsl:when test="head">
-									<xsl:text>: </xsl:text>
-									<a href="?div_id={@id}">
-										<xsl:value-of select="normalize-space(head)"/>
-									</a>
-								</xsl:when>
-								<xsl:otherwise>
-									<a href="?div_id={@id}"> [No title] </a>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:choose>
-								<xsl:when test="head">
-									<xsl:text>: </xsl:text>
-									<a href="?div_id={generate-id(.)}">
-										<xsl:value-of select="normalize-space(head)"/>
-									</a>
-								</xsl:when>
-								<xsl:otherwise>
-									<a href="?div_id={generate-id(.)}"> [No title] </a>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:otherwise>
-					</xsl:choose>
-				</li>
-			</xsl:for-each>
-		</ul>
-		</xsl:template>-->
 
 	<xsl:template match="body" mode="toc">
 		<h4>Case Files</h4>
