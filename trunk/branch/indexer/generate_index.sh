@@ -4,7 +4,8 @@
 #java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal2R.xml -xsl:add_docs.xsl > index/add_BoySal2R.xml;
 #echo Generating add_doc for BoySal3R.xml;
 #java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal3R.xml -xsl:add_docs.xsl > index/add_BoySal3R.xml;
-java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySalCombined.xml -xsl:add_docs.xsl > index/add_BoySal.xml;
+#java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySalCombined.xml -xsl:add_docs.xsl > index/add_BoySal.xml;
+java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/swp.xml -xsl:add_docs.xsl > index/add_swp.xml;
 
 for i in `ls ../cocoon/xml/ead/*.xml`; do java -jar saxon/saxon9.jar -xi:on -s $i -xsl:add_ead_docs.xsl > index/add_`basename $i`; echo Generating add_doc for `basename $i`; done
 

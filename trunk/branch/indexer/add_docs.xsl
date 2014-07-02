@@ -5,7 +5,7 @@
 	<xsl:template match="/">
 		<add>
 			<xsl:apply-templates select="//div1[@type='case']/div2"/>
-			<xsl:apply-templates select="//div1[@type='addendum']//div3"/>
+			<!--<xsl:apply-templates select="//div1[@type='addendum']//div3"/>-->
 		</add>
 	</xsl:template>
 
@@ -70,6 +70,7 @@
 		</field>
 	</xsl:template>-->
 	
+	<!-- 
 	<xsl:template match="div3">
 		<doc>
 			<field name="id">
@@ -119,5 +120,6 @@
 			</field>
 		</doc>
 	</xsl:template>
+	-->
 
 </xsl:stylesheet>
