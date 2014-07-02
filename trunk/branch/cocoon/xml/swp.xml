@@ -10471,79 +10471,79 @@
 				<pb n="153"/>
 
 				<div2 id="n22.4" type="examination">
-					<head>(Examination of <name type="person" key="burgeo">George Burroughs</name>
-						<lb/> and Summary of Evidence) </head>
-					<p rend="center">The Examination of <name type="person" key="burgeo">Geo:
-							Burrough</name>
-						<date value="1692-05-09" certainty="confirmed">9. May. 1692 </date>
-					</p>
-					<p>
-						<table>
-							<row>
-								<cell>By <lb/> Honourd </cell>
-								<cell>
-									<name type="person" key="stough">W'm Stoughton</name>
-									<lb/>
-									<name type="person" key="hawjoh">John Hathorne</name>
-									<lb/>
-									<name type="person" key="sewsam">Sam: Sewall</name> , <lb/>
-									<name type="person" key="corjoh">Jonath. Corwin</name>
-								</cell>
-								<cell>Esq's </cell>
-							</row>
-						</table>
-					</p>
-					<p>Being askt w'n he partook of the Lords supper, he being (as he <lb/> said) in
-						full comunion at Roxbury. </p>
-					<p>He answered it was so long since he could not tell: yet he owned <lb/> he was
-						at meeting one Sab: at Boston part of the day, &amp; the <orig reg="other">oth- <lb/> er </orig> at Charlestown part of a Sab: when that sacrament
-						happened <lb/> to be at both, yet did not partake of either. He denyed that
-						his <lb/> house at Casko was haunted, yet he owned there were Toads. He
-							<orig reg="denyed">de- <lb/> nyed </orig> that he made his wife swear,
-						that she should not write to her <lb/> Father <name type="person" key="rucjoh">Ruck</name> without his approbation of her letter to her
-						Father. <lb/> He owned that none of his children, but the eldest was <hi rend="underline">Baptized </hi> The aboves'd was in private none of the
-							<hi rend="underline">Bewitched </hi> being present. At <lb/> his entry
-						into the Room, many (if not all of the Bewitched) were <lb/> greviously
-						tortured. </p>
-					<pb n="154"/>
-
-					<p>
-						<hi rend="underline">Capt Putnam <!-- Comment: -->
-						</hi> testifyed about the Gun. </p>
-					<p>
-						<name type="person" key="wormwo">Capt Wormwood</name> testifyed about the
-						Gun &amp; the Mallassoes He <lb/> denyed that about the malassoes About the
-						Gun he said he took it <lb/> before the lock and rested it upon his breast. </p>
-					<p>
-						<hi rend="underline">
-							<name type="person" key="brojoh">John Brown</name>
-						</hi> testifyed about a bbl Cyder </p>
-					<p>He denyed that his family was affrighted by a white calf in <lb/> his house. </p>
-					<p>Capt Putman <!-- Comment: --> testifyed that he made his wife enter into a
-							<orig reg="covenant">cove- <lb/> nant </orig> 11.May. <hi rend="underline">1692 </hi>
-					</p>
-					<p>
-						<hi rend="underline">
-							<name type="person" key="hobabi">Abig Hobbs</name>
-						</hi> in prison affirmed that <name type="person" key="burgeo">Geo.
-							Burroughs</name> in his shape <lb/> appeared to her, &amp; urged her to
-						set her hand to the Book, which she <lb/> did, &amp; after-wards in his own
-						person he acknowledged to her, that <lb/> he had made her set her hand to
-						the Book. </p>
-					<p>The original minutes (of which the above is a true copy) is in <lb/> the
-						possession of <name type="person" key="andifx">I. F. Andrews Esq.</name>
-						&amp; was found among <name type="person" key="hawjoh">Judge <lb/>
-							Hathornes</name> papers. -- Aug. 8. 1843. </p>
-					<closer>
-						<signed>
-							<name type="person" key="curibx">*I B Curwen </name>
-						</signed>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
-									Vol. 2 Page 9 </hi>) </ref>
-						</seg>
-					</closer>
+					<head>(Examination of <name type="person" key="burgeo">George
+						Burroughs</name>)</head>
+					<figure n="H52r"/>
+					<figure n="H52v"/>
+					<p>(Left column)</p>
+					<p> The Examination of <name type="person" key="burgeo">Geo: Burrough</name>
+						<date value="1692-05-09" certainty="confirmed">9.May.1692</date></p>
+					
+					<p>By <hi rend="overstrike">Before</hi> the<lb/> Honoured<lb/>
+						<name type="person" key="stough">Wm. Stoughton</name><lb/>
+						<name type="person" key="haljoh">John Hallum</name><lb/>
+						<name type="person" key="sewsam">Sam: Sewall</name><lb/>
+						<name type="person" key="corjoh">Jonath: Corwin</name><lb/> Esqrs</p>
+					
+					<p>Being asked when he partood of the Lord's Supper, he being (as<lb/> he said) in full communion at Roxbury.<lb/>
+						He answered it was so long since he could not tell: yet<lb/> he owned he was
+						at meeting one Sab: at Boston<lb/> part of the day, &amp; the other at
+						Charlstown part<lb/> of a Sab: when that sacrament happened to be<lb/> at
+						both, yet did not partake of either.<lb/> He denyed that his house at Casko
+						was haunted.<lb/> Yet he owned there were Toads.<lb/> He denyed that he made
+						his <hi rend="overstrike">swear</hi> wife swear, that<lb/> she should not
+						write to her Father <name type="person" key="rucjoh">Ruck</name>
+						without<lb/> his approbation of her letter to her Father:<lb/> He owned that
+						none of his children, but the Eldest<lb/> was Baptized.<lb/> ----------<lb/>
+						The abovesd was in private none of<lb/> the Bewitched being present<lb/>
+						----------<lb/> At his entry into the Room, many (if not<lb/> all of the
+						Bewitched) were greivously tortured.</p>
+					
+					<p>1. <name type="person" key="shesus">
+						<hi rend="underline">Sus: sheldon</hi>
+					</name> testifyed that <name type="person" key="burgeo">Burroughs</name> two
+						wives <lb/> appeared in their winding sheets, &amp; said that<lb/> man
+						killed them &lsqb;words rubbed out&rsqb;<lb/> He was bid to look upon <name
+							type="person" key="shesus">sus: sheldon</name>.<lb/> He looked back
+						&amp; knockt down all (or more)<lb/> of the afflicted, wo stood behind
+						him.Sus: Sheldon.. . [one line rubbed out] the souldiers.</p>
+					
+					<p>&lsqb;<hi rend="italics"></hi>&rsqb;<lb/> 2. <name type="person" key="lewmar">
+						<hi rend="underline">Mercy Lewis</hi>
+					</name> deposition going to be read &amp; he<lb/> lookt upon her &amp; she
+						fell into a<lb/> dreadfull &amp; tedious fit</p>
+					
+					<p>(Right column)</p>
+					
+					<p><name type="person" key="wormwo">
+						<hi rend="underline">Capt Wormwood</hi>
+					</name> testifyed about the Gun &amp; <lb/> the Mallossoes<lb/> He denyed
+						that about the Mallossoes<lb/> About the Gun he said he took it before
+						the<lb/> lock &amp; rested it upon his breast<lb/>
+						<name type="person" key="?">John Brown</name>
+						<hi rend="overstrike">test</hi> testifyed about a bll Cyder<lb/> He denyed
+						that his family was affrighted by a<lb/> white calf in his house.<lb/>
+						<name type="person" key="?">
+							<hi rend="underline">Capt Putman</hi>
+						</name> testifyed that he made his wife <lb/> enter into a covenant</p>
+					
+					<p><date value="1692-05-11" certainty="confirmed">11.May.1692</date><lb/>
+						<name type="person" key="hobabi">
+							<hi rend="underline">Abig: Hobbs</hi>
+						</name> in prison affirmed that <name type="person" key="burgeo">Geo:
+							Burroughs</name><lb/> in his Shape appeared to her, &amp; urged
+						&lsqb;her to set&rsqb; &lsqb;<hi rend="italics">words faint</hi>&rsqb;<lb/>
+						hand to the Book, which she did; &amp; after<lb/> --wards in his own person
+						he acknowledged to<lb/> her, that he had made her set her hand to<lb/> the
+						Book.</p>
+					
+					<p>(Reverse)<lb/> &lsqb;<hi rend="italics">Some writing on left side of sheet,
+						but unreadable</hi>&rsqb;<lb/> &lsqb;<hi rend="italics">Writing running
+							vertically along right edge as follows:</hi>&rsqb;<lb/> The &lsqb;<hi
+								rend="italics">document torn at this edge</hi>&rsqb;<lb/> of <name
+									type="person" key="burgeo">Geo: Burroughs</name></p>
 				</div2>
+
 				<div2 id="n22.5" type="indictment">
 					<head>(Indictment v. <name type="person" key="burgeo">George Burroughs</name> ,
 						No. 1) </head>
@@ -11880,87 +11880,8 @@
 						</seg>
 					</p>
 				</div2>
-				<div2 id="n22.38" type="examination">
-					<head>(Examination of <name type="person" key="burgeo">George
-						Burroughs</name>)</head>
-					<figure n="H52r"/>
-					<figure n="H52v"/>
-					<p>(Left column)</p>
-					<p> The Examination of <name type="person" key="burgeo">Geo: Burrough</name>
-						<date value="1692-05-09" certainty="confirmed">9.May.1692</date></p>
-
-					<p>By <hi rend="overstrike">Before</hi> the<lb/> Honoured<lb/>
-						<name type="person" key="stough">Wm. Stoughton</name><lb/>
-						<name type="person" key="haljoh">John Hallum</name><lb/>
-						<name type="person" key="sewsam">Sam: Sewall</name><lb/>
-						<name type="person" key="corjoh">Jonath: Corwin</name><lb/> Esqrs</p>
-
-					<p>Being &lsqb;<hi rend="italics">five words washed out, unreadable</hi>&rsqb;
-						Lords supper, he being (as<lb/> he said) in full communion at Roxbury.<lb/>
-						He answered it was so long since he could not tell: yet<lb/> he owned he was
-						at meeting one Sab: at Boston<lb/> part of the day, &amp; the other at
-						Charlstown part<lb/> of a Sab: when that sacrament happened to be<lb/> at
-						both, yet did not partake of either.<lb/> He denyed that his house at Casko
-						was haunted.<lb/> Yet he owned there were Toads.<lb/> He denyed that he made
-						his <hi rend="overstrike">swear</hi> wife swear, that<lb/> she should not
-						write to her Father <name type="person" key="rucjoh">Ruck</name>
-						without<lb/> his approbation of her letter to her Father:<lb/> He owned that
-						none of his children, but the Eldest<lb/> was Baptized.<lb/> ----------<lb/>
-						The abovesd was in private none of<lb/> the Bewitched being present<lb/>
-						----------<lb/> At his entry into the Room, many (if not<lb/> all of the
-						Bewitched) were greivously tortured.</p>
-
-					<p>1. <name type="person" key="shesus">
-							<hi rend="underline">Sus: sheldon</hi>
-						</name> testifyed that <name type="person" key="burgeo">Burroughs</name> two
-						wives <lb/> appeared in their winding sheets, &amp; said that<lb/> man
-						killed them &lsqb;words rubbed out&rsqb;<lb/> He was bid to look upon <name type="person" key="shesus">sus: sheldon</name>.<lb/> He looked back
-						&amp; knockt down all (or more)<lb/> of the afflicted, wo stood behind
-						him.</p>
-
-					<p>&lsqb;<hi rend="italics">next two lines unreadable because of fold creases,
-							rubbed out</hi>&rsqb;<lb/> 2. <name type="person" key="lewmar">
-							<hi rend="underline">Mercy Lewis</hi>
-						</name> deposition going to be read &amp; he<lb/> lookt upon her &amp; she
-						fell into a<lb/> dreadfull &amp; tedious fit</p>
-
-					<p>(Right column)</p>
-
-					<p><name type="person" key="wormwo">
-							<hi rend="underline">Capt Wormwood</hi>
-						</name> testifyed about the Gun &amp; <lb/> the Mallossoes<lb/> He denyed
-						that about the Mallossoes<lb/> About the Gun he said he took it before
-						the<lb/> lock &amp; rested it upon his breast<lb/>
-						<name type="person" key="?">John Brown</name>
-						<hi rend="overstrike">test</hi> testifyed about a bll Cyder<lb/> He denyed
-						that his family was affrighted by a<lb/> white calf in his house.<lb/>
-						<name type="person" key="?">
-							<hi rend="underline">Capt Putman</hi>
-						</name> testifyed that he made his wife <lb/> enter into a covenant</p>
-
-					<p><date value="1692-05-11" certainty="confirmed">11.May.1692</date><lb/>
-						<name type="person" key="hobabi">
-							<hi rend="underline">Abig: Hobbs</hi>
-						</name> in prison affirmed that <name type="person" key="burgeo">Geo:
-							Burroughs</name><lb/> in his Shape appeared to her, &amp; urged
-						&lsqb;her to set&rsqb; &lsqb;<hi rend="italics">words faint</hi>&rsqb;<lb/>
-						hand to the Book, which she did; &amp; after<lb/> --wards in his own person
-						he acknowledged to<lb/> her, that he had made her set her hand to<lb/> the
-						Book.</p>
-
-					<p>(Reverse)<lb/> &lsqb;<hi rend="italics">Some writing on left side of sheet,
-							but unreadable</hi>&rsqb;<lb/> &lsqb;<hi rend="italics">Writing running
-							vertically along right edge as follows:</hi>&rsqb;<lb/> The &lsqb;<hi rend="italics">document torn at this edge</hi>&rsqb;<lb/> of <name type="person" key="burgeo">Geo: Burroughs</name></p>
-					<p>&lsqb;This item appears to be a copy of B&amp;N pages 153-154. However, the
-						testimony of Susannah Sheldon does not appear in B&amp;N&rsqb;</p>
-					<p>
-						<seg>
-							<ref>Salem Witchcraft Papers of the Massachusetts Historical
-								Society</ref>
-						</seg>
-					</p>
-				</div2>
-				<div2 id="n22.39" type="deposition">
+				
+				<div2 id="n22.38" type="deposition">
 					<head>(<name type="person" key="carric2">Richard Carrier</name>, <name type="person" key="lacmar1">Mary Lacey</name> &amp; <name type="person" key="lacmar2">Mary Lacey, Jr.</name> vs. <name type="person" key="burgeo">George Burroughs)</name></head>
 					<p>
 						<name type="person" key="carric2">Richard Carrier</name> affirmed to the
