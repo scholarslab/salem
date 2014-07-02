@@ -107,7 +107,7 @@
 			<global-variables>
 				<hostname> http://{request:serverName}:{request:serverPort} </hostname>
 				<!-- global variable: change this value to the proper path to solr -->
-				<solr-url>http://localhost:8080/solr/salem/</solr-url>
+        <solr-url>http://{request:serverName}:8080/solr/salem/</solr-url>
 			</global-variables>
 		</map:component-configurations>
 
