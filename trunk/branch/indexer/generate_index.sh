@@ -15,10 +15,10 @@ URL=http://localhost:8080/solr/salem/update
 
 for f in $FILE; do
   echo Posting file $f to $URL
-  curl $URL --data-binary @$f -H 'Content-type:text/xml; charset=utf-8' 
+  curl $URL --data-binary @$f -H 'Content-type:text/xml; charset=utf-8'
   echo
 done
 
 #send the commit command to make sure all the changes are flushed and visible
-curl $URL --data-binary '<commit/>' -H 'Content-type:text/xml; charset=utf-8'
+curl $URL --data-binary '<commit/><optimize/>' -H 'Content-type:text/xml; charset=utf-8'
 echo
