@@ -21,7 +21,8 @@
 				<xsl:value-of select="parent::node()/@id"/>
 			</field>
 			<field name="doc_id">
-				<xsl:value-of select="ancestor::TEI.2/@id"/>
+				<!--<xsl:value-of select="ancestor::TEI.2/@id"/>-->
+				<xsl:text>swp</xsl:text>
 			</field>
 			<field name="title">
 				<xsl:value-of select="normalize-space(head)"/>
@@ -40,7 +41,6 @@
 				</field>
 			</xsl:for-each>
 			
-
 			<xsl:for-each select="descendant::name[@type='person']">
 				<xsl:variable name="id" select="@key"/>
 				<field name="name_facet">
@@ -55,7 +55,7 @@
 				</field>
 			</xsl:for-each>
 			<field name="fulltext">
-				<xsl:value-of select="descendant-or-self::text()"/>
+				<xsl:value-of select="normalize-space(descendant-or-self::text())"/>
 			</field>
 		</doc>
 	</xsl:template>
