@@ -34,7 +34,7 @@ def rename
 
 end
 
-open_file('./volume3.xml')
+open_file('./swp.xml')
 rename
 ap @doc
 
