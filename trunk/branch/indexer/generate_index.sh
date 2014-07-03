@@ -40,10 +40,10 @@ if [ -z $RAILS_ENV ]; then
 fi
 
 if [ $RAILS_ENV == $PRODUCTION ]; then
-  curl http://sdsv3.itc.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
-  curl http://sdsv2.itc.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+  curl http://sdsv3.its.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=salem
+  curl http://sdsv2.its.virginia.edu:8080/solr/admin/cores -F command=RELOAD -F core=salem
 else
-  curl http://localhost:8080/solr/admin/cores -F command=RELOAD -F core=faulkner
+  curl http://localhost:8080/solr/admin/cores -F command=RELOAD -F core=salem
 fi
 
 echo Finished
