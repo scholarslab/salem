@@ -2,7 +2,7 @@
 
 SERVER=`uname -n`
 FILE="index/add_*.xml"
-URL=http://$SERVER:8080/solr/salem/update
+URL=http://localhost:8080/solr/salem/update
 
 echo Indexing for Solr server $URL
 
