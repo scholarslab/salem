@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
-	<xsl:output method="xml" encoding="UTF-8"/>
+	<xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
 	<xsl:template match="/">
 		<add>
@@ -41,7 +41,7 @@
 				</field>
 			</xsl:for-each>
 			
-			<xsl:for-each select="descendant::name[@type='person']">
+			<!-- <xsl:for-each select="descendant::name[@type='person']">
 				<xsl:variable name="id" select="@key"/>
 				<field name="name_facet">
 					<xsl:value-of select="$id"/>
@@ -53,9 +53,9 @@
 					<xsl:text>|</xsl:text>
 					<xsl:value-of select="//normalize-space(term[@id = $id])"/>
 				</field>
-			</xsl:for-each>
+			</xsl:for-each>-->
 			<field name="fulltext">
-				<xsl:value-of select="normalize-space(descendant-or-self::text())"/>
+				<xsl:value-of select="descendant-or-self::text()"/>
 			</field>
 		</doc>
 	</xsl:template>
