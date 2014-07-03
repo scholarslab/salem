@@ -6,7 +6,6 @@ URL=http://localhost:8080/solr/salem/update
 
 echo Cleaning up
 `rm -f index/add_*.xml`
-`curl $URL?commit=true -H "Content-Type: text/xml" --data-binary '<delete><query>*:*</query></delete>'`
 
 #echo Generating add_doc for BoySal1R.xml;
 #java -jar saxon/saxon9.jar -xi:on -s ../cocoon/xml/BoySal1R.xml -xsl:add_docs.xsl > index/add_BoySal1R.xml;
