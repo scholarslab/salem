@@ -3,32 +3,49 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Sermon Notebook of Samuel Parris</title>
-        <author>Samuel Parris</author>
+        <title type="245">Sermon Notebook of Samuel Parris: January 3, 1691</title>
+        <title type="gmd">[electronic resource] </title>
+        <author>Samuel Parris </author>
+        <editor>Benjamin Ray</editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>University Press of Virginia</publisher> 
-        <pubPlace>Charlottesville, Virginia </pubPlace> 
+        <publisher>University of Virginia Library</publisher>
+        <pubPlace>Charlottesville, Virginia </pubPlace>
+        <availability>
+          <p>publicly available</p>
+        </availability>
+        <date>2016</date>
       </publicationStmt>
       <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title>The Sermon Notebook of Samuel Parris, 1689-1694</title>
-            <author>Samuel Parris</author>
-            <editor>James F. Cooper, Jr.</editor>
-            <editor>Kenneth P. Minkema</editor>
-          </titleStmt>
-          <publicationStmt>
+        <bibl>
+          <title>Parris, Samuel, 1689-1695, Sermons, Roll A 3/1/66 [microfilm]</title>
+          <imprint>
+            <publisher>Connecticut Historical Society</publisher>
+            <pubPlace>Hartford, CT</pubPlace>
+            <date>1966-03-01</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+      <sourceDesc>
+        <bibl>
+          <title>Parris, Samuel, 1689-1695, Sermons</title>
+          <author>Samuel Parris</author>
+          <editor>James F. Cooper, Jr.</editor>
+          <editor>Kenneth P. Minkema</editor>
+          <imprint>
             <publisher>The Colonial Society of Massachusetts</publisher>
-            <pubPlace>Boston</pubPlace>
+            <pubPlace>Boston, MA</pubPlace>
             <date>1993</date>
-            <distributor>University Press of Virginia</distributor>
-          </publicationStmt>
-          
-        </biblFull>
-        
+          </imprint>
+        </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      
+      <p>The sermon text was transcribed from the microfilm source by Benjamin Ray and
+        verified by reference to the print edition.</p>
+      
+    </encodingDesc>
   </teiHeader>
   
   <text>
