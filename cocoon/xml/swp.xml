@@ -5939,19 +5939,11 @@
 						<date value="1692-08-29" certainty="unconfirmed">29. agust. 92. </date>
 						<lb/> Coram <lb/>
 						<name type="person" key="gidbar">Mag'r Gidney</name>
-<<<<<<< HEAD
-						
-						<name type="person" key="hawjoh">m'r hathorn</name>
-						
-						<name type="person" key="corjoh">m'r Corwin</name>
-						
-=======
 						<lb/>
 						<name type="person" key="hawjoh">m'r hathorn</name>
 						<lb/>
 						<name type="person" key="corjoh">m'r Corwin</name>
 						<lb/>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<name type="person" key="higjoh">Cap't higginson</name>
 					</p>
 					<p>
@@ -5963,17 +5955,10 @@
 						soul &amp; Body unto him, which he promesed to <lb/> doe, He said he had a
 						great family, the world went hard with him and <lb/> was willing to pay
 						every man his own, And the devil told him he <lb/> would pay all his debts
-<<<<<<< HEAD
-						and he should live comfortably. He confesses <lb/> he hes afflicted #[?]sed <name type="person" key="sprmar">Sprague</name>
-						<name type="person" key="fosros">foster</name> and <name type="person" key="marabi">martin</name>, his three accusers. That he did syne<lb/>
-						the devils book with blood brought to him in a thing lyke an Inkhorn
-						that he dipt his finger <lb/> therein and made a blott in <lb/> the book which
-=======
 						and he should live comfortably. -- He confesses <lb/> he hes afflicted #[?]sed <name type="person" key="sprmar">Sprague</name>
 						<name type="person" key="fosros">foster</name> and <name type="person" key="marabi">martin</name>, his three accusers. That <lb/> he did syne
 						the devils book with blood brought to him in a thing <lb/> lyke an Inkhorn
 						that he dipt his finger therein and made a blott in <lb/> the book which
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						was a confirmation of the Covenant with the devil. <lb/> He confesses he was at a meeting of witches at Salem Village <lb/> where he
 						judges there was about a hundred of them, that the meeting <lb/> was upon a
 						green peece of ground neare the ministe'rs house, He said <lb/> they mett
@@ -6017,13 +6002,8 @@
 							<name type="person" key="barwil1">*William Barker</name>
 						</signed>
 						<pb n="67"/>
-<<<<<<< HEAD
-						<seg>he owned this is the Court of Oyre &amp; Terminer as
-							on the back Side </seg>
-=======
 						<seg>(In left margin) he owned this is the Court of Oyre &amp; Terminer as
 							<lb/> on the back Side </seg>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<seg>(Reverse) Wm Barkers Exa. <lb/> acused. <lb/> 
 							<name type="person" key="burse"> mr Buse</name> <lb/> <name type="person" key="burgeo">mr
 								Buroughs</name> <lb/> <name type="person" key="howeli">Goody How</name> <lb/>
@@ -6036,11 +6016,7 @@
 							<lb/>
 						</seg>
 						<seg>
-<<<<<<< HEAD
-							<ref>( <hi rend="italics">Massachusetts Archives Collection, Vol. 135, No. 39.  Massachusetts State Archives. Boston, MA</hi>)
-=======
 							<ref>( <hi rend="italics">Mass. Archives, Vol. 135, No. 39 </hi>)
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							</ref>
 						</seg>
 					</closer>
@@ -6110,7 +6086,6 @@
 						<seg>(In left margin) 5'd 7'mo 92 </seg>
 						<seg>
 							<ref>( <hi rend="italics">Essex Institute Collection, No. 24 7r James Duncan Phillips Library, Peabody Essex Museum, Salem, MA.</hi>) </ref>
-=======
 						</seg>
 					</closer>
 				</div2>
@@ -6399,10 +6374,6 @@
 				
 				<div2 id="n10.5" type="examination">
 					<head>(Examination of <name type="person" key="barwil2">William Barker,
-<<<<<<< HEAD
-						Jr.</name>, Copy) <figure n="eia24-10r"/><figure n="eia24-10v"/></head>
-					<opener><date value="1692-09-01" certainty="confirmed">1 Sep'r 92 </date> Before
-=======
 						Jr.</name>, Second Version ) <figure n="eia24-10r"/><figure n="eia24-10v"/></head>
 					<opener><date value="1692-09-01" certainty="confirmed">1 Sep'r ["S" written over "s"] 92 </date> Before
 
@@ -6465,7 +6436,6 @@
 							<name type="person" key="barwil2">Wm Barker Jun'r </name>
 						</seg>
 						<seg>
-<<<<<<< HEAD
 							<ref>( <hi rend="italics">Essex Institute Collection,
 								No. 24, 10r-v. James Duncan Phillips Library, Peabody Essex Museum, Salem, MA. </hi>) </ref>
 
@@ -15543,11 +15513,7 @@
 					</closer>
 				</div2>
 				<div2 id="n38.3" type="examination">
-<<<<<<< HEAD
-					<head>(Examination of <name type="person" key="cormar">Martha Cory</name> ) </head>
-=======
 					<head>(Examination of <name type="person" key="cormar">Martha Corey</name> ) </head>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<figure n="eia01-1"/>
 					<figure n="eia01-2"/>
 					<figure n="eia01-3"/>
@@ -15557,12 +15523,8 @@
 					</p>
 					<p>
 						<name type="person" key="hawjoh">Mr Hathorne.</name>
-<<<<<<< HEAD
-					You are now in the hands of Authority tell me now <lb/> why you hurt these
-=======
 					</p>
 					<p>You are now in the hands of Authority tell me now <lb/> why you hurt these
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						persons </p>
 					<p>
 						<name type="person" key="cormar">Martha Kory.</name>
@@ -15572,27 +15534,13 @@
 					<p>Pray give me leave to goe to prayer </p>
 					<p>This request was made sundry times </p>
 					<p>We do not send for you to go to prayer But tell me <lb/> why you hurt these? </p>
-<<<<<<< HEAD
-					<p>I am an innocent person: I never had to do with Witchcraft since I was born. I am a Gospel Woman </p>
-=======
 					<p>I am an innocent person: I never had to do with </p>
 					<p>Witchcraft since I was born. I am a Gospel Woman </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Do not you see these complain of you </p>
 					<p>The Lord open the eyes of the Magistrates &amp; Ministers: <lb/> the Lord
 						show his power to discover the guilty. </p>
 					<p>Tell us who hurts these children. </p>
 					<p>I do not know. </p>
-<<<<<<< HEAD
-					<p>If you be guilty of this fact do you think you can hide it. </p>
-					<p>The Lord knows -- </p>
-					<p>Well tell us w't you know of this matter </p>
-					<p>Why I am a Gosple-woman, &amp; do you think I can have to do with
-						witchcraft too </p>
-					<p>How could you tell then that the Child was bid to observe what cloths
-						you wore when some came to <lb/> speak w'th you. </p>
-					<pb n="249"/><p>
-=======
 					<p>If you be guilty of this fact do you think you can <lb/> hide it. </p>
 					<p>The Lord knows -- </p>
 					<p>Well tell us w't you know of this matter </p>
@@ -15603,26 +15551,11 @@
 					<pb n="249"/>
 
 					<p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<name type="person" key="cheeze">Cheevers.</name>
 					</p>
 					<p>Interrupted her &amp; bid her not begin with a lye <lb/> &amp; so <name type="person" key="putedw">Edw'd Putman</name> declared the matter </p>
 					<p>
 						<name type="person" key="hawjoh">Mr Hath:</name>
-<<<<<<< HEAD
-					Who told you that </p>
-					<p>
-						<name type="person" key="cormar">K.</name> He said the child said </p>
-					<p>
-						<name type="person" key="cheeze">Cheev:</name> you speak falsly </p>
-					<p>Then <name type="person" key="putedw">Edw: Putman</name> read again </p>
-					<p>
-						<name type="person" key="hawjoh">Mr H.</name>
-					Why did you ask if the child told w't cloths you wore </p>
-					<p>My husband told me the others told </p>
-					<p>Who told you about the cloaths? Why did you ask that question. </p>
-					<p>Because I heard the children told w't cloaths the other wore </p>
-=======
 					</p>
 					<p>Who told you that </p>
 					<p>
@@ -15641,33 +15574,11 @@
 					<p>My husband told me the others told </p>
 					<p>Who told you about the cloaths? Why did you ask <lb/> that question. </p>
 					<p>Because I heard the children told w't cloaths the <lb/> other wore </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>
 						<name type="person" key="corgil">Goodm: Kory</name> did you tell her </p>
 					<p>The old man denyed that he told her so. </p>
 					<p>Did you not say your husband told you so </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="cormar">K.</name> -- 
-						<name type="person" key="hawjoh">H.</name> Who hurtes these children now look upon them. </p>
-					<p>
-						<name type="person" key="cormar">K.</name> I cannot help it </p>
-					<p>
-						<name type="person" key="hawjoh">H.</name> Did you not say you would tell the truth why you askt that question: how come you to the knowledge -- </p>
-					<p>I did but ask </p>
-					<p>You dare thus to lye in all this assembly You are now <lb/> before Authority,
-						I expect the truth, you promised it, <lb/> Speak now &amp; tell#[what
-						cloths] who told you what cloths </p>
-					<p>
-						<name type="person" key="cormar">K.</name> No body </p>
-					<p>
-						<name type="person" key="hawjoh">H.</name> How came you to know that the children would be examined what cloth you wore </p>
-					<p>Because I thought the child was wiser, than any body <lb/> if she knew </p>
-					<p>Give an answer you said your husband told you </p>
-					<p>He told me the children said I afflicted them </p>
-					<p>How do you know w't they came for, answer me this truly, </p>
-					<p>will you say how you came to know what they came for, </p>
-=======
 						<name type="person" key="cormar">K.</name>
 					</p>
 					<p> -- </p>
@@ -15703,50 +15614,32 @@
 					<p>How do you know w't they came for, answer me this <lb/> truly, </p>
 					<p># </p>
 					<p>will you say how you came to know what they came <lb/> for </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>I had heard speech that the children said I #[afflicted <lb/> them] troubled
 						them &amp; I thought that they might <lb/> come to examine </p>
 					<pb n="250"/>
 
 					<p>But how did you know it </p>
 					<p>I thought they did </p>
-<<<<<<< HEAD
-					<p>Did not you say you would tell the truth, who told you w't they came for </p>
-=======
 					<p>Did not you say you would tell the truth, who told <lb/> you w't they came
 						for </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>No body </p>
 					<p>How did you know </p>
 					<p>I did think so </p>
 					<p>But you said you knew so </p>
-<<<<<<< HEAD
-					<p>Child:</p>
-					<p>There is a man whispering in her ear, </p>
-					<p>H Q What did he say to you. </p>
-=======
 					<p>Child: <lb/> H Q </p>
 					<p>There is a man whispering in her ear, </p>
 					<p>What did he say to you. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>We must not beleive all that these distracted children <lb/> say </p>
 					<p>Cannot #[he tell] you tell what that man whispered </p>
 					<p>I saw no body </p>
 					<p>But did not you hear </p>
 					<p>No, here was Extream agony of all the afflicted </p>
-<<<<<<< HEAD
-					<p>If you expect mercy of God, you must look for it in Gods way by
-=======
 					<p>If you expect mercy of God, you must look for it in <lb/> Gods way by
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						confession </p>
 					<p>Do you think to find mercy by aggravating your sins </p>
 					<p>A true thing </p>
 					<p>Look for it then in Gods way </p>
-<<<<<<< HEAD
-=======
 					<p># </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>So I do </p>
 					<p>Give glory to God &amp; confess then </p>
 					<p>But I cannot confess </p>
@@ -15754,36 +15647,20 @@
 					<p>We must not beleive distracted persons </p>
 					<p>Who do you improve to hurt them </p>
 					<p>I improved none </p>
-<<<<<<< HEAD
-					<p>Did not you say our eyes were blinded you would open them </p>
-=======
 					<p>Did not you say our eyes were blinded you would <lb/> open them </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Yes to accuse the innocent </p>
 					<p>Then Crossly gave in evidence </p>
 					<p>Why cannot the girl stand before you </p>
 					<p>I do not know. </p>
 					<p>What did you mean by that </p>
 					<p>I saw them fall down </p>
-<<<<<<< HEAD
-					<p>It seems to be an insulting speech as if they could not stand before
-=======
 					<p>It seems to be an insulting speech as if they could <lb/> not stand before
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						you. </p>
 					<pb n="251"/>
 
 					<p>They cannot stand before others. </p>
 					<p>But you said they cannot stand before you </p>
 					<p>Tell me what was that turning upon the Spit by you </p>
-<<<<<<< HEAD
-					<p>You beleive the children that are distracted I saw no spit </p>
-					<p>Here are more than two that accuse you for witchcraft What do you say </p>
-					<p>I am innocent </p>
-					<p>Then <name type="person" key="hawjoh">mr Hathorn</name> read farther of
-						Croslys evidence </p>
-					<p>What did you mean by that the Devil could not stand before you </p>
-=======
 					<p>You beleive the Children that are distracted I saw no <lb/> spit </p>
 					<p>Here are more than two that accuse you for witchcraft </p>
 					<p>What do you say </p>
@@ -15791,7 +15668,6 @@
 					<p>Then <name type="person" key="hawjoh">mr Hathorn</name> read farther of
 						Croslys evidence </p>
 					<p>What did you mean by that the Devil could not stand <lb/> before you </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>She denyed it </p>
 					<p>3. or 4. Sober witnesses confirm'd it. </p>
 					<p>What can I do many rise up against me </p>
@@ -15799,21 +15675,6 @@
 					<p>So I would if I were guilty </p>
 					<p>Here are sober persons what do you say to them </p>
 					<p>You are a Gosple woman, will you lye </p>
-<<<<<<< HEAD
-					<p>Abigail cryed out next Sab: is sacrament day, but she shall not come
-						there </p>
-					<p>
-						<name type="person" key="cormar">Kory</name>
-					I do not care </p>
-					<p>You charge these children with distraction: it is a note of distraction
-						when persons vary in a minute, but <lb/> these fix upon you, this is not the
-						manner of distraction  -- </p>
-					<p>When all are against me w't can I help it </p>
-					<p>Now tell me the truth will you, why did you say that the Magistrates
-						&amp; Ministers eyes are blinded you would open them </p>
-					<p>She laught &amp; denyed it. </p>
-					<p>Now tell  us how we shall know </p>
-=======
 					<p>Abigail cryed out next Sab: is sacrament day, but she <lb/> shall not come
 						there </p>
 					<p>
@@ -15829,16 +15690,11 @@
 					<p>She laught &amp; denyed it. </p>
 					<p>
 						<hi rend="underline">Now tell </hi> us how we shall know </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Who doth hurt these if you do not </p>
 					<p>Can an innocent person be guilty </p>
 					<p>Do you deny these words </p>
 					<p>Yes </p>
-<<<<<<< HEAD
-					<p>Tell us who hurts these: We came to be a Terror to evil doers </p>
-=======
 					<p>Tell us who hurts these: We came to be a Terror to <lb/> evil doers </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>You say you would open our eyes we are blind </p>
 					<p>If you say I am a Witch </p>
 					<pb n="252"/>
@@ -15848,11 +15704,7 @@
 					<p>Why do you not now show us </p>
 					<p>I cannot tell: I do not know </p>
 					<p>What did you strike the maid at <name type="person" key="puttho">Mr Tho:
-<<<<<<< HEAD
-							Putmans</name> with. </p>
-=======
 							Putmans</name> with </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>I never struck her in my life </p>
 					<p>Here are two that see you strike her with an iron rod. </p>
 					<p>I had no hand in it </p>
@@ -15860,16 +15712,6 @@
 					<p>Do you beleive these children are <orig reg="bewitched">bewitcht</orig>
 					</p>
 					<p>They may for ought I know I have no hand in it. </p>
-<<<<<<< HEAD
-					<p>You say you are no Witch, may be you mean you never Covenanted with the
-						Devil. Did you never deal w'th any familiar </p>
-					<p>No never </p>
-					<p>What bird was that the children spoke of </p>
-					<p>Then witnesses, spoke </p>
-					<p>What bird was it. </p>
-					<p>I know no bird. </p>
-					<p>It may be: you have engaged you will not confess, but <lb/> God knows. </p>
-=======
 					<p>You say you are no Witch, may be you mean you <lb/> never Covenanted with the
 						Devil. Did you never deal <lb/> w'th any familiar </p>
 					<p>No never </p>
@@ -15878,28 +15720,18 @@
 					<p>What bird was it. </p>
 					<p>I know no bird. </p>
 					<p>It may be: you have engaged you will not confess. but <lb/> God knows. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>So he doth </p>
 					<p>Do you beleive you shall go unpunished </p>
 					<p>I have nothing to do w'th <orig reg="witchcraft">withcraft</orig>
 					</p>
-<<<<<<< HEAD
-					<p>Why was you not willing your husband should come to the former Session
-=======
 					<p>Why was you not willing your husband should come <lb/> to the former Session
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						here </p>
 					<p>But he came for all </p>
 					<p>Did not you take the Saddle off </p>
 					<p>I did not know what it was for </p>
 					<p>Did you not know w't it was for </p>
-<<<<<<< HEAD
-					<p>I did not know that it would be to any benefit</p>
-					<p>Some body said that she would not have them help to find out witches. </p>
-=======
 					<p>I did not know that it would be to any benefit <lb/> [illegible] </p>
 					<p>Some body said that she would not have them help to <lb/> find out witches. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Did you not say you would open our eyes why do <lb/> you not </p>
 					<p>I never thought of a Witch </p>
 					<p>Is it a laughing matter to see these afflicted persons </p>
@@ -15908,33 +15740,19 @@
 
 					<p>Severall prove it </p>
 					<p>Ye are all against me &amp; I cannot help it </p>
-<<<<<<< HEAD
-					<p>Do not you beleive there are Witches in the countrey </p>
-					<p>I do not know that there is any </p>
-					<p>Do not you know that <name type="person" key="tituba">Tituba</name> confessed
-						it </p>
-					<p>I did not hear  her speak </p>
-					<p>I find you will own nothing without severall witnesses &amp; yet you
-=======
 					<p>Do not you beleive there are Witches in the Countrey </p>
 					<p>I do not know that there is any </p>
 					<p>Do not you know that <name type="person" key="tituba">Tituba</name> Confessed
 						it </p>
 					<p>I did <hi rend="underline">not hear </hi> her speak </p>
 					<p>I find you will own nothing without severall witnesses <lb/> &amp; yet you
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						will deny for all </p>
 					<p>It was noted w'n she bit her lip severall of the <orig reg="afflicted">afflic- <lb/> ted </orig> were bitten </p>
 					<p>When she was urged upon it that she bit her lip saith <lb/> she what harm is
 						there in it. </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="noynic">Mr. Noyes</name> . I beleive it is apparent she 
-						practiseth Witchcraft in <lb/> the congregation
-=======
 						<name type="person" key="noynic">Mr. Noyes</name> . </p>
 					<p>I beleive it is apparent she practiseth Witchcraft in <lb/> the congregation
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						there is no need of images </p>
 					<p>What do you say to all these thing that are apparent </p>
 					<p>If you will all go hang me how can I help it. </p>
@@ -15944,35 +15762,21 @@
 					<p>When <name type="person" key="hawjoh">Mr Hathorn</name> askt her about it she
 						laught </p>
 					<p>When her hands were at liberty the afflicted persons <lb/> were pincht </p>
-<<<<<<< HEAD
-					<p>Why do not you tell how the Devil comes in your shape &amp; hurts
-=======
 					<p>Why do not you tell how the Devil comes in your <lb/> shape &amp; hurts
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						these; you said you would </p>
 					<p>How can I know how </p>
 					<p>Why did you say you would show us </p>
 					<p>She laught again </p>
 					<p>What book is that you would have these children <lb/> write in </p>
-<<<<<<< HEAD
-					<p>What book: where should I have a book I showed them none, nor have none
-						nor brought none. </p>
-					<p>The afflicted cryed out there was a man whispering in her ears. </p>
-=======
 					<p>What book: were should I have a book I showed them <lb/> none, nor have none
 						nor brought none. </p>
 					<p>The afflicted cryed out there was a man whispering in <lb/> her ears. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>What book did you carry to <name type="person" key="walmar">Mary
 							Walcott</name>
 					</p>
 					<p>I carryed none: if the Devil appears in my shape </p>
 					<p>Then <name type="person" key="needham">Needham</name> Said that Parker
-<<<<<<< HEAD
-						some time agoe thought this woman was a Witch </p>
-=======
 						<!-- Comment: --> some time agoe <lb/> thought this woman was a Witch </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Who is your God </p>
 					<p>The God that made me </p>
 					<pb n="254"/>
@@ -15980,43 +15784,22 @@
 					<p>Who is that God </p>
 					<p>The God that made me </p>
 					<p>What is his name </p>
-<<<<<<< HEAD
-					<p>Jehovah </p>
-					<p>Do you know any other name </p>
-					<p>God Almighty </p>
-					<p>Doth he tell you that you pray to that he is God Almighty </p>
-=======
 					<p>Jehova </p>
 					<p>Do you know any other name </p>
 					<p>God Almighty </p>
 					<p>Doth he tell you that you pray to that he is God </p>
 					<p>Almighty </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Who do I worship but the God that made [me] </p>
 					<p>How many Gods are there </p>
 					<p>One </p>
 					<p>How many persons </p>
 					<p>Theree </p>
-<<<<<<< HEAD
-					<p>Cannot you say so there is one God in three blessed persons </p>
-=======
 					<p>Cannot you say so there is one God in three blessed <lb/> persons </p>
 					<p>** (then she was troubled) </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Do not you see these children &amp; women are rational <lb/> &amp; sober as
 						their neighbours when your hands are <lb/> fastened Immediately they were
 						seized with <orig reg="fits">fitts</orig>
 						<lb/> &amp; the standers by </p>
-<<<<<<< HEAD
-					<p> [Lost] said she was
-						squeezing her fingers her hands being eased by them that held them on
-						purpose for triall <lb/> Quickly after the Marshall said she hath bit her
-						lip &amp; immediately the afflicted were in an uproar </p>
-					<p>[torn] you hurt these, or who doth </p>
-					<p>She denyeth any hand in it </p>
-					<p>Why did you say if you were a Witch you should have <lb/> no pardon. </p>
-					<p>Because I am a Woman </p>
-=======
 					<p>** [Partially illegible on account of fold in paper.] <lb/> said she was
 						squeezing her fingers her hands being <lb/> eased by them that held them on
 						purpose for triall <lb/> Quickly after the Marshall said she hath bit her
@@ -16025,7 +15808,6 @@
 					<p>She denyeth any hand in it </p>
 					<p>Why did you say if you were a Witch you should have <lb/> no pardon. </p>
 					<p>Because I am a [] Woman </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Salem Village <date value="1692-03-21" certainty="confirmed">March the 21't
 							1691/2 </date></p>
 					<p>The Rever't <name type="person" key="parsam">mr Sam'll parris</name> being
@@ -16043,15 +15825,9 @@
 							<lb/>
 							<name type="person" key="corjoh">*Jonathan. Corwin</name> &lcub; <lb/>
 							Assis'ts </signed>
-<<<<<<< HEAD
-						<seg>(Reverse) <name type="person" key="cormar">Martha Kory</name> Exammaion </seg>
-						<seg>
-							<ref>( <hi rend="italics">Essex Institute. Collection, no. 1. James Duncan Phillips Library, Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 						<seg>(Reverse) <name type="person" key="cormar">Martha Kory</name> Exam </seg>
 						<seg>
 							<ref>( <hi rend="italics">Essex Institute MSS. Collection </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -17337,16 +17113,6 @@
 						her to <lb/> afflict persons but she could not tell their names that she
 						first <lb/> afflicted: Q who came w'th the devil when he made you a witch
 						<lb/> A: a ragged girl: they came to gether and they perswaded me to <lb/>
-<<<<<<< HEAD
-						afflict: &amp; I afflicte Mary Warin &amp; an other fayr face: it is abo't a
-						<lb/> quarter of a year agoe: I did it by sticking of pins. but did you
-						afflict <lb/> Swan: yes but I am sorry for it: Q where had you your spear A
-						I <lb/> had nothing but an all [=awl] but was it with yo'r body or spirit you came
-						<lb/> to hurt these mayds: A with my spirit: Q but can you ask them <lb/>
-						forgivnes: A: I wil fall down on my knees: to ask it: of them: She <lb/>
-						would not own: that she signd the devils book when he askd her <lb/> body
-						&amp; soul: but he would have had her done it nor. to a burch <lb/> Rign [rind]:
-=======
 						afflict: &amp; I afflicte mary warin &amp; an other fayr face: it is abo't a
 						<lb/> quarter of a year agoe: I did it by sticking of pins. but did you
 						afflict <lb/> Swan: yes but I am sorry for it: Q where had you your spear A
@@ -17355,34 +17121,21 @@
 						forgivnes: A: I wil fall down on my knees: to ask it: of them: She <lb/>
 						would not own: that she signd the devils book when he askd her <lb/> body
 						&amp; soul: but he would have had her done it nor. to a burch <lb/> Rign:
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						nor nothing: she s'd the devil was in the Shape of a hors <lb/> when: he
 						caried her to afflict: but would not own any body went <lb/> with her to
 						afflict but the afflicted s'd her son Dan'll went with her: <lb/> to
 						afflict: </p>
-<<<<<<< HEAD
-					<p>Q did you not say: the devil babtized yo'r son daniell<!-- Comment: -->. A he
-=======
 					<p>Q did you not say: the Devil babtized yo'r son Daniell<!-- Comment: -->. A he
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						told <lb/> me so: but: did you not touch the book nor lay yo'r hand on book
 						<lb/> nor paper: A I layd my hand on nothing without it was a peice of <lb/>
 						board: and did you lay yo'r hand on the board when he bid you. A <lb/> yes:
 							<name type="person" key="lacmar1">mary Lascy:</name> s'd she had given
 						her son Dan'll to the devil; at <lb/> 2 years old: &amp; that her <orig reg="apparition">aperition</orig> told her so: but: she could not <lb/>
-<<<<<<< HEAD
-						remember it: she was bid to take Warin &amp; lascy by the hand &amp; beg
-						<lb/> forgivnes &amp; did so: &amp; they forgave her. she s'd if she had
-						given <lb/> her son Dan'll to the devil it was in an Angry <orig reg="fit">fitt</orig> she did not know <lb/> but she might do it nor I do not
-						know he is a wich but I am afrayd <lb/> he is: Mary lascy saw her son Dan'll
-						stand before her &amp; s'd Dan'll<lb/> bid his mother not
-=======
 						remember it: she was bid to take warin &amp; lasy by the hand &amp; beg
 						<lb/> forgivnes &amp; did so: &amp; they forgave her. she s'd if she had
 						given <lb/> her son Dan'll to the devil it was in an Angry <orig reg="fit">fitt</orig> she did not know <lb/> but she might do it nor I do not
 						know he is a wich but I am afrayd <lb/> he is: mary lascy saw her son Dan'll
 						stand before her &amp; s'd Dan'll <!-- Comment: --><lb/> bid his mother not
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						confess he was a <orig reg="Witch">Wich</orig>: his mother: did not know
 						<lb/> she s'd but: she might se him for she saw a burlling: thing before
 						<lb/> her: <name type="person" key="lacmar1">Mary lascy</name> s'd she had
@@ -17393,11 +17146,7 @@
 						she had bin long a witch: then <lb/> if she gave her son to the devil at 2
 						years old she owned she had <lb/> bin discontented since she had bin in
 						league: with the devil: she <lb/> knew not but the devil might come once a
-<<<<<<< HEAD
-						day: lik a mous: or ratt: <lb/> she s'd she knew <name type="person" key="parsar">Sarah Parker</name> but did not know her to be a wich: <lb/>
-=======
 						day: lik a mous: or ratt: <lb/> she s'd she knew <name type="person" key="parsar">Sarah parker</name> but did not know her to be a wich: <lb/>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<pb n="281"/> but she heard she had bin crosd in love &amp; the devil had
 						come to her <lb/> &amp; kisd her who was with you when you afflicted <name type="person" key="swatim">Swan:</name> A. no body <lb/> but my son
 						Dan'll he was there when I came: theether: she would <lb/> have Dan'll
@@ -17405,23 +17154,6 @@
 							<lb/> wade </orig> him becaus she knew him to be a wich: she was askt if
 						she was <lb/> at the execution: she was at the hous below: the hill: she saw
 						a few <lb/> folk: the woman of the hous had a pin stuck into her foot: but:
-<<<<<<< HEAD
-						<lb/> she s'd she did not doe it: but how do you afflict:<lb/> A I Consent to
-						<lb/> it: but have you bin a wich 26 years: A no I can remember but 7: <lb/>
-						years &amp; have afflicted: about a quarter of a year: but: if you have
-						<lb/> bin a wich so long: why did you not afflict before seing you <orig reg="promised">pro- <lb/> mised </orig> to serv the devil A: others: did
-						not Afflict before: and the <lb/> devil: did not require it: <lb/> but: doth not
-						the devil threaten: #[to <lb/> tare] you #[in peices:] if you not do what he
-						ses: A yes he thretens <lb/> to tere me in peices but did you use: to goe to
-						meeting on sabath <lb/> dayes: yes: but not so often as I should have done:
-						what shape did <lb/> the devil Com in when you layd yo'r hand on the board: <lb/>
-						A. I can- <lb/> not tell except it was a mous
-						#[or rat] </p>
-					<p>
-						<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 2,
-							no. 25. Massachusetts Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA</hi>) </ref>
-=======
 						<lb/> she s'd she did not doe it: but how do you afflict: A I Consent to
 						<lb/> it: but have you bin a wich 26 years: A no I can remember but 7: <lb/>
 						years &amp; have afflicted: about a quarter of a year: but: if you have
@@ -17436,7 +17168,6 @@
 					<p>
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 2
 								Page 25 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n44.3" type="examination">
@@ -17452,22 +17183,13 @@
 						<name type="person" key="eamreb">Rebeca Eames</name> further acknowledgeth
 						&amp; declareth that she was <lb/> baptized aboute three years agoe in five
 						Mile pond and that her <lb/> son Daniell was also then baptized by the <orig reg="Devil">Divell</orig>, and that her son <lb/> Daniell hath benne a
-<<<<<<< HEAD
-						Wizard aboute thurteene Yeares and that <lb/> Toothaker
-						Widow, and <name type="person" key="fauabi">Abigail
-=======
 						Wizard aboute thurteene Yeares and that [] <lb/> Toothaker
 						Widow<!-- Comment: -->, and <name type="person" key="fauabi">Abigail
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							faulkner</name> are both Witches and that <lb/> her son and both them
 						have benne in Company with her in <orig reg="Andover">Ando- <lb/> ver </orig>
 						<orig reg="afflicting">afflicteing</orig> of <name type="person" key="swatim">Timothy Swan</name> and further Confirmes what she <lb/>
 						formerly acknowledged (viz) that she hath benne a <orig reg="witch">wicth</orig> this 26 <lb/> years and that the <orig reg="Devil">Divell</orig> then appeared to her in the likeness of a <lb/> black man
-<<<<<<< HEAD
-						and she then gave herselfe she sayth soul and body to <lb/> the <orig reg="Devil">Divell</orig> and promised to searve &amp; obey him and Keepe
-=======
 						and she then gave herselfe she sayth soul and body to <lb/> the <orig reg="Devil">Divell</orig> and promised to sarve &amp; obey him and Keepe
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						his ways <lb/> and further declares that she did Then at that tyme signe to
 						a paper <lb/> the <orig reg="Devil">Divell</orig> then had that she would
 						soe doe and sayth she made a <lb/>
@@ -17476,13 +17198,9 @@
 						<lb/> that she tooke a Rope to hang herselfe and a Razer to cutt her throate
 						<lb/> by Reason of her great sin in Committing adultery &amp; by that the <lb/>
 						<orig reg="Devil">Divell</orig> Gained her he promiseing she should not be
-<<<<<<< HEAD
-						brought out or <lb/> ever discovered. the abovesaid Confession is the truth as wittnese my
-=======
 						brought out or <lb/> ever discovered. </p>
 					<closer>
 						<dateline>the abovesaid <lb/> Confession is the <lb/> truth as wittnese my
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							hand </dateline>
 						<lb/>
 						<signed>
@@ -17493,28 +17211,15 @@
 							<name type="person" key="eamreb">Rebecka Emes</name>
 							<figure entity="BS10282b"/>
 							<figure entity="BS10282c"/>
-<<<<<<< HEAD
-							<lb/> Exa <date value="1692-08-31">31 August
-=======
 							<lb/> Exa <date value="1692-08-31" certainty="unconfirmed">31 August
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 								92</date> Salem, </seg>
 						<seg>
 							<name type="person" key="eamreb">Rebecka. Emes.</name> signed &amp;
 							owned the abovesaid Conffesion to be the <lb/> truth before me <name type="person" key="higjoh">*John Higginson</name> Justice of peace.
-<<<<<<< HEAD
-								<date value="1692-09-15" certainty="confirmed"><lb/>15 Sep't 1692</date>
-						</seg>
-						<p>Wm Rayment</p>
-						<seg>
-							<ref>( <hi rend="italics">Essex Institute Collection, no. 29. James Duncan Phillips Library,
-							Peabody Essex Institute, MA.</hi>) </ref>
-=======
 								<date value="1692-09-15" certainty="confirmed">15 Sep't 1692</date>
 						</seg>
 						<seg>
 							<ref>( <hi rend="italics">Essex Institute -- Fowler Papers </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -17737,22 +17442,14 @@
 					</closer>
 				</div2>
 				<div2 id="n45.3" type="examination">
-<<<<<<< HEAD
-					<head>(Examination of <name type="person" key="easmar">Mary Easty</name>) </head>
-=======
 					<head>(Examination of <name type="person" key="easmar">Mary Easty</name> ) </head>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<figure n="ecca1281r"/>
 					<figure n="ecca1281v"/>
 					<p>The Examination of <name type="person" key="easmar">Mary Eastie</name> . </p>
 					<p>At a Court held at Salem village <date value="1692-04-22" certainty="confirmed">22. Apr. <hi rend="italics">1692 </hi>
 						</date>
 					</p>
-<<<<<<< HEAD
-					<p>By the Wop.[= worshipful] <name type="person" key="hawjoh">John Hathorne</name> &amp; <name type="person" key="corjoh">Jonathan Corwin.</name>
-=======
 					<p>By the Hon. <name type="person" key="hawjoh">John Hathorne</name> &amp; <name type="person" key="corjoh">Jonathan Corwin.</name>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 					<p>At the bringing in of the the accused severall fell into fits. </p>
 					<p>Doth this woman hurt you? </p>
@@ -17773,19 +17470,11 @@
 					<p>How can you say you know nothing, when you see these <orig reg="tormented">tor- <lb/> mented </orig>, &amp; accuse you that you know nothing? </p>
 					<p>Would you have me accuse my self? </p>
 					<p>Yes if you be guilty. </p>
-<<<<<<< HEAD
-					<p>How far have you complyed w'th Satan, whereby he takes this <lb/> advantage
-						ag't you? </p>
-					<pb n="289"/>
-
-					<p>Sir, I never complyed but prayed against him all my dayes. I <lb/> have no
-=======
 					<p>How far have you complyed w'th Satan whereby he takes this <lb/> advantage
 						ag't you? </p>
 					<pb n="289"/>
 
 					<p>Sir, I never complyed but prayed against him all my dayes, I <lb/> have no
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						complyance with Satan, in this. What would you have <lb/> me do? </p>
 					<p>Confess if you be guilty. </p>
 					<p>I will say it, if it was my last time, I am clear of this sin. </p>
@@ -17816,20 +17505,12 @@
 						out, did you think it was Witchcraft? </p>
 					<p>I cannot tell. </p>
 					<p>Why do you not think it is Witchcraft? </p>
-<<<<<<< HEAD
-					<p>It is an evil spirit, but wither it be Witchcraft I do not know, <lb/>
-=======
 					<p>It is an evil spirit, but wither it be witchcraft I do not know, <lb/>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Severall said she brought them the Book &amp; then they fell into fits. </p>
 					<p>Salem Village <date value="1692-03-24" certainty="unconfirmed">March 24'th.
 							1691/2</date>. </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="parsam">Mr Sam'l Parris</name> being desired to
-=======
 						<name type="person" key="parsam">Mr Sam'l parris</name> being desired to
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						take in wrighting the <orig reg="Examination">Examina- <lb/> tion </orig> of
 							<name type="person" key="easmar">Mary Eastie</name> hath delivered itt
 						as aforesaid </p>
@@ -17841,21 +17522,6 @@
 						s'd. <name type="person" key="easmar">Mary Easte</name> to theire Majest's
 						Goale </p>
 					<closer>
-<<<<<<< HEAD
-					
-							<name type="person" key="hawjoh">*John Hathorne</name>
-							<lb/>
-							<name type="person" key="corjoh">*Jonathan. Corwin</name><lb/>
-							Assists
-						<seg>(Reverse) The Examination of <name type="person" key="easmar">Mary
-								Eastie</name>
-							<date value="1692-04-22" certainty="confirmed">22. Apr. <hi>1692 </hi></date>
-						</seg>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft
-								Vol. 1. no. 281. Massachusetts Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-								Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 						<signed>
 							<name type="person" key="hawjoh">*John Hathorne</name>
 							<lb/>
@@ -17868,7 +17534,6 @@
 						<seg>
 							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 1. Page 120 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -18862,61 +18527,6 @@
 					<figure n="S041r"/>
 					<figure n="S041v"/>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="ememar">Martha Emorson</name> was examined before
-							<name type="person" key="gidbar">Maj'r Gedney</name> &amp; other their
-						<lb/> Majest'es Justices in Salem <date value="1692-07-23" certainty="unconfirmed">July 23: 1692 </date>. </p>
-					<p>
-						<name type="person" key="ememar">Martha Emorson</name> you are here accused
-						for afflicting: of <name type="person" key="warmar">Mary Warin</name>
-						<lb/> &amp; <name type="person" key="lacmar1">Mary Lascy:</name> by
-						witchcraft: what say you: Answer: I never saw <lb/> them. <lb/>
-						<name type="person" key="carric2">Richard Carrier:</name> s'd he see her hurt
-						them both yester day, <lb/> but he had never seen her at the witch meeting:
-						but <name type="person" key="lacmar1">Mary lascy</name>
-						<lb/> sen'r s'd that she had seen both <name type="person" key="ememar">Martha Emorson</name> &amp; her mother at <lb/> the witch meeting.
-							<name type="person" key="warmar">Mary Warin</name> &amp; <name type="person" key="lacmar1">Mary Lacy</name> [#were] fell down when s'd <lb/>
-						<name type="person" key="ememar">Martha Emorson</name> looked on them: &amp;
-							<name type="person" key="lacmar1">Mary Lasy</name> was presently well
-						<lb/> when s'd <name type="person" key="ememar">Emorson</name> took her by
-						the wrist: two more also fell down <lb/> with her looking on them: but: she
-						denyed that she knew anything <lb/> of witchcraft. </p>
-					<p><name type="person" key="warmar">Mary Warin</name> s'd that s'd <name type="person" key="ememar">Emersons</name>
-						<orig reg="specter">spectre</orig> told her: that: she had rid <lb/> a man
-						with an inchanted bridle: &amp; <name type="person" key="hermat">Matthew
-							Herriman:</name> was called: <lb/> to say whether he had bin ridden: so
-						or no: who answered. that last <lb/> monday night: he was in a strange
-						condision: and heard it rain <lb/> &amp; blow: as I thought: but in the
-						morning there had bin no rain: but <lb/> in the morning my tongue was sore
-						&amp; I could not speak till son [sun?] two <lb/> hours high: &amp; <name type="person" key="ememar">Martha Emorson</name> came to our house that
-						morning: as <lb/> soon as it was light for fire: <name type="person" key="warmar">Mary: Warin</name> being in a long dumb <orig reg="fit">fitt</orig>; <lb/> signified by holding up her hand that this <name type="person" key="hermat">Harriman</name> was the man <lb/> that she
-						s'd <name type="person" key="ememar">Emerson</name> s'd she had ridden: but
-							<name type="person" key="ememar">Emerson</name> s'd she knew <lb/>
-						nothing of it <lb/>
-						<name type="person" key="ememar">Emerson</name> was told: that
-						her father: had s'd: he had <lb/> tought his Daughter
-						Martha so that she had killed a witch: and: <lb/> that was
-						to take the afflicted persons water &amp; put in in a glass or <lb/> bottle:
-						&amp; sett it into an oven: <name type="person" key="ememar">Emorson</name>
-						owned she had stopt a <lb/> womans urin: in a glass. <name type="person" key="ememar">Emerson</name> was asked: who hindred her <lb/> from
-						confessing she answered that her <name type="person" key="carmar1">Aunt
-							Carrier</name> &amp; <name type="person" key="gremar">good wife <lb/>
-							Green</name> of Haverill: were before her: <name type="person" key="gremar">good wife Green:</name> was angry <lb/> with her: because
-						she would not be like her selfe for <name type="person" key="gremar">Green</name> had <lb/> Inticed her a fortnight: to afflict &amp; she
-						would not: she s'd <name type="person" key="gremar">Greens <lb/> wife</name>
-						would have her be of: that number: she was asked what <orig reg="Number">Num- <lb/> ber </orig>: she s'd the number of devils: She complaynd:
-						that: <name type="person" key="gremar">greens wife</name>
-						<lb/> &amp; her <name type="person" key="carmar1">Aunt Carrier:</name> took
-						her by the throat: &amp; that they would not <lb/> lett her Confess. She s'd
-							<name type="person" key="gremar">Greens wife</name> had a pigg that use
-						to follo <lb/> her: but after ward she denyed all. &amp; s'd: what she had
-						s'd was in <lb/>
-						<pb n="309"/> hopes to have favour: &amp; now she could not deny god: that
-						had keept <lb/> her from that sin: &amp; after s'd though he slay me I will
-						trust in him. </p>
-					<p>(Reverse) Mar. Emerson Exam'ns<lb/>
-						<name type="person" key="warmar">Mary Warran</name> Owned before
-=======
 						<name type="person" key="ememar">Martha Emerson</name> was examined before
 							<name type="person" key="gidbar">Maj'r Gedney</name> &amp; other their
 						<lb/> Majest'es Justices in Salem <date value="1692-07-23" certainty="unconfirmed">July 23, 1692 </date>. </p>
@@ -18967,7 +18577,6 @@
 						had keept <lb/> her from that sin: &amp; after s'd though he slay me I will
 						trust in him. </p>
 					<p>(Reverse) <name type="person" key="warmar">Mary Warran</name> Owned before
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						the Grand jury <date value="1692-01-10" certainty="unconfirmed">Jan'y 10th
 							<lb/> 1692</date> that <name type="person" key="ememar">Martha
 							Emerson</name> had afflicted her severall times before <lb/> &amp; at
@@ -18976,11 +18585,7 @@
 						<signed>Attests <lb/>
 							<name type="person" key="payrob">*Robert Payne</name> foreman: </signed>
 						<seg>
-<<<<<<< HEAD
-							<ref>( <hi rend="italics">Suffolk Court Records Case No. 2708 Page 32
-=======
 							<ref>( <hi rend="italics">Suffolk Court Records Case No. 2708 Page 31
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 								</hi>) </ref>
 						</seg>
 					</closer>
@@ -21581,16 +21186,6 @@
 						in the County of Essex personally appeared before us, and made Complaint on
 						Behalfe of theire Majests against <name type="person" key="goosar">Sarah
 							Good</name> the wife of <name type="person" key="goosar">William
-<<<<<<< HEAD
-							Good</name> of Salem Village aboves'd, for suspition of Witchcraft by her
-						Committed, and thereby much Injury donne to <name type="person" key="pareli">Eliz parris</name>, <name type="person" key="wilabi">Abigail
-							Williams</name>
-						<name type="person" key="putann2">Anna putnam</name> and <name type="person" key="hubeli">Elizabeth Hubert</name> all of Salem Village afores'd
-						Sundry times within this two moneths and Lately. also don, at Salem village
-						Contrary to the peace of our Sover'n L'd and Lady W'm &amp; mary King &amp;
-						Queen of Engld &amp;c -- You are therefore in theire Majesties names hereby
-						required to apprehend &amp; bring before us the said <name type="person" key="goosar">Sarah Good</name> , to morrow aboute ten of the Clock in
-=======
 							Good</name> of Salem Village aboves'd for suspition of Witchcraft by her
 						Committed, and thereby much Injury donne to <name type="person" key="pareli">Eliz parris</name>, <name type="person" key="wilabi">Abigail
 							Williams</name>
@@ -21599,7 +21194,6 @@
 						Contrary to the peace of our Sover'n L'd and Lady W'm &amp; mary King &amp;
 						Queen of Engld &amp;c -- You are therefore in theire Majesties names hereby
 						required to apprehe'd &amp; bring before us the said <name type="person" key="goosar">Sarah Good</name> , to morrow aboute ten of the clock in
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						the forenoon at the house of <name type="person" key="ingnat">L't Nathaniell
 							Ingersalls</name> in Salem Village.or as soon as may be then &amp; there
 						to be Examined Relateing to the aboves'd premises and hereof you are not to
@@ -21611,17 +21205,6 @@
 						<name type="person" key="corjoh">*Jonathan.Corwin</name> &rsqb; Assists. </p>
 					<p>To <name type="person" key="locgeo">Constable George Locker</name>
 					</p>
-<<<<<<< HEAD
-					
-				</div2>
-				<pb n="356"/>
-				<div2 id="n63.2" type="section">
-					<p>(Reverse)
-					<figure n="ecca1004v"/>
-					I brought the person of <name type="person" key="goosar">Saragh Good</name>
-						the wife of <name type="person" key="goowil">william Good</name> according
-						to the tenor of the within warrant as is Atest by me <date value="1692-03-01" certainty="confirmed">1.March. 1691/2 </date>
-=======
 					<p>(O. R.) </p>
 				</div2>
 				<pb n="356"/>
@@ -21631,20 +21214,13 @@
 					<p>I brought the person of <name type="person" key="goosar">Saragh Good</name>
 						the wife of <name type="person" key="goowil">william Good</name> according
 						to the tenor of the within warrant as is Attest by me <date value="1692-03-01" certainty="confirmed">1.March. 1691/2 </date>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 					<p>
 						<name type="person" key="locgeo">*George Locker Constable</name>
 					</p>
 					<p>
-<<<<<<< HEAD
-						<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 1
-							no. 4. Massachusetts Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 2 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n63.3" type="examination">
@@ -21674,11 +21250,7 @@
 					<p>(g) no </p>
 					<p>(H) desired the children all of them to look upon her, and see, if this were
 						the person that had hurt them and so they all did looke upon her and said
-<<<<<<< HEAD
-						this was one of the persons that did torment them. presently they were all
-=======
 						this was one of the persons that did torment them -- presently they were all
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						tormented. </p>
 					<p>(H) <name type="person" key="goosar">Sarah good</name> doe you not see now
 						what you have done why doe you not tell us the truth, why doe you thus
@@ -21707,23 +21279,14 @@
 					<p>(H) what psalm </p>
 					<p>(g) after a long time shee muttered over some part of a psalm </p>
 					<p>(H) who doe you serve </p>
-<<<<<<< HEAD
-					<p>(g) I serve God </p>
-					<p>(H) what God doe you serve </p>
-=======
 					<p>(g) I serve god </p>
 					<p>(H) what god doe you serve </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>(g) the god that made heaven and earth though shee was not willing to mention
 						the word God her answers were in a very wicked, spitfull manner reflecting
 						and retorting aganst the authority with base and abusive words and many lies
 						shee was taken in.it was here said that her housband had said that he was
 						afraid that shee either was a witch or would be one very quickly the worsh
-<<<<<<< HEAD
-							<name type="person" key="harjoh">mr Harthon</name> asked him his #[Re] reason
-=======
 							<name type="person" key="harjoh">mr Harthon</name> asked him his reason
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						why he said so of her whether he had ever seen any thing by her he answered
 						no not in this nature but it was her bad carriage to him and indeed said he
 						I may say with tears that shee is an enimy to all good. </p>
@@ -21738,18 +21301,9 @@
 							<date value="1692-03-01" certainty="confirmed">March the 1t 1691/2)
 							</date>
 						</dateline>
-<<<<<<< HEAD
-						<p>(Reverse) Sarah Goods Examination</p>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Court Archives,  Witchcraft
-								Vol. 1 Page 11. Massachusetts Supreme Juducial Court Archives, on deposit 
-								James Duncan Phillips Library,
-								Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 						<seg>
 							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 1 Page 6 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -21762,21 +21316,6 @@
 					<p>
 						<name type="person" key="goosar">Sarah Good</name> the wife of <name type="person" key="goosar">Wm Good</name> of Salem Village Labourer
 						Brought before us:by <name type="person" key="locgeo">George Locker</name>
-<<<<<<< HEAD
-						Constable in Salem, to Answer <name type="person" key="hutjos">#[mr] Joseph
-							Hutcheson</name>
-						<name type="person" key="puttho">Thomas Putnam</name> &amp;c of Salem
-						Village yeomen (Complainants on behalfe of theire Majesties) against s'd
-							<name type="person" key="goosar">Sarah Good</name> for suspition of
-						Witchcraft by her Committed and thereby much Injury don to the Body of
-							<name type="person" key="pareli">Elizabeth parris</name>
-						<name type="person" key="wilabi">Abigaile Williams</name>
-						<name type="person" key="putann">Anna putnam</name> &amp; <name type="person" key="hubeli">Elizabeth Hubert</name> all of Salem Village
-						afore'd according to theire Complaints as p'r warrants.
-					Dated Salem <date value="1692-03-29" certainty="questionable">March 29th,
-							1691/2</date></p>
-						<p> <name type="person" key="goosar">Sarah Good</name> upon Examination denyed
-=======
 						Constable in Salem, to Answer <name type="person" key="hutjos">Joseph
 							Hutcheson</name>
 						<name type="person" key="puttho">Thomas putnam</name> &amp;c of Salem
@@ -21792,31 +21331,12 @@
 					</p>
 					<p>
 						<name type="person" key="goosar">Sarah Good</name> upon Examination denyed
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						the matter of fact (viz) that she ever used any witchcraft; or hurt the
 						abovesaid Children or any of them, </p>
 					<p>The above named Children being all present positively accused her of hurting
 						of them Sundry times within this two moneths and also that morneing </p>
 					<p>
 						<name type="person" key="goosar">Sarah Good</name> denyed that she had
-<<<<<<< HEAD
-						been:at theire houses in s'd tyme, neere them, or had don them any hurt</p>
-					
-						<p> all the abovesaid children then presente accused her face to face, upon which
-						they ware all dredfully <orig reg="tortured">tortred</orig> &amp; tormented
-						for a short space of tyme, and the affliction and torters being over they
-						charged s'd <name type="person" key="goosar">Sarah Good</name> againe. that
-						she had then soe tortered them, and came to them and.did itt. althow she was
-						personally then Keept at a Considerable distance from them
-						<name type="person" key="goosar">Sarah Good</name> being Asked if that she
-						did not then hurt them; who did it, And the children being againe tortered,
-						she looked upon them, And Said that it was one of them Wee brought into the
-						house with us, Wee #[Answered] Asked her who it was, shee then Answered and Said it was
-							<name type="person" key="osbsar">Sarah Osnorne</name> , and  <name type="person" key="osbsar">Sarah Osburne</name> was then under Custody
-						&amp; not in the house; -- And the children being quickley after recovered
-						out of there <orig reg="fit">fitt</orig> sayd. that itt was <name type="person" key="goosar">Sarah Good</name> and also <name type="person" key="osbsar">Sarah Osnorne</name> that then did hurt &amp;
-						torment or <orig reg="afflict">aflict</orig> them. althow both of them at
-=======
 						been:at theire houses in s'd tyme, neere them, or had don them any hurt all
 						the abovesaid children then presente accused her face to face, upon which
 						they ware all dredfully <orig reg="tortured">tortred</orig> &amp; tormented
@@ -21833,7 +21353,6 @@
 						&amp; not in the house; -- And the children being quickley after recovered
 						out of there <orig reg="fit">fitt</orig> sayd. that itt was <name type="person" key="osbsar">Sarah Osburne</name> that then did hurt &amp;
 						torment or <orig reg="afflict">aflict</orig> them -- althow both of them at
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						the same time at adistance or Remote from them personally; -- their ware
 						also sundry <pb n="359"/> other Questions put to her &amp; Answers given
 						thereunto by her. according as is also given in. </p>
@@ -21843,14 +21362,8 @@
 					<p>
 						<name type="person" key="corjoh">Jonathan. Corwin</name> &rsqb; Assists.</p>
 					<p>
-<<<<<<< HEAD
-						<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 1
-							Page 14. Massachusetts Supreme Juducial Court Archives, on deposit 
-							James Duncan Phillips Library, Peabody Essex Museum, Salem, MA </hi>) </ref>
-=======
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 7 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n63.5" type="mittimus">
@@ -21884,11 +21397,7 @@
 					<closer>
 						<dateline>
 							<name type="place">Dated Boston </name>
-<<<<<<< HEAD
-							<date value="1692-05-25" certainty="confirmed">May the 25t 1692 </date>
-=======
 							<date value="1692-05-24" certainty="confirmed">May the 24t 1692 </date>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</dateline>
 						<seg>
 							<name type="person" key="hawjoh">*John Hathorne</name> &rsqb; Assists. </seg>
@@ -21934,19 +21443,9 @@
 						<seg>
 							<name type="person" key="patric">Richard Patch</name>
 						</seg>
-<<<<<<< HEAD
-						<p> (Reverse) Sarah Good</p>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft
-								Vol. 1 Page 7 Essex County Court Archives,
-						 Massachusetts Supreme Juducial Court Archives, on deposit 
-								James Duncan Phillips Library,
-								Peabody Essex Museum, Salem, MA</hi>) </ref>
-=======
 						<seg>
 							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 1 Page 3 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -24226,21 +23725,12 @@
 						The Examination of <name type="person" key="hobabi">Abigail Hobbs</name>, at Salem Village, <date value="1692-04-19" certainty="confirmed">19 April, 1692, </date> by
 							<name type="person" key="hawjoh">John Hawthorn</name> and <name type="person" key="corjoh">Jonath. Corwin</name>, Esqs., and Assistants. </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="hobabi">Abig. Hobbs</name>. you are brought before
-						Authority to answere to sundry acts of witchcraft, committed by you against
-						and upon the bodies of many, of which severall persons now accuse you. What
-						say you? Are you guilty, or not? Speak the truth. </p>
-					<p>I will speak the truth. I have seen sights &amp; been scared. I have been very
-						wicked. I hope I shall be better, [if] God will help me. </p>
-=======
 						<name type="person" key="hobabi">Abig. Hobbs</name> . you are brought before
 						Authority to answere to sundry acts of witchcraft, committed by you against
 						and upon the bodies of many, of which severall persons now accuse you. What
 						say you? Are you guilty, or not? Speak the truth. </p>
 					<p>I will speak the truth. I have seen sights and been scared. I have been very
 						wicked. I hope I shall be better, if God will help me. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>What sights did you see? </p>
 					<p>I have seen dogs and many creatures. </p>
 					<p>What dogs do you mean, ordinary dogs? </p>
@@ -24258,37 +23748,18 @@
 					<p>In the night or in the day? </p>
 					<p>In the day. </p>
 					<p>How long agoe? </p>
-<<<<<<< HEAD
-					<p>About 3. or 4 years agoe. </p>
-=======
 					<p>About 3 or 4 years agoe. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>What did he say to you? </p>
 					<pb n="406"/>
 					<p> </p>
 					<p>He said he would give me fine things, if I did what he would have me. </p>
 					<p>What would he have you do? </p>
 					<p>Why, he would have me be a witch. </p>
-<<<<<<< HEAD
-					<p>Would he have you make a Covenant w'th him? </p>
-=======
 					<p>Would he have you make a covenant w'th him? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Yes. </p>
 					<p>And did you make a covenant with him? </p>
 					<p>Yes, I did, but I hope God will forgive me. </p>
 					<p>The Lord give you Repentance. </p>
-<<<<<<< HEAD
-					<p>You say you saw dogs, &amp; many sorts of creatures. </p>
-					<p>I saw them at that time. </p>
-					<p>But have you not seen them at other times too? </p>
-					<p>Yes. </p>
-					<p>Where? </p>
-					<p>At our house. </p>
-					<p>What #[who] were they like? </p>
-					<p>Like a Cat. </p>
-					<p>What would the Cat have you do? </p>
-=======
 					<p>You say you saw dogs, and many sorts of creatures. </p>
 					<p>I saw them at that time. </p>
 					<p>But have you not seen them at other times too? </p>
@@ -24298,18 +23769,12 @@
 					<p>What were they like? </p>
 					<p>Like a cat. </p>
 					<p>What would the cat have you do? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>She had a book and would have me put my hand to it. </p>
 					<p>And did you? </p>
 					<p>No, I did not. </p>
 					<p>Well, tell the truth, did you at any other time? </p>
-<<<<<<< HEAD
-					<p>Yes I did, that time at the Eastward. </p>
-					<p>What other Creatures did you see? </p>
-=======
 					<p>Yes, I did, that time at the Eastward. </p>
 					<p>What other creatures did you see? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>I saw things like men. </p>
 					<p>What did they say to you? </p>
 					<p>Why they said I had better put my hand to the Book. </p>
@@ -24321,11 +23786,7 @@
 					<p>They would have me make a bargain for so long, and do what they would have me
 						do. </p>
 					<p>For how long? </p>
-<<<<<<< HEAD
-					<p>Not for above 2. or 3. years. </p>
-=======
 					<p>Not for above 2 or 3 years. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>How long did they agree with you for? </p>
 					<p>But for (2) two years. </p>
 					<pb n="407"/>
@@ -24337,11 +23798,7 @@
 					<p>When you set your hand the last time to book, how long was that for? </p>
 					<p>It was for (4) years. </p>
 					<p>How long is that agoe? </p>
-<<<<<<< HEAD
-					<p>It is almost 4. years. The book was brought to me to get my hand to it for .4.
-=======
 					<p>It is almost 4 years. The book was brought to me to get my hand to it for 4
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						years, but I never put my hand but that once at Eastward. </p>
 					<p>Are you not bid to hurt folks? </p>
 					<p>Yes. </p>
@@ -24353,11 +23810,7 @@
 					<p>No. </p>
 					<p>Doth the Devil go for you? </p>
 					<p>Yes. </p>
-<<<<<<< HEAD
-					<p>And what doth he take, your Spirit with him? </p>
-=======
 					<p>And what doth he take, your spirit with him? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>No. I am as well as at other times: but the Devil has my consent, and goes
 						and hurts them. </p>
 					<p>Who hurt your mother last Lord's day, was it not you? </p>
@@ -24372,11 +23825,7 @@
 					<p>Why I have seen <name type="person" key="goosar">Sarah Good</name> once. </p>
 					<p>How many did you see? </p>
 					<p>I saw but two. </p>
-<<<<<<< HEAD
-					<p>Did you know <name type="person" key="goosar">Sarah Good</name> was a Witch,
-=======
 					<p>Did you know <name type="person" key="goosar">Sarah Good</name> was a witch,
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						when you saw her? </p>
 					<p>Yes. </p>
 					<p>How did you know it? </p>
@@ -24385,15 +23834,9 @@
 					<pb n="408"/>
 					<p> </p>
 					<p>I do not remember her name. </p>
-<<<<<<< HEAD
-					<p>Did you go &amp; do hurt with <name type="person" key="goosar">Sarah
-							Good</name> ? </p>
-					<p>No she would have me set my hand to her book also. </p>
-=======
 					<p>Did you go and do hurt with <name type="person" key="goosar">Sarah
 							Good</name> ? </p>
 					<p>No, she would have me set my hand to her book also. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>What mark did you make in the <orig reg="Devil's book">Devil's book</orig>
 						when you set your hand to it? </p>
 					<p>I made a mark. </p>
@@ -24422,15 +23865,6 @@
 					<p>As other folks. </p>
 					<p>What do they speak to you, as other folks? </p>
 					<p>Yes, almost. </p>
-<<<<<<< HEAD
-					<p>Then other questions were propounded to her, but she was taken DEAF: and
-							<name type="person" key="walmar">Mary Walcot</name> , <name type="person" key="lewmer">Mercy Lewes</name>, <name type="person" key="hubeli">Betty Hubbard</name>, <name type="person" key="wilabi">Abig. Williams</name> and <name type="person" key="putann2">Ann Putman
-							jun'r</name> , said they saw <name type="person" key="goosar">Sarah
-							Good</name> and <name type="person" key="osbsar">Sarah Osborn</name> run
-						their fingers into the examinant's ears: by &amp; by she this examinant was
-						blind with her eyes quite open. </p>
-					<p>A little after, she spake &amp; said, <name type="person" key="goosar">Sarah
-=======
 					<p>Then other questions were propounded to her, but she was taken D E A F: and
 							<name type="person" key="walmar">Mary Walcot</name> , <name type="person" key="lewmer">Mercy Lewes</name>, <name type="person" key="hubeli">Betty Hubbard</name>, <name type="person" key="wilabi">Abig. Williams</name> and <name type="person" key="putann2">Ann Putman
 							jun'r</name> , said they saw <name type="person" key="goosar">Sarah
@@ -24438,63 +23872,32 @@
 						their fingers into the examinant's ears; by and by, she this examinant was
 						blind, with her eyes quite open. </p>
 					<p>A little after, she spake and said, <name type="person" key="goosar">Sarah
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							Good</name> saith I shall not speak; And so the Court ordered her, being
 						seized with dumbness, to be taken away. </p>
 					<pb n="409"/>
 					<p> </p>
 					<p>Note. The afflicted, i.e., the bewitched persons, were none of them tormented
-<<<<<<< HEAD
-						during the whole examination of this accused &amp; confessing person, <name type="person" key="hobabi">Abigail Hobbs</name> . </p>
-=======
 						during the whole examination of this accused and confessing person, <name type="person" key="hobabi">Abigail Hobbs</name> . </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Note. -- After this examination, <name type="person" key="lewmer">Mercy
 							Lewes</name>, <name type="person" key="wilabi">Abigail Williams</name> ,
 						and <name type="person" key="putann2">Ann Putman</name> , three of the
 						sufferers, said openly in Court, they were sorry for the condition this poor
-<<<<<<< HEAD
-							<name type="person" key="hobabi">Abig: Hobbs</name> was in: which
-						compassion they expressed over &amp; over again. </p>
-					<p>Salem Village, <date value="1692-04-19" certainty="confirmed">April the 19th,
-=======
 							<name type="person" key="hobabi">Abig. Hobbs</name> was in, which
 						compassion they expressed over and over again. </p>
 					<p>SALEM VILLAGE, <date value="1692-04-19" certainty="confirmed">April the 19th,
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							1692.</date>
 					</p>
 					<p>
 						<name type="person" key="parsam">Mr. Samuell Parris</name> being desired to
-<<<<<<< HEAD
-						take in wrighting the Examination of <name type="person" key="hobabi">Abigail hobs</name> , hath delivered it as #[followeth] aforesaid. </p>
-					<p>Upon heareing the afores'd and seing what wee then did see, together with the
-						charge of the persons then present, Wee comitted said Abigail Hobs to theire
-=======
 						take in wrighting the examination of <name type="person" key="hobabi">Abigail hobs</name> , hath delivered it as aforesaid. </p>
 					<p>Upon heareing the afores'd and seing what wee then did see, together with the
 						charge of the persons then present, wee comitted said Abigail Hobs to theire
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Majestie's Gaole </p>
 					<p>
 						<name type="person" key="hawjoh">*John Hathorne</name> , &rsqb;
 						Assis'tts.</p>
 					<p>
 						<name type="person" key="corjoh">*Jonathan Corwin</name> , &rsqb; Assis'tts. </p>
-<<<<<<< HEAD
-					<p>This confession &amp; examination is the Truth as witness my hand <date value="1692-09-09" certainty="unconfirmed">9th Sept. 1692</date> &rsqb;
-						The Marke of <name type="person" key="hobabi">Abigail</name>
-						<figure entity="BS20409a"/> Hobs. </p>
-					<p>
-						<name type="person" key="hobabi">Abigail Hobs</name> signed &amp; owned this
-						confession &amp; examination before me <date value="1692-09-09" certainty="unconfirmed">9th Sept. 1692</date>. </p>
-					<p>
-						<name type="person" key="higjoh">*John Higginson</name> , Justice Peace. </p>
-					<p>
-						<p>The Exam[minati]on of Abigail Hobbbs 19. Apr. 1692
-						<ref> [ <hi>UNCAT MS, Miscellaneous Photostats (1692). Positive Photostat, Massachusetts
-						Historical Society, Boston, MA.</hi>) </ref>
-=======
 					<p>This confession and examination is the Truth as witness my hand <date value="1692-09-09" certainty="unconfirmed">9th Sept. 1692</date> &rsqb;
 						The Marke of <name type="person" key="hobabi">ABIGAIL</name>
 						<figure entity="BS20409a"/> HOBS. </p>
@@ -24506,7 +23909,6 @@
 					<p>
 						<ref>(The Diaries of Benjamin Lynde and of Benjamin Lynde, Jr. with an
 							Appendix [ <hi rend="italics">Boston, 1880 </hi>], <hi rend="italics">pp. 211-216 </hi>.) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n69.2" type="examination">
@@ -24519,39 +23921,18 @@
 					<p>This Examinant declares that <name type="person" key="whijud">Judah
 							White</name> , a Jersey maid that lived with <name type="person" key="ingjos">Joseph Ing'rson</name> at Cascoe, but now lives at Boston,
 						with whome this Examinant was very well formerly acquainted, came to her
-<<<<<<< HEAD
-						yesterday in apparition, #[as she was g] together with <name type="person" key="goosar">Sarah Good</name> , as this Examinant was going to Examination, and
-=======
 						yesterday in apparition, together with <name type="person" key="goosar">Sarah Good</name> , as this Examinant was going to Examination, and
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						advised her to fly, and not <pb n="410"/> goe to be Examined, shee told them
 						that She would goe; They Charged her if she did go to Examination not to
 						Confess anything. She Said she would Confes all that She knew; They told her
 						also <name type="person" key="osbsar">Goody Osburn</name> was a witch This
 							<name type="person" key="whijud">Judah White</name> came to her in fine
-<<<<<<< HEAD
-						Cloaths in a sad coloured Silk Mantel, with a Top knot and an hood She
-						Confesseth further that the Devil in the shape of a Man came to her and
-=======
 						Cloaths in a Sad coloured Silk Mantel, with a Top knot and an hood She
 						Confesseth further that the Devil in the Shape of a Man came to her and
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						would have her to afflict <name type="person" key="putann2">Ann
 							Putnam</name>, <name type="person" key="lewmer">Mercy Lewis</name>, and
 							<name type="person" key="wilabi">Abigail Williams</name> , and brought
 						their images with him in wood like them, and gave thorns, and bid her prick
-<<<<<<< HEAD
-						them into those images, which she did accordingly into Each of them one.and
-						then the Devil told her they were afflicted which accordingly they were and
-						Cryed out they were hurt by <name type="person" key="hobabi">Abigail
-							Hobbs</name> . She Confesseth, She was at the great Meeting in <name type="person" key="parsam">Mr Parris's</name> Pasture when they
-						administered the sacram'tt, and did Eat of the Red Bread and drink of the
-						Red wine att the same Time. </p>
-					<p>
-						<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 1
-							no. 50. Massachusetts Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA.  </hi>) </ref>
-=======
 						them into those images, which She did accordingly into Each of them one.and
 						then the Devil told her they were afflicted which accordingly they were and
 						Cryed out they were hurt by <name type="person" key="hobabi">Abigail
@@ -24561,7 +23942,6 @@
 					<p>
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 50 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n69.3" type="examination">
@@ -24595,16 +23975,6 @@ Comment: --> of Cascoe, and of those
 					<p>A. Yes </p>
 					<p>Q. and were they afflicted accordingly? </p>
 					<p>A. Yes. </p>
-<<<<<<< HEAD
-					<p>Q. cant you name some of them? </p>
-					<p>A. No I cannot Remember them </p>
-					<p>Q. where did they Live? </p>
-					<p>A. att the Eastward </p>
-					<p>Q. Have any Vessells been cast away by you? </p>
-					<p>A. I do not know. </p>
-					<p>Q. Have you Consented to the Afflicting any Other besides those of the
-						Village? </p>
-=======
 					<p>Q. cant you name Some of them? </p>
 					<p>A. No I cannot Remember them </p>
 					<p>Q. where did they Live? </p>
@@ -24613,22 +23983,14 @@ Comment: --> of Cascoe, and of those
 					<p>A. I do not know. </p>
 					<p>Q. Have you Consented to the Afflicting any Other besides those of the
 						village? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>A. Yes. </p>
 					<p>Q. Who were they? </p>
 					<p>A. I cannot tell, But it was of such who lived att the fort side of the River
 						about half a mile from the fort, toward <name type="person" key="bracap">Capt. Bracketts</name> . </p>
-<<<<<<< HEAD
-					<p>Q. what was the hurt you did to them by Consent? </p>
-					<p>A. I dont know. </p>
-					<p>Q. was there any thing brought to you like them? </p>
-					<p>A. yes. </p>
-=======
 					<p>Q. What was the hurt you did to them by Consent? </p>
 					<p>A. I dont know. </p>
 					<p>Q. was their any thing brought to you like them? </p>
 					<p>An. yes. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Q. what did you stick into them? </p>
 					<p>A. Thorns. </p>
 					<p>Q. did some of them dy? </p>
@@ -24649,29 +24011,17 @@ Comment: --> of Cascoe, and of those
 					<p>A. Abroad a little way of from o'r house. </p>
 					<p>Q. and what did he say to you then? </p>
 					<p>A. He told me He was angry with that family. </p>
-<<<<<<< HEAD
-					<p>Q. How may years since was it? </p>
-=======
 					<p>Q. How may years Since was it? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>A. Before this Indian Warr. </p>
 					<pb n="412"/>
 					<p> </p>
 					<p>Q. How did you know <name type="person" key="burgeo">mr. Burroughs</name> was
 						a Witch? </p>
-<<<<<<< HEAD
-					<p>A. I dont know. she owned againe she had made two Covenants with the Devil,
-						first for two years, and after that for four years, and she Confesseth
-						herslef to have been a Witch these Six years. </p>
-					<p>Q. did the Maid Complain of pain about the place you stuck the thorn in. </p>
-					<p>A. yes but How long she Lived I dont know. </p>
-=======
 					<p>A. I dont know. She owned againe She had made two Covenants with the Devil,
 						first for two years, and after that for four years, and She Confesseth
 						herslef to have been a Witch these Six years. </p>
 					<p>Q. did the Maid Complain of pain about the place you stuck the thorn in. </p>
 					<p>A. yes But how long she Lived I dont know. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Q. How do you know <name type="person" key="burgeo">burroughs</name> was
 						Angry w'th Lawrences family? </p>
 					<p>A. Because he told me so: </p>
@@ -24685,15 +24035,6 @@ Comment: --> of Cascoe, and of those
 					<p>Q. what did you stick into them? </p>
 					<p>A. Pinns, and he gave them to mee. </p>
 					<p>Q. Did you keep those Poppets? </p>
-<<<<<<< HEAD
-					<p>A. no, he carryed them away with him. </p>
-					<p>Q. was he there himselfe with you in Bodily person </p>
-					<p>A. yes, and so he was, when he appeared to tempt mee to set my hand to the
-						Book, he then appeared in person, and I felt his hand att the same time </p>
-					<p>Q. were they men, Women or Children you killed? </p>
-					<p>A. They were both Boys and Girls. </p>
-					<p>Q. was you angry with them yourself? </p>
-=======
 					<p>A. No, he carryed them away with him. </p>
 					<p>Q. was he there himselfe with you in Bodily person? </p>
 					<p>A. yes, and So he was, when he appeared to tempt mee to set my hand to the
@@ -24701,28 +24042,17 @@ Comment: --> of Cascoe, and of those
 					<p>Q. were they men, Women or Children you killed? </p>
 					<p>A. They were both Boys and Girls. </p>
 					<p>Q. Was you angry with them yourself? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>A. Yes, tho I dont know why now. </p>
 					<p>Q. Did you know <name type="person" key="burgeo">mr Burroughs's</name> Wife? </p>
 					<p>A. Yes. </p>
 					<p>Q. Did you know of any <orig reg="poppets">poppits</orig> prickd to kill her? </p>
 					<p>A. No I dont </p>
-<<<<<<< HEAD
-					<p>Q. Have you seen several Witches att the Eastward </p>
-					<p>A. Yes, But I dont know who they were </p>
-					<p>(Reverse) <name type="person" key="hobabi">Abigail Hobs</name> Examinations. </p>
-					<p>
-						<ref>( <hi rend="italics">Essex County Archives, Witchcraft Vol. 1
-							no. 155. Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 					<p>Q. Have you seen several Witches at the Eastward </p>
 					<p>A. Yes, But I dont know who they were. </p>
 					<p>(Reverse) <name type="person" key="hobabi">Abigail Hobs</name> Examinations. </p>
 					<p>
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 50 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<pb n="413"/>
@@ -24992,11 +24322,7 @@ Comment: --> of Cascoe, and of those
 					<p>It is you, or your appearance, how comes this about? Tell us the truth. </p>
 					<p>I cannot tell. </p>
 					<p>Tell us what you know in this case. Who hurts them if you do not? </p>
-<<<<<<< HEAD
-					<p>There are a great many Persons hurts us all. </p>
-=======
 					<p>There are a great many persons hurts us all. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>But it is your appearance. </p>
 					<p>I do not know it. </p>
 					<p>Have not you consented to it, that they should be hurt? </p>
@@ -25006,11 +24332,7 @@ Comment: --> of Cascoe, and of those
 					<p>It is said you were afflicted, how came that about? </p>
 					<p>I have seen sundry sights. </p>
 					<p>What sights </p>
-<<<<<<< HEAD
-					<p>Last Lords day in #[the] this meeting house &amp; out of the door, I saw a great
-=======
 					<p>Last Lords day in this meeting house &amp; out of the door, I saw a great
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						many birds cats &amp; dogs, &amp; heard a voice say come away. </p>
 					<p>What have you seen since? </p>
 					<p>The shapes of severall persons. </p>
@@ -25020,11 +24342,7 @@ Comment: --> of Cascoe, and of those
 					<p>No. </p>
 					<p>What persons did you see? </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="wilsar">Goody Wilds</name> and the shape of <name type="person" key="lewmer">Mercy Lewes</name>. </p>
-=======
 						<name type="person" key="wilsar">Goody Wilds</name> and the shape of <name type="person" key="lewmer">Mercy Lewes</name>.. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>What is that? Did either of them hurt you? </p>
 					<p>None but <name type="person" key="wilsar">Goody Wilds</name> , who tore me
 						almost to peices. </p>
@@ -25040,11 +24358,7 @@ Comment: --> of Cascoe, and of those
 						you are become a tormentor, so that you have changed sides, how comes this
 						to pass? </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="wilabi">Abig: Williams</name> #[cry out there] &amp;
-=======
 						<name type="person" key="wilabi">Abig: Williams</name> [cry out there] &amp;
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<name type="person" key="putann2">Ann Putman jun'r</name> cry out there
 						is <name type="person" key="hobdel">Goody Hobbs</name> upon the Beam, she is
 						not at the Bar, they cannot see her there: tho there she stood. </p>
@@ -25072,11 +24386,7 @@ Comment: --> of Cascoe, and of those
 					<p>It was <name type="person" key="wilsar">Goody Wilds</name> . </p>
 					<p>What did you make your mark with in the book? </p>
 					<p>Pen and ink. </p>
-<<<<<<< HEAD
-					<p>Who brought the Pen &amp; Ink? </p>
-=======
 					<p>Who brought the Pen and Ink? </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>They that brought the book, <name type="person" key="wilsar">Goody
 							Wilds</name> . </p>
 					<p>Did they threaten you if you did not signe? </p>
@@ -25097,11 +24407,7 @@ Comment: --> of Cascoe, and of those
 					<p>How many images did you use? </p>
 					<p>#[But two. three] But two. </p>
 					<p>Nay here is more afflicted by you, You said more. Well tell us the truth.
-<<<<<<< HEAD
-						recollect your self. </p>
-=======
 						recollect yourself. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>I am amazed. </p>
 					<p>can you remember how many were brought? </p>
 					<p>Not well, but severall were brought. </p>
@@ -25128,11 +24434,7 @@ Comment: --> of Cascoe, and of those
 						they were much afflicted till then. </p>
 					<p>
 						<hi rend="underline">Note </hi> Whereas yesterday at <name type="person" key="ingnat">Deacon Ingersols</name>
-<<<<<<< HEAD
-						<name type="person" key="walmar">Mary Walcot</name> &amp; <name type="person" key="wilabi"> #[Will] Abigail Williams</name> cryed there stands
-=======
 						<name type="person" key="walmar">Mary Walcot</name> &amp; <name type="person" key="wilabi">Abigail Williams</name> cryed there stands
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<name type="person" key="hobdel">Goody Hobbs</name> , showing also where
 							<name type="person" key="hutben">Benja. Hutchinson</name> struck at her
 						with a Rapier, &amp; the afflicted that is the said <name type="person" key="walmar">Mary</name> &amp; <name type="person" key="wilabi">Abigail</name> said, oh you have struck her on the ride side: Whereupon
@@ -25145,66 +24447,34 @@ Comment: --> of Cascoe, and of those
 						dust, w'ch agrees with what the afflicted farther said that <name type="person" key="hutben">Benja. Hutchinson</name> after wards toucht
 						her eye w'th the same Rapier, &amp; said pointing to the place there was a
 						mark which the Marshall being by said so there was. </p>
-<<<<<<< HEAD
-					<p>Salem Village #[May] Aprile the 22th <hi rend="underline">1692 </hi> Mr Sam'l Parris
-						being desired to take in wrighting the Examinaticon of Deliverance hobs hath
-						delivered itt as aforesaid </p>
-					<p>And upon heareing the Same and seeing what wee did see togather with the
-=======
 					<p>Salem Village Aprile the 22th <hi rend="underline">1692 </hi> Mr Sam'l parris
 						being desired to take in wrighting the Examinaticon of Deliverance hobs hath
 						delivered itt as aforesaid </p>
 					<p>And upon heareing the same and seeing what wee did see togather with the
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Charg of the afflicted persons against them, Wee Committed her. </p>
 					<closer>
 						<signed>
 							<name type="person" key="hawjoh">*John Hathorne</name>
 						</signed>
-<<<<<<< HEAD
-						<seg>(Reverse) The Examicon of <name type="person" key="hobdel">Deliverance Hobbs</name>
-							<date value="1692-04-22" certainty="confirmed">22.Apr. <hi rend="underline">1692 </hi></date>
-						</seg>
-						<seg>
-							<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft
-									Vol. 2 Page 10 Massachusetts Supreme Judicial Court Archives, on 
-							deposit at James Duncan Phillips Library, Salem, MA.</hi>) </ref>
-=======
 						<seg>(Reverse) The Exami&obar;&nbar; of (1) <name type="person" key="hobdel">Deliverance Hobbs</name>
 							<date value="1692-04-22" certainty="confirmed">22.Apr. <hi rend="underline">1692 </hi></date>
 						</seg>
 						<seg>
 							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 2 Page 49 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
 				<pb n="423"/>
 				<div2 id="n70.2" type="examination">
 					<head>(Examination of <name type="person" key="hobdel">Deliverance Hobbs</name>
-<<<<<<< HEAD
-						in Prison - April 22, 1692) </head>
-=======
 						in Prison) </head>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<figure n="ecca2102r"/>
 					<figure n="ecca2102v"/>
 					<p>The first Examination of <name type="person" key="hobdel">Deliverance
 							Hobbs</name> in prison. </p>
 					<p>She continued in the free acknowledging herself to be a Covenant Witch, and
 						further Confesseth she was warned to a meeting yesterday morning, and that
-<<<<<<< HEAD
-						there was present Procter and his Wife<!-- Comment: --> , <name type="person" key="nurreb">Goody Nurse</name> , <name type="person" key="corgil">Giles Cory</name> , and his <name type="person" key="cormar">Wife</name> , <name type="person" key="bisbri">Goody Bishop
-							alias Oliver</name> , and <name type="person" key="burgeo">mr
-							Burroughs</name> was the Preacher, and prest them to bewitch all in the
-						Village, telling them they should do it gradually and not all att once,
-						assureing them they should prevail, He administred the sacrament unto them
-						att the same time with Red Bread, and Red Wine Like Blood, she affirms she
-						saw <name type="person" key="osbsar">Osburn</name> , <name type="person" key="goosar">Sarah Good</name> , <name type="person" key="wilsar">Goody
-							Wilds</name> ; Goody nurse, and <name type="person" key="wilsar">Goody
-							Wilds</name> distributed the bread and Wine, and a Man in a Long crowned
-=======
 						there was present Proctor and his Wife<!-- Comment: --> , <name type="person" key="nurreb">Goody Nurse</name> , <name type="person" key="corgil">Giles Cory</name> , and his <name type="person" key="cormar">Wife</name> , <name type="person" key="bisbri">Goody Bishop
 							alias Oliver</name> , and <name type="person" key="burgeo">Mr
 							Burroughs</name> was the Preacher, and prest them to bewitch all in the
@@ -25214,19 +24484,13 @@ Comment: --> of Cascoe, and of those
 						saw <name type="person" key="osbsar">Osburn</name> , <name type="person" key="goosar">Sarah Good</name> , <name type="person" key="wilsar">Goody
 							Wilds</name> ; Goody nurse, and <name type="person" key="wilsar">Goody
 							Wilds</name> distributed the bread and Wine, and a Man in a long crowned
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						white Hat, next the Minister, and they sat seemingly att a Table, and They
 						filled out the wine in Tankards, The Notice of this meeting was given her by
 							<name type="person" key="wilsar">Goody wilds</name> . She her self
 						affirms did not nor would not Eat nor drink, but All the Rest did who were
 						there present, therefore they Threatened to Torment her. The meeting was in
-<<<<<<< HEAD
-						the Pasture by <name type="person" key="parsam">mr Parris's </name> House.
-						and she saw when <name type="person" key="wilabi"> Abigail Williams </name> ran out #[and] to speak
-=======
 						the Pasture by <name type="person" key="parsam">Mr Parris's </name> House.
 						and she saw when <name type="person" key="wilabi"> </name> ran out to speak
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						with them: But by that Time <name type="person" key="wilabi">Abigail</name>
 						was come a little distance from the House This Examinant was strucke blind,
 						so that she saw not with whome <name type="person" key="wilabi">Abigail</name> spake She further saith, that <name type="person" key="wilsar">Goody Wilds</name> to prevail with her to sign, told her
@@ -25234,25 +24498,15 @@ Comment: --> of Cascoe, and of those
 						and would not afflict her any more -- Hir Daughter <name type="person" key="hobabi">Abigail Hobbs</name> being brought in att the same time
 						while her Mother was present was immediately taken with a dreadful <orig reg="fit">fitt</orig>, and Answered it was <name type="person" key="corgil">Goodman Cory</name> , and she saw him, and the Gentlewoman
 						of Boston striving to break her Daughters Neck </p>
-<<<<<<< HEAD
-					<p>(Reverse) <name type="person" key="hobdel">Deliverance Ho[bs]</name>
-=======
 					<p>(Reverse) <name type="person" key="hobdel">Deliverance Hobs</name>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<name type="person" key="warmar">Mary Waren</name>
 					</p>
 					<p>[Editor's Note: This confession may be dated 22 April 1692, as per document
 						"Summary of Evidence v. Sarah Good."]</p>
 					<p>
 						<seg>
-<<<<<<< HEAD
-							<ref>( <hi rend="italics">Essex County Court Archives, Witchcraft
-									Vol. 2 Page 102 Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA.</hi>) (<hi rend="italics">Cont. </hi>) </ref>
-=======
 							<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 2 Page 49 </hi>) (<hi rend="italics">Cont. </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</p>
 				</div2>
@@ -25272,13 +24526,8 @@ Comment: --> of Cascoe, and of those
 					<p>
 						<seg>
 							<ref>
-<<<<<<< HEAD
-								<hi rend="italics">Essex County Court Archives<lb/> Supreme Judicial Court Archives, 
-									on deposit, James Duncan Phillips Library, Peabody Essex Museum, Salem, MA.</hi>
-=======
 								<hi rend="italics">Essex County Court Archives<lb/> James Duncan
 									Phillips Library, Peabody Essex Museum, Salem</hi>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							</ref>
 						</seg>
 					</p>
@@ -25666,15 +24915,9 @@ Comment: --> of Cascoe, and of those
 						examinant came in </p>
 					<p>
 						<name type="person" key="walmar">Mary Walcot</name> said that this woman the
-<<<<<<< HEAD
-						examinant had pincht her &amp; choakt thi[s] month. <name type="person" key="putann2">Ann Putman</name> said she had hurt her three times. </p>
-					<p>What say you to this charge? Here are them that charge you with witchcraft </p>
-					<p>If it was the last moment I was to live, God knows I am innocent of any thing
-=======
 						examinant had pincht her &amp; choakt this month. <name type="person" key="putann2">Ann Putman</name> said she had hurt her three times. </p>
 					<p>What say you to this charge? Here are them that charge you with witchcraft </p>
 					<p>It it was the last moment I was to live, God knows I am innocent of any thing
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						in this nature </p>
 					<p>Did not you take notice that now when you lookt upon <name type="person" key="lewmer">Mercy Lewis</name> she was struck [down?] </p>
 					<p>I cannot help it. </p>
@@ -25687,11 +24930,7 @@ Comment: --> of Cascoe, and of those
 					<p>You say that you never heard of these folks before </p>
 					<p><name type="person" key="lewmer">Mercy Lewis</name> at length spake &amp;
 						charged this woman with hurting &amp; pinching her: And then <name type="person" key="wilabi">Abigail Williams</name> cryed she hath hurt
-<<<<<<< HEAD
-						me a great many times, a great while &amp; she hath brought [#the] me the book. </p>
-=======
 						me a great many times, a great while &amp; she hath brought me the book. </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>
 						<name type="person" key="putann2">Ann Putman</name> had a pin stuck in her
 						hand </p>
@@ -25700,52 +24939,28 @@ Comment: --> of Cascoe, and of those
 					<p>What consent have you given? </p>
 					<p><name type="person" key="warmar">Mary Warren</name> cryed out she was prickt </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="wilabi">Abig. Williams</name> cryed out that she
-						was pincht, &amp; great printes were seen in her arm. </p>
-					<p>Have not you seen some apparition? </p>
-=======
 						<name type="person" key="wilabi">Abig: Williams</name> cryed out that she
 						was pincht, &amp; great printes were seen in her arm. </p>
 					<p>Have not you seen some apparition -- </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>No, never in all my life </p>
 					<p>Those that have confessed, they tell us they used images &amp; pins, now tell
 						us what you have used. </p>
 					<p>You would not have me confess that which I know not </p>
 					<p>She lookt upon <name type="person" key="warmar">Mary Warren</name>, &amp;
-<<<<<<< HEAD
-						said <name type="person" key="warmar">Warren</name> violently fell downe. </p>
-					<p>Look upon this maid viz: <name type="person" key="walmar">Mary Walcot</name>
-						, her back being towards the Examinant <name type="person" key="warmar">Mary
-							Warren</name> &amp; Ann Putman said they saw this woman upon her.<lb/>
-						<name type="person" key="shesus">Susan: Sheldon</name> saith this was the
-						woman that carryed <pb n="435"/> her yesterday to the Pond <lb/>
-						<name type="person" key="shesus">Sus: Sheldon</name> carried to the Examinant
-=======
 						said <name type="person" key="warmar">Warren</name> violently fell down. </p>
 					<p>Look upon this maid viz: <name type="person" key="walmar">Mary Walcot</name>
 						, her back being towards the examinant <name type="person" key="warmar">Mary
 							Warren</name> &amp; Ann Putman said they saw this woman upon her. <name type="person" key="shesus">Susan: Sheldon</name> saith this was the
 						woman that carryed <pb n="435"/> her yesterday to the Pond <name type="person" key="shesus">Sus: Sheldon</name> carried to the Examinant
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						in a fit &amp; was well upon grasping her arm. </p>
 					<p>You said you never heard before of these people </p>
 					<p>Not before the warrant was served upon me last Sabbath day </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="indjoh">John Indian</name> cryed out Oh she bites,
-						&amp; fell into a grevious fit, &amp; so carried to her in his fit &amp; was
-						well upon her grasping him. </p>
-					<p>What do you say to these things, they cannot come to you? </p>
-					<p>S'r I am not able to give account of it </p>
-=======
 						<name type="person" key="indjoh">John Indian</name> cryed out O she bites,
 						&amp; fell into a grevious fit, &amp; so carried to her in his fit &amp; was
 						well upon her grasping him. </p>
 					<p>What do you say to these things, they cannot come to you? </p>
 					<p>S'r. I am not able to give account of it </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Cannot you tell what keeps them off from your body? </p>
 					<p>I cannot tell, I know not what it is? </p>
 					<p>That is strange that you should do these things &amp; not be able to tell
@@ -25756,16 +24971,6 @@ Comment: --> of Cascoe, and of those
 						<name type="person" key="parsam">*Sam. Parris.</name>
 					</p>
 					<p>(Reverse) <name type="person" key="howeli">Eliza. How</name> Exa&mbar;.
-<<<<<<< HEAD
-						Adjour't. <date value="1692-06-30" certainty="unconfirmed">June. 30 92</date>
-						<name type="person" key="howeli"><lb/>
-							How</name>
-					</p>
-					<p>(Witnesses v. <name type="person" key="howeli">Elizabeth How</name> ) </p>
-					<p>
-						<ref>( <hi rend="italics">Essex County Court Archives, Salem, Witchcraft Vol. 1
-							No. 322. Massachusetts Supreme Judicial Court, Judicial Archives, on deposit James Duncan Phillips Library, Peabody Essex Museum, Salem, MA< </hi>) </ref>
-=======
 						Adjour't. <date value="1692-06-30" certainty="unconfirmed">June 30 92</date>
 						<name type="person" key="howeli">How</name>
 					</p>
@@ -25773,7 +24978,6 @@ Comment: --> of Cascoe, and of those
 					<p>
 						<ref>( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 144 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n72.3" type="section">
@@ -28701,33 +27905,6 @@ Comment: --> did kill her: and Likewise Core
 						</dateline>
 					</opener>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="joheli1">Eliz'th Johnson</name> you are here
-						Charged for acting Witchcraft Come tell how long You have ben a witch A I
-						cannot tell butt Since #[the Divel] my Daught'r Came heither &amp; Stopt Q w't the
-						<orig reg="Devil">Divel</orig> Come to You did he not A yes Q was it
-						in the Day A no in the night when I was aslep &amp; awaked me &amp; S'd he
-						would goe &amp; afflict in my Shape but I never Sett my hand to his book
-						Come be thorow in all licklyhood you have been long in this Snare the
-						Sundry years She S'd &amp; pray for me for it is true I have bin long in
-						this Snare but Yett would owne but 3 Year or not above 4 w't Shape did
-						the <orig reg="Devil">Divel</orig> appear to you at first A a white bird wel
-						what would he have You to doe A Serve &amp; worship him well that time Then
-						you Signed to his book how did you doe it A w'th my finger Q w't Spott did
-						itt Make a black &amp; what bignes was the book A pretty big Q did you
-						promise to Serve &amp; worship him A yes Q when &amp; where did the bird #[Devil] 
-						appear to You A In the day time in my owne house Q has he not apeared
-						to You Like a black man A Yes he mostly apears to me like a black man Was
-						you alone when he appeared to you A yes I have been to much alone. how long
-						has the Child that Is here been a witch A 5 yeares I Suppose [for] lived at
-							<name type="person" key="carmar1">Goody Carriers</name> @ that time who
-						Came w'th the <orig reg="Devil">Divel</orig> when he came to You first did
-							<name type="person" key="barwil2">W'm. Bark'r</name> No he has not been
-						oh Soe long it was my Sister <name type="person" key="fauabi">abigail
-							falkner</name> -- who stands before you now is it not the Sister <name type="person" key="fauabi">falkner</name> A Yes She Threattens to Tear
-						me in peices if I confses Q how long hath She ben one A No longer then I
-						where did the <orig reg="Devil">Divel</orig> baptize You A at 5 mile pond
-=======
 						<name type="person" key="joheli1">Eliz'th Johnson</name> you are hence
 						Charged for acting Witchcraft Come tell how long you have ben a witch A I
 						cannot tell butt Since my Daught'r Came heither &amp; Stopt -- Q. w't the
@@ -28753,22 +27930,11 @@ Comment: --> did kill her: and Likewise Core
 							Falkner</name> -- who stands before you now is it not the Sister <name type="person" key="fauabi">falkner</name> A Yes She Threattens to Tear
 						me in peices if I confses Q. how long hath She ben one A no longer then I
 						Where did the <orig reg="Devil">Divel</orig> baptize you A at 5 mile pond
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						who ware baptized when you was A My Sister <name type="person" key="fauabi">falkner</name> &amp; a great many more -- <name type="person" key="howjam">Jeames How</name> was one how many times have you been at
 						the witch metting at the Village A butt once Unlese I was Their in my
 						Spirit. Q how did you goe thither one Horse back as far as I know but after
 						wards S'd She was Carried thither upon a pole &amp; that her sister <name type="person" key="fauabi">falkner</name> was there &amp; <name type="person" key="barwil2">William Barker</name> others She new not for
 						She did not know folk Q but did you give the Children to the <orig reg="Devil">Divel</orig> A No I do not know that this Girle is a witch
-<<<<<<< HEAD
-						w't number of witches be there in all. A a 100 it may be I doe not know w't did
-						they agre to doe at the metting at the Village A to afflict people &amp;
-						make as many witches as they Could as they Could how many <pb n="501"/>
-						have you made witches A none Q was they to Sett up the <orig reg="devil's">divels</orig> Kingdome A Yes but why doe they afflict now they [doe]
-						they are daly brought out A the <orig reg="Devil">Divel</orig> makes them
-						doe it Q. how Many was their at that Metting at Chandlers A @ 20 or 30 I dont
-						know how Many whatt did you doe their A drink wine, where did you gett Your
-						wine A from Boston I think butt I doe not know how [=who] brought it <name type="person" key="bussmr">Mr busse</name> was Their did You drink A yes
-=======
 						w't number of witches be there in all. A it may be I doe not know w't did
 						they agre to doe at the metting at the Village A to afflict people &amp;
 						make as many witches as they Could [as they Could] how many <pb n="501"/>
@@ -28777,64 +27943,40 @@ Comment: --> did kill her: and Likewise Core
 						doe it Q. how many was their at that Metting at Chandlers A 20 or 30 I dont
 						know how many what did you doe their A drink wine, where did you gett Your
 						wine A from Boston I think butt I doe not know how brought it <name type="person" key="bussmr">Mr Busse</name> was Their did you drink A yes
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						how did it tast A it has been bitt'r to me I am Sure butt who were the
 						Company A I do not know any but them that are brought out Q. was <name type="person" key="ememar">Martha Emerson</name> there A I know not Was
 							<name type="person" key="eamdan">Dan'll Eames</name> of the Comp'y A yes
 						he was She S'd also <name type="person" key="poshan">Hannah</name>
 						<name type="person" key="posmar">Mary</name> &amp; <name type="person" key="possus">Susana Posts</name> were baptized when She was &amp; that
 						the <orig reg="Devil">Divel</orig> dipt there heads in the watt'r &amp; s'd
-<<<<<<< HEAD
-						thou art mine Soul &amp; body Come you that have been a witch Soe long you
-=======
 						thou art now Soul &amp; body Come you that have been a witch Soe long you
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						doe not Thouroly Conffess you know who you have afflicted She owned She had
 						afflicted <name type="person" key="phesar">Sarah Phelps </name> &amp; 3 of
 						Martins <!-- Comment: --> Children &amp; that her Sister &amp; <name type="person" key="parsar">Sarah parker</name> Joyned w'th her in
 						afflicting them Q then doe you know <name type="person" key="parsar">Sarah
 							parker</name> to be witch A I know She afflicted those or Else I
 						afflicted none She owned She had afflicted <name type="person" key="fosros">Rose Fostter</name> but I know not that I have afflicted <name type="person" key="sprmar">Martha Sprauge</name> I know not what my
-<<<<<<< HEAD
-						Spirit did Q how are you when your Spirit is Gone out of You A In A Cold
-						Dampish Mallancolly Condition she would not own She had afflicted <name type="person" key="swatim">Swan</name> She was askt how she knew She
-=======
 						Spirit did Q how are you when your Spirit is Gone out of you A in A Cold
 						Dampish Mallancolly Condition she would not own she had afflicted <name type="person" key="swatim">Swan</name> She was askt how she knew She
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Should be Sent for A my Son Told me I should be Sent for yesterday She owned
 						he had afflicted Martin<!-- Comment: --> &amp; <name type="person" key="sprmar">Martha Sprauge</name> Yesterd'y &amp; that the actions of
 						-- body that she Used to afflict was the pinching her hands &amp; that the
 							<orig reg="Devil">Divel</orig> had Made her promis to renounce god &amp;
 						Christ &amp; she did Soe &amp; being ask how long she had ben a witch she
 						said She knew nott, butt She was 30 Years old when She was Married &amp; now
-<<<<<<< HEAD
-						She was 51 &amp; when She had had 3 Children the <orig reg="Devil">Divel</orig> came to her &amp; it might be @ 26 years &amp; that the
-=======
 						She was 51 &amp; when She had had 3 Children the <orig reg="Devil">Divel</orig> came to her &amp; it might be a 25 years &amp; that the
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<orig reg="Devil">Divel</orig> Appeared to her like a bird a black bird
 						&amp; then She did not signe butt @ a year after She Signed &amp; that the
 							<orig reg="Devil">Divel</orig> came alone when She Signed She S'd her
 						Sister Abig'l had been a witch as long as She, She would not own that She
-<<<<<<< HEAD
-						was baptized before the time fornamed nor that She had been baptized by him
-						above once nor that she had Set her Seal to the book but She had Set her
-						hand to the book at Salem Village when the Combination was She owned [she]
-=======
 						was baptized before the time fornamed nor that she had been baptized by him
 						above ever nor that she had set her Seal to the book but She had Set her
 						hand to the book at Salem Village when the Combination was she owned [she]
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						had Eat &amp; drink at the Mett'g at Chand's butt no where Else She s'd
 							<name type="person" key="burgeo">Burroughs</name> &amp; <name type="person" key="bussmr">Buss</name> ware at the Village Metting &amp;
 						Buss was at the Mett'g at Chand's &amp; bid them Stand to the faith &amp;
 						truth She s'd the <orig reg="Devil">Divel</orig> propounded 30 Years <pb n="502"/> to her to Serve him &amp; he had promised her al glory &amp;
-<<<<<<< HEAD
-						happines &amp; Joy But as yett performed Nothing She S'd her familliar
-=======
 						happines &amp; Joy But as yett performed nothing -- She S'd her familliar
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						was like a Browne puppee &amp; that he also Sucks her breast She also
 						Confess'd She was afrayd her Son Stephen <!-- Comment: --> was a witch butt
 						She did not Ceartainly know it but Conffesed his apperance was then before
@@ -28846,12 +27988,7 @@ Comment: --> did kill her: and Likewise Core
 					<p>Attest <name type="person" key="wilsim">Simon[d] Willard</name>
 					</p>
 					<p>
-<<<<<<< HEAD
-						<ref>( <hi rend="italics">Essex Institute Collection, no. 24 8r-v, James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA
-=======
 						<ref>( <hi rend="italics">Essex Institute Salem, Miscellaneous Collection
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							</hi>) </ref>
 					</p>
 				</div2>
@@ -28867,28 +28004,6 @@ Comment: --> did kill her: and Likewise Core
 				<div2 id="n83.1" type="examination">
 					<head>(Examination of <name type="person" key="joheli2">Elizabeth Johnson,
 							Jr.</name> ) </head>
-<<<<<<< HEAD
-					<p><figure n="eia24-5v"/>The Examination of <name type="person" key="joheli2">Elizabeth Jonson Jun'r</name> Taken Before <name type="person" key="bradud">Dudley Broads</name> [torn] [=Bradstreet]  <p> the <date value="1692-08-10" certainty="unconfirmed">10 August 1692. </date> She Confesseth as
-						followeth That <name type="person" key="carmar1">Goody Carrier</name>
-						brought a book to </p> <p> her &amp; she set her hand to it That <name type="person" key="carmar1">Goody Carrier</name> baptized her when she
-						Baptized her Daughter Sarah<!-- Comment: --> &amp; that <name type="person" key="carmar1">Goody Carr'r</name> told her she Should be Saved if she
-						would be a witch That She had bin at Salem Village w'th <name type="person" key="carmar1">Goody Carr'r</name> &amp; that She had been
-						at the Mock Sacrement theire &amp; Saw <name type="person" key="burgeo">Mr
-							Burroughs</name> their She Conffesed She had afflicted Severall persons
-						that the first She afflicted was Lawrence Lacey &amp; that She &amp; <name type="person" key="cartho2">Tho Carrier</name> afflicted
-						<name type="person" key="phesar">Sarah phelps</name> &amp; <name type="person" key="walmar">Mary Walcutt</name> &amp; <name type="person" key="putann2">Ann Puttman</name> , the 9th Instant &amp; that She
-						afflicted them this day as She Came to Twone #[And the afflicted] and that She hath afflicted a
-						Child of <name type="person" key="daveph">Ephrahm Davis</name> the 9 Instant
-						&amp; this day by pinching it #[him] and that she afflicted <name type="person" key="putann2">ann Puttnam</name> w'th a Spear That She and <name type="person" key="carmar1">Goody Carrier</name> afflicted <name type="person" key="abbben">Benja' Abbott</name> -- That <name type="person" key="toomar">Goody Toothaker</name> &amp; 2 of her
-						Children ware w'th her the last Night when She afflicted the children -- She
-						also confsesed that one <name type="person" key="eamdan">Dan'll Ems</name>
-						of Boxford was w'th her one the 8th &amp; 9th Instant at Night &amp; he
-						afflicted <name type="person" key="phesar">Sarah Phelps</name> , &amp; told
-						her he had been a witch Ever Since he ran away And that She had a hand in
-						Afflicting <name type="person" key="swatim">Timo' Swan</name> </p>
-					<p>
-						<ref>( <hi rend="italics">Essex Institute Collection, no. 24, 5v James Duncan Phillips Library, Peabody Essex Museum, Salem, MA.
-=======
 					<p><figure n="eia24-5v"/>The Examination of <name type="person" key="joheli2">Elizabeth Jonson Jun'r</name> Taken Before <name type="person" key="bradud">Dudley Broads</name> [torn] the <date value="1692-08-10" certainty="unconfirmed">10 August 1692. </date> She confesseth as
 						followeth That <name type="person" key="carmar1">Goody Carrier</name>
 						brought a book to her &amp; she set her hand to it -- That <name type="person" key="carmar1">Goody Carrier</name> baptized her when she
@@ -28910,7 +28025,6 @@ Comment: --> did kill her: and Likewise Core
 						Afflicting <name type="person" key="swatim">Timo' Swan</name> -- </p>
 					<p>
 						<ref>( <hi rend="italics">Miscellaneous Papers -- Essex Institute, Salem
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							</hi>) </ref>
 					</p>
 				</div2>
@@ -29601,13 +28715,8 @@ Comment: --> did kill her: and Likewise Core
 						<name type="person" key="corjoh">Jonat Corwin</name> &amp; <name type="person" key="higjoh">John Higginson</name> Esq'rs </p>
 					<p><date value="1692-07-21" certainty="unconfirmed">21: July 1692</date>: </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="lacmar2">Mary Lacy Jun'r</name> Exa  She was
-						brought in &amp; <name type="person" key="warmar">mary warren</name> in a
-=======
 						<name type="person" key="lacmar2">Mary Lacy Jun'r</name> Exa. She was
 						brought in &amp; <name type="person" key="warmar">Mary Warren</name> in a
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						violent fit; Q. how dare you come in here &amp; bring the <orig reg="devil">divill</orig> w'th you to <orig reg="afflict">aflict</orig> these pore
 						creatures. A. I know nothing of it, but upon lacys laying her hand on
 						warrins arme she was then recovered from her fit. </p>
@@ -29617,11 +28726,7 @@ Comment: --> did kill her: and Likewise Core
 						not hurt her look upon her now in a friendly way, she tryed so to doe struck
 						her downe. </p>
 					<p>q. doe you acckn'l. now you are awitch A. yes. </p>
-<<<<<<< HEAD
-					<p>q. how long have you bin a <orig reg="witch">wictc[h]</orig> A. not above a
-=======
 					<p>q. how long have you bin a <orig reg="witch">witc[h]</orig> A. not above a
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						week. Q. did the <orig reg="devil">divill</orig> apeare to you. A: yes: </p>
 					<p>Q. in what shape. A. in the shape of a horse </p>
 					<p>Q. where. A. in the House. Q. what did he say to you. A. he bid me to be
@@ -29630,15 +28735,9 @@ Comment: --> did kill her: and Likewise Core
 					<p>A. he set me to kill a tinker in the Towne. and I would not. then he said he
 						would kill me if I did not. I said I hoped God would help me. Q. what other
 						shape did he apeare in A. in the shape of around Gray thing &amp; bid me set
-<<<<<<< HEAD
-						my hand to his book &amp; I would not, -- Q. did he bid you worship him A. yes.
-						and bid me also afflict persons. -- </p>
-					<p>Q. how many times did the <orig reg="devil">divill</orig> apeare to you. A
-=======
 						my hand to his book &amp; I would not, Q. did he bid you worship him A. yes.
 						and bid me also afflict persons. -- </p>
 					<p>Q. how many times did the <orig reg="devil">divill</orig> apeare to you. A --
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						twice &amp; both times in the night I was in my bead &amp; he awaked me by
 						making a strange noyse. Q. what did he say to you. A. he bid me obey him
 						&amp; he would never bring me out </p>
@@ -29652,35 +28751,16 @@ Comment: --> did kill her: and Likewise Core
 					<pb n="521"/>
 					<p> </p>
 					<p>Q. was it something in the likeness of them [torn] </p>
-<<<<<<< HEAD
-					<p>that you squesed A. yes [torn] thing that came to hand. 
-						<name type="person" key="lacmar2">Mary lacy</name>
-						being [torn] </p>
-					<p>desired Now to [torn] </p>
-					<p>she Struck her downe w'th her looks. [torn] </p>
-=======
 					<p>that you squesed A. yes [torn] </p>
 					<p>thing that came to hand. <name type="person" key="lacmar2">Mary lacy</name>
 						being [torn] </p>
 					<p>desired now to [torn] </p>
 					<p>she struck her downe w'th her looks. [torn] </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Q. <name type="person" key="warmar">Mary War</name> [torn] </p>
 					<p>but pointed at <name type="person" key="lacmar2">Mary Lacy</name> Q. <name type="person" key="lacmar2">Mary Lac</name> [torn] </p>
 					<p>A. A yeare &amp; I have ben adisobedi [torn] </p>
 					<p>good, the <orig reg="devil">divill</orig> apeared to me [torn] </p>
 					<p>&amp; mother &amp; never doe as the [torn] </p>
-<<<<<<< HEAD
-					<p>every night she then asked d[torn] </p>
-					<p>and <name type="person" key="carric2">Rich'd Carrier</name> did one time draw
-						cider ther, </p>
-					<p>Q. how many of you ware there at a time. A. <name type="person" key="carric2">Rich'd. Carrier</name> &amp; his month'r. &amp; my grandmonther
-						<!-- Comment: --> &amp; mounther, NOAT &amp; upon reading over the confession
-						so farr goody lacy the mother owned the last perticuler. </p>
-					<p>Q. how many more witches are in Andiver A. I know no more but <name type="person" key="carric2">Rich'd Carier</name>
-					</p>
-					<p>Q. w't time was it you drunk the cider A. Sometime this Spring. Q. had you
-=======
 					<p>she then asked d[torn] </p>
 					<p>every night [torn] </p>
 					<p>and <name type="person" key="carric2">Rich'd Carrier</name> did one time draw
@@ -29691,32 +28771,11 @@ Comment: --> did kill her: and Likewise Core
 					<p>Q. how many more witches are in Andiver A. I know no more but <name type="person" key="carric2">Rich'd Carier</name>
 					</p>
 					<p>Q. w't time was it you drunk the cider A. Sometime this spring. Q. had you
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						any feasting there A. we eate nothing but drunk. Q. tell all the truth. A. I
 						canot yet. Q. had you no victualls. A. no. Q. w't. other persons have you
 						hurt A. none else Q. did not you hurt the maid their <name type="person" key="warmar">Mary Warren</name> w'ch way did you doe it was it her
 						liknes. </p>
 					<p>A. the <orig reg="devil">divill</orig> doth it &amp; I know it not Q did not
-<<<<<<< HEAD
-						you Squese somthing to hurt her. </p>
-					<p>A. I lay on a forme yesterday &amp; squesed that Q. how Maney year is it
-						since you had familliarty w'th the <orig reg="devil">divel</orig>
-					</p>
-					<p>A. a year and quarter agoe Q. Were you never at Salem Village. A. No. Q. How
-						many have You afflicted A. Non but <name type="person" key="swatim">Timo.
-							Swan</name> #[and this] Ballard &amp; <name type="person" key="warmar">Mary Warren</name>. Q. did you nott afflict <name type="person" key="fryjam">Jeames frys</name> Child </p>
-					<p>A. yes and <name type="person" key="carric2">R'd. Carrier</name> was w'th. me
-						and told me that <name type="person" key="fryjam">Jeames fry</name> . had
-						beat his brother &amp; he would <orig reg="fit">fitt</orig> him for it &amp;
-						soe he afflicted s'd <name type="person" key="fryjam">fry's</name> Child
-						&amp; gott me to assist him. Q. did you use at any Time to ride upon a Stik
-						or poll. A. Yes. Q. how high. A Somtimes above the trees Q. doe not ye
-						Anoynt ye Selves before ye flye A. No but the <orig reg="devil">divell</orig> Carried us upon hand poles Q. the Mother Strick dwon
-						these afflicted &pbar;rsons sorely and she confessed soe far till at last
-						she could shake hands w'th them frely &amp; doe them noe harm Now ther <pb n="522"/> fore be you also free and tell us all the truth what kind of
-						Worship did You doe the <orig reg="Devil">Divell</orig> A he bid me pray to
-						him &amp; serve him &amp; said he was a god &amp; lord to me q. what did he
-=======
 						you squese somthing to hurt her. </p>
 					<p>A. I lay on a forme yesterday &amp; squesed that Q. how maney year is it
 						since you had familliarty w'th the <orig reg="devil">divel</orig>
@@ -29735,30 +28794,10 @@ Comment: --> did kill her: and Likewise Core
 						she could shake hands w'th them frely &amp; doe them noe harm Now ther <pb n="522"/> fore be you also free and tell us all the truth what kind of
 						Worship did you doe the <orig reg="Devil">Divell</orig> A he bid me pray to
 						him &amp; serve him &amp; said he was a god &amp; Lord to me q. what did he
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						promise to give you A he said I should want nothing in this world &amp; that
 						I should obtain glory w'th him Q. Why would they hurt the Village people A
 						the <orig reg="Devil">Divill</orig> would sett up his Kingdome their &amp;
 						we should have happy days &amp; it would then be bett'r times for me if I
-<<<<<<< HEAD
-						would obay him Q. what Mettings have you bin at, at the Village A. I was
-						once there, and </p>
-					<p>[torn] there was <name type="person" key="carric2">R'd Carrier</name> who rod
-						w'th me upon a poll </p>
-					<p>[torn] Carried us and ther was also my Grammoth'r </p>
-					<p>[torn] my moth'r &amp; goody </p>
-					<p>[torn] two poles or one A. two Q. how many were </p>
-					<p>[torn] there at that </p>
-					<p>[torn] A. I beleve there was a hundred &amp; they [torn] were in </p>
-					<p>[torn] Q were you not in two Companys A we </p>
-					<p>[torn] Came first but we were in two </p>
-					<p>[torn] divell there A. I know nott that I did </p>
-					<p>[torn] bout afflicting. &pbar;rsons. Q. w't time </p>
-					<p>Noate that <name type="person" key="warmar">Mary Warren</name> then Saw on
-						the Table a Young man &amp; was Just then herself afflicted And this <name type="person" key="lacmar2">Mary Lacy</name> said she saw Young Carrier
-						<!-- Comment: --> Sitt upon <name type="person" key="warmar">Warrens</name>
-						Stomack the s'd Lacy Said -- further there is a little Boy at <name type="person" key="fryjoh">Deacon frys</name> that is an unhappy Boy
-=======
 						would obay him Q. What Mettings have you bin at, at the Village A. I was
 						once there, and </p>
 					<p>[torn] there was <name type="person" key="carric2">R'd Carrier</name> who rod
@@ -29777,7 +28816,6 @@ Comment: --> did kill her: and Likewise Core
 						the Table a young man &amp; was Just then herself afflicted And this <name type="person" key="lacmar2">Mary Lacy</name> said she saw Young Carrier
 						<!-- Comment: --> Sitt upon <name type="person" key="warmar">Warrens</name>
 						Stomack the s'd Lacy Said -- further there is a little Boy at <name type="person" key="fryjoh">Deacon frys</name> that is an Unhappy Boy
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						&amp; I think he Joynes in this Witchcraft his name Is <name type="person" key="carand">Andrew Carrier</name> &amp; he hurts <name type="person" key="fryjam">frys</name> child because <name type="person" key="fryjam">fry</name> beat him -- </p>
 					<p>Q -- Doth the <orig reg="Devil">Divell</orig> require any thing of you
 						besides hurting persons </p>
@@ -29789,30 +28827,6 @@ Comment: --> did kill her: and Likewise Core
 						&amp; granmeths &amp; all of us Sett our Hands to the Book q'n did you see
 						this <name type="person" key="carand">Andrew Carrier</name>
 						<orig reg="afflict">afflictt</orig> frey's. Child A he went w'th us when
-<<<<<<< HEAD
-							<name type="person" key="carric2">R'd</name> and I went she s'd.
-						further that <name type="person" key="carric2">R'd Carrier</name> had athing
-						of his Mother's. w'ch She Charged him Never to Show to any person q'n. w't
-						thing is it A. a writting Q. what writting is this. A it is a writting that
-						the <orig reg="Devil">Divel</orig> gave to <name type="person" key="carmar1">goody Carrier</name> and She has bin a witch Ever Since She Lived at
-						Bilrica. A w't Murthers has she done A two Broth'r of her own and a Broth'r
-						In law <name type="person" key="alland">Andrew Allin</name>
-						<name type="person" key="alljoh">Jno Allin</name> &amp; <pb n="523"/>
-						<name type="person" key="holjam">Jeames Holt</name> -- here this <name type="person" key="lacmar2">Mary Lacey</name> Spake at Larg of a
-						difference between <name type="person" key="carmar1">Goody Carrier</name>
-						&amp; <name type="person" key="holjam">Jeams Holt</name> -- A @ [=about] days work
-						&amp; that <name type="person" key="carmar1">Goody Carrier</name> said she
-						would <orig reg="Fit">Fitt</orig> him for itt Q w't Children has she Killed
-						A <name type="person" key="fryeun">Goody Fry's</name> Child &amp; <name type="person" key="osgchr">Christoph'r osgood's</name> . Wife &amp; that
-						this osgood &amp; Carrier had a falling out before, She
-						also killed <name type="person" key="holjam">Jeames Holts</name> Child &amp;
-						a a Child of and'r Allins A. w'ch way did she kill
-						them A she Stabbed them to the hart w'th pinns Needles &amp; knitting
-						Needles </p>
-					<p>Q. was this in ther bodyes or Somthing in there liknes A it was on there
-						bodye And oth'r things also Q. did they use to doe itt By Poppetts A. Yes. Q did you Ever hear what was in that paper that. <name type="person" key="carmar1">Goody. Carrier</name>
-						Gave to <name type="person" key="carric2">Rich'd.</name> A no but <name type="person" key="carmar1">Goody Carrier</name> #[gav] told her that she had
-=======
 							<name type="person" key="carric2">R'd</name> and I went -- she s'd.
 						further that <name type="person" key="carric2">R'd Carrier</name> had athing
 						of his Mother's. w'ch she Charged him never to show to any person q'n. w't
@@ -29836,7 +28850,6 @@ Comment: --> did kill her: and Likewise Core
 						bodye And oth'r things also Q. did they use to doe itt by <orig reg="poppets">poppetts</orig> A. Yes. Q did you Ever hear what was in
 						that paper that. <name type="person" key="carmar1">Goody. Carrier</name>
 						Gave to <name type="person" key="carric2">Rich'd.</name> A no but <name type="person" key="carmar1">Goody Carrier</name> told her that she had
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						given him a paper that would make him as good as herself. Q did you Ever ask
 						him where he putt this paper A. No but I know he Is a Wicked wretch. Q. was
 						you not at Mr Ballards<!-- Comment: --> house on thanksgiving day at night A
@@ -30612,17 +29625,6 @@ Comment: --> shape told her, that <name type="person" key="fosann">Goody Foster<
 					<p>Said <name type="person" key="marabi">Abigail martin</name> being in a
 						choakeing <orig reg="fit">fitt</orig>, <name type="person" key="lacmar2">Mary Lacey</name> saw <name type="person" key="barwil1">William
 							Barker</name> and this <name type="person" key="marmar">mary
-<<<<<<< HEAD
-							marston</name> afflicting of her. s'd lacey saw them also afflict <name type="person" key="sprmar">martha Sprague</name> -- The said <name type="person" key="marmar1">mary Marston</name> being again asked how
-						long it is since she was first seduced, she said sometyme in the last
-						winter, And that being at home in her onw [= own] house, &amp; her husband absent,
-						she saw the appearance of a black man in the evening a litle after it was
-						dark. The said black man bid her serve him and beleeve in him, He also
-						offered a paper book without covers to signe, which she did with a pen dipt
-						in Ink and therewith made a stroake, He told her she should not be
-						discovered, he also told her he was the devil and that she should live
-						happily She again said it is not above a week agoe since the devil asked her
-=======
 							marston</name> afflicting of her. S'd lacey saw them also afflict <name type="person" key="sprmar">martha Sprague</name> -- The said <name type="person" key="marmar1">mary Marston</name> being again asked how
 						long it is since she was first seduced, she said sometyme in the last
 						winter, And that being at home in her onw house, &amp; her husband absent,
@@ -30632,7 +29634,6 @@ Comment: --> shape told her, that <name type="person" key="fosann">Goody Foster<
 						in Ink and therewith made a stroake, He told her she [should] not be
 						discovered, he also told her he was the devil and that she should live
 						happily she again said it is not above a week agoe since the devil asked her
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						consent to afflict and that yesterday being sabath day and the 28th of the
 						month she afflicted <name type="person" key="marabi">Abigail martin</name> ,
 						And <name type="person" key="sprmar">martha Sprague</name> on the Saturnday
@@ -30645,22 +29646,6 @@ Comment: --> shape told her, that <name type="person" key="fosann">Goody Foster<
 					<p> </p>
 					<p>She saith that <name type="person" key="barwil1">W'm Barker</name> &amp; she
 						afflicted in company together the last saturnday And it was by their spirits
-<<<<<<< HEAD
-						they conversed and agreed so to doe, And they mett at mr
-						Tylers<!-- Comment: --> house for that end, And further they began their
-						affliction first upon <name type="person" key="sprmar">martha Sprague</name>
-						; next upon <name type="person" key="fosros">Rose foster</name> and then
-						upon <name type="person" key="marabi">Abigail martin</name> </p>
-					<p>
-						<name type="person" key="sprmar">Martha Sprague</name> said that she was
-						afflicted upon Saturday at Salem by s'd <name type="person" key="marmar1">mary marston</name> &amp; others, The said <name type="person" key="marmar1">marston</name> being asked how long she was comeing from
-						Andover to Salem upon saturnday in her spirit, Ansred not long. </p> 
-					<p>Q: how
-						brought you A. the black man. and said also there came along with her <name type="person" key="barwil1">William Barker</name> &amp; <name type="person" key="barmar">mary Barker</name> And that she viz <name type="person" key="marmar1">marston</name> for. her part Squeezed <name type="person" key="sprmar">Spragues</name> neck </p>
-					<p>Being asked what moved her to afflict any persone she said the devil made her
-						doe it, And when she refused he looked angry and threatned her very much </p>
-					<p>Noate, That hitherto she still struck down the afflicted persones w'th her
-=======
 						they conversed and agreed so to doe And they mett at Mr
 						Tylers<!-- Comment: --> house for that end, And further they began their
 						affliction first upon <name type="person" key="sprmar">martha Sprague</name>
@@ -30674,7 +29659,6 @@ Comment: --> shape told her, that <name type="person" key="fosann">Goody Foster<
 					<p>Being asked what moved her to afflict any persone she said the devil made her
 						doe it And when she refused he looked angry and threatned her very much </p>
 					<p>Noate That hitherto she still struck down the afflicted persones w'th her
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						eyes and recovered them again by Layeing her hand upon their wrist or arme </p>
 					<p>Being again asked how long since the devil seduced her answered about three
 						years agoe (noate, <name type="person" key="lacmar2">Lacey</name> &amp;
@@ -30689,38 +29673,19 @@ Comment: --> shape told her, that <name type="person" key="fosann">Goody Foster<
 Comment: --> &amp; <name type="person" key="barmar">Mary
 							Barkers</name> were her companiones, She acknowledges the hurting of the
 							<orig reg="afflicted">aflicted</orig> persones, &amp; was sorry for it
-<<<<<<< HEAD
-						But yet could not Look upon them without Strykeing of them down. </p>
-					<p>A litle after she confessed she was at the witchmeetng at Salem Village
-=======
 						But yet could not Look upon them without strykeing of them down. -- </p>
 					<p>A litle after she confessed she was at the witchmeet[i]ng at Salem Village
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						and that she did ryde upon a pole and the meeting was upon a green <name type="person" key="sprmar">Martha sprague</name> said the apparitions
 						told marston she #[should not] had confessed too much already and therefore
 						would not Let her speak any more. </p>
 					<p>
 						<name type="person" key="marmar1">Mary Marston</name> signed &amp; owned the
-<<<<<<< HEAD
-						abovesaid Examination &amp; Conffession <date value="1692-09-15" certainty="unconfirmed">15 Sept. 1692: </date>
-						</dateline></p><seg>before me: <name type="person"     key="higjoh">*John Higginson</name> Just'ce peace </seg>
-=======
 						abovesaid Examination &amp; Conffession </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<closer>
 						<signed>The <seg>
 								<figure entity="BS20546a"/>
 							</seg> marke of <name type="person" key="marmar1">mary marston</name>
 						</signed>
-<<<<<<< HEAD
-						
-					</closer>
-					<closer>
-							
-						<pb n="547"/>
-						<seg> </seg>
-						<seg>(Reverse) Confession of  <name type="person" key="marmar1">Mary Marston</name> wife of
-=======
 						<seg>before me: <name type="person" key="higjoh">*John Higginson</name>
 							Just'ce peace </seg>
 					</closer>
@@ -30731,7 +29696,6 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						<pb n="547"/>
 						<seg> </seg>
 						<seg>(Reverse) <name type="person" key="marmar1">Mary Marston</name> wife of
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 								<name type="person" key="marjoh">John Marston Jun'r</name> of
 							Andover. </seg>
 						<seg>Accused <name type="person" key="barwil1">W'm Barker</name>
@@ -30753,11 +29717,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						<seg>
 							<name type="person" key="payrob">*Robert Payne</name> foreman. </seg>
 						<seg>
-<<<<<<< HEAD
-							<ref>( <hi rend="italics">Mass. Archives. Vol. 135 No. 47, Massachusetts State Archives, Boston, MA. </hi>) </ref>
-=======
 							<ref>( <hi rend="italics">Mass. Archives. Vol. 135 No. 47 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -32493,11 +31453,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<p>N. I am innocent &amp; clear &amp; have not been able to get out of doors
 						these 8. or 9. dayes. </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="putedw">Mr Putman,</name> give in what you have to
-=======
 						<name type="person" key="putedw">Mr Putman:</name> give in what you have to
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						say </p>
 					<p>Then <name type="person" key="putedw">Mr Edward Putman</name> gave in his
 						relate </p>
@@ -32511,49 +31467,29 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<p>Are you an innocent person relating to this Witchcraft. </p>
 					<p>Here <name type="person" key="puttho">Tho: Putmans</name> wife cryed out, Did
 						you not bring the Black man with you, did you not bid me tempt God &amp; dye
-<<<<<<< HEAD
-						How oft have you eat and drunk y'r own damaon <p> What do you say to them </p>
-					<p>Oh Lord help me, &amp; spread out her hands, &amp; the afflicted were
-						greivously vexed </p>
-					<p>Do you not see what a Solemn condition these are in? when your hands are
-=======
 						How oft have you eat and drunk y'r own damaon What do you say to them </p>
 					<p>Oh Lord help me, &amp; spread out her hands, &amp; the afflicted were
 						greviously vexed </p>
 					<p>Do you not see what a solemn condition these are in? when your hands are
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						loose the pesons are afflicted. </p>
 					<p>Then <name type="person" key="walmar">Mary Walcot</name> (who often
 						heretofore said she had seen her, but never could say or did say that she
 						either bit or pincht her, or hurt her) &amp; also <name type="person" key="hubeli">Eliz: Hubbard </name>under the like circumstances both
 						openly accused her of hurting them </p>
-<<<<<<< HEAD
-					<p>Here are these 2. grown persons now accuse you, w't say you? Do not you see
-						these afflicted persons, &amp; hear them accuse you. </p>
-					<p>The Lord knows I have not hurt them: I am an innocent person </p>
-					<p>It is very awfull to all to see these agonies &amp; you an old Professor thus
-						charged with contracting with the Devil by the effects of it &amp; yet
-						to see you stand with dry eyes when there are so many whet </p>
-=======
 					<p>Here are these 2 grown persons now accuse you, w't say you? Do not you see
 						these afflicted persons, &amp; hear them accuse you. </p>
 					<p>The Lord knows I have not hurt them: I am an innocent person </p>
 					<p>It is very awfull to all to see these agonies &amp; you an old Professor thus
 						charged with contracting with the Devil by the [a] effects of it &amp; yet
 						to see you stand with dry eyes when there are so many whet -- </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>You do not know my heart </p>
 					<p>You would do well if you are guilty to confess &amp; give Glory to God </p>
 					<p>I am as clear as the child unborn </p>
 					<p>What uncertainty there may be in apparitions I know not, yet this with me
 						strikes hard upon you that you are at this very present charged with
 						familiar spirits: this is your bodily person they speak to: they say now
-<<<<<<< HEAD
-						they see these familiar spirits come to your bodily person, now what do you say to that </p>
-=======
 						they see these familiar spirits com to your bodily #[spirits com to your
 						bodily] person, now what do you say to that </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>I have none Sir: </p>
 					<p>If you have confess &amp; give glory to God I pray God clear you if you be
 						innocent, &amp; if you are guilty discover you And therefore give me an
@@ -32568,21 +31504,13 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<p>I have none but old age </p>
 					<p>You do Know whither you are guilty, &amp; have familiarity with the Devil,
 						&amp; now when you are here present to see such a thing as these testify a
-<<<<<<< HEAD
-						black man Whispering in your ear, &amp; birds about you what do you say to
-=======
 						black man whispering in your ear, &amp; birds about you what do you say to
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						it </p>
 					<p>It is all false I am clear </p>
 					<p>Possibly you may apprehend you are no witch, but have you not been led aside
 						by temptations that way </p>
 					<p>I have not </p>
-<<<<<<< HEAD
-					<p>What a sad thing it is that a Church member here &amp; now an[d] others of Salem,
-=======
 					<p>What a sad thing it is that a church member here &amp; now an other of Salem,
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						should be thus accused and charged </p>
 					<p>
 						<name type="person" key="popmis">Mrs Pope</name> fell into a grevious fit,
@@ -32598,26 +31526,16 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 					<p>They accuse you of hurting them, &amp; if you think it is not unwillingly but
 						by designe, you must look upon them as murderers </p>
 					<p>I cannot tell what to think of it </p>
-<<<<<<< HEAD
-					<p>Afterwards when this was somwhat insisted on She said I do not think so: she
-=======
 					<p>Afterwards when this was som what insisted on she said I do not think so: she
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						did not understand aright what was said </p>
 					<p>Well then give an answer now, do you think these suffer against their wills
 						or not </p>
 					<p>I do not think these suffer against their wills </p>
 					<p>Why did you never visit these afflicted persons </p>
 					<p>Because I was afraid I should have fits too </p>
-<<<<<<< HEAD
-					<p>Note Upon the motion of her body #[had] <orig reg="fits">fitts</orig> followed upon
-						the complainants abundantly &amp; very frequently </p>
-					<p>Is it not an unaccountable case that when #[thes] you are examined these persons are
-=======
 					<p>Note Upon the motion of her body <orig reg="fits">fitts</orig> followed upon
 						the complainants abundantly &amp; very frequently </p>
 					<p>Is it not an unaccountable case that when you are examined these persons are
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						afflicted? </p>
 					<p>I have got no body to look to but God </p>
 					<p>Again upon stirring her hands the afflicted persons were seized with violent
@@ -32631,33 +31549,21 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						that child <name type="person" key="pareli">Betty Paris</name> , but it was
 						her apparition did the mischief, &amp; why should not you also be guilty,
 						for your apparition doth hurt also. </p>
-<<<<<<< HEAD
-					<p>Would you have me bely my #[your] self -- </p>
-=======
 					<p>Would you have me bely my self -- </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>she held her Neck on one side, &amp; accordingly so were the afflicted taken </p>
 					<p>Then Authority requiring it <name type="person" key="parsam">Sam:
 							Paris</name> read what he had in characters taken from <name type="person" key="puttho">Mr Tho: Putmans</name> wife in her <orig reg="fits">fitts</orig>
 					</p>
 					<p>What do you think of this </p>
 					<p>I cannot help it, the Devil may appear in my shape. </p>
-<<<<<<< HEAD
-					<p>(Reverse) This a true account of the sume of her Examination but by reason of geat
-=======
 					<p>This a true account of the sume of her examination but by reason of geat
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						noyses by the afflicted &amp; many speakers, many things are pretermitted </p>
 					<p>Memorandum </p>
 					<p>Nurse held her neck on one sid &amp; <name type="person" key="hubeli">Eliz:
 							Hubbard</name> (one of the sufferers) had her neck set in that posture
 						whereupon another Patient <name type="person" key="wilabi">Abigail
 							Williams</name> cryed out set up <name type="person" key="nurreb">Goody
-<<<<<<< HEAD
-							Nurses</name> head the maids neck will be broke &amp; when some set up
-=======
 							Nurses</name> head the maid's neck will be broke &amp; when some set up
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<name type="person" key="nurreb">Nurses</name> head <name type="person" key="wayaar">Aaron Wey</name> observed that<name type="person" key="hubeli"> Betty Hubbards</name> was immediately righted </p>
 					<closer>
 						<dateline>
@@ -32675,28 +31581,16 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						desired to take in wrighting the Examination of <name type="person" key="nurreb">Rebekah Nurse</name> hath Returned itt as aforesaid </p>
 					<p>Upon heareing the afores'd and seeing what wee then did see together with the
 						Charge of the persons then present -- wee Committed <name type="person" key="nurreb">Rebekah Nurse</name> the wife of <name type="person" key="nurfra">fran's Nurce</name> of Salem village unto theire Majest's
-<<<<<<< HEAD
-						Goale in Salem as per a Mittimus then given out, in order to farther
-=======
 						Goale in Salem as p a Mittimus then given out, in order to farther
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Examination </p>
 					<p>
 						<name type="person" key="hawjoh">*John Hathorne</name> &rsqb; Assis'ts </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="corjoh">*Jonathan. Corwin</name> </p>
-					<closer>
-						<dateline>
-							<name type="recipient">( <hi rend="italics">Essex County Court Archives,
-								 Witchcraft Vol. 1 no. 72 Massachusetts Supreme Judicial Court, Judicial Archives, on deposit James Duncan Phillips Library, Peabody Essex Museum, Salem, MA</hi>) </name>
-=======
 						<name type="person" key="corjoh">*Jonathan. Corwin</name> &rsqb; Assis'ts </p>
 					<closer>
 						<dateline>
 							<name type="recipient">( <hi rend="italics">Essex County Archives, Salem
 									-- Witchcraft Vol. 1 Page 20 </hi>) </name>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</dateline>
 					</closer>
 				</div2>
@@ -34489,17 +33383,10 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						<date value="1692-05-12" certainty="confirmed">12 May. 1692. </date>
 					</p>
 					<p>Q <name type="person" key="warmar">Mary Warren</name> Charges you with
-<<<<<<< HEAD
-						several acts off witchcraft; what Say you to it Guilty or not Guilty: A. I
-						am not Guilty. You told her this day you cast away <name type="person" key="westho">Thomas Westgate</name> -- A. -- I know nothing of it -- You
-						told her John Lapthorn <!-- Comment: --> was [lost] in A. I never spoke
-						a word to her in my Life. You told her also you bewitched her sister,
-=======
 						Several acts off witchcraft; what Say you to it Guilty or not Guilty: A. I
 						am not Guilty. You told her this day you cast away <name type="person" key="westho">Thomas Westgate</name> -- A. -- I know nothing of it -- You
 						told her John [Lapthons] <!-- Comment: --> was [lost] in [] A. I never spoke
 						a word to her in my Life. You told her also you bewitched her Sister,
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						because her father would not mow your grass. I never saw her -- <name type="person" key="warmar">Warren</name> desiring to go to strike her,
 						was permitted, but Could not Come near so much as to touch her, but fel
 						backward immediately into a dreadful <orig reg="fit">fitt</orig>. <name type="person" key="jacmar">Margaret Jacobs</name> Charged her also to
@@ -34508,11 +33395,7 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 						she told him this day after he had apprehended her and was bringing her to
 						Examination, that there were threscore Witches of the Company, which he
 						denyed not, But said she did not Remember, how many she said there was. But
-<<<<<<< HEAD
-							<name type="person" key="loujoh">John Loader</name> being by attested
-=======
 							<name type="person" key="loujoh">John Londer</name> being by attested
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						the same the Marshal had before. <name type="person" key="warmar">Mary
 							Warren</name> was grieviously afflicted dureing the whole time of her
 						Examination. But being asked who told her there were threescore Witches, she
@@ -34535,33 +33418,20 @@ Comment: --> &amp; <name type="person" key="barmar">Mary
 							<name type="person" key="parsam">Mr Parris's</name> Pasture, and [that]
 						they were about thirty of them. <name type="person" key="warmar">Mary
 							Warren</name> also affirms that She told her this day also that she Ran
-<<<<<<< HEAD
-						after <name type="person" key="loujoh">John Loader</name> in the Common.
-=======
 						after <name type="person" key="loujoh">John Londer</name> in the Common.
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<name type="person" key="warmar">Mary Warren</name> affirms that the
 						Spectrum came direct from her Body and afflicted her dureing the whole time
 						off her Examination. Mr Noise <!-- Comment: --> in Time of Examination
 						affirmed to her face, that he being with her in a Time of sicknes,
 						discoursing with about her witchcrafts whether she were not Guilty, she
-<<<<<<< HEAD
-						answered If she was as free from Other sins as from Witchcrafts she would
-=======
 						answered If she was as free from other sins as from Witchcrafts she would
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						not ask the Lord mercy. <name type="person" key="warmar">Mary. Warren</name>
 						being taken with a dreadful fit at the same time, w'rby her tongue hung out
 						of her mouth until it was black, <name type="person" key="parali">Parker</name> being present said warrens tongue would be blacker befor
 						she dyed. <name type="person" key="parali">Parker</name> being asked why she
 						did thus afflict and torm't her, answered If I do, the Lord forgive mee -- </p>
-<<<<<<< HEAD
-					<p>(Reverse) Alice parkers Examina[tion]</p><p>
-						<ref>( <hi rend="italics">Witchcraft Papers, no. 31. Massachusetts Historical Society, Boston, MA. </hi>) </ref>
-=======
 					<p>
 						<ref>( <hi rend="italics">Massachusetts Historical Society </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n97.2" type="indictment">
@@ -35937,14 +34807,10 @@ Comment: --> to bee my lawffull Deputy to
 					<head>(Examination of <name type="person" key="closar">Sarah Cloyse</name> and
 							<name type="person" key="proeli">Elizabeth Proctor</name> ) </head>
 					<p>At a court held at Salem <date value="1692-04-11" certainty="confirmed">11th
-<<<<<<< HEAD
-							April 1692, </date> by the honoured <name type="person" key="dantho">Thomas Danforth, </name> Deputy Governor. Q. John; who hurt you? A. <pb n="659"/>
-=======
 							April 1692, </date> by the honoured <name type="person" key="dantho">Thomas Danforth, </name> Deputy Governor. Q.
 						<!-- Comment: several places
 where a john is mentioned without firther reference in this document-->
 						John; who hurt you? A. <pb n="659"/>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						<name type="person" key="proeli">Goody Procter</name> first, and then <name type="person" key="closar">Goody Cloyse</name> . Q. What did she do to
 						you? A. she brought the book to me. Q. John! tell the truth, who hurts you?
 						have you been hurt? A. The first, was a gentlewoman I saw. Q. Who next? A.
@@ -35982,11 +34848,7 @@ where a john is mentioned without firther reference in this document-->
 						witchcraft; what say you to it? Speak the truth, and so you that are
 						afflicted, you must speak the truth, as you will answer it before God
 						another day. <name type="person" key="walmar">Mary Walcot!</name> doth this
-<<<<<<< HEAD
-						woman hurt you? A. I never saw her so as to be hurt by her. Q. <name type="person" key="lewmer">Mary[=Marcy] Lewis!</name> does she hurt you? -- Her
-=======
 						woman hurt you? A. I never saw her so as to be hurt by her. Q. <name type="person" key="lewmer">Mary Lewis!</name> does she hurt you? -- Her
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						mouth was <pb n="660"/> stopped. -- Q. <name type="person" key="putann2">Ann
 							Putman</name> , does she hurt you? -- She could not speak. -- Q. <name type="person" key="wilabi">Abigail Williams!</name> does she hurt you?
 						-- Her hand was thrust in her own mouth. -- Q. John! does she hurt you? A.
@@ -36051,17 +34913,10 @@ where a john is mentioned without firther reference in this document-->
 						<name type="person" key="hawjoh">John Hawthorne,</name>
 					</p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="corjoh">John [=Jonathan] Corwin,</name> Assistants. </p>
-					<p>
-						<ref>( <hi rend="italics">Thomas Hutchinson </hi>, The History of the Province of 
-							Massachusetts-Bay, vol. 2, ed. Lawrence Shaw Mayo (Cambridge, MA. Harvaard University Press, 1936).<hi rend="italics">pp. 21-23 </hi>.) </ref>
-=======
 						<name type="person" key="corjoh">John Corwin,</name> Assistants. </p>
 					<p>
 						<ref>( <hi rend="italics">Thomas Hutchinson </hi>, History of
 							Massachusetts-Bay, <hi rend="italics">II, 21-23 </hi>.) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n106.5" type="mittimus">
@@ -40190,13 +39045,7 @@ Comment: several occurances in this passage --> w'o called to said
 					<head>(Examination of <name type="person" key="somabi">Abigail Somes</name> ,
 							<date value="1692-05-13" certainty="confirmed">May 13, 1692</date>, at
 						Salem) </head>
-<<<<<<< HEAD
-					<p><figure n="S029r"/><figure n="S029v"/><p>Abigail Soames's Examination 13 May. 1692 att Salem</p>
-						<p>
-						Upon the glance of her Eye she struck
-=======
 					<p><figure n="S029r"/><figure n="S029v"/>Upon the glance of her Eye she struck
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<name type="person" key="warmar">Mary Warren</name> into a dreadful fit
 						att her first appearance, and s'd <name type="person" key="warmar">Warren</name> continually Crying out that it was this very Woman tho she
 						knew her not before, only affirmed that she herself in apparition had told
@@ -40270,11 +39119,7 @@ Comment: several occurances in this passage --> w'o called to said
 						being Charged with it, instead of bewailing itt, Broke forth into Laughter.
 							<name type="person" key="warmar">Warren</name> being also afflicted by
 						the wringing of her mouth after a strange, and prodigious manner, <name type="person" key="somabi">Soams </name> being Command'd to look upon
-<<<<<<< HEAD
-						her in that fit, peremptorily answered she would not, Soams being by being ordered to turn her face about
-=======
 						her in that fit, peremptorily answered she would not, same being by being ordered to turn her face about
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						to look on the afflicted, which being accordingly done, she shut her Eyes
 						Close, and would not look on her being then ordered to touch her she did and
 						immediately <name type="person" key="warmar">Warren</name> Recovered, which
@@ -40284,12 +39129,7 @@ Comment: several occurances in this passage --> w'o called to said
 						this to be the very woman that had so often afflicted her dureing the
 						Examination and Charged her with it to her face. sometimes dureing the
 						Examination <name type="person" key="somabi">Soams </name> would put her oun
-<<<<<<< HEAD
-						foot behind her Other leg, and immediately <name type="person" key="warmar">Warrens</name> Legs would be twisted </p>
-						<p>(Reverse) that it was impossible for the
-=======
 						foot behind her Other leg, and immediately <name type="person" key="warmar">Warrens</name> Legs would be twisted that it was impossible for the
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						strongest man there to Untwist them, without Breaking her Leggs, <pb n="736"/> as was seen by many present--After this Examination <name type="person" key="warmar">Warren</name> says the apparition of <name type="person" key="proeli">Proctor</name> <name type="person" key="nurreb">Nurse</name> and <name type="person" key="burgeo">Burroughs</name> that appeared before her, and <name type="person" key="burgeo">Burroughs</name> bitt her which bite was seen by many. Also
 							<name type="person" key="burgeo">Burroughs</name> att the same time
 						appeared to <name type="person" key="jacmar">Margaret Jacobs </name> who was
@@ -40302,11 +39142,7 @@ Comment: several occurances in this passage --> w'o called to said
 						</name> but struck so dreadfully on her breast, that she cryed out she was
 						almost killed. Abigail Soames Examination </p>
 					<p>
-<<<<<<< HEAD
-						<ref targOrder="U">( <hi rend="italics">Suffolk Court Records Case No. 2703 Page 26. Massachusetts Supreme Court, Judicial Archives, Massachusetts State Archives. Boston, MA. </hi>)
-=======
 						<ref targOrder="U">( <hi rend="italics">Suffolk Court Records Case No. 2703 Page 25 </hi>)
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</ref>
 					</p>
 				</div2>
@@ -40878,12 +39714,8 @@ Comment: several occurances in this passage --> w'o called to said
 				</div2>
 				<pb n="750"/>
 				<div2 id="n125.5" type="examination" org="uniform" sample="complete" part="N">
-<<<<<<< HEAD
-					<head>(Examination of <name type="person" key="tituba">Tituba</name>, As Recorded by Jonathan Corwin) </head>
-=======
 					<head>(Examination of <name type="person" key="tituba">Tituba</name> -- A Second
 						Version) </head>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<figure n="NYPL03A"/>
 					<figure n="NYPL03B"/>
 					<figure n="NYPL04A"/>
@@ -40897,22 +39729,14 @@ Comment: several occurances in this passage --> w'o called to said
 						you that he hurts them? A. noe he Tells me nothing. Q. doe you never See
 						Something appeare in Some shape? A. noe never See anything. Q. Whatt
 						familiarity have you w'th the <orig reg="devil">devill</orig>, or w't is itt
-<<<<<<< HEAD
-						if you Converse w'th all? Tell the Truth Whoe itt is that hurts them? A. the
-=======
 						if you Converse w'th all? Tell the Truth whoe itt is that hurts them? A. the
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							<orig reg="Devil">Devill</orig> for ought I know. Q. w't appearanc or
 						how doth he appeare when he hurts them, w'th w't shape or what is he like
 						that hurts them? A. like a man, I think yesterday I being in the Lentoe
 						Chamber I saw a thing like a man, that Tould me Searve him &amp; I Tould
 						him noe I would nott doe Such thing. she Charges <name type="person" key="osbsar">Goody Osburne</name> &amp; <name type="person" key="goosar">Sarah Good</name> as those that hurt the Children, and
 						would have had hir done itt, she Sayth she hath Seen foure two of w'ch she Knew
-<<<<<<< HEAD
-						nott, she Saw them last night as she was Washing the Roome, thay Tould me
-=======
 						nott, she Saw them last night as she was washing the Roome, thay Tould me
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						hurt the Children &amp; would have had me gone to Boston, ther was .5. of
 						them w'th the man, they Tould me if I would nott goe &amp; hurt them
 						they would doe Soe to mee att first I did agree w'th them butt afterward I
@@ -40922,11 +39746,7 @@ Comment: several occurances in this passage --> w'o called to said
 						before? A. why they Tell mee I had done Soe before &amp; therefore I
 						must goe on, these were the .4. Woemen &amp; the man, butt she Knew none
 						but <name type="person" key="osbsar">Osburne</name> &amp; <name type="person" key="goosar">Good </name> only, the other were of Boston.
-<<<<<<< HEAD
-						Q. att first beyning w'th them, w't then appeared to you w't was itt like
-=======
 						Q. att first being w'th them, w't then appeared to you w't was itt like
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						that Got you to doe itt A. one like a man Just as I was goeing to sleep Came
 						to me, this was when the Children was first hurt, he sayd he would kill the
 						Children &amp; she would never, be well, and he Sayd if I would nott
@@ -40936,33 +39756,14 @@ Comment: several occurances in this passage --> w'o called to said
 						like a hogge Sometimes like a great black dogge; foure Tymes. Q. but w't did
 						they Say unto you? A. they Tould me Serve him &amp; that was a good way;
 						that was the black dogge I tould him I was afrayd, he Tould me he would be
-<<<<<<< HEAD
-						worse then to me. Q. w't <pb n="751"/> did you Say to him then after that? A. I
-						answer I will Serve you noe Longer: he Tould me he would doe me hurt then. Q.
-						w't other Creatures have you seen? A. a bird. Q. w't bird? A. a little yellow
-=======
 						worse then to me. Q. w't <pb n="751"/> did you Say to him after that? A. I
 						answer I will Serve you noe Longer he Tould me he would doe me hurt then. Q.
 						w't other Creatures have you seen A. a bird. Q. w't bird? A. a little yellow
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Bird. Q. where doth itt Keep? A. w'th the man whoe hath pretty things here
 						besides. Q. what other pretty things? A. he hath nott showed them yet unto
 						me, butt he S'd he would showe them me tomorrow, and he tould me if I would
 						Serve him, I should have the Bird. Q. w't other Creatures did you See? A. I
 						saw 2 Catts, one Red, another black as bigge as a little dogge. Q. w't did
-<<<<<<< HEAD
-						these Catts doe? A. I dont Know, I have seen them Two Tymes. Q. w't did they
-						Say? A. they Say Serve them. Q. when did you See them? A. I saw them last
-						night. Q. did they doe any hurt to you or threaten you? A. they did Scratch
-						me. Q. When? A. after prayer: and scratched mee, because I would not serve
-						them and when they Went away I could nott See. but thay stood before the
-						fire. Q. what Service doe thay Expect fro you? A. they Say more hurt to the
-						Children. Q. how did you pinch them when you hurt them? A. the Other pull
-						mee &amp; hall me to the pinch the Childr'n, &amp; I am very sorry for
-						itt; whatt made you hould yo'r arme when you were Searched? W't had you
-						there? A. I had nothing Q. doe nott those Catts Suck you? A. noe never yett
-						I would nott lett them, but they had almost Thrust me into the fire. Q. how
-=======
 						these Catts doe? A. I dont know; I have seen them Two Tymes. Q. w't did they
 						Say? A. they Say Serve them. Q. when did you See them? A. I saw them last
 						night. Q. did they doe any hurt to you or threaten you? A. they did Scratch
@@ -40974,18 +39775,13 @@ Comment: several occurances in this passage --> w'o called to said
 						itt; what made you hould yo'r arme when you were Searched? W't had you
 						there? A. I had nothing Q. doe nott those Catts Suck you? A. noe never yett
 						I would nott lett them but they had almost thrust me into the fire. Q. how
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						doe you hurt those that you pinch? doe you gett those Catts? or other things
 						to doe itt for you? tell us, how is itt done? A. the man Sends the Catts to me
 						&amp; bids me pinch them, &amp; I think I went over to <name type="person" key="gritho">m'r Grigg's</name> &amp; have pinched hir
 						this day in the morneing. The man brought <name type="person" key="gritho">m'r
 							Grigg's</name> mayd to me &amp; made me pinch hir. Q. did you ever
 						goe w'th these Woemen? A. they are very strong &amp; pull me &amp;
-<<<<<<< HEAD
-						make me goe w'th them. Q. where did you goe? A. up to m'r Putnams &amp;
-=======
 						make me goe w'th them. Q. where did you goe? A. up to m'r putnams &amp;
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						make me hurt the Child. Q. whoe did make you goe? A. man that is very strong
 						&amp; these Two Woeman, <name type="person" key="goosar">Good</name>
 						&amp; <name type="person" key="osbsar">Osburne</name> but I am Sorry. Q.
@@ -40998,19 +39794,11 @@ Comment: several occurances in this passage --> w'o called to said
 							<name type="person" key="goosar">Good</name> and <name type="person" key="osbsar">Osburne</name> Ride upon a poule? A. yes &amp; have
 						held fast by mee: I was nott att <name type="person" key="gritho">m'r
 						Grigg's</name> but once, butt it may be Send Something like mee, neither
-<<<<<<< HEAD
-						 would I have gone, butt that they Tell me, they will hurt me; last night
-						they Tell me I must Kill Some body w'th the <pb n="752"/> Knife. Q. who were
-						they that Told you Soe A. <name type="person" key="goosar">Sarah Good</name>
-						&amp; <name type="person" key="osbsar">Osburne</name> &amp; they
-						would have had me Killed <name type="person" key="puttho">Thomas
-=======
 						 I have gone, butt that they Tell me, they will hurt me; last night
 						they Tell me I must kill Some body w'th the <pb n="752"/> Knife. Q. who were
 						they that Told you Soe A. <name type="person" key="goosar">Sarah Good</name>
 						&amp; <name type="person" key="osbsar">Osburne</name> &amp; they
 						would have had me kKilled <name type="person" key="puttho">Thomas
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Putnam's</name> Child last night. the Child alsoe affirmed that att the Same
 						Tyme thay would have had hir Cutt #[hir own throat] of hir own head for if
 						she would nott they Tould hir <name type="person" key="tituba">Tittubee</name> would Cutt itt off &amp; then she Complayned att the
@@ -41047,11 +39835,7 @@ Comment: several occurances in this passage --> w'o called to said
 						w'th White hayr, I think. Q. what apparrel doe the woeman ware? A. I don't
 						Know w't Couller. Q. what Kind of Cloathes hath she? A. I don't know w't
 						couller. Q. What kind of Cloathes <pb n="753"/> hath she? A. a black Silk
-<<<<<<< HEAD
-						hood w'th a White Silk hood under itt, w'th Top knotts, w'ch woeman I know
-=======
 						hood w'th a White Silk hood under itt, w'th Topknotts, w'ch woeman I know
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						not but have Seen hir in boston when I lived there. Q. what Cloathes the
 						little Woeman? A. a Searge Coat w'th a White Cap as I think. the Children
 						haveing fits att this Very time she was asked whoe hurt them, she Ans'd <name type="person" key="goosar">Goody Good</name> &amp; the Children
@@ -42310,33 +41094,21 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 				<!-- <ID>n132</ID> -->
 
 				<div2 id="n132.1" type="examination" org="uniform" sample="complete" part="N">
-<<<<<<< HEAD
-					<head>(Examination of <name type="person" key="warmer">Mercy Wardwell</name>, Copy) </head>
-=======
 					<head>(Examination of <name type="person" key="warmer">Mercy Wardwell</name> ) </head>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p><figure n="eia24-9r"/>
 						<date value="1692-09-01" certainty="confirmed">1th Sept 1692</date>. Before
 							<name type="person" key="gidbar">Maj'r Gidney</name>
 						<name type="person" key="hawjoh">Mr Hathorne</name>
 						<name type="person" key="corjoh">Mr Corwin</name> &amp; <name type="person" key="higjoh">Jno Higginson</name> Esq'r </p>
 					<p>The Examination &amp; Confession of <name type="person" key="warmer">Mercy Wardwel</name> Daughter of <name type="person" key="warsam">Sam'll Wardwell</name> of Andivor </p>
-<<<<<<< HEAD
-					<p>She Confesses she hath been in the Snare of the <orig reg="Devil">Divel</orig> @ a quartter of a Year the Cause of her being Inticed was her
-=======
 					<p>She Confesses she hath been in the Snare of the <orig reg="Devil">Divel</orig> a quartter of a Year the Cause of her being Inticed was her
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						discontent &amp; the occation of her discontent was because that people
 						told her that she should Never hath such a Young Man who Loved her &amp;
 						he finding no Encouragement threatned to drowne himself at w'ch She was much
 						troubled Somtime after to her Apprehention he that mad love to her Came
 						&amp; Intreated her to be his &amp; She did not then Consent
 						&amp; Soe dismist him w'th that Awnswer the Next time he appeared in the Shame
-<<<<<<< HEAD
-						[=shape] of a dogg &amp; told her She Must be his for he was god &amp;
-=======
 						[shape] of a dogg &amp; told her She Must be his for he was god &amp;
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Christ &amp; She Should want for no thing if She would Serve him and she did then beleve him. &amp;
 						promised to Serve him He told her She must always wish the <orig reg="Devil">Divel</orig> had this or that &amp; that She must Curse &amp;
 						lye she Confeses she Cuevenanted to Serve the <orig reg="Devil">Divel</orig>
@@ -42363,26 +41135,15 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						[ </p>
 					<p>
 						<name type="person" key="warmer">Marcy Wardwell</name> owned all the above
-<<<<<<< HEAD
-						S'd Examination &amp; Conffession (only S'd She did not know her farther
-=======
 						S'd Examination &amp; Conffession (only S'd she did not know her farther
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						&amp; Mother ware witches as witness her hand </p>
 					<closer>
 						<signed>The <seg part="N">
 								<figure entity="BS30782a"/>
-<<<<<<< HEAD
-							</seg> Mark X of <name type="person" key="warmer">Marcy Wardwell</name> X
-						</signed>
-						<seg part="N">
-							<ref targOrder="U">( <hi rend="italics">Essex Institute Collection, no. 24r. James Duncan Phillips Library, Peabody Essex Museum, Salem, MA. </hi>) </ref>
-=======
 							</seg> Mark of <name type="person" key="warmer">March Wardwell</name> X
 						</signed>
 						<seg part="N">
 							<ref targOrder="U">( <hi rend="italics">Essex Institute MSS. Collection </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -42432,13 +41193,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						sensible he was in the snare of the devil, He used to be much discontented
 						that he could get no more work done, and that he had been foolishly Led
 						along with telling of fortunes, which sometymes came to pass, He used also
-<<<<<<< HEAD
-						when any creature came into his field to bid the devil take it, And it may
-						be the devil took advantage of him by that, </p>
-=======
 						when any creature came into his field to bid the devil take it, Snd it may
 						be the devil took advantage of him by that </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>
 						<name type="person" key="foscon">Constable foster</name> of Andover said
 						that this <name type="person" key="warsam">wardwell</name> told him once in
@@ -42461,15 +41217,9 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						he was prince of the aire that then he syned his book by makeing a mark like
 						a square with a black pen and that the devil brought him the pen &amp; Ink He
 						saith further he Covenanted with the devil untill he should arryve to the
-<<<<<<< HEAD
-						age of sixty yea's and that he is now about the age of 46 yea's, And at that
-						tyme the devil promeised on his part as is above exprest, he said it was
-						about a 4't night agoe since he began to afflict, And confesses that <name type="person" key="lilmar">mary Lilly</name> and <name type="person" key="tylhan">Hannah Tayler</name> of Ridding were of his company Further
-=======
 						age of sixty yea's and that he is now about the age of 46 yea's. And at that
 						tyme the devil promeised on his part as is above exprest, he said it was
 						about a 4'tnight agoe since he began to afflict, And confesses that <name type="person" key="lilmar">mary Lilly</name> and <name type="person" key="tylhan">Hannah Tayler</name> of Ridding were of his company Further
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						he saith that <name type="person" key="sprmar">martha Sprague</name> was the
 						first he afflicted, that the devil put him upon it and threatned him thereunto
 						</p>
@@ -42482,11 +41232,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					</p>
 					<p>
 						<name type="person" key="warsam">Sam'll Wardwell.</name> owned: to the grand
-<<<<<<< HEAD
-						Inquest: that: the above written: confession: was: taken: from: his mouth
-=======
 						Inquest: that: the above written: Confession: was: taken: from: his mouth
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						and that he had s'd it: but: he s'd he belyed: himselfe:: he also s'd it was
 						alone one: he: knew he should dye for it: whether: he ownd it or no </p>
 					<closer>
@@ -42495,18 +41241,10 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 							</date>
 						</dateline>
 						<seg part="N">(Reverse) <name type="person" key="warsam">Samuel Wardell</name> his
-<<<<<<< HEAD
-							Examination &amp; Confesion </seg>
-						<seg part="N">
-							<ref targOrder="U">( <hi rend="italics">Essex County Court Archives, Witchcraft
-									Vol. 1, no. 59, Massachusetts Supreme Judicial Court,  Judicial Archives,
-							on deposit, James Duncan Phillips Library, Peabody Essex Museum,, Salem, MA.</hi>) </ref>
-=======
 							Exa<hi rend="underline">minat</hi>ion &amp; Confesion </seg>
 						<seg part="N">
 							<ref targOrder="U">( <hi rend="italics">Essex County Archives, Salem -- Witchcraft
 									Vol. 2 Page 28 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</seg>
 					</closer>
 				</div2>
@@ -42879,15 +41617,9 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					<p>The Examination of <name type="person" key="warmar">Mary Warren </name> At a
 						Court held at Salem Village by </p>
 					<p>
-<<<<<<< HEAD
-						<name type="person" key="hawjoh">John Hauthorne</name> } Esq'rs </p>
-					<p>
-						<name type="person" key="corjoh">Jonath: Corwin</name>  </p>
-=======
 						<name type="person" key="hawjoh">John Hauthorne</name> ] Esq'rs </p>
 					<p>
 						<name type="person" key="corjoh">Jonath: Corwin</name> ] Esq'rs</p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>As soon as she was coming towards the Bar the afflicted fell into fits. </p>
 					<p><name type="person" key="warmar">Mary Warren</name>, You stand here charged
 						with sundry acts of Witchcraft, what do you say for your self, are you
@@ -42945,11 +41677,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						give account of things, by reason of fits, &amp; so sent forth. </p>
 					<p><name type="person" key="warmar">Mary Warren</name> called in, afterwards in
 						private, before Magistrates &amp; Ministers. </p>
-<<<<<<< HEAD
-					<p>She said, I shall not speak a word: but I will, #[speak] I will speak satan -- she saith she
-=======
 					<p>She said, I shall not speak a word: but I will, #(speak) I will speak satan -- she saith she
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						will kill me. Oh! `she saith, she owes me a spite, &amp; will claw me
 						off -- </p>
 					<p>Avoid Satan, for the name of God avoid. And then fell into fits again:
@@ -42983,14 +41711,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						<date value="1692-04-19" certainty="confirmed">19. Apr. <hi rend="underline">1692 </hi></date>
 					</p>
 					<p>
-<<<<<<< HEAD
-						<ref targOrder="U">( <hi rend="italics">Essex County Court Archives -- Witchcraft Vol. 1
-								no. 111 </hi>) Massachsetts Supreme Juducual Court, Judicial Archives, on deposit 
-							James Duncan Phillips Library, Peabody Essex Museum, Salem, MA.</ref>
-=======
 						<ref targOrder="U">( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 29 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n135.2" type="examination" org="uniform" sample="complete" part="N">
@@ -43012,11 +41734,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						Bodily person, and that This Examinant might have known she was a Witch,
 						if she had but minded what Books she read in. </p>
 					<p>Q. what did she say to you before you tormented the Children? </p>
-<<<<<<< HEAD
-					<p>A. The night after she told mee she was a Witch, she in [per]son told mee
-=======
 					<p>A. The night after she told mee she was a Witch, she in [pbar ]son told mee
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						this Examinant, that my self and her son John <!-- Comment: --> would
 						quickly be brought out for witches. </p>
 					<p>This Examinant saith that <name type="person" key="corgil">Giles Cory</name>
@@ -43025,35 +41743,19 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						dreadful fit <pb n="796"/> in the prison she Charged it on Giles Cory, who
 						was then in Close prison, affirming that he came into the Room where she
 						was, and afflicting her, Charged her not to Come into the Other Room while
-<<<<<<< HEAD
-						he was Examining. But being sent for and he Commanded to Look upon her, He
-=======
 						he was Examining. But being sent for and he Commanded to look upon her, He
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						no sooner turned his face to her but shee fel into a dreadful fit again. and
 						upon her Recovery Charged him to his face with being the procurer of it.
 						Moreover the said <name type="person" key="corgil">Cory</name> in prison
 						formerly threatned her that he would <orig reg="fit">fitt</orig> her for
 						itt, because he told her she had Caused her Master to ask more for a peice
 						of Meadow than he was willing to give she Likewise in her <orig reg="fit">fitt</orig> in the Other Room before she had seen <name type="person" key="corgil">Giles Cory</name> in person, Charging him with afflicting
-<<<<<<< HEAD
-						off her, described him in all his garments, both of hat, Coat and Colour of
-						them with a Cord about his wast, and a white Cap on his head, and in Chains,
-						as several then in Company Can affirm. </p>
-					<p></p>
-					<p>(Reverse) [lost]bs and Examination</p>
-					<p>
-						<ref targOrder="U">( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 1
-							no. 115,pea </hi>) Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA.</ref>
-=======
 						off her, described him in all his garments, both of hat Coat and Colour of
 						them with a Cord about his wast, and a white Cap on his head, and in Chains,
 						as several then in Company Can affirm. </p>
 					<p>
 						<ref targOrder="U">( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 30 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n135.3" type="examination" org="uniform" sample="complete" part="N">
@@ -43065,11 +41767,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					<p>Being Asked by the Hon'd Majestrates: whether the bible that then was showed
 						her: was the book: that was brought: to her to touch: &amp; that she saw
 						the flurrish in answered no: she see she was decieved </p>
-<<<<<<< HEAD
-					<p>being asked whether <name type="person" key="lewmer"> #[Mercy] Lewis </name> that she had signed to a book: told Mercy
-=======
 					<p>being asked whether <name type="person" key="lewmer"> #(Mercy) Lewis </name> that she had signed to a book: told Mercy
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 							Lewis that she had signed to a book: answerd no </p>
 					<p>She was Asked: whether her: Mistris had brought a book to her to sign Answerd.
 						heir Mistris brought none. but her Master brought one being Asked whether she
@@ -43077,11 +41775,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					<p>being Asked whether she did not se a spot where she had put her finger
 						Answerd there was a spot: </p>
 					<p>she was Asked what couller: the spot was: Answered: black </p>
-<<<<<<< HEAD
-					<p>she was Asked whether. her Mr did not thretten her to run the hot tongs
-=======
 					<p>she was Asked whether. her Mast'r did not thretten her to run the hot tongs
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						downe her throat if she did not sign Answered that her M'r threttned her to
 						burn her out of her <orig reg="fit">fitt</orig>
 					</p>
@@ -43097,11 +41791,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						make a mark and the mark was black </p>
 					<p>she was asked whether any but her M'r and Mr's was with her: when she was
 						threttoned with the hott tongss: answerd none but them </p>
-<<<<<<< HEAD
-					<p>she s'd her Mast'r put her hand to the book: and her finger made a black spott
-=======
 					<p>she s'd her Mast'r put her hand to the book and her finger made a black spott
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						which made her tremble: then she #(she s'd was undone) s'd she was undon body and soul and cryed
 						out greivously. she was told #(he was) that it was he[r] own Vollantary act: she would
 						have denyed it: but she was told the devil could have done nothing: if she
@@ -43115,17 +41805,10 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					<p>after a <orig reg="fit">fitt</orig> she cryed out I will tell: I will tell:
 						thou wicked creature it is you stopt my mouth: but I will confess the little
 						that I have to confess being asked: who she would: tell off whether <name type="person" key="proeli">goodwife Procter</name> or no: answered o
-<<<<<<< HEAD
-							<name type="person" key="proeli">Betty Procter</name> it is she: it is
-						she I lived with last </p>
-					<p>she then cryed out it shall be known: thou wrech: hast thou undone me body
-						and soul. she s'd she also wishes she had made me mak: a through league </p>
-=======
 							<name type="person" key="proeli">Betty procter</name> it is she: it is
 						she I lived with last </p>
 					<p>she then cryed out it shall be known: thou wrech: hast thou undone me body
 						and soul. she s'd also she wishes she had made me mak: a through league </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>she was again Asked what her finger was blacked with when she toucht the book. </p>
 					<p>Answered she knew not that her finger was black: till she se it black: the
 						book and after she had put her finger to the book: she eat: bread and butter
@@ -43137,11 +41820,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						himselfe for her Master had told her that he had bin <pb n="798"/> about
 						some times to make away with him self becaus of his wives quarrilling with
 						him </p>
-<<<<<<< HEAD
-					<p>being Asked how she knew: goodwife Procter was a wich she coming out of a fit
-=======
 					<p>being Asked how she knew: goodwife procter was a wich she coming out of a fit
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						s'd she would: tell she would tell: and she s'd her mistris Procter s'd she
 						might know she was a wich if she herkend to what she used to read she sayd
 						her Mistris had many books, and her Mistris carried one book with her to
@@ -43179,11 +41858,7 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 					<p>she was asked whether the devil never asked her consent: to: hurt in her
 						shape answerd no: she had heard her master and mistris tell of immages and of
 						sticking of thorns in them: to hurt people with </p>
-<<<<<<< HEAD
-					<p>she was asked: whether she knew of any Images in the hous: sayd no </p>
-=======
 					<p>she was asked: whether she knew of any Immages in the hous: sayd no </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>being asked if she knew of any oyntment they had in the hous: she s'd her M'rs
 						oynted her once:for some ayll she had: but it was with oyntment that came
 						from <name type="person" key="bassar">Mrs Bassits</name> of Linn the
@@ -43199,14 +41874,8 @@ Comment: --> Where <name type="person" key="wilsar">Sarah Wilson</name>
 						to deceiv </p>
 					<p>(On Reverse) <name type="person" key="warmar">Mary Warens</name> Examination Ve. Procter </p>
 					<p>
-<<<<<<< HEAD
-						<ref targOrder="U">( <hi rend="italics">Essex County Court Archives, Witchcraft Vol. 1
-							nos. 113 + 114. Supreme Juducial Court Archives, on deposit James Duncan Phillips Library,
-							Peabody Essex Museum, Salem, MA.</hi>) </ref>
-=======
 						<ref targOrder="U">( <hi rend="italics">Essex County Archives, Salem -- Witchcraft Vol. 1
 								Page 30 </hi>) </ref>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					</p>
 				</div2>
 				<div2 id="n135.4" type="examination" org="uniform" sample="complete" part="N">
@@ -44397,15 +43066,9 @@ who this is?-->
 						appearance comes from his body &amp; afflicts them. </p>
 					<p>How do you think of this, how comes it to pass? </p>
 					<p>It is not from me, I know nothing of it. </p>
-<<<<<<< HEAD
-					<p>If you can find in your heart to confess it is poss[ible you may obtain] mercy
-						&amp; therefore bethink your[self] </p>
-					<p>Sr I cannot confess that which I do not know </p>
-=======
 					<p>If you can find in your heart to confess it is possible you may obtain mercy
 						&amp; therefore bethink your [torn] </p>
 					<p>S'r I cannot confess that which I do not know </p>
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 					<p>Well but if these things are true Heaven and Earth will rise up against you. </p>
 					<p>I am as innocent as the child that is now to be borne. </p>
 					<p>Can you pray the Lords prayer? </p>
@@ -44441,22 +43104,13 @@ who this is?-->
 					<p>Exam[ination] ag't <name type="person" key="wiljoh4">Willard</name>
 					</p>
 					<p>
-<<<<<<< HEAD
-						<ref targOrder="U">( <hi rend="italics"> MS Am 46.2, Rare Books and
-								Manuscripts, Boston Public Library. Boston. MA.</hi> [ <hi rend="italics"></hi>)
-=======
 						<ref targOrder="U">( <hi rend="italics">Boston Public Library -- Dept. of Rare Books and
 								Manuscripts </hi> [ <hi rend="italics">1939 acquisition </hi>])
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</ref>
 					</p>
 				</div2>
 				<div2 id="n137.6" type="examination" org="uniform" sample="complete" part="N">
-<<<<<<< HEAD
-					<head>(Examination of <name type="person" key="wiljoh4">John Willard</name>,
-=======
 					<head>(Examination of <name type="person" key="wiljoh4">John Willard</name> --
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						Second Version) </head>
 					<p><figure n="B02A"/><figure n="B02D"/>The Examination of <name type="person" key="wiljoh4">John Willard </name>
 						<date value="1692-05-18" certainty="confirmed">.18. May <hi rend="underline">1692 </hi>
@@ -44634,24 +43288,15 @@ who this is?-->
 					<p>Well confess &amp; give glory to God. Take counsell. </p>
 					<p>I desire to hearken to all good counsell. If it was the last time I was to
 						speak I am innocent. </p>
-<<<<<<< HEAD
-					<p>This is a true account of the #[abovesaid] Examination of <name type="person" key="wiljoh4">John Willard</name> without wrong to any party according
-=======
 					<p>This is a true account of the #(abovesaid) Examination of <name type="person" key="wiljoh4">John Willard</name> without wrong to any party according
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						to my original from Characters at the moments thereof </p>
 					<p>Witness my hand <name type="person" key="parsam">*Sam: Parris </name>
 					</p>
 					<p>On Reverse: <name type="person" key="wiljoh4">John Willard's</name>
 						Examination </p>
 					<p>
-<<<<<<< HEAD
-						<ref targOrder="U">( <hi rend="italics">MS Am 46.1 Rare Books &amp; Manuscripts, Boston Public Library.
-						Boston, MA. </hi> [ <hi rend="italics">1939 acquisition </hi>])
-=======
 						<ref targOrder="U">( <hi rend="italics">Boston Public Library -- Dept. of Rare Books and
 								Manuscripts </hi> [ <hi rend="italics">1939 acquisition </hi>])
->>>>>>> b0ef3288e2cb5c20939ede05ccb6b0ea6a6c72eb
 						</ref>
 					</p>
 				</div2>
