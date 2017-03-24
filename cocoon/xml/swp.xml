@@ -8543,7 +8543,7 @@
 					</closer> 
 				</div2>
 				<div2 id="n16.6" type="summons">
-					<head>(Summons for Witnesses v. <name type="person" key="bramar"> Mary Bradbury) </head>
+					<head>(Summons for Witnesses v. <name type="person" key="bramar"> Mary Bradbury)</name> </head>
 					<p rend="center">Wm &amp; Mary by the Grace of God of England Scotland France
 						<lb/> &amp; Ireland King &amp; Queen defend'rs of the faith &amp;c. a </p>
 					<figure n="ecca2074r"/>
@@ -9056,7 +9056,7 @@
 						<name type="person" key="swatim">Timothy Swan</name> and I beleve that <name type="person" key="bramar">Mis Bradbery
 							</name> is a most dreadfull <orig reg="witch">wicth</orig> for
 						sence she has been in prison she <lb/>
-						<pb n="122"/> or hir Apperance has com to me and most greviously #[affafflected</orig> me <lb/> ann putnam ownid before the
+						<pb n="122"/> or hir Apperance has com to me and most greviously <orig reg="affected"> afflected</orig> me <lb/> ann putnam ownid before the
 						grand Inquest this har evidens to be <lb/> the truth one the oath that she
 						hath taken: this: <date value="1692-09-08" certainty="confirmed">8 day of
 							September <lb/> 1692</date>
@@ -9100,7 +9100,7 @@
 						foot of <lb/> water in the hold after we had taken in our lading again we
 						had a <lb/> good passage home butt when we came near the Land the Capt <lb/>
 						sent this deponent forward to looke out for land in a bright moone <lb/>
-						shining night and as he was 
+						shining night and as he was </p>
 						<p> [Reverse] sitting upon the windless he heard a <lb/>
 						Rumbling noise under him w'th thatt he the s'd deponent <orig reg="Testifieth">Testi- <lb/> fieth </orig> Thatt he looked one the side
 						of the windless and saw the leggs <lb/> of some &pbar;son being no wayes
@@ -9141,7 +9141,7 @@
 						<name type="person" key="bramar">mis Bradbery</name> or hir Apperance mo[st
 						greviously] afflect and <orig reg="torment">tor- <lb/> ment </orig>
 						<name type="person" key="walmar">mary wallcott</name>
-						<name type="person" key="bibsar">Sarah vibber</name><name type="person" key="hubeli"> E[liz Hubbard]</name> and <name typEssex County Court Archives, vol. 2, no. 78, Massachusetts Supreme Judicial Court, Judicial Archives, on deposit James Duncan
+						<name type="person" key="bibsar">Sarah vibber</name><name type="person" key="hubeli"> E[liz Hubbard]</name> and <name type="place">Essex County Court Archives, vol. 2, no. 78, Massachusetts Supreme Judicial Court, Judicial Archives, on deposit James Duncan
 							Phillips Library, Peabody Essex Museum, Salem, MA.e="person" key="putann2">Ann putnam</name>
 						<lb/> and I beleve in my heart that <name type="person" key="bramar">mi[s]
 							Bradbery</name> is [a witch] &amp; that she <lb/> has very often <orig reg="afflicted">afflected</orig> an[d tormented me] and several others
@@ -9277,7 +9277,7 @@
 				<pb n="126"/>
 
 				<div2 id="n16.15" type="section">
-					<head>( Testimony of <name type="person" key="carwil"> William Carr for <name type="person" key="bramar">Mary Bradbury</name> ) </head>
+					<head>( Testimony of <name type="person" key="carwil"> William Carr</name> for <name type="person" key="bramar">Mary Bradbury</name> ) </head>
 					<figure n="ecca2082r"/>
 					<figure n="ecca2082v"/>
 					<p>The testamony of <name type="person" key="carwil">william Carr</name> Aged 41
@@ -9396,7 +9396,7 @@
 					<p>[Torn] bber ownd to Jury of Inquest that the above written evidence <lb/> is
 						the truth upon her oath </p>
 					<p>[Torn] 1692 </p>
-					<p>(Reverse) Sarry wibber</p>lb> Deposition</p>
+					<p>(Reverse) Sarry wibber</p><p> Deposition</p>
 					<p>Sarah [Lost] </p>
 					<p>
 						<ref>( <hi rend="italics">Witchcraft Papers, no. 13, Massachusetts Historical Society, Boston, MA. </hi>) </ref>
@@ -9487,7 +9487,7 @@
 						<seg>By mee <name type="person" key="baljoh">*John Ballard</name>
 							<lb/> constable of andover </seg>
 						<seg>
-							<ref>( <hi rend="italics">MS Ch K 1.40, vol. 2, p. 349, Rare Books & Manuscripts, Boston Public Library. Boston, MA.</ref>
+							<ref>( <hi rend="italics">MS Ch K 1.40, vol. 2, p. 349, Rare Books &amp; Manuscripts, Boston Public Library. Boston, MA.</hi></ref>
 						</seg>
 					</closer>
 				</div2>
@@ -9539,8 +9539,9 @@
 						<seg>(Reverse) Recognizance of <name type="person" key="brijoh">John
 								Bridges</name> &amp; <name type="person" key="osgjoh">John
 								Osgood</name> for <name type="person" key="brimar1">Mary <lb/>
-								Bridges</name><lb>
+								Bridges</name><lb/>
 							may: 10d Apears <lb/>
+						</seg>
 						<seg>
 							<ref>( <hi rend="italics">Massachusetts Archives Collection, vol. 135, no. 103. Massachusetts State Archives. Boston, MA.</hi>) </ref>
 						</seg>
@@ -9971,8 +9972,8 @@
 						receiving any harm. But <name type="person" key="walmar">Mary Walcot</name>
 						&amp; <name type="person" key="putann2">ann Putnam</name> who had <lb/>
 						acused her being called, and s'd <name type="person" key="brohan1">Broomage</name> being required to look on <lb/> them, She Essayeing so
-						to Doe they wer Struck into <orig reg="fits">fitts</orig>. &amp; she <orig reg="recovered">re- <lb/> covered </orig> them again by her touch. 
-						<p>s'd <name type="person" key="walmar">Mary Walcot</name> &amp; <name type="person" key="putann2">ann Putnams</name>
+						to Doe they wer Struck into <orig reg="fits">fitts</orig>. &amp; she <orig reg="recovered">re- <lb/> covered </orig> them again by her touch.</p> 
+					<p>s'd <name type="person" key="walmar">Mary Walcot</name> &amp; <name type="person" key="putann2">ann Putnams</name>
 						<lb/> testimonys wer read. <name type="person" key="putann2">Ann
 							Putnam</name> being #[afected], in a fit. the rest
 						<lb/> of the afflicted s'd they saw <name type="person" key="brohan1">Broomage</name> upon her. </p>
@@ -10216,7 +10217,7 @@
 							<ref>( <hi rend="italics">Massachusetts Archives Vol. 135 No. 99, Massachusetts State Archive, Boston, MA. </hi>)
 							</ref>
 						</seg>
-						(Reverse) Mr Higgison &amp; their Certiffi[Lost]
+						(Reverse) Mr Higgison &amp; their Certiffi[Lost]
 					</closer>
 				</div2>
 				<pb n="148"/>
@@ -10244,9 +10245,10 @@
 						Upon her Oath this <lb/>
 						<date value="1692-09-15" certainty="confirmed">15 of septe&mbar; .
 							1692</date>
-					</p>(Reverse) Ann Putnam against Sarah Buckly<lb/>
-					Ann Putnam<lb/>
-					[Lost]ry King & Quen
+					</p>
+					<p>(Reverse) Ann Putnam against Sarah Buckly<lb/>
+					Ann Putn am<lb/>
+						[Lost]ry King &amp; Quen </p>
 					<p>
 						<ref>( <hi rend="italics">Massachusetts Archives Collection, vol. 135, no. 44. Massachusetts State Archives. Boston, MA. </hi>)
 						</ref>
@@ -10316,12 +10318,11 @@
 						<dateline>
 							<date value="1692-09-14" certainty="confirmed">Sept'r 14. 1692 </date>
 							upon oath </dateline>
-						<p>[Reverse] [Hand 4] Mary Walcot agt G. Buckley
-						[Hand 5] Jur in Cur.</closer>p>
-						<seg>
+						<lb/>[Reverse] [Hand 4] Mary Walcot agt G. Buckley
+							[Hand 5] Jur in Cur.
 							<ref>( <hi rend="italics">Massachusetts Archives Collection, vol. 135, no. 43. Massachusetts State Archives. Boston, MA. </hi>)
 							</ref>
-						</seg>
+						
 					</closer>
 				</div2>
 				<div2 id="n21.8" type="deposition">
@@ -10447,14 +10448,14 @@
 						<signed>
 							<name type="person" key="huteli">*Elisha Hutchinson</name>
 						</signed>
-						<seg>
-							<p>[Reverse] To Jno Hauthorn
+					<seg>
+							[Reverse] To Jno Hauthorn
 								or Jona Curwin Esq s<lb/>
 								In Salem<lb/>
-							Majo Hutchesons Letter Concern Burrough</p>
+							Majo Hutchesons Letter Concern Burrough
 							<ref>( <hi rend="italics">Witchcraft Papers, no. 2, Massachusetts Historical Society. Boston, MA.</hi>)
 							</ref>
-						</seg>
+					  </seg>
 					</closer>
 				</div2>
 				<div2 id="n22.3" type="warrant">
@@ -10491,9 +10492,9 @@
 						<seg>
 							<ref>( <hi rend="italics">Witchcraft Papers, no. 1, Massachusetts Historical Society. Boston, MA. </hi>) </ref>
 						</seg>
-						<p>(Reverse) Warrant agt Burroughs<lb/>
-						[Hand 5] ye Marchalls Returne</p>
-					</closer></div2></p>
+						<seg>(Reverse) Warrant agt Burroughs<lb/>
+						[Hand 5] ye Marchalls Returne</seg>
+					</closer>
 					
 				</div2>
 				<pb n="153"/>
@@ -10565,12 +10566,13 @@
 						he acknowledged to<lb/> her, that he had made her set her hand to<lb/> the
 						Book.</p>
 					
-					<p>(Reverse)<lb/> The [Lost]  of <name type="person" key="burgeo">Geo: Burroughs</name></p>
+					<closer>
+						<seg>(Reverse)<lb/> The [Lost]  of <name type="person" key="burgeo">Geo: Burroughs</name></seg>
 					
 					<seg>
 						<ref>( <hi rend="italics"> Uncatalogued ms, Miscellaneous Manuscripts (1692), Massachusetts Historical Society. Boston, MA.</hi>) </ref>
 					</seg> 
-					
+					</closer>
 				</div2>
 
 				<div2 id="n22.5" type="indictment">
@@ -10752,7 +10754,7 @@
 					</closer>
 				</div2>
 				<div2 id="n22.9" type="summons">
-					<head>(Summons for Witnesses v. <name type="person" key="burgeo"> George Burroughs, and Officer’s Return) </head>
+					<head>(Summons for Witnesses v. <name type="person" key="burgeo"> George Burroughs</name>, and Officer’s Return) </head>
 					<figure n="ecca2029r"/>
 					<figure n="ecca2029v"/>
 					<p>William &amp; Mary by the Grace of God of England Scotland France <lb/> &amp;
@@ -57598,3 +57600,4 @@ Comment: -->
     
     
 </TEI.2>
+
