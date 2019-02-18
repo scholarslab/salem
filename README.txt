@@ -1,3 +1,5 @@
+# This version of Salem is deprecated. The project has been converted into a Pelican static site: <https://github.com/scholarslab/new-salem-pelican>
+
 tomcat-solr.xml
 Linked to /usr/local/tomcat/conf/Catalina/localhost/{app-name}.xml
 This file tells Tomcat where the solr/home is.
